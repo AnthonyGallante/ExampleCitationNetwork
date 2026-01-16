@@ -4,3 +4,7 @@ ipython
 python-dateutil
 requests
 shortuuid
+networkx
+pyvis
+matplotlib
+openai
