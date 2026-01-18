@@ -7,7 +7,9 @@ https://anthonygallante.github.io/ExampleCitationNetwork/
 https://github.com/user-attachments/assets/0ff40e72-00e2-4931-914d-b465a0a75bd0
 
 # Bibliography
-Full bibliography is available in bibliography.txt
+Full bibliography is available in [bibliography.txt](https://github.com/AnthonyGallante/ExampleCitationNetwork/blob/main/bibliography.txt)
+1265 papers will be found there.
+
 It looks like this:
 
 Source: 1
