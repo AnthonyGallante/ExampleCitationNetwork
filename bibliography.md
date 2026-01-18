@@ -1,7618 +1,7617 @@
 
-            <h1> Source: 1 </h1>
-            30. Koopmans , T.C. Identification problems in economic model construction . Econometrica 17 ( 1949 ...    
-            1949-01-01
-            https://dx.doi.org/10.2307/1905689
-            ======================================================================================================================================================
-            
-            <h1> Source: 2 </h1>
-            Lindquist, M.A. & Sobel, M.E. (2011). Graphical models, potential outcomes and causal inference: Com...    
-            2011-01-01
-            http://dx.doi.org/10.1002/j.2050-0416.1922.tb02513.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 3 </h1>
-            Nonpharmaceutical Interventions for Pandemic Influenza, National and Community Measures - Volume 12, Number 1—January 2006 - Emerging Infectious Diseases journal - CDC    
-            2006-01-17
-            https://doi.org/10.3201%2Feid1201.051371
-            ======================================================================================================================================================
-            
-            <h1> Source: 4 </h1>
-            Lauritzen, S.L. (1996). Graphical Models. Clarendon Press: Oxford. 10.1002/per.1863 :    
-            1996-01-01
-            http://dx.doi.org/10.1002/per.1863
-            ======================================================================================================================================================
-            
-            <h1> Source: 5 </h1>
-            Ling, R.F. (1982). Review of 'Correlation and Causation [ sic ] . ' Journal of the American Statisti...    
-            1982-01-01
-            http://dx.doi.org/10.1093/acprof:oso/9780199574131.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 6 </h1>
-            Pharma industry performance metrics: 2007–2012E - Nature Reviews Drug Discovery    
-            2008-10-17
-            https://doi.org/10.1038%2Fnrd2730
-            ======================================================================================================================================================
-            
-            <h1> Source: 7 </h1>
-            25. Hendry , D.F. & Morgan , M.S. . A re-analysis of confluence analysis . Oxford Economic Papers 41...    
-            1989-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.oep.a041900
-            ======================================================================================================================================================
-            
-            <h1> Source: 8 </h1>
-            Lee, J.L. (2012). Correlation and causation in the study of personality. European Journal of Persona...    
-            2012-01-01
-            http://dx.doi.org/10.1002/9780470024737
-            ======================================================================================================================================================
-            
-            <h1> Source: 9 </h1>
-            46. Tintner , G. Multiple regression for systems of equations . Econometrica 14 ( 1946 ): 5 – 36 . C...    
-            1946-01-01
-            https://dx.doi.org/10.2307/1905702
-            ======================================================================================================================================================
-            
-            <h1> Source: 10 </h1>
-            Lee, S.-Y. (2007). Structural equation modeling: A Bayesian approach. New York: Wiley. 10.15446/idea...    
-            2016-09-01
-            http://dx.doi.org/10.15446/ideasyvalores.v65n162.59684
-            ======================================================================================================================================================
-            
-            <h1> Source: 11 </h1>
-            Little, D. (2011). Causal mechanisms in the social realm. In P. Mckay Illari, F. Russo, & J. William...    
-            2011-01-01
-            http://dx.doi.org/10.1146/annurev.psych.51.1.201
-            ======================================================================================================================================================
-            
-            <h1> Source: 12 </h1>
-            MacCallum, R.C., & Austin, J.T. (2000). Applications of structural equation modeling in psychologica...    
-            2000-01-01
-            http://dx.doi.org/10.1093/0198246420.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 13 </h1>
-            Matsueda, R.L. (2012). Key advances in the history of structural equation modeling. In R. H. Hoyle (...    
-            2024-08-23
-            http://dx.doi.org/10.1007/978-94-007-6094-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 14 </h1>
-            The endoplasmic reticulum stress response in immunity and autoimmunity    
-            2008-09-17
-            https://doi.org/10.1038%2Fnri2359
-            ======================================================================================================================================================
-            
-            <h1> Source: 15 </h1>
-            Morgan, S.L. (Ed.) (2013). Handbook of causal analysis for social research. New York: Springer. 10.1...    
-            2014-11-17
-            http://dx.doi.org/10.1017/CBO9781107587991
-            ======================================================================================================================================================
-            
-            <h1> Source: 16 </h1>
-            Mouchart, M., Russo, F., & Wunsch, G. (2010). Inferring causal relations by modeling structures. Sta...    
-            1986-09-17
-            http://dx.doi.org/10.1086/289320
-            ======================================================================================================================================================
-            
-            <h1> Source: 17 </h1>
-            Mulaik, S.A. (1986). Toward a synthesis of deterministic and probabilistic formulations of causal re...    
-            1986-01-01
-            http://dx.doi.org/10.1207/s15327906mbr2802_2
-            ======================================================================================================================================================
-            
-            <h1> Source: 18 </h1>
-            39. Qin , D. Formalisation of identification theory . Oxford Economic Papers 41 ( 1989 ): 73 – 93 . ...    
-            1989-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.oep.a041923
-            ======================================================================================================================================================
-            
-            <h1> Source: 19 </h1>
-            Mulaik, S.A. (1993). Objectivity and multivariate statistics. Multivariate Behavioral Research, 28, ...    
-            2009-06-16
-            http://dx.doi.org/10.1201/9781439800393
-            ======================================================================================================================================================
-            
-            <h1> Source: 20 </h1>
-            From Molds and Macrophages to Mevalonate: A Decade of Progress in Understanding the Molecular Mode of Action of Bisphosphonates    
-            2004-12-17
-            https://doi.org/10.1007/s00223-004-0024-1
-            ======================================================================================================================================================
-            
-            <h1> Source: 21 </h1>
-            Planning for smallpox outbreaks    
-            2003-10-17
-            https://doi.org/10.1038%2Fnature02007
-            ======================================================================================================================================================
-            
-            <h1> Source: 22 </h1>
-            Mulaik, S.A. (2009). Linear causal modeling with structural equations . Chapman & Hall/CRC. 10.2307/...    
-            2009-01-01
-            http://dx.doi.org/10.2307/1164895
-            ======================================================================================================================================================
-            
-            <h1> Source: 23 </h1>
-            Muthén, B.O. (2011). Applications of causally defined direct and indirect effects in mediation analy...    
-            2011-01-01
-            http://dx.doi.org/10.1093/genetics/7.3.258
-            ======================================================================================================================================================
-            
-            <h1> Source: 24 </h1>
-            Pearl, J. (1988). Probabilistic reasoning in intelligent systems. San Mateo, CA: Morgan Kaufmann. 10...    
-            1988-01-01
-            http://dx.doi.org/10.1080/01621459.2000.10474213
-            ======================================================================================================================================================
-            
-            <h1> Source: 25 </h1>
-            Pearl, J. (1993). Comment: Graphical models, causality and intervention. Statistical Science, 8 , 26...    
-            1993-01-01
-            http://dx.doi.org/10.1093/biomet/82.4.702
-            ======================================================================================================================================================
-            
-            <h1> Source: 26 </h1>
-            Demography and the Age of Rare Variants    
-            2014-08-07
-            https://doi.org/10.1371%2Fjournal.pgen.1004528
-            ======================================================================================================================================================
-            
-            <h1> Source: 27 </h1>
-            Pearl, J. (1995). Causal diagrams for empirical research. Biometrika, 82, 669-710. 10.1177/004912419...    
-            1995-01-01
-            http://dx.doi.org/10.1177/0049124198027002004
-            ======================================================================================================================================================
-            
-            <h1> Source: 28 </h1>
-            Targeted Social Distancing Designs for Pandemic Influenza - Volume 12, Number 11—November 2006 - Emerging Infectious Diseases journal - CDC    
-            2006-11-17
-            https://doi.org/10.3201%2Feid1211.060255
-            ======================================================================================================================================================
-            
-            <h1> Source: 29 </h1>
-            Plasma cell differentiation and the unfolded protein response intersect at the transcription factor XBP-1    
-            2003-04-17
-            https://doi.org/10.1038%2Fni907
-            ======================================================================================================================================================
-            
-            <h1> Source: 30 </h1>
-            Sudmant, P. H. et al. An integrated map of structural variation in 2,504 human genomes. Nature http:...    
-            2015-10-17
-            https://doi.org/10.1038/nature15394
-            ======================================================================================================================================================
-            
-            <h1> Source: 31 </h1>
-            Pearl, J. (1998). Graphs, causality, and structural equation models. Sociological Methods & Research...    
-            2009-09-17
-            http://dx.doi.org/10.1017/CBO9780511803161
-            ======================================================================================================================================================
-            
-            <h1> Source: 32 </h1>
-            Pearl, J. ([2000] 2009). Causality: Models, reasoning, and inference (2 nd ed.). Cambridge: Cambridg...    
-            2000-01-01
-            http://dx.doi.org/10.1111/j.1467-9531.2010.01228.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 33 </h1>
-            West Nile Virus Epizootiology, Central Red River Valley, North Dakota and Minnesota, 2002–2005 - Volume 12, Number 8—August 2006 - Emerging Infectious Diseases journal - CDC    
-            2006-08-17
-            https://doi.org/10.3201%2Feid1208.060129
-            ======================================================================================================================================================
-            
-            <h1> Source: 34 </h1>
-            Dense genotyping identifies and localizes multiple common and rare variant association signals in celiac disease    
-            2011-12-17
-            https://doi.org/10.1038%2Fng.998
-            ======================================================================================================================================================
-            
-            <h1> Source: 35 </h1>
-            Crump , Richard K. , Joseph Hotz , V. , Imbens , Guido W. , and Mitnik , Oscar A. 2009 . Dealing wit...    
-            2009-01-01
-            https://dx.doi.org/10.1093/biomet/asn055
-            ======================================================================================================================================================
-            
-            <h1> Source: 36 </h1>
-            Human Disease from Influenza A (H5N1), Thailand, 2004 - Volume 11, Number 2—February 2005 - Emerging Infectious Diseases journal - CDC    
-            2005-02-17
-            https://doi.org/10.3201%2Feid1102.041061
-            ======================================================================================================================================================
-            
-            <h1> Source: 37 </h1>
-            Strategies for mitigating an influenza pandemic    
-            2006-07-17
-            https://doi.org/10.1038%2Fnature04795
-            ======================================================================================================================================================
-            
-            <h1> Source: 38 </h1>
-            The Concordance and Heritability of Type 2 Diabetes in 34,166 Twin Pairs From International Twin Registers: The Discordant Twin (DISCOTWIN) Consortium    
-            2015-12-17
-            https://doi.org/10.1017%2Fthg.2015.83
-            ======================================================================================================================================================
-            
-            <h1> Source: 39 </h1>
-            Predicting Pneumonia and Influenza Mortality from Morbidity Data    
-            2007-05-23
-            https://doi.org/10.1371%2Fjournal.pone.0000464
-            ======================================================================================================================================================
-            
-            <h1> Source: 40 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 41 </h1>
-            A common Greenlandic TBC1D4 variant confers muscle insulin resistance and type 2 diabetes    
-            2014-08-17
-            https://doi.org/10.1038%2Fnature13425
-            ======================================================================================================================================================
-            
-            <h1> Source: 42 </h1>
-            Robins, J.M. (1986). A new approach to causal inference in mortality studies with a sustained exposu...    
-            1986-01-01
-            http://dx.doi.org/10.1002/0470013192
-            ======================================================================================================================================================
-            
-            <h1> Source: 43 </h1>
-            Rosenbaum, P.R. (2002). Observational studies (2 nd edition). New York: Springer. 10.1093/oxfordjour...    
-            2002-01-01
-            http://dx.doi.org/10.1093/oxfordjournals.aje.a117417
-            ======================================================================================================================================================
-            
-            <h1> Source: 44 </h1>
-            Monitoring the Impact of Influenza by Age: Emergency Department Fever and Respiratory Complaint Surveillance in New York City    
-            2007-08-07
-            https://doi.org/10.1371%2Fjournal.pmed.0040247
-            ======================================================================================================================================================
-            
-            <h1> Source: 45 </h1>
-            Systematic investigation of cancer-associated somatic point mutations in SNP databases    
-            2013-09-17
-            https://doi.org/10.1038%2Fnbt.2681
-            ======================================================================================================================================================
-            
-            <h1> Source: 46 </h1>
-            No evidence that selection has been less effective at removing deleterious mutations in Europeans than in Africans    
-            2015-02-17
-            https://doi.org/10.1038%2Fng.3186
-            ======================================================================================================================================================
-            
-            <h1> Source: 47 </h1>
-            35. Mann , H.B. & Wald , A. . On the statistical treatment of linear stochastic difference equations...    
-            1943-01-01
-            https://dx.doi.org/10.2307/1905674
-            ======================================================================================================================================================
-            
-            <h1> Source: 48 </h1>
-            Rubin, D.B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies....    
-            1974-01-01
-            http://dx.doi.org/10.1093/aristotelian/13.1.1
-            ======================================================================================================================================================
-            
-            <h1> Source: 49 </h1>
-            The deleterious mutation load is insensitive to recent population history    
-            2014-03-17
-            https://doi.org/10.1038%2Fng.2896
-            ======================================================================================================================================================
-            
-            <h1> Source: 50 </h1>
-            Russo, F. (2009). Causality and causal modeling in the social sciences. Measuring variations. New Yo...    
-            2009-01-01
-            http://dx.doi.org/10.1080/02698590701498084
-            ======================================================================================================================================================
-            
-            <h1> Source: 51 </h1>
-            Russo, F., & Williamson, J. (2007). Interpreting causality in the health sciences. International Stu...    
-            2007-01-01
-            http://dx.doi.org/10.1177/0759106311408891
-            ======================================================================================================================================================
-            
-            <h1> Source: 52 </h1>
-            Shpitser, I., VanderWeele, T.J., & Robins, J.M. (2010). On the validity of covariate adjustment for ...    
-            2010-01-01
-            http://dx.doi.org/10.2307/2281124
-            ======================================================================================================================================================
-            
-            <h1> Source: 53 </h1>
-            Acute respiratory illness in the community. Frequency of illness and the agents involved    
-            1993-02-17
-            https://doi.org/10.1017%2FS0950268800050779
-            ======================================================================================================================================================
-            
-            <h1> Source: 54 </h1>
-            Inference of human population history from individual whole-genome sequences    
-            2011-07-17
-            https://doi.org/10.1038%2Fnature10231
-            ======================================================================================================================================================
-            
-            <h1> Source: 55 </h1>
-            Sobel, M.E. (2009). Causal inference in randomized and non-randomized studies : The definition, iden...    
-            2009-01-01
-            http://dx.doi.org/10.7551/mitpress/1754.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 56 </h1>
-            Prospects for productivity    
-            2004-05-17
-            https://doi.org/10.1038%2Fnrd1384
-            ======================================================================================================================================================
-            
-            <h1> Source: 57 </h1>
-            Suppes, P. (1970). A probabilistic theory of causality. North-Holland, Amsterdam. 10.1093/oxfordhb/9...    
-            1970-01-01
-            http://dx.doi.org/10.1093/oxfordhb/9780199279739.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 58 </h1>
-            Williamson, J. (2009). Probabilistic theories. In H. Beebee, C. Hitchcock, & P. Menzies (Eds.), The ...    
-            2009-01-01
-            http://dx.doi.org/10.1093/0195155270.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 59 </h1>
-            Woodward, J. (2003). Making things happen: A theory of causal explanation. New York: Oxford Universi...    
-            2003-01-01
-            http://dx.doi.org/10.1093/acprof:oso/9780195176803.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 60 </h1>
-            Woodward, J. (2007). Interventionist theories of causation in psychological perspective. In A. Gopni...    
-            2007-01-01
-            http://dx.doi.org/10.1111/1468-0068.00426
-            ======================================================================================================================================================
-            
-            <h1> Source: 61 </h1>
-            The UK10K Consortium. The UK10K project identifies rare variants in health and disease. Nature http:...    
-            2015-10-17
-            https://doi.org/10.1038/nature14962
-            ======================================================================================================================================================
-            
-            <h1> Source: 62 </h1>
-            Strategies for containing an emerging influenza pandemic in Southeast Asia    
-            2005-09-17
-            https://doi.org/10.1038%2Fnature04017
-            ======================================================================================================================================================
-            
-            <h1> Source: 63 </h1>
-            Wright, S. (1921). Correlation and causation. Journal of Agricultural Research, 20, 557-585. 10.1214...    
-            1934-09-17
-            http://dx.doi.org/10.1214/aoms/1177732676
-            ======================================================================================================================================================
-            
-            <h1> Source: 64 </h1>
-            A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
-            2014-04-17
-            https://doi.org/10.1371%2Fjournal.pgen.1004234
-            ======================================================================================================================================================
-            
-            <h1> Source: 65 </h1>
-            Sidore, C. et al. Genome sequencing elucidates Sardinian genetic architecture and augments associati...    
-            2015-11-17
-            https://doi.org/10.1038/ng.3368
-            ======================================================================================================================================================
-            
-            <h1> Source: 66 </h1>
-            Integrating sequence and array data to create an improved 1000 Genomes Project haplotype reference panel    
-            2014-06-13
-            https://doi.org/10.1038%2Fncomms4934
-            ======================================================================================================================================================
-            
-            <h1> Source: 67 </h1>
-            Patterns of Cis Regulatory Variation in Diverse Human Populations    
-            2012-04-19
-            https://doi.org/10.1371%2Fjournal.pgen.1002639
-            ======================================================================================================================================================
-            
-            <h1> Source: 68 </h1>
-            Resolving the complexity of the human genome using single-molecule sequencing    
-            2015-01-17
-            https://doi.org/10.1038%2Fnature13907
-            ======================================================================================================================================================
-            
-            <h1> Source: 69 </h1>
-            Bayesian refinement of association signals for 14 loci in 3 common diseases    
-            2012-12-17
-            https://doi.org/10.1038%2Fng.2435
-            ======================================================================================================================================================
-            
-            <h1> Source: 70 </h1>
-            The druggable genome    
-            2002-09-17
-            https://doi.org/10.1038%2Fnrd892
-            ======================================================================================================================================================
-            
-            <h1> Source: 71 </h1>
-            Age-related macular degeneration is associated with an unstable ARMS2 (LOC387715) mRNA    
-            2008-07-17
-            https://doi.org/10.1038%2Fng.170
-            ======================================================================================================================================================
-            
-            <h1> Source: 72 </h1>
-            Large-scale whole-genome sequencing of the Icelandic population    
-            2015-05-17
-            https://doi.org/10.1038%2Fng.3247
-            ======================================================================================================================================================
-            
-            <h1> Source: 73 </h1>
-            Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
-            2006-04-17
-            https://doi.org/10.1038%2Fng1750
-            ======================================================================================================================================================
-            
-            <h1> Source: 74 </h1>
-            Adaptive Evolution of the FADS Gene Cluster within Africa    
-            2012-09-19
-            https://doi.org/10.1371%2Fjournal.pone.0044926
-            ======================================================================================================================================================
-            
-            <h1> Source: 75 </h1>
-            1. Copas JB , Li HG . Inference for non-random samples (with discussion) . J R Stat Soc Ser B 1997 ;...    
-            1997-01-01
-            https://doi.org/10.1111/1467-9868.00055
-            ======================================================================================================================================================
-            
-            <h1> Source: 76 </h1>
-            Fast model-based estimation of ancestry in unrelated individuals    
-            2009-09-01
-            https://doi.org/10.1101%2Fgr.094052.109
-            ======================================================================================================================================================
-            
-            <h1> Source: 77 </h1>
-            Mutations in sodium-channel gene <i>SCN9A</i> cause a spectrum of human genetic pain disorders    
-            2007-12-03
-            https://doi.org/10.1172%2FJCI33297
-            ======================================================================================================================================================
-            
-            <h1> Source: 78 </h1>
-            Statistical power and significance testing in large-scale genetic studies    
-            2014-05-17
-            https://doi.org/10.1038%2Fnrg3706
-            ======================================================================================================================================================
-            
-            <h1> Source: 79 </h1>
-            Mutations in the gene encoding mevalonate kinase cause hyper-IgD and periodic fever syndrome    
-            1999-06-17
-            https://doi.org/10.1038%2F9696
-            ======================================================================================================================================================
-            
-            <h1> Source: 80 </h1>
-            A Genealogical Interpretation of Principal Components Analysis    
-            2009-10-16
-            https://doi.org/10.1371/journal.pgen.1000686
-            ======================================================================================================================================================
-            
-            <h1> Source: 81 </h1>
-            50. Wegge , L.L. Identifiability criteria for a system of equations as a whole . Australian Journal ...    
-            1965-01-01
-            https://dx.doi.org/10.1111/j.1467-842X.1965.tb00035.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 82 </h1>
-            How to improve R&D productivity: the pharmaceutical industry's grand challenge    
-            2010-03-17
-            https://doi.org/10.1038%2Fnrd3078
-            ======================================================================================================================================================
-            
-            <h1> Source: 83 </h1>
-            Mutations in PCSK9 cause autosomal dominant hypercholesterolemia    
-            2003-06-17
-            https://doi.org/10.1038%2Fng1161
-            ======================================================================================================================================================
-            
-            <h1> Source: 84 </h1>
-            CARD15 mutations in Blau syndrome    
-            2001-09-17
-            https://doi.org/10.1038%2Fng720
-            ======================================================================================================================================================
-            
-            <h1> Source: 85 </h1>
-            Collider bias undermines our understanding of COVID-19 disease risk and severity    
-            2020-11-12
-            https://www.nature.com/articles/s41467-020-19478-2#Bib1
-            ======================================================================================================================================================
-            
-            <h1> Source: 86 </h1>
-            Public Health Interventions and SARS Spread, 2003 - Volume 10, Number 11—November 2004 - Emerging Infectious Diseases journal - CDC    
-            2004-11-17
-            https://doi.org/10.3201%2Feid1011.040729
-            ======================================================================================================================================================
-            
-            <h1> Source: 87 </h1>
-            The Value of Improving the Productivity of the Drug Development Process    
-            2002-12-17
-            https://doi.org/10.2165%2F00019053-200220003-00001
-            ======================================================================================================================================================
-            
-            <h1> Source: 88 </h1>
-            Phase II failures: 2008–2010 - Nature Reviews Drug Discovery    
-            2011-04-29
-            https://doi.org/10.1038%2Fnrd3439
-            ======================================================================================================================================================
-            
-            <h1> Source: 89 </h1>
-            Corman VM , Landt O , Kaiser M , Molenkamp R , Meijer A , Chu DK , et al. Detection of 2019 novel co...    
-            2020-01-23
-            https://doi.org/10.2807/1560-7917.ES.2020.25.3.2000045
-            ======================================================================================================================================================
-            
-            <h1> Source: 90 </h1>
-            Significance of the human genome sequence to drug discovery - The Pharmacogenomics Journal    
-            2001-06-21
-            https://doi.org/10.1038%2Fsj.tpj.6500010
-            ======================================================================================================================================================
-            
-            <h1> Source: 91 </h1>
-            Validating therapeutic targets through human genetics    
-            2013-08-17
-            https://doi.org/10.1038%2Fnrd4051
-            ======================================================================================================================================================
-            
-            <h1> Source: 92 </h1>
-            Adaptive Seamless Phase II/III Designs—Background, Operational Aspects, and Examples    
-            2006-10-17
-            https://doi.org/10.1177%2F216847900604000412
-            ======================================================================================================================================================
-            
-            <h1> Source: 93 </h1>
-            Rosenbaum , Paul R. 1986 . Dropping out of high school in the United States: An observational study ...    
-            1986-01-01
-            https://dx.doi.org/10.3102/10769986011003207
-            ======================================================================================================================================================
-            
-            <h1> Source: 94 </h1>
-            Rubin , Donald B. 1973 . The use of matched sampling and regression adjustment to remove bias in obs...    
-            1973-01-01
-            https://dx.doi.org/10.2307/2529685
-            ======================================================================================================================================================
-            
-            <h1> Source: 95 </h1>
-            Development and Characterization of an Antibody-Labeled Super-Paramagnetic Iron Oxide Contrast Agent Targeting Prostate Cancer Cells for Magnetic Resonance Imaging    
-            2014-05-12
-            https://doi.org/10.1371%2Fjournal.pone.0097220
-            ======================================================================================================================================================
-            
-            <h1> Source: 96 </h1>
-            Dysregulation of TGF-β activation contributes to pathogenesis in Marfan syndrome    
-            2003-03-17
-            https://doi.org/10.1038%2Fng1116
-            ======================================================================================================================================================
-            
-            <h1> Source: 97 </h1>
-            Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
-            2015-12-17
-            https://doi.org/10.1186/s12889-015-2408-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 98 </h1>
-            The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
-            2014-10-27
-            https://doi.org/10.15195/v1.a25
-            ======================================================================================================================================================
-            
-            <h1> Source: 99 </h1>
-            5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
-            2012-01-17
-            https://doi.org/10.4000/books.pum.8791
-            ======================================================================================================================================================
-            
-            <h1> Source: 100 </h1>
-            The application of discovery toxicology and pathology towards the design of safer pharmaceutical lead candidates    
-            2007-08-17
-            https://doi.org/10.1038%2Fnrd2378
-            ======================================================================================================================================================
-            
-            <h1> Source: 101 </h1>
-            Dehejia , Rajeev H. , and Wahba , Sadek . 1999 . Causal effects in nonexperimental studies: Re-evalu...    
-            1999-01-01
-            https://dx.doi.org/10.1080/01621459.1999.10473858
-            ======================================================================================================================================================
-            
-            <h1> Source: 102 </h1>
-            Benke, K. S., Y. Wu, D. M. Fallin, B. Maher and L. J. Palmer (2013) “Strategy to control type I erro...    
-            2013-01-01
-            https://doi.org/10.1002/gepi.21733
-            ======================================================================================================================================================
-            
-            <h1> Source: 103 </h1>
-            Modèles structuraux et inférence causale    
-            2015-01-17
-            https://doi.org/10.4000/books.pur.61649
-            ======================================================================================================================================================
-            
-            <h1> Source: 104 </h1>
-            Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls    
-            2007-06-17
-            https://doi.org/10.1038%2Fnature05911
-            ======================================================================================================================================================
-            
-            <h1> Source: 105 </h1>
-            The Statistics of Causal Inference: A View from Political Methodology    
-            2015-07-17
-            https://doi.org/10.1093/pan/mpv007
-            ======================================================================================================================================================
-            
-            <h1> Source: 106 </h1>
-            Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
-            2015-06-17
-            https://doi.org/10.1007/s12552-015-9146-5
-            ======================================================================================================================================================
-            
-            <h1> Source: 107 </h1>
-            Potential Impact of Antiviral Drug Use during Influenza Pandemic - Volume 11, Number 9—September 2005 - Emerging Infectious Diseases journal - CDC    
-            2005-09-17
-            https://doi.org/10.3201%2Feid1209.041344
-            ======================================================================================================================================================
-            
-            <h1> Source: 108 </h1>
-            Six new loci associated with blood low-density lipoprotein cholesterol, high-density lipoprotein cholesterol or triglycerides in humans    
-            2008-02-17
-            https://doi.org/10.1038%2Fng.75
-            ======================================================================================================================================================
-            
-            <h1> Source: 109 </h1>
-            Monogenic hypercholesterolemia: new insights in pathogenesis and treatment    
-            2003-06-15
-            https://doi.org/10.1172%2FJCI200318925
-            ======================================================================================================================================================
-            
-            <h1> Source: 110 </h1>
-            Can the pharmaceutical industry reduce attrition rates?    
-            2004-08-17
-            https://doi.org/10.1038%2Fnrd1470
-            ======================================================================================================================================================
-            
-            <h1> Source: 111 </h1>
-            Lovastatin and beyond: the history of the HMG-CoA reductase inhibitors    
-            2003-07-17
-            https://doi.org/10.1038%2Fnrd1112
-            ======================================================================================================================================================
-            
-            <h1> Source: 112 </h1>
-            King , Gary , Honaker , James , Joseph , Anne , and Scheve , Kenneth . 2001 . Analyzing incomplete p...    
-            2001-03-17
-            https://dx.doi.org/10.1017/S0003055401000235
-            ======================================================================================================================================================
-            
-            <h1> Source: 113 </h1>
-            Assessing the translatability of drug projects: what needs to be scored to predict success?    
-            2009-07-17
-            https://doi.org/10.1038%2Fnrd2898
-            ======================================================================================================================================================
-            
-            <h1> Source: 114 </h1>
-            Imai , Kosuke , and van Dyk , David A. 2004 . Causal inference with general treatment regimes: Gener...    
-            2004-01-01
-            https://dx.doi.org/10.1198/016214504000001187
-            ======================================================================================================================================================
-            
-            <h1> Source: 115 </h1>
-            Pricing medicines: theory and practice, challenges and opportunities    
-            2005-02-17
-            https://doi.org/10.1038%2Fnrd1633
-            ======================================================================================================================================================
-            
-            <h1> Source: 116 </h1>
-            Competitiveness in follow-on drug R&D: a race or imitation?    
-            2011-01-17
-            https://doi.org/10.1038%2Fnrd3296
-            ======================================================================================================================================================
-            
-            <h1> Source: 117 </h1>
-            Drug discovery in jeopardy    
-            2006-11-01
-            https://doi.org/10.1172%2FJCI29999
-            ======================================================================================================================================================
-            
-            <h1> Source: 118 </h1>
-            35. Hemani G, Zheng J, Wade K, Laurin C, Elsworth B, Burgess S, et al. MR-Base: a platform for syste...    
-            2026-01-17
-            https://doi.org/10.1101/0789722016
-            ======================================================================================================================================================
-            
-            <h1> Source: 119 </h1>
-            Low LDL cholesterol in individuals of African descent resulting from frequent nonsense mutations in PCSK9    
-            2005-02-17
-            https://doi.org/10.1038%2Fng1509
-            ======================================================================================================================================================
-            
-            <h1> Source: 120 </h1>
-            Robustness of the linear mixed effects model to error distribution assumptions and the consequences for genome-wide association studies    
-            2014-10-01
-            https://doi.org/10.1515/sagmb-2013-0066
-            ======================================================================================================================================================
-            
-            <h1> Source: 121 </h1>
-            Interactions and collider bias in case-only gene-environment data    
-            2017-09-20
-            https://doi.org/10.1101/124560
-            ======================================================================================================================================================
-            
-            <h1> Source: 122 </h1>
-            EANM/SNMMI Guideline for 18F-FDG Use in Inflammation and Infection    
-            2013-04-01
-            https://doi.org/10.2967%2Fjnumed.112.112524
-            ======================================================================================================================================================
-            
-            <h1> Source: 123 </h1>
-            Nonpharmaceutical Interventions for Pandemic Influenza, International Measures - Volume 12, Number 1—January 2006 - Emerging Infectious Diseases journal - CDC    
-            2006-01-17
-            https://doi.org/10.3201%2Feid1201.051370
-            ======================================================================================================================================================
-            
-            <h1> Source: 124 </h1>
-            Mutations in sodium-channel gene <i>SCN9A</i> cause a spectrum of human genetic pain disorders    
-            2007-12-03
-            https://doi.org/10.1172%2FJCI33297
-            ======================================================================================================================================================
-            
-            <h1> Source: 125 </h1>
-            An SCN9A channelopathy causes congenital inability to experience pain    
-            2006-12-17
-            https://doi.org/10.1038%2Fnature05413
-            ======================================================================================================================================================
-            
-            <h1> Source: 126 </h1>
-            Can the pharmaceutical industry reduce attrition rates?    
-            2004-08-17
-            https://doi.org/10.1038%2Fnrd1470
-            ======================================================================================================================================================
-            
-            <h1> Source: 127 </h1>
-            Quandt , Richard . 1972 . Methods of estimating switching regressions . Journal of the American Stat...    
-            1972-01-01
-            https://dx.doi.org/10.1080/01621459.1972.10482378
-            ======================================================================================================================================================
-            
-            <h1> Source: 128 </h1>
-            Inflammation, Insulin Resistance, and Diabetes—Mendelian Randomization Using CRP Haplotypes Points Upstream    
-            2008-08-12
-            https://doi.org/10.1371/journal.pmed.0050155
-            ======================================================================================================================================================
-            
-            <h1> Source: 129 </h1>
-            Type II Secretory Phospholipase A2 and Prognosis in Patients with Stable Coronary Heart Disease: Mendelian Randomization Study    
-            2011-07-22
-            https://doi.org/10.1371/journal.pone.0022318
-            ======================================================================================================================================================
-            
-            <h1> Source: 130 </h1>
-            Tibshirani R . Regression shrinkage and selection via the lasso. J R Stat Soc B. 1996 ; 58 ( 1 ): 26...    
-            1996-01-01
-            https://doi.org/10.1111/j.2517-6161.1996.tb02080.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 131 </h1>
-            Genome-wide association study identifies distinct genetic contributions to prognosis and susceptibility in Crohn's disease    
-            2017-02-17
-            https://doi.org/10.1038/ng.3755
-            ======================================================================================================================================================
-            
-            <h1> Source: 132 </h1>
-            43. Spanos , A. On rereading Haavelmo: a retrospective view of econometric modelling . Econometric T...    
-            1989-12-17
-            https://dx.doi.org/10.1017/S0266466600012597
-            ======================================================================================================================================================
-            
-            <h1> Source: 133 </h1>
-            38. Morgan , M.S. The History of Econometric Ideas . New York : Cambridge University Press , 1990 . ...    
-            1990-04-17
-            https://dx.doi.org/10.1017/CBO9780511522109
-            ======================================================================================================================================================
-            
-            <h1> Source: 134 </h1>
-            Cochran , William G. 1968 . The effectiveness of adjustment by subclassification in removing bias in...    
-            1968-01-01
-            https://dx.doi.org/10.2307/2528036
-            ======================================================================================================================================================
-            
-            <h1> Source: 135 </h1>
-            Macro trends in pharmaceutical innovation    
-            2005-01-17
-            https://doi.org/10.1038%2Fnrd1610
-            ======================================================================================================================================================
-            
-            <h1> Source: 136 </h1>
-            Diagnosing the decline in pharmaceutical R&D efficiency    
-            2012-03-17
-            https://doi.org/10.1038%2Fnrd3681
-            ======================================================================================================================================================
-            
-            <h1> Source: 137 </h1>
-            11. Fischer , F.M. The Identification Problem in Econometrics . Huntingdon, New York : Krieger , (Re...    
-            1966-01-01
-            https://dx.doi.org/10.2307/2552045
-            ======================================================================================================================================================
-            
-            <h1> Source: 138 </h1>
-            Respiratory Infections during SARS Outbreak, Hong Kong, 2003 - Volume 11, Number 11—November 2005 - Emerging Infectious Diseases journal - CDC    
-            2005-11-17
-            https://doi.org/10.3201%2Feid1111.050729
-            ======================================================================================================================================================
-            
-            <h1> Source: 139 </h1>
-            27. Johansen , S. Estimation and hypothesis testing of cointegration vectors in gaussian vector auto...    
-            1991-01-01
-            https://dx.doi.org/10.2307/2938278
-            ======================================================================================================================================================
-            
-            <h1> Source: 140 </h1>
-            40. Rothenberg , T.J. Identification in parametric models . Econometrica 39 ( 1971 ): 577 – 591 . Cr...    
-            1971-01-01
-            https://dx.doi.org/10.2307/1913267
-            ======================================================================================================================================================
-            
-            <h1> Source: 141 </h1>
-            6. Bowden , R. The theory of parametric identification . Econometrica 41 ( 1973 ): 1069 – 1074 . Cro...    
-            1973-01-01
-            https://dx.doi.org/10.2307/1914036
-            ======================================================================================================================================================
-            
-            <h1> Source: 142 </h1>
-            23. Haavelmo , T. The probability approach in econometrics . Supplement to Econometrica 12 ( 1944 )....    
-            1944-01-01
-            https://dx.doi.org/10.2307/1906935
-            ======================================================================================================================================================
-            
-            <h1> Source: 143 </h1>
-            18. Girshick , M.A. & Haavelmo , T. . Statistical analysis of the demand for food: examples of simul...    
-            1947-01-01
-            https://dx.doi.org/10.2307/1907066
-            ======================================================================================================================================================
-            
-            <h1> Source: 144 </h1>
-            22. Haavelmo , T. The statistical implications of a system of simultaneous equations . Econometrica ...    
-            1943-01-01
-            https://dx.doi.org/10.2307/1905714
-            ======================================================================================================================================================
-            
-            <h1> Source: 145 </h1>
-            Mutations in PCSK9 cause autosomal dominant hypercholesterolemia    
-            2003-06-17
-            https://doi.org/10.1038%2Fng1161
-            ======================================================================================================================================================
-            
-            <h1> Source: 146 </h1>
-            Mixed results with modulation of TH-17 cells in human autoimmune diseases    
-            2010-01-17
-            https://doi.org/10.1038%2Fni.1803
-            ======================================================================================================================================================
-            
-            <h1> Source: 147 </h1>
-            19. Haavelmo , T. The method of supplementary confluent relations, illustrated by a study of stock p...    
-            1938-01-01
-            https://dx.doi.org/10.2307/1907052
-            ======================================================================================================================================================
-            
-            <h1> Source: 148 </h1>
-            Cholesterol-lowering blockbuster candidates speed into Phase III trials - Nature Reviews Drug Discovery    
-            2012-11-05
-            https://doi.org/10.1038%2Fnrd3879
-            ======================================================================================================================================================
-            
-            <h1> Source: 149 </h1>
-            Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47    
-            2011-03-17
-            https://doi.org/10.1038%2Fng.764
-            ======================================================================================================================================================
-            
-            <h1> Source: 150 </h1>
-            Wei WE , Li Z , Chiew CJ , Yong SE , Toh MP , Lee VJ . Presymptomatic Transmission of SARS-CoV-2 - S...    
-            2020-01-17
-            https://doi.org/10.15585/mmwr.mm6914e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 151 </h1>
-            Genotype/Phenotype Analyses for 53 Crohn’s Disease Associated Genetic Polymorphisms    
-            2012-12-27
-            https://doi.org/10.1371%2Fjournal.pone.0052223
-            ======================================================================================================================================================
-            
-            <h1> Source: 152 </h1>
-            T-cell exhaustion, co-stimulation and clinical outcome in autoimmunity and infection    
-            2015-07-17
-            https://doi.org/10.1038%2Fnature14468
-            ======================================================================================================================================================
-            
-            <h1> Source: 153 </h1>
-            Power of Selective Genotyping in Genetic Association Analyses of Quantitative Traits    
-            2000-03-17
-            https://doi.org/10.1023%2FA%3A1001907321955
-            ======================================================================================================================================================
-            
-            <h1> Source: 154 </h1>
-            Ng O-T, Marimuthu K, Chia P-Y, et al. SARS-CoV-2 infection among travelers returning from Wuhan, Chi...    
-            2020-01-01
-            http://dx.doi.org/10.1056/NEJMc2003100
-            ======================================================================================================================================================
-            
-            <h1> Source: 155 </h1>
-            Common disorders are quantitative traits    
-            2009-12-17
-            https://doi.org/10.1038%2Fnrg2670
-            ======================================================================================================================================================
-            
-            <h1> Source: 156 </h1>
-            Do Genetic Susceptibility Variants Associate with Disease Severity in Early Active Rheumatoid Arthritis?    
-            2015-07-01
-            https://doi.org/10.3899%2Fjrheum.141211
-            ======================================================================================================================================================
-            
-            <h1> Source: 157 </h1>
-            Risk Factors for Patients Developing a Fulminant Course With Acute Myocarditis    
-            2004-01-17
-            https://doi.org/10.1253%2Fcircj.68.734
-            ======================================================================================================================================================
-            
-            <h1> Source: 158 </h1>
-            Genetic Risk Score Predicting Risk of Rheumatoid Arthritis Phenotypes and Age of Symptom Onset    
-            2011-09-12
-            https://doi.org/10.1371%2Fjournal.pone.0024380
-            ======================================================================================================================================================
-            
-            <h1> Source: 159 </h1>
-            Multiple Sclerosis Susceptibility-Associated SNPs Do Not Influence Disease Severity Measures in a Cohort of Australian MS Patients    
-            2010-04-02
-            https://doi.org/10.1371%2Fjournal.pone.0010003
-            ======================================================================================================================================================
-            
-            <h1> Source: 160 </h1>
-            Wang Y, Liu Y, Liu L, Wang X, Luo N, Ling L. Clinical outcome of 55 asymptomatic cases at the time o...    
-            2020-01-01
-            http://dx.doi.org/10.1093/infdis/jiaa119
-            ======================================================================================================================================================
-            
-            <h1> Source: 161 </h1>
-            Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium., Wray, N. R. & Sulli...    
-            2017-07-24
-            https://doi.org/10.1101/167577
-            ======================================================================================================================================================
-            
-            <h1> Source: 162 </h1>
-            Prevalence and Characteristics of Probable Major Depression and Bipolar Disorder within UK Biobank: Cross-Sectional Study of 172,751 Participants    
-            2013-11-25
-            https://doi.org/10.1371%2Fjournal.pone.0075362
-            ======================================================================================================================================================
-            
-            <h1> Source: 163 </h1>
-            The Genotype-Tissue Expression (GTEx) project    
-            2013-06-17
-            https://doi.org/10.1038%2Fng.2653
-            ======================================================================================================================================================
-            
-            <h1> Source: 164 </h1>
-            The tyrosine kinase p56lck is essential in coxsackievirus B3-mediated heart disease    
-            2000-04-17
-            https://doi.org/10.1038%2F74689
-            ======================================================================================================================================================
-            
-            <h1> Source: 165 </h1>
-            Identification of 15 genetic loci associated with risk of major depression in individuals of European descent    
-            2016-09-17
-            https://doi.org/10.1038%2Fng.3623
-            ======================================================================================================================================================
-            
-            <h1> Source: 166 </h1>
-            Sparse whole-genome sequencing identifies two loci for major depressive disorder    
-            2015-07-17
-            https://doi.org/10.1038%2Fnature14659
-            ======================================================================================================================================================
-            
-            <h1> Source: 167 </h1>
-            Genetic variants associated with subjective well-being, depressive symptoms, and neuroticism identified through genome-wide analyses    
-            2016-06-17
-            https://doi.org/10.1038%2Fng.3552
-            ======================================================================================================================================================
-            
-            <h1> Source: 168 </h1>
-            A mega-analysis of genome-wide association studies for major depressive disorder    
-            2013-04-17
-            https://doi.org/10.1038%2Fmp.2012.21
-            ======================================================================================================================================================
-            
-            <h1> Source: 169 </h1>
-            Caffrey C , Smith SCR , Weston TJ . West Nile virus devastates an American crow population. Condor ....    
-            2005-01-01
-            https://doi.org/10.1650/7646
-            ======================================================================================================================================================
-            
-            <h1> Source: 170 </h1>
-            LD Score regression distinguishes confounding from polygenicity in genome-wide association studies    
-            2015-03-17
-            https://doi.org/10.1038%2Fng.3211
-            ======================================================================================================================================================
-            
-            <h1> Source: 171 </h1>
-            Suggested citation for this article: Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6914e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 172 </h1>
-            Enteroviral protease 2A cleaves dystrophin: Evidence of cytoskeletal disruption in an acquired cardiomyopathy    
-            1999-03-17
-            https://doi.org/10.1038%2F6543
-            ======================================================================================================================================================
-            
-            <h1> Source: 173 </h1>
-            A unified mixed-model method for association mapping that accounts for multiple levels of relatedness    
-            2006-02-17
-            https://doi.org/10.1038%2Fng1702
-            ======================================================================================================================================================
-            
-            <h1> Source: 174 </h1>
-            Biological insights from 108 schizophrenia-associated genetic loci    
-            2014-07-17
-            https://doi.org/10.1038%2Fnature13595
-            ======================================================================================================================================================
-            
-            <h1> Source: 175 </h1>
-            Large-scale genome-wide association analysis of bipolar disorder identifies a new susceptibility locus near ODZ4    
-            2011-10-17
-            https://doi.org/10.1038%2Fng.943
-            ======================================================================================================================================================
-            
-            <h1> Source: 176 </h1>
-            Chang, D., Lin, M., Wei, L., Xie, L., Zhu, G., Dela Cruz, C.S., and Sharma, L. (2020). Epidemiologic...    
-            2020-01-01
-            https://doi.org/10.1001/jama.2020.1623
-            ======================================================================================================================================================
-            
-            <h1> Source: 177 </h1>
-            Du Z, Xu X, Wu Y, Wang L, Cowling BJ, Meyers LA. Serial interval of COVID-19 among publicly reported...    
-            2020-06-17
-            http://dx.doi.org/10.3201/eid2606.200357
-            ======================================================================================================================================================
-            
-            <h1> Source: 178 </h1>
-            MAGMA: Generalized Gene-Set Analysis of GWAS Data    
-            2015-04-17
-            https://doi.org/10.1371%2Fjournal.pcbi.1004219
-            ======================================================================================================================================================
-            
-            <h1> Source: 179 </h1>
-            Biological interpretation of genome-wide association studies using predicted gene functions    
-            2015-01-19
-            https://doi.org/10.1038%2Fncomms6890
-            ======================================================================================================================================================
-            
-            <h1> Source: 180 </h1>
-            Local potentiation of excitatory synapses by serotonin and its alteration in rodent models of depression    
-            2013-04-17
-            https://doi.org/10.1038%2Fnn.3355
-            ======================================================================================================================================================
-            
-            <h1> Source: 181 </h1>
-            Fabre A, Sheppard MN. Sudden adult death syndrome and other non-ischaemic causes of sudden cardiac d...    
-            2006-01-01
-            http://dx.doi.org/10.1136/hrt.2004.045518
-            ======================================================================================================================================================
-            
-            <h1> Source: 182 </h1>
-            Targeting glutamate signalling in depression: progress and prospects    
-            2017-07-17
-            https://doi.org/10.1038%2Fnrd.2017.16
-            ======================================================================================================================================================
-            
-            <h1> Source: 183 </h1>
-            Carpenter , Daniel P. 2002 . Groups, the media, agency waiting costs, and FDA drug approval . Americ...    
-            2002-01-01
-            https://dx.doi.org/10.2307/3088394
-            ======================================================================================================================================================
-            
-            <h1> Source: 184 </h1>
-            Rosenbaum , Paul R. 1986 . Dropping out of high school in the United States: An observational study ...    
-            1986-01-01
-            https://dx.doi.org/10.3102/10769986011003207
-            ======================================================================================================================================================
-            
-            <h1> Source: 185 </h1>
-            Meta-analysis of genome-wide association studies of anxiety disorders    
-            2016-10-17
-            https://doi.org/10.1038%2Fmp.2015.197
-            ======================================================================================================================================================
-            
-            <h1> Source: 186 </h1>
-            Quandt , Richard . 1972 . Methods of estimating switching regressions . Journal of the American Stat...    
-            1972-01-01
-            https://dx.doi.org/10.1080/01621459.1972.10482378
-            ======================================================================================================================================================
-            
-            <h1> Source: 187 </h1>
-            Cochran , William G. 1968 . The effectiveness of adjustment by subclassification in removing bias in...    
-            1968-01-01
-            https://dx.doi.org/10.2307/2528036
-            ======================================================================================================================================================
-            
-            <h1> Source: 188 </h1>
-            Polygenic dissection of major depression clinical heterogeneity    
-            2016-04-17
-            https://doi.org/10.1038%2Fmp.2015.86
-            ======================================================================================================================================================
-            
-            <h1> Source: 189 </h1>
-            King , Gary , Honaker , James , Joseph , Anne , and Scheve , Kenneth . 2001 . Analyzing incomplete p...    
-            2001-03-17
-            https://dx.doi.org/10.1017/S0003055401000235
-            ======================================================================================================================================================
-            
-            <h1> Source: 190 </h1>
-            Howard, D. M. et al. The stratification of major depressive disorder into genetic subgroups. Preprin...    
-            2019-10-15
-            https://doi.org/10.1101/134601
-            ======================================================================================================================================================
-            
-            <h1> Source: 191 </h1>
-            Dehejia , Rajeev H. , and Wahba , Sadek . 1999 . Causal effects in nonexperimental studies: Re-evalu...    
-            1999-01-01
-            https://dx.doi.org/10.1080/01621459.1999.10473858
-            ======================================================================================================================================================
-            
-            <h1> Source: 192 </h1>
-            A reference panel of 64,976 haplotypes for genotype imputation    
-            2016-10-17
-            https://doi.org/10.1038%2Fng.3643
-            ======================================================================================================================================================
-            
-            <h1> Source: 193 </h1>
-            Imai , Kosuke , and van Dyk , David A. 2004 . Causal inference with general treatment regimes: Gener...    
-            2004-01-01
-            https://dx.doi.org/10.1198/016214504000001187
-            ======================================================================================================================================================
-            
-            <h1> Source: 194 </h1>
-            Bycroft, C. et al. Genome-wide genetic data on ~500,000 UK Biobank participants. Preprint at bioRxiv...    
-            2017-07-20
-            https://doi.org/10.1101/166298
-            ======================================================================================================================================================
-            
-            <h1> Source: 195 </h1>
-            Rubin , Donald B. 1973 . The use of matched sampling and regression adjustment to remove bias in obs...    
-            1973-01-01
-            https://dx.doi.org/10.2307/2529685
-            ======================================================================================================================================================
-            
-            <h1> Source: 196 </h1>
-            PARP inhibitors stumble in breast cancer - Nature Biotechnology    
-            2011-05-06
-            https://doi.org/10.1038%2Fnbt0511-373
-            ======================================================================================================================================================
-            
-            <h1> Source: 197 </h1>
-            Asaumi Y, Yasuda S, Morii I, et al. Favourable clinical outcome in patients with cardiogenic shock d...    
-            2005-01-01
-            http://dx.doi.org/10.1093/eurheartj/ehi411
-            ======================================================================================================================================================
-            
-            <h1> Source: 198 </h1>
-            Genome-wide association study identifies five new schizophrenia loci    
-            2011-10-17
-            https://doi.org/10.1038%2Fng.940
-            ======================================================================================================================================================
-            
-            <h1> Source: 199 </h1>
-            Transient Ventricular Wall Thickening in Acute Myocarditis A Serial Echocardiographic and Histopathologic Study    
-            2001-01-17
-            https://doi.org/10.1253%2Fjcj.65.863
-            ======================================================================================================================================================
-            
-            <h1> Source: 200 </h1>
-            A global reference for human genetic variation    
-            2015-10-17
-            https://doi.org/10.1038%2Fnature15393
-            ======================================================================================================================================================
-            
-            <h1> Source: 201 </h1>
-            Aoyama N, Izumi T, Hiramori K, et al. National survey of fulminant myocarditis in Japan. Circ J 2002...    
-            2002-01-17
-            http://dx.doi.org/10.1253/circj.66.133
-            ======================================================================================================================================================
-            
-            <h1> Source: 202 </h1>
-            Lebreton G, Pozzi M, Mastroianni C, et al. Extracorporeal life support as a bridge to bridge: a stra...    
-            2015-01-01
-            http://dx.doi.org/10.1093/ejcts/ezu516
-            ======================================================================================================================================================
-            
-            <h1> Source: 203 </h1>
-            McMurray JJ, Adamopoulos S, Anker SD, et al. ESC Committee for Practice Guidelines. ESC Guidelines f...    
-            2012-01-01
-            http://dx.doi.org/10.1093/eurheartj/ehs104
-            ======================================================================================================================================================
-            
-            <h1> Source: 204 </h1>
-            Mutations in PCSK9 cause autosomal dominant hypercholesterolemia    
-            2003-06-17
-            https://doi.org/10.1038%2Fng1161
-            ======================================================================================================================================================
-            
-            <h1> Source: 205 </h1>
-            Maejima Y, Yasu T, Kubo N, et al. Long-term prognosis of fulminant myocarditis rescued by percutaneo...    
-            2004-01-17
-            http://dx.doi.org/10.1253/circj.68.829
-            ======================================================================================================================================================
-            
-            <h1> Source: 206 </h1>
-            Identification of the transforming EML4–ALK fusion gene in non-small-cell lung cancer    
-            2007-08-17
-            https://doi.org/10.1038%2Fnature05945
-            ======================================================================================================================================================
-            
-            <h1> Source: 207 </h1>
-            Beurtheret S, Mordant P, Pavie A, et al. Impella and extracorporeal membrane oxygenation: a demandin...    
-            2012-01-01
-            http://dx.doi.org/10.1097/MAT.0b013e31824c38ef
-            ======================================================================================================================================================
-            
-            <h1> Source: 208 </h1>
-            Diddle JW, Almodovar MC, Rajagopal SK, et al. Extracorporeal membrane oxygenation for the support of...    
-            2015-01-01
-            http://dx.doi.org/10.1097/CCM.0000000000000920
-            ======================================================================================================================================================
-            
-            <h1> Source: 209 </h1>
-            Hu Z, Song C, Xu C, et al. Clinical characteristics of 24 asymptomatic infections with COVID-19 scre...    
-            2020-05-17
-            http://dx.doi.org/10.1007/s11427-020-1661-4
-            ======================================================================================================================================================
-            
-            <h1> Source: 210 </h1>
-            Impact of high-throughput screening in biomedical research    
-            2011-03-17
-            https://doi.org/10.1038%2Fnrd3368
-            ======================================================================================================================================================
-            
-            <h1> Source: 211 </h1>
-            Weymann A, Schmack B, Sabashnikov A, et al. Central extracorporeal life support with left ventricula...    
-            2014-12-17
-            http://dx.doi.org/10.1186/1749-8090-9-60
-            ======================================================================================================================================================
-            
-            <h1> Source: 212 </h1>
-            Li W, Shi Z, Yu M, et al. Bats are natural reservoirs of SARS-like coronaviruses. Science 2005;310:6...    
-            2005-01-01
-            http://dx.doi.org/10.1126/science.1118391
-            ======================================================================================================================================================
-            
-            <h1> Source: 213 </h1>
-            A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
-            2014-04-17
-            https://doi.org/10.1371%2Fjournal.pgen.1004234
-            ======================================================================================================================================================
-            
-            <h1> Source: 214 </h1>
-            Seib PM, Faulkner SC, Erickson CC, et al. Blade and balloon atrial septostomy for left heart decompr...    
-            1999-01-01
-            http://dx.doi.org/10.1002/(SICI)1522-726X(199902)46:2<179::AID-CCD13>3.0.CO;2-W
-            ======================================================================================================================================================
-            
-            <h1> Source: 215 </h1>
-            McCarthy RE, Boehmer JP, Hruban RH, et al. Long-term outcome of fulminant myocarditis as compared wi...    
-            2000-01-01
-            http://dx.doi.org/10.1056/NEJM200003093421003
-            ======================================================================================================================================================
-            
-            <h1> Source: 216 </h1>
-            Alkhouli M, Narins CR, Lehoux J, et al. Percutaneous Decompression of the Left Ventricle in Cardioge...    
-            2016-01-01
-            http://dx.doi.org/10.1111/jocs.12696
-            ======================================================================================================================================================
-            
-            <h1> Source: 217 </h1>
-            Biventricular assist device placement and immunosuppression as therapy for necrotizing eosinophilic myocarditis    
-            2005-10-17
-            https://doi.org/10.1038%2Fncpcardio0322
-            ======================================================================================================================================================
-            
-            <h1> Source: 218 </h1>
-            Mason JW, O'Connell JB, Herskowitz A, et al. A clinical trial of immunosuppressive therapy for myoca...    
-            1995-01-01
-            http://dx.doi.org/10.1056/NEJM199508033330501
-            ======================================================================================================================================================
-            
-            <h1> Source: 219 </h1>
-            Improved whole-chromosome phasing for disease and population genetic studies    
-            2013-01-17
-            https://doi.org/10.1038%2Fnmeth.2307
-            ======================================================================================================================================================
-            
-            <h1> Source: 220 </h1>
-            Guirgis M, Kumar K, Menkis AH, et al. Minimally invasive left-heart decompression during venoarteria...    
-            2010-01-01
-            http://dx.doi.org/10.1510/icvts.2009.228346
-            ======================================================================================================================================================
-            
-            <h1> Source: 221 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 222 </h1>
-            Qian G, Yang N, Ma AHY, et al. A COVID-19 Transmission within a family cluster by presymptomatic inf...    
-            2020-01-01
-            http://dx.doi.org/10.1093/cid/ciaa316
-            ======================================================================================================================================================
-            
-            <h1> Source: 223 </h1>
-            MRC IEU UK Biobank GWAS pipeline version 1 This dataset is superseded by https://doi.org/10.5523/bri...    
-            2017-12-14
-            https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
-            ======================================================================================================================================================
-            
-            <h1> Source: 224 </h1>
-            D'Ambrosio A, Patti G, Manzoli A, et al. The fate of acute myocarditis between spontaneous improveme...    
-            2001-01-01
-            http://dx.doi.org/10.1136/heart.85.5.499
-            ======================================================================================================================================================
-            
-            <h1> Source: 225 </h1>
-            Howard JJ , Oliver J , Grayson MA . Antibody response of wild birds to natural infection with alphav...    
-            2004-01-01
-            https://doi.org/10.1603/0022-2585-41.6.1090
-            ======================================================================================================================================================
-            
-            <h1> Source: 226 </h1>
-            Asadi S, Wexler AS, Cappa CD, Barreda S, Bouvier NM, Ristenpart WD. Aerosol emission and superemissi...    
-            2019-02-20
-            http://dx.doi.org/10.1038/s41598-019-38808-z
-            ======================================================================================================================================================
-            
-            <h1> Source: 227 </h1>
-            Komar N , Burns J , Dean C , Panella NA , Dusza S , Cherry B . Serological evidence for West Nile vi...    
-            2000-01-01
-            https://doi.org/10.1089/153036601753552558
-            ======================================================================================================================================================
-            
-            <h1> Source: 228 </h1>
-            Genotype imputation for genome-wide association studies    
-            2010-07-17
-            https://doi.org/10.1038%2Fnrg2796
-            ======================================================================================================================================================
-            
-            <h1> Source: 229 </h1>
-            Pharmacogenetics goes genomic    
-            2003-12-17
-            https://doi.org/10.1038%2Fnrg1229
-            ======================================================================================================================================================
-            
-            <h1> Source: 230 </h1>
-            Disruption of the subendothelial basement membrane during neutrophil diapedesis in an in vitro construct of a blood vessel wall.    
-            1989-04-01
-            https://doi.org/10.1172%2FJCI113992
-            ======================================================================================================================================================
-            
-            <h1> Source: 231 </h1>
-            Godsey MS , Blackmore MS , Panella NA , Burkhalter K , Gottfried K , Halsey LA , West Nile virus epi...    
-            2001-01-01
-            https://doi.org/10.1089/vbz.2005.5.82
-            ======================================================================================================================================================
-            
-            <h1> Source: 232 </h1>
-            Mirabel M, Luyt CE, Leprince P, et al. Outcomes, long-term quality of life, and psychologic assessme...    
-            2011-01-01
-            http://dx.doi.org/10.1097/CCM.0b013e31820ead45
-            ======================================================================================================================================================
-            
-            <h1> Source: 233 </h1>
-            Aiyagari RM, Rocchini AP, Remenapp R, et al. Decompression of the left atrium during extracorporeal ...    
-            2006-01-01
-            http://dx.doi.org/10.1097/01.CCM.0000239113.02836.F1
-            ======================================================================================================================================================
-            
-            <h1> Source: 234 </h1>
-            Tay JY, Lim PL, Marimuthu K, et al. De-isolating COVID-19 suspect cases: a continuing challenge. Cli...    
-            2020-01-01
-            http://dx.doi.org/10.1093/cid/ciaa179
-            ======================================================================================================================================================
-            
-            <h1> Source: 235 </h1>
-            Du Z, Xu X, Wu Y, Wang L, Cowling BJ, Meyers LA. Serial interval of COVID-19 among publicly reported...    
-            2020-06-17
-            http://dx.doi.org/10.3201/eid2606.200357
-            ======================================================================================================================================================
-            
-            <h1> Source: 236 </h1>
-            Searching for genetic determinants in the new millennium    
-            2000-06-17
-            https://doi.org/10.1038%2F35015718
-            ======================================================================================================================================================
-            
-            <h1> Source: 237 </h1>
-            Metabolism of β-sitosterol in man    
-            1970-05-01
-            https://doi.org/10.1172/JCI106315
-            ======================================================================================================================================================
-            
-            <h1> Source: 238 </h1>
-            Metabolism of β-sitosterol in man    
-            1970-05-01
-            https://doi.org/10.1172/JCI106315
-            ======================================================================================================================================================
-            
-            <h1> Source: 239 </h1>
-            Bignon M, Roule V, Dahdouh Z, et al. Percutaneous balloon atrioseptostomy for left heart discharge i...    
-            2012-01-01
-            http://dx.doi.org/10.1111/j.1540-8183.2011.00681.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 240 </h1>
-            β-Sitosterolemia and Xanthomatosis: <i>A NEWLY DESCRIBED LIPID STORAGE DISEASE IN TWO SISTERS</i>    
-            1974-04-01
-            https://doi.org/10.1172/JCI107640
-            ======================================================================================================================================================
-            
-            <h1> Source: 241 </h1>
-            β-Sitosterolemia and Xanthomatosis: <i>A NEWLY DESCRIBED LIPID STORAGE DISEASE IN TWO SISTERS</i>    
-            1974-04-01
-            https://doi.org/10.1172/JCI107640
-            ======================================================================================================================================================
-            
-            <h1> Source: 242 </h1>
-            A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000529
-            ======================================================================================================================================================
-            
-            <h1> Source: 243 </h1>
-            Ong SWX, Tan YK, Chia PY, et al. Air, surface environmental, and personal protective equipment conta...    
-            2020-01-01
-            http://dx.doi.org/10.1001/jama.2020.3227
-            ======================================================================================================================================================
-            
-            <h1> Source: 244 </h1>
-            Reisen WK , Fang Y , Martinez VM . Medline Effects of temperature on the transmission of West Nile v...    
-            2006-01-01
-            https://doi.org/10.1603/0022-2585(2006)043[0309:EOTOTT]2.0.CO;2
-            ======================================================================================================================================================
-            
-            <h1> Source: 245 </h1>
-            Asadi S, Wexler AS, Cappa CD, Barreda S, Bouvier NM, Ristenpart WD. Aerosol emission and superemissi...    
-            2019-02-20
-            http://dx.doi.org/10.1038/s41598-019-38808-z
-            ======================================================================================================================================================
-            
-            <h1> Source: 246 </h1>
-            Kimball A, Hatfield KM, Arons M, et al. Asymptomatic and presymptomatic SARS-CoV-2 infections in res...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6913e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 247 </h1>
-            Ng O-T, Marimuthu K, Chia P-Y, et al. SARS-CoV-2 infection among travelers returning from Wuhan, Chi...    
-            2020-01-01
-            http://dx.doi.org/10.1056/NEJMc2003100
-            ======================================================================================================================================================
-            
-            <h1> Source: 248 </h1>
-            Ng Y, Li Z, Chua YX, et al. Evaluation of the effectiveness of surveillance and containment measures...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6911e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 249 </h1>
-            Characterization of a novel cellular defect in patients with phenotypic homozygous familial hypercholesterolemia    
-            1999-09-01
-            https://doi.org/10.1172/JCI6677
-            ======================================================================================================================================================
-            
-            <h1> Source: 250 </h1>
-            Neutrophil-mediated endothelial injury in vitro mechanisms of cell detachment.    
-            1981-12-01
-            https://doi.org/10.1172%2FJCI110390
-            ======================================================================================================================================================
-            
-            <h1> Source: 251 </h1>
-            Characterization of a novel cellular defect in patients with phenotypic homozygous familial hypercholesterolemia    
-            1999-09-01
-            https://doi.org/10.1172/JCI6677
-            ======================================================================================================================================================
-            
-            <h1> Source: 252 </h1>
-            Hu Z, Song C, Xu C, et al. Clinical characteristics of 24 asymptomatic infections with COVID-19 scre...    
-            2020-05-17
-            http://dx.doi.org/10.1007/s11427-020-1661-4
-            ======================================================================================================================================================
-            
-            <h1> Source: 253 </h1>
-            Wang Y, Liu Y, Liu L, Wang X, Luo N, Ling L. Clinical outcome of 55 asymptomatic cases at the time o...    
-            2020-01-01
-            http://dx.doi.org/10.1093/infdis/jiaa119
-            ======================================================================================================================================================
-            
-            <h1> Source: 254 </h1>
-            Detection of sharing by descent, long-range phasing and haplotype imputation    
-            2008-09-17
-            https://doi.org/10.1038%2Fng.216
-            ======================================================================================================================================================
-            
-            <h1> Source: 255 </h1>
-            Suggested citation for this article: Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6914e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 256 </h1>
-            Ong SWX, Tan YK, Chia PY, et al. Air, surface environmental, and personal protective equipment conta...    
-            2020-01-01
-            http://dx.doi.org/10.1001/jama.2020.3227
-            ======================================================================================================================================================
-            
-            <h1> Source: 257 </h1>
-            An integrated map of genetic variation from 1,092 human genomes    
-            2012-11-17
-            https://doi.org/10.1038%2Fnature11632
-            ======================================================================================================================================================
-            
-            <h1> Source: 258 </h1>
-            A serine elastase inhibitor reduces inflammation and fibrosis and preserves cardiac function after experimentally-induced murine myocarditis    
-            1998-12-17
-            https://doi.org/10.1038%2F3973
-            ======================================================================================================================================================
-            
-            <h1> Source: 259 </h1>
-            Sharp, K., Kretzschmar, W., Delaneau, O. & Marchini, J. Phasing for medical sequencing using rare va...    
-            2016-01-01
-            https://doi.org/10.1093/bioinformatics/btw065
-            ======================================================================================================================================================
-            
-            <h1> Source: 260 </h1>
-            Transitions between sickness absence, work, unemployment, and disability in Denmark 2004–2008    
-            2012-11-01
-            https://doi.org/10.5271%2Fsjweh.3293
-            ======================================================================================================================================================
-            
-            <h1> Source: 261 </h1>
-            A linear complexity phasing method for thousands of genomes    
-            2012-02-17
-            https://doi.org/10.1038%2Fnmeth.1785
-            ======================================================================================================================================================
-            
-            <h1> Source: 262 </h1>
-            The landscape of recombination in African Americans    
-            2011-08-17
-            https://doi.org/10.1038%2Fnature10336
-            ======================================================================================================================================================
-            
-            <h1> Source: 263 </h1>
-            In vivo evidence for reduced binding of low density lipoproteins to receptors as a cause of primary moderate hypercholesterolemia.    
-            1986-11-01
-            https://doi.org/10.1172/JCI112729
-            ======================================================================================================================================================
-            
-            <h1> Source: 264 </h1>
-            Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease    
-            2012-11-17
-            https://doi.org/10.1038%2Fnature11582
-            ======================================================================================================================================================
-            
-            <h1> Source: 265 </h1>
-            In vivo evidence for reduced binding of low density lipoproteins to receptors as a cause of primary moderate hypercholesterolemia.    
-            1986-11-01
-            https://doi.org/10.1172/JCI112729
-            ======================================================================================================================================================
-            
-            <h1> Source: 266 </h1>
-            Multi-state Models in Epidemiology    
-            1999-12-17
-            https://doi.org/10.1023%2FA%3A1009636125294
-            ======================================================================================================================================================
-            
-            <h1> Source: 267 </h1>
-            Disruption of LDL receptor gene in transgenic SREBP-1a mice unmasks hyperlipidemia resulting from production of lipid-rich VLDL    
-            1999-04-01
-            https://doi.org/10.1172/JCI6246
-            ======================================================================================================================================================
-            
-            <h1> Source: 268 </h1>
-            Multi-state Models: A Review    
-            1999-09-17
-            https://doi.org/10.1023%2FA%3A1009672031531
-            ======================================================================================================================================================
-            
-            <h1> Source: 269 </h1>
-            McCarthy, S. et al. A reference panel of 64,976 haplotypes for genotype imputation. BioRxiv http://d...    
-            2016-04-05
-            https://doi.org/10.1101/035170
-            ======================================================================================================================================================
-            
-            <h1> Source: 270 </h1>
-            Genotype imputation for genome-wide association studies    
-            2010-07-17
-            https://doi.org/10.1038%2Fnrg2796
-            ======================================================================================================================================================
-            
-            <h1> Source: 271 </h1>
-            Implications for familial hypercholesterolemia from the structure of the LDL receptor YWTD-EGF domain pair    
-            2001-06-17
-            https://doi.org/10.1038/88556
-            ======================================================================================================================================================
-            
-            <h1> Source: 272 </h1>
-            Data quality control in genetic case-control association studies    
-            2010-09-17
-            https://doi.org/10.1038%2Fnprot.2010.116
-            ======================================================================================================================================================
-            
-            <h1> Source: 273 </h1>
-            Disruption of LDL receptor gene in transgenic SREBP-1a mice unmasks hyperlipidemia resulting from production of lipid-rich VLDL    
-            1999-04-01
-            https://doi.org/10.1172/JCI6246
-            ======================================================================================================================================================
-            
-            <h1> Source: 274 </h1>
-            A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000529
-            ======================================================================================================================================================
-            
-            <h1> Source: 275 </h1>
-            Imputation of the Rare HOXB13 G84E Mutation and Cancer Risk in a Large Population-Based Cohort    
-            2015-01-28
-            https://doi.org/10.1371%2Fjournal.pgen.1004930
-            ======================================================================================================================================================
-            
-            <h1> Source: 276 </h1>
-            Contribution of the innate immune system to autoimmune myocarditis: a role for complement    
-            2001-08-17
-            https://doi.org/10.1038%2F90686
-            ======================================================================================================================================================
-            
-            <h1> Source: 277 </h1>
-            Partial sick leave—review of its use, effects and feasibility in the Nordic countries    
-            2008-09-15
-            https://doi.org/10.5271%2Fsjweh.1266
-            ======================================================================================================================================================
-            
-            <h1> Source: 278 </h1>
-            Multicohort analysis of the maternal age effect on recombination    
-            2015-08-05
-            https://doi.org/10.1038%2Fncomms8846
-            ======================================================================================================================================================
-            
-            <h1> Source: 279 </h1>
-            Return to work after early part-time sick leave due to musculoskeletal disorders: a randomized controlled trial    
-            2012-03-17
-            https://doi.org/10.5271%2Fsjweh.3258
-            ======================================================================================================================================================
-            
-            <h1> Source: 280 </h1>
-            Effectiveness of an exposure-based return-to-work program for workers on sick leave due to common mental disorders: a cluster-randomized controlled trial    
-            2013-03-01
-            https://doi.org/10.5271%2Fsjweh.3320
-            ======================================================================================================================================================
-            
-            <h1> Source: 281 </h1>
-            Loh, P.-R., Palamara, P.F. & Price, A.L. Fast and accurate long-range phasing and imputation in a UK...    
-            2016-07-17
-            https://doi.org/10.1038/ng.3571
-            ======================================================================================================================================================
-            
-            <h1> Source: 282 </h1>
-            Prelamin A and lamin A appear to be dispensable in the nuclear lamina    
-            2006-03-01
-            https://doi.org/10.1172/JCI27125
-            ======================================================================================================================================================
-            
-            <h1> Source: 283 </h1>
-            A second generation human haplotype map of over 3.1 million SNPs    
-            2007-10-17
-            https://doi.org/10.1038%2Fnature06258
-            ======================================================================================================================================================
-            
-            <h1> Source: 284 </h1>
-            Causality    
-            2009-09-17
-            https://doi.org/10.1017%2FCBO9780511803161
-            ======================================================================================================================================================
-            
-            <h1> Source: 285 </h1>
-            Association analyses identify 38 susceptibility loci for inflammatory bowel disease and highlight shared genetic risk across populations    
-            2015-09-17
-            https://doi.org/10.1038%2Fng.3359
-            ======================================================================================================================================================
-            
-            <h1> Source: 286 </h1>
-            Counterfactuals and Causal Inference: Methods and Principles for Social Research    
-            2014-11-17
-            https://doi.org/10.1017%2FCBO9781107587991
-            ======================================================================================================================================================
-            
-            <h1> Source: 287 </h1>
-            Mahase E (2020) Coronavirus: covid-19 has killed more people than SARS and MERS combined, despite lo...    
-            2020-01-01
-            https://doi.org/10.1136/bmj.m641
-            ======================================================================================================================================================
-            
-            <h1> Source: 288 </h1>
-            High-density mapping of the MHC identifies a shared role for HLA-DRB1*01:03 in inflammatory bowel diseases and heterozygous advantage in ulcerative colitis    
-            2015-02-17
-            https://doi.org/10.1038%2Fng.3176
-            ======================================================================================================================================================
-            
-            <h1> Source: 289 </h1>
-            Multi-State Models for Panel Data: The msm Package for R    
-            2011-01-04
-            https://doi.org/10.18637%2Fjss.v038.i08
-            ======================================================================================================================================================
-            
-            <h1> Source: 290 </h1>
-            Multiple novel gene-by-environment interactions modify the effect of FTO variants on body mass index    
-            2016-09-06
-            https://doi.org/10.1038%2Fncomms12724
-            ======================================================================================================================================================
-            
-            <h1> Source: 291 </h1>
-            msSurv: An R Package for Nonparametric Estimation of Multistate Models    
-            2012-09-22
-            https://doi.org/10.18637%2Fjss.v050.i14
-            ======================================================================================================================================================
-            
-            <h1> Source: 292 </h1>
-            The UK Adult Twin Registry (TwinsUK Resource)    
-            2013-02-17
-            https://doi.org/10.1017%2Fthg.2012.89
-            ======================================================================================================================================================
-            
-            <h1> Source: 293 </h1>
-            Multimodal population brain imaging in the UK Biobank prospective epidemiological study    
-            2016-11-17
-            https://doi.org/10.1038%2Fnn.4393
-            ======================================================================================================================================================
-            
-            <h1> Source: 294 </h1>
-            Large Scale Population Assessment of Physical Activity Using Wrist Worn Accelerometers: The UK Biobank Study    
-            2017-02-01
-            https://doi.org/10.1371%2Fjournal.pone.0169649
-            ======================================================================================================================================================
-            
-            <h1> Source: 295 </h1>
-            Nakamura T, Ishida K, Taniguchi Y, et al. Prognosis of patients with fulminant myocarditis managed b...    
-            2015-12-17
-            http://dx.doi.org/10.1186/s40560-014-0069-9
-            ======================================================================================================================================================
-            
-            <h1> Source: 296 </h1>
-            A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000529
-            ======================================================================================================================================================
-            
-            <h1> Source: 297 </h1>
-            UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
-            2015-03-31
-            https://doi.org/10.1371%2Fjournal.pmed.1001779
-            ======================================================================================================================================================
-            
-            <h1> Source: 298 </h1>
-            Suggested citation for this article: Ng Y, Li Z, Chua YX, et al. Evaluation of the Effectiveness of ...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6911e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 299 </h1>
-            Genetic risk and a primary role for cell-mediated immune mechanisms in multiple sclerosis    
-            2011-08-17
-            https://doi.org/10.1038%2Fnature10251
-            ======================================================================================================================================================
-            
-            <h1> Source: 300 </h1>
-            Gareth Griffith Tweet    
-            2020-11-12
-            https://x.com/Garethjgriffith/status/1326935579871817728
-            ======================================================================================================================================================
-            
-            <h1> Source: 301 </h1>
-            Analysis of protein-coding genetic variation in 60,706 humans    
-            2016-08-17
-            https://doi.org/10.1038%2Fnature19057
-            ======================================================================================================================================================
-            
-            <h1> Source: 302 </h1>
-            The UK10K project identifies rare variants in health and disease    
-            2015-10-17
-            https://doi.org/10.1038%2Fnature14962
-            ======================================================================================================================================================
-            
-            <h1> Source: 303 </h1>
-            The effects of human population structure on large genetic association studies    
-            2004-05-17
-            https://doi.org/10.1038%2Fng1337
-            ======================================================================================================================================================
-            
-            <h1> Source: 304 </h1>
-            Chocron S, Perrotti A, Durst C, et al. Left ventricular venting through the right subclavian artery ...    
-            2013-01-01
-            http://dx.doi.org/10.1093/icvts/ivt119
-            ======================================================================================================================================================
-            
-            <h1> Source: 305 </h1>
-            Confounding from Cryptic Relatedness in Case-Control Association Studies    
-            2005-09-02
-            https://doi.org/10.1371%2Fjournal.pgen.0010032
-            ======================================================================================================================================================
-            
-            <h1> Source: 306 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 307 </h1>
-            Avalli L, Maggioni E, Sangalli F, et al. Percutaneous left-heart decompression during extracorporeal...    
-            2011-01-01
-            http://dx.doi.org/10.1097/MAT.0b013e3181fe5d0b
-            ======================================================================================================================================================
-            
-            <h1> Source: 308 </h1>
-            Haplotype estimation for biobank-scale data sets    
-            2016-07-17
-            https://doi.org/10.1038%2Fng.3583
-            ======================================================================================================================================================
-            
-            <h1> Source: 309 </h1>
-            A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
-            2014-04-17
-            https://doi.org/10.1371%2Fjournal.pgen.1004234
-            ======================================================================================================================================================
-            
-            <h1> Source: 310 </h1>
-            A global reference for human genetic variation    
-            2015-10-17
-            https://doi.org/10.1038%2Fnature15393
-            ======================================================================================================================================================
-            
-            <h1> Source: 311 </h1>
-            A reference panel of 64,976 haplotypes for genotype imputation    
-            2016-10-17
-            https://doi.org/10.1038%2Fng.3643
-            ======================================================================================================================================================
-            
-            <h1> Source: 312 </h1>
-            Young BE, Ong SWX, Kalimuddin S, et al.; Singapore 2019 Novel Coronavirus Outbreak Research Team. Ep...    
-            2019-01-01
-            http://dx.doi.org/10.1001/jama.2020.3204
-            ======================================================================================================================================================
-            
-            <h1> Source: 313 </h1>
-            Improved imputation of low-frequency and rare variants using the UK10K haplotype reference panel    
-            2015-09-14
-            https://doi.org/10.1038%2Fncomms9111
-            ======================================================================================================================================================
-            
-            <h1> Source: 314 </h1>
-            Cheng A, Swartz MF, Massey HT. Impella to unload the left ventricle during peripheral extracorporeal...    
-            2013-01-01
-            http://dx.doi.org/10.1097/MAT.0b013e31829f0e52
-            ======================================================================================================================================================
-            
-            <h1> Source: 315 </h1>
-            Collective dynamics of ‘small-world’ networks    
-            1998-06-17
-            https://doi.org/10.1038%2F30918
-            ======================================================================================================================================================
-            
-            <h1> Source: 316 </h1>
-            High Doses of Digitalis Increase the Myocardial Production of Proinflammatory Cytokines and Worsen Myocardial Injury in Viral Myocarditis A Possible Mechanism of Digitalis Toxicity    
-            1999-01-17
-            https://doi.org/10.1253%2Fjcj.63.934
-            ======================================================================================================================================================
-            
-            <h1> Source: 317 </h1>
-            Genome-wide association study of depression phenotypes in UK Biobank identifies variants in excitatory synaptic pathways    
-            2018-04-16
-            https://doi.org/10.1038%2Fs41467-018-03819-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 318 </h1>
-            Carpenter , Daniel P. 2002 . Groups, the media, agency waiting costs, and FDA drug approval . Americ...    
-            2002-01-01
-            https://dx.doi.org/10.2307/3088394
-            ======================================================================================================================================================
-            
-            <h1> Source: 319 </h1>
-            Multi-Population Classical HLA Type Imputation    
-            2013-02-14
-            https://doi.org/10.1371%2Fjournal.pcbi.1002877
-            ======================================================================================================================================================
-            
-            <h1> Source: 320 </h1>
-            Ng Y, Li Z, Chua YX, et al. Evaluation of the effectiveness of surveillance and containment measures...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6911e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 321 </h1>
-            Probing the links between in vitro potency, ADMET and physicochemical parameters    
-            2011-03-17
-            https://doi.org/10.1038%2Fnrd3367
-            ======================================================================================================================================================
-            
-            <h1> Source: 322 </h1>
-            Class II HLA interactions modulate genetic risk for multiple sclerosis    
-            2015-10-17
-            https://doi.org/10.1038%2Fng.3395
-            ======================================================================================================================================================
-            
-            <h1> Source: 323 </h1>
-            Defining the role of common variation in the genomic and biological architecture of adult human height    
-            2014-11-17
-            https://doi.org/10.1038%2Fng.3097
-            ======================================================================================================================================================
-            
-            <h1> Source: 324 </h1>
-            Improved whole-chromosome phasing for disease and population genetic studies    
-            2013-01-17
-            https://doi.org/10.1038%2Fnmeth.2307
-            ======================================================================================================================================================
-            
-            <h1> Source: 325 </h1>
-            Bayesian refinement of association signals for 14 loci in 3 common diseases    
-            2012-12-17
-            https://doi.org/10.1038%2Fng.2435
-            ======================================================================================================================================================
-            
-            <h1> Source: 326 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 327 </h1>
-            Blitvich BJ , Marlenee NL , Hall RA , Calisher CH , Bowen RA , Roehrig JT , Epitope-blocking enzyme-...    
-            2003-01-01
-            https://doi.org/10.1128/JCM.41.3.1041-1047.2003
-            ======================================================================================================================================================
-            
-            <h1> Source: 328 </h1>
-            Reference-based phasing using the Haplotype Reference Consortium panel    
-            2016-11-17
-            https://doi.org/10.1038%2Fng.3679
-            ======================================================================================================================================================
-            
-            <h1> Source: 329 </h1>
-            Inference of Population Structure using Dense Haplotype Data    
-            2012-01-26
-            https://doi.org/10.1371%2Fjournal.pgen.1002453
-            ======================================================================================================================================================
-            
-            <h1> Source: 330 </h1>
-            Kimball A, Hatfield KM, Arons M, et al. Asymptomatic and presymptomatic SARS-CoV-2 infections in res...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6913e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 331 </h1>
-            Fast and accurate long-range phasing in a UK Biobank cohort    
-            2016-07-17
-            https://doi.org/10.1038%2Fng.3571
-            ======================================================================================================================================================
-            
-            <h1> Source: 332 </h1>
-            Finding the missing heritability of complex diseases    
-            2009-10-17
-            https://doi.org/10.1038%2Fnature08494
-            ======================================================================================================================================================
-            
-            <h1> Source: 333 </h1>
-            Consed: A Graphical Tool for Sequence Finishing    
-            1998-03-01
-            https://doi.org/10.1101%2Fgr.8.3.195
-            ======================================================================================================================================================
-            
-            <h1> Source: 334 </h1>
-            Genome-wide association analysis identifies new susceptibility loci for Behçet's disease and epistasis between HLA-B*51 and ERAP1    
-            2013-02-17
-            https://doi.org/10.1038%2Fng.2520
-            ======================================================================================================================================================
-            
-            <h1> Source: 335 </h1>
-            TXNIP Regulates Peripheral Glucose Metabolism in Humans    
-            2007-05-01
-            https://doi.org/10.1371%2Fjournal.pmed.0040158
-            ======================================================================================================================================================
-            
-            <h1> Source: 336 </h1>
-            High-density mapping of the MHC identifies a shared role for HLA-DRB1*01:03 in inflammatory bowel diseases and heterozygous advantage in ulcerative colitis    
-            2015-02-17
-            https://doi.org/10.1038%2Fng.3176
-            ======================================================================================================================================================
-            
-            <h1> Source: 337 </h1>
-            8. Pearl J . Causality: models, reasoning and inference , 2nd ed . Cambridge : Cambridge University ...    
-            2009-09-17
-            https://doi.org/10.1017/CBO9780511803161
-            ======================================================================================================================================================
-            
-            <h1> Source: 338 </h1>
-            Comment on “The economics of follow-on drug research and development: Trends in entry rates and the timing of development”    
-            2005-12-17
-            https://doi.org/10.2165%2F00019053-200523120-00002
-            ======================================================================================================================================================
-            
-            <h1> Source: 339 </h1>
-            Interaction between ERAP1 and HLA-B27 in ankylosing spondylitis implicates peptide handling in the mechanism for HLA-B27 in disease susceptibility    
-            2011-08-17
-            https://doi.org/10.1038%2Fng.873
-            ======================================================================================================================================================
-            
-            <h1> Source: 340 </h1>
-            10. Shrier I . Letter to the editor . Stat Med 2008 ; 27 : 2740 – 1 . 10.1002/sim.3172 Search in Goo...    
-            2008-01-01
-            https://doi.org/10.1002/sim.3172
-            ======================================================================================================================================================
-            
-            <h1> Source: 341 </h1>
-            A Polymorphism in the HLA-DPB1 Gene Is Associated with Susceptibility to Multiple Sclerosis    
-            2010-10-26
-            https://doi.org/10.1371%2Fjournal.pone.0013454
-            ======================================================================================================================================================
-            
-            <h1> Source: 342 </h1>
-            Differential confounding of rare and common variants in spatially structured populations    
-            2012-03-17
-            https://doi.org/10.1038%2Fng.1074
-            ======================================================================================================================================================
-            
-            <h1> Source: 343 </h1>
-            5. Rubin DB . Should observational studies be designed to allow lack of balance in covariate distrib...    
-            2009-01-01
-            https://doi.org/10.1002/sim.3565
-            ======================================================================================================================================================
-            
-            <h1> Source: 344 </h1>
-            4. Rosenbaum PR . Observational studies . New York : Springer , 2002 . 10.1007/978-1-4757-3692-2 Sea...    
-            2002-01-08
-            https://doi.org/10.1007/978-1-4757-3692-2
-            ======================================================================================================================================================
-            
-            <h1> Source: 345 </h1>
-            6. VanderWeele TJ , Shpitser I . A new criterion for confounder selection . Biometrics 2011 ; 67 : 1...    
-            2011-01-01
-            https://doi.org/10.1111/j.1541-0420.2011.01619.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 346 </h1>
-            3. Hernán MA , Hernandez-Diaz S , Robins JM . A structural approach to selection bias . Epidemiology...    
-            2004-01-01
-            https://doi.org/10.1097/01.ede.0000135174.63482.43
-            ======================================================================================================================================================
-            
-            <h1> Source: 347 </h1>
-            A genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.694
-            ======================================================================================================================================================
-            
-            <h1> Source: 348 </h1>
-            11. Shrier I . Propensity scores . Stat Med 2009 ; 28 : 1315 – 18 . 10.1002/sim.3554 Search in Googl...    
-            2009-01-01
-            https://doi.org/10.1002/sim.3554
-            ======================================================================================================================================================
-            
-            <h1> Source: 349 </h1>
-            Whole population, genome-wide mapping of hidden relatedness    
-            2009-02-01
-            https://doi.org/10.1101%2Fgr.081398.108
-            ======================================================================================================================================================
-            
-            <h1> Source: 350 </h1>
-            2. Heckman JJ . Sample selection bias as a specification error . Econometrica 1979 ; 47 : 153 – 61 ....    
-            1979-01-01
-            https://doi.org/10.2307/1912352
-            ======================================================================================================================================================
-            
-            <h1> Source: 351 </h1>
-            12. Sjölander A . Propensity scores and M-structures . Stat Med 2009 ; 28 : 1416 – 20 . 10.1002/sim....    
-            2009-01-01
-            https://doi.org/10.1002/sim.3532
-            ======================================================================================================================================================
-            
-            <h1> Source: 352 </h1>
-            7. Rosenbaum PR , Rubin DB . The central role of the propensity score in observational studies for c...    
-            1983-01-01
-            https://doi.org/10.1093/biomet/70.1.41
-            ======================================================================================================================================================
-            
-            <h1> Source: 353 </h1>
-            14. Pearl J . Causal diagrams for empirical research . Biometrika 1995 ; 82 : 669 – 88 . 10.1093/bio...    
-            1995-01-01
-            https://doi.org/10.1093/biomet/82.4.669
-            ======================================================================================================================================================
-            
-            <h1> Source: 354 </h1>
-            Functional epistasis on a common MHC haplotype associated with multiple sclerosis    
-            2006-10-17
-            https://doi.org/10.1038%2Fnature05133
-            ======================================================================================================================================================
-            
-            <h1> Source: 355 </h1>
-            15. Greenland S . Quantifying biases in causal models: classical confounding vs collider-stratificat...    
-            2002-01-01
-            https://doi.org/10.1097/01.EDE.0000042804.12056.6C
-            ======================================================================================================================================================
-            
-            <h1> Source: 356 </h1>
-            16. Berkson J . Limitations of the application of fourfold table analysis to hospital data . Biometr...    
-            1946-01-01
-            https://doi.org/10.2307/3002000
-            ======================================================================================================================================================
-            
-            <h1> Source: 357 </h1>
-            17. Liu W , Brookhart MA , Schneeweiss S , Mi X , Setoguchi S . Implications of m bias in epidemiolo...    
-            2012-01-01
-            https://doi.org/10.1093/aje/kws165
-            ======================================================================================================================================================
-            
-            <h1> Source: 358 </h1>
-            19. Wright S . The method of path coefficients . Ann Math Stat 1934 ; 5 : 161 – 215 . 10.1214/aoms/1...    
-            None
-            https://doi.org/10.1214/aoms/1177732676
-            ======================================================================================================================================================
-            
-            <h1> Source: 359 </h1>
-            A functional and structural basis for TCR cross-reactivity in multiple sclerosis    
-            2002-10-17
-            https://doi.org/10.1038%2Fni835
-            ======================================================================================================================================================
-            
-            <h1> Source: 360 </h1>
-            Fine-Mapping the Genetic Association of the Major Histocompatibility Complex in Multiple Sclerosis: HLA and Non-HLA Effects    
-            2013-11-21
-            https://doi.org/10.1371%2Fjournal.pgen.1003926
-            ======================================================================================================================================================
-            
-            <h1> Source: 361 </h1>
-            O'Connell, J. et al. Haplotype estimation for biobank-scale data sets. Nat. Genet. http://dx.doi.org...    
-            2016-07-17
-            https://doi.org/10.1038/ng.3583
-            ======================================================================================================================================================
-            
-            <h1> Source: 362 </h1>
-            Millard, L. A. C., Davies, N. M., Gaunt, T. R., Davey, Smith G. & Tilling, K. Software Application p...    
-            2017-01-01
-            https://doi.org/10.1093/ije/dyx204
-            ======================================================================================================================================================
-            
-            <h1> Source: 363 </h1>
-            23. Rubin DB . The design versus the analysis of observational studies for causal effects: parallels...    
-            2007-01-01
-            https://doi.org/10.1002/sim.2739
-            ======================================================================================================================================================
-            
-            <h1> Source: 364 </h1>
-            Meta-analysis of genome scans and replication identify CD6, IRF8 and TNFRSF1A as new multiple sclerosis susceptibility loci    
-            2009-07-17
-            https://doi.org/10.1038%2Fng.401
-            ======================================================================================================================================================
-            
-            <h1> Source: 365 </h1>
-            Elsworth, B. et al. MRC IEU UK Biobank GWAS pipeline, version 2. https://doi.org/10.5523/bris.pnoat8...    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 366 </h1>
-            24. Neyman J . On the application of probability theory to agricultural experiments. Essay on princi...    
-            None
-            https://doi.org/10.1214/ss/1177012031
-            ======================================================================================================================================================
-            
-            <h1> Source: 367 </h1>
-            Variants within the immunoregulatory CBLB gene are associated with multiple sclerosis    
-            2010-06-17
-            https://doi.org/10.1038%2Fng.584
-            ======================================================================================================================================================
-            
-            <h1> Source: 368 </h1>
-            Mutations in factor H reduce binding affinity to C3b and heparin and surface attachment to endothelial cells in hemolytic uremic syndrome    
-            2003-04-15
-            https://doi.org/10.1172%2FJCI16651
-            ======================================================================================================================================================
-            
-            <h1> Source: 369 </h1>
-            Identification of a novel X-linked gene responsible for Emery-Dreifuss muscular dystrophy    
-            1994-12-17
-            https://doi.org/10.1038/ng1294-323
-            ======================================================================================================================================================
-            
-            <h1> Source: 370 </h1>
-            To Explain or to Predict?    
-            None
-            https://doi.org/10.1214%2F10-STS330
-            ======================================================================================================================================================
-            
-            <h1> Source: 371 </h1>
-            28. Rubin DB . For objective causal inference, design trumps analysis . Ann Appl Stat 2008 ; 2 : 808...    
-            None
-            https://doi.org/10.1214/08-AOAS187
-            ======================================================================================================================================================
-            
-            <h1> Source: 372 </h1>
-            Multi-Population Classical HLA Type Imputation    
-            2013-02-14
-            https://doi.org/10.1371%2Fjournal.pcbi.1002877
-            ======================================================================================================================================================
-            
-            <h1> Source: 373 </h1>
-            Principal components analysis corrects for stratification in genome-wide association studies    
-            2006-08-17
-            https://doi.org/10.1038%2Fng1847
-            ======================================================================================================================================================
-            
-            <h1> Source: 374 </h1>
-            Common variants near CAV1 and CAV2 are associated with primary open-angle glaucoma    
-            2010-10-17
-            https://doi.org/10.1038%2Fng.661
-            ======================================================================================================================================================
-            
-            <h1> Source: 375 </h1>
-            Kuster, G. M. et al. SARS-CoV2: should inhibitors of the renin-angiotensin system be withdrawn in pa...    
-            2020-01-01
-            https://doi.org/10.1093/eurheartj/ehaa235
-            ======================================================================================================================================================
-            
-            <h1> Source: 376 </h1>
-            Bean, D. et al. Treatment with ACE-inhibitors is associated with less severe disease with SARS-Covid...    
-            2020-01-01
-            https://doi.org/10.1101/2020.04.07.20056788v1
-            ======================================================================================================================================================
-            
-            <h1> Source: 377 </h1>
-            The UK Biobank resource with deep phenotyping and genomic data    
-            2018-10-17
-            https://doi.org/10.1038%2Fs41586-018-0579-z
-            ======================================================================================================================================================
-            
-            <h1> Source: 378 </h1>
-            Patel, A. P., Paranjpe, M. D., Kathiresan, N. P., Rivas, M. A. & Khera, A. V. Race, socioeconomic de...    
-            2020-05-02
-            https://doi.org/10.1101/2020.04.27.20082107
-            ======================================================================================================================================================
-            
-            <h1> Source: 379 </h1>
-            Genetic epidemiology and Mendelian randomization for informing disease therapeutics: Conceptual and methodological challenges    
-            2017-10-05
-            https://doi.org/10.1371%2Fjournal.pgen.1006944
-            ======================================================================================================================================================
-            
-            <h1> Source: 380 </h1>
-            Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
-            2015-06-17
-            https://doi.org/10.1007/s12552-015-9146-5
-            ======================================================================================================================================================
-            
-            <h1> Source: 381 </h1>
-            Lacerda, G., Spirtes, P., Ramsey, J., & Hoyer, P.O. (2008). Discovering cyclic causal models by inde...    
-            2008-01-01
-            http://dx.doi.org/10.1093/oso/9780198522195.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 382 </h1>
-            UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
-            2015-03-31
-            https://doi.org/10.1371%2Fjournal.pmed.1001779
-            ======================================================================================================================================================
-            
-            <h1> Source: 383 </h1>
-            The Statistics of Causal Inference: A View from Political Methodology    
-            2015-07-17
-            https://doi.org/10.1093/pan/mpv007
-            ======================================================================================================================================================
-            
-            <h1> Source: 384 </h1>
-            Mutations in the gene encoding lamin A/C cause autosomal dominant Emery-Dreifuss muscular dystrophy    
-            1999-03-17
-            https://doi.org/10.1038/6799
-            ======================================================================================================================================================
-            
-            <h1> Source: 385 </h1>
-            Identification of low-frequency and rare sequence variants associated with elevated or reduced risk of type 2 diabetes    
-            2014-03-17
-            https://doi.org/10.1038%2Fng.2882
-            ======================================================================================================================================================
-            
-            <h1> Source: 386 </h1>
-            Patient-specific induced pluripotent stem-cell-derived models of LEOPARD syndrome    
-            2010-06-17
-            https://doi.org/10.1038%2Fnature09005
-            ======================================================================================================================================================
-            
-            <h1> Source: 387 </h1>
-            Modèles structuraux et inférence causale    
-            2015-01-17
-            https://doi.org/10.4000/books.pur.61649
-            ======================================================================================================================================================
-            
-            <h1> Source: 388 </h1>
-            Two independent alleles at 6q23 associated with risk of rheumatoid arthritis    
-            2007-12-17
-            https://doi.org/10.1038%2Fng.2007.27
-            ======================================================================================================================================================
-            
-            <h1> Source: 389 </h1>
-            Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
-            2015-12-17
-            https://doi.org/10.1186/s12889-015-2408-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 390 </h1>
-            5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
-            2012-01-17
-            https://doi.org/10.4000/books.pum.8791
-            ======================================================================================================================================================
-            
-            <h1> Source: 391 </h1>
-            The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
-            2014-10-27
-            https://doi.org/10.15195/v1.a25
-            ======================================================================================================================================================
-            
-            <h1> Source: 392 </h1>
-            A study based on whole-genome sequencing yields a rare variant at 8q24 associated with prostate cancer    
-            2012-12-17
-            https://doi.org/10.1038%2Fng.2437
-            ======================================================================================================================================================
-            
-            <h1> Source: 393 </h1>
-            This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
-            2017-12-14
-            https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
-            ======================================================================================================================================================
-            
-            <h1> Source: 394 </h1>
-            CFH haplotypes without the Y402H coding variant show strong association with susceptibility to age-related macular degeneration    
-            2006-09-17
-            https://doi.org/10.1038%2Fng1871
-            ======================================================================================================================================================
-            
-            <h1> Source: 395 </h1>
-            A Proposed Classification of the Immunological Diseases    
-            2006-08-29
-            https://doi.org/10.1371%2Fjournal.pmed.0030297
-            ======================================================================================================================================================
-            
-            <h1> Source: 396 </h1>
-            Loss-of-function variants in ABCA7 confer risk of Alzheimer's disease    
-            2015-05-17
-            https://doi.org/10.1038%2Fng.3246
-            ======================================================================================================================================================
-            
-            <h1> Source: 397 </h1>
-            The economics of follow-on drug research and development    
-            2004-10-17
-            https://doi.org/10.2165%2F00019053-200422002-00002
-            ======================================================================================================================================================
-            
-            <h1> Source: 398 </h1>
-            A rare nonsynonymous sequence variant in C3 is associated with high risk of age-related macular degeneration    
-            2013-11-17
-            https://doi.org/10.1038%2Fng.2740
-            ======================================================================================================================================================
-            
-            <h1> Source: 399 </h1>
-            Emerin deficiency at the nuclear membrane in patients with Emery-Dreif uss muscular dystrophy    
-            1996-03-17
-            https://doi.org/10.1038/ng0396-254
-            ======================================================================================================================================================
-            
-            <h1> Source: 400 </h1>
-            A role for mitochondria in NLRP3 inflammasome activation    
-            2011-01-17
-            https://doi.org/10.1038%2Fnature09663
-            ======================================================================================================================================================
-            
-            <h1> Source: 401 </h1>
-            The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data    
-            2010-09-01
-            https://doi.org/10.1101%2Fgr.107524.110
-            ======================================================================================================================================================
-            
-            <h1> Source: 402 </h1>
-            Common and low-frequency variants associated with genome-wide recombination rate    
-            2014-01-17
-            https://doi.org/10.1038%2Fng.2833
-            ======================================================================================================================================================
-            
-            <h1> Source: 403 </h1>
-            Genome-wide association study identifies variants in the CFH region associated with host susceptibility to meningococcal disease    
-            2010-09-17
-            https://doi.org/10.1038%2Fng.640
-            ======================================================================================================================================================
-            
-            <h1> Source: 404 </h1>
-            Automating sequence-based detection and genotyping of SNPs from diploid samples    
-            2006-03-17
-            https://doi.org/10.1038%2Fng1746
-            ======================================================================================================================================================
-            
-            <h1> Source: 405 </h1>
-            LMNA, encoding lamin A/C, is mutated in partial lipodystrophy    
-            2000-02-17
-            https://doi.org/10.1038/72807
-            ======================================================================================================================================================
-            
-            <h1> Source: 406 </h1>
-            Returns on Research and Development for 1990s New Drug Introductions    
-            2002-12-17
-            https://doi.org/10.2165%2F00019053-200220003-00002
-            ======================================================================================================================================================
-            
-            <h1> Source: 407 </h1>
-            Associations of CFHR1–CFHR3 deletion and a CFH SNP to age-related macular degeneration are not independent    
-            2010-07-17
-            https://doi.org/10.1038%2Fng0710-553
-            ======================================================================================================================================================
-            
-            <h1> Source: 408 </h1>
-            Recurrent de novo point mutations in lamin A cause Hutchinson–Gilford progeria syndrome    
-            2003-05-17
-            https://doi.org/10.1038/nature01629
-            ======================================================================================================================================================
-            
-            <h1> Source: 409 </h1>
-            Base-Calling of Automated Sequencer Traces UsingPhred. I. Accuracy Assessment    
-            1998-03-01
-            https://doi.org/10.1101%2Fgr.8.3.175
-            ======================================================================================================================================================
-            
-            <h1> Source: 410 </h1>
-            Activation of the NALP3 inflammasome is triggered by low intracellular potassium concentration    
-            2007-09-17
-            https://doi.org/10.1038%2Fsj.cdd.4402195
-            ======================================================================================================================================================
-            
-            <h1> Source: 411 </h1>
-            Variation near complement factor I is associated with risk of advanced AMD    
-            2009-01-17
-            https://doi.org/10.1038%2Fejhg.2008.140
-            ======================================================================================================================================================
-            
-            <h1> Source: 412 </h1>
-            Discovery of common variants associated with low TSH levels and thyroid cancer risk    
-            2012-03-17
-            https://doi.org/10.1038%2Fng.1046
-            ======================================================================================================================================================
-            
-            <h1> Source: 413 </h1>
-            Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
-            2006-04-17
-            https://doi.org/10.1038%2Fng1750
-            ======================================================================================================================================================
-            
-            <h1> Source: 414 </h1>
-            Genome-wide association of early-onset myocardial infarction with single nucleotide polymorphisms and copy number variants    
-            2009-03-17
-            https://doi.org/10.1038%2Fng.327
-            ======================================================================================================================================================
-            
-            <h1> Source: 415 </h1>
-            A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
-            2014-04-17
-            https://doi.org/10.1371%2Fjournal.pgen.1004234
-            ======================================================================================================================================================
-            
-            <h1> Source: 416 </h1>
-            Lamin B1 duplications cause autosomal dominant leukodystrophy    
-            2006-10-17
-            https://doi.org/10.1038/ng1872
-            ======================================================================================================================================================
-            
-            <h1> Source: 417 </h1>
-            The SPRY domain of Pyrin, mutated in familial Mediterranean fever patients, interacts with inflammasome components and inhibits proIL-1β processing    
-            2007-08-17
-            https://doi.org/10.1038%2Fsj.cdd.4402142
-            ======================================================================================================================================================
-            
-            <h1> Source: 418 </h1>
-            Genetic and Functional Dissection of HTRA1 and LOC387715 in Age-Related Macular Degeneration    
-            2010-02-05
-            https://doi.org/10.1371%2Fjournal.pgen.1000836
-            ======================================================================================================================================================
-            
-            <h1> Source: 419 </h1>
-            Large-scale whole-genome sequencing of the Icelandic population    
-            2015-05-17
-            https://doi.org/10.1038%2Fng.3247
-            ======================================================================================================================================================
-            
-            <h1> Source: 420 </h1>
-            Loss of the autophagy protein Atg16L1 enhances endotoxin-induced IL-1β production    
-            2008-11-17
-            https://doi.org/10.1038%2Fnature07383
-            ======================================================================================================================================================
-            
-            <h1> Source: 421 </h1>
-            Cryopyrin and pyrin activate caspase-1, but not NF-κB, via ASC oligomerization    
-            2006-02-17
-            https://doi.org/10.1038%2Fsj.cdd.4401734
-            ======================================================================================================================================================
-            
-            <h1> Source: 422 </h1>
-            LD Score regression distinguishes confounding from polygenicity in genome-wide association studies    
-            2015-03-17
-            https://doi.org/10.1038%2Fng.3211
-            ======================================================================================================================================================
-            
-            <h1> Source: 423 </h1>
-            Activation of MAPK pathways links <i>LMNA</i> mutations to cardiomyopathy in Emery-Dreifuss muscular dystrophy    
-            2007-05-01
-            https://doi.org/10.1172/JCI29042
-            ======================================================================================================================================================
-            
-            <h1> Source: 424 </h1>
-            Progerin elicits disease phenotypes of progeria in mice whether or not it is farnesylated    
-            2008-10-01
-            https://doi.org/10.1172/JCI35876
-            ======================================================================================================================================================
-            
-            <h1> Source: 425 </h1>
-            This dataset is superseded by https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 426 </h1>
-            Activation of MAPK pathways links <i>LMNA</i> mutations to cardiomyopathy in Emery-Dreifuss muscular dystrophy    
-            2007-05-01
-            https://doi.org/10.1172/JCI29042
-            ======================================================================================================================================================
-            
-            <h1> Source: 427 </h1>
-            Combined treatment with statins and aminobisphosphonates extends longevity in a mouse model of human premature aging    
-            2008-07-17
-            https://doi.org/10.1038/nm1786
-            ======================================================================================================================================================
-            
-            <h1> Source: 428 </h1>
-            A farnesyltransferase inhibitor improves disease phenotypes in mice with a Hutchinson-Gilford progeria syndrome mutation    
-            2006-08-01
-            https://doi.org/10.1172/JCI28968
-            ======================================================================================================================================================
-            
-            <h1> Source: 429 </h1>
-            ER stress activates the NLRP3 inflammasome via an UPR-independent pathway    
-            2012-01-17
-            https://doi.org/10.1038%2Fcddis.2011.132
-            ======================================================================================================================================================
-            
-            <h1> Source: 430 </h1>
-            Variation in complement factor 3 is associated with risk of age-related macular degeneration    
-            2007-10-17
-            https://doi.org/10.1038%2Fng2131
-            ======================================================================================================================================================
-            
-            <h1> Source: 431 </h1>
-            Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration    
-            2006-09-17
-            https://doi.org/10.1038%2Fng1873
-            ======================================================================================================================================================
-            
-            <h1> Source: 432 </h1>
-            p53 mutant mice that display early ageing-associated phenotypes    
-            2002-01-17
-            https://doi.org/10.1038/415045a
-            ======================================================================================================================================================
-            
-            <h1> Source: 433 </h1>
-            Tellier, R. Review of aerosol transmission of influenza A virus. Emerg. Infect. Dis 12 , 1657–1662, ...    
-            2006-11-17
-            https://doi.org/10.3201/eid1211.060426
-            ======================================================================================================================================================
-            
-            <h1> Source: 434 </h1>
-            Accelerated ageing in mice deficient in Zmpste24 protease is linked to p53 signalling activation    
-            2005-09-17
-            https://doi.org/10.1038/nature04019
-            ======================================================================================================================================================
-            
-            <h1> Source: 435 </h1>
-            Lamin A-dependent misregulation of adult stem cells associated with accelerated ageing    
-            2008-04-17
-            https://doi.org/10.1038/ncb1708
-            ======================================================================================================================================================
-            
-            <h1> Source: 436 </h1>
-            Guidelines for Diagnosis and Treatment of Myocarditis (JCS 2009) – Digest Version –    
-            2011-01-17
-            https://doi.org/10.1253%2Fcircj.CJ-88-0008
-            ======================================================================================================================================================
-            
-            <h1> Source: 437 </h1>
-            Fulminant myocarditis    
-            2008-11-17
-            https://doi.org/10.1038%2Fncpcardio1331
-            ======================================================================================================================================================
-            
-            <h1> Source: 438 </h1>
-            Mutations in BRIP1 confer high risk of ovarian cancer    
-            2011-11-17
-            https://doi.org/10.1038%2Fng.955
-            ======================================================================================================================================================
-            
-            <h1> Source: 439 </h1>
-            Loss-of-function variants in ATM confer risk of gastric cancer    
-            2015-08-17
-            https://doi.org/10.1038%2Fng.3342
-            ======================================================================================================================================================
-            
-            <h1> Source: 440 </h1>
-            Stalnaker, R. “A Theory of Conditionals.” Studies in Logical Theory. Ed. Nicholas Rescher. Oxford: B...    
-            1968-01-17
-            http://dx.doi.org/10.1007/978-94-009-9117-0_2
-            ======================================================================================================================================================
-            
-            <h1> Source: 441 </h1>
-            Genomic instability in laminopathy-based premature aging    
-            2005-07-17
-            https://doi.org/10.1038/nm1266
-            ======================================================================================================================================================
-            
-            <h1> Source: 442 </h1>
-            Long-Term Prognosis of Fulminant Myocarditis Rescued by Percutaneous Cardiopulmonary Support Device    
-            2004-01-17
-            https://doi.org/10.1253%2Fcircj.68.829
-            ======================================================================================================================================================
-            
-            <h1> Source: 443 </h1>
-            Cryptic Distant Relatives Are Common in Both Isolated and Cosmopolitan Genetic Samples    
-            2012-04-03
-            https://doi.org/10.1371%2Fjournal.pone.0034267
-            ======================================================================================================================================================
-            
-            <h1> Source: 444 </h1>
-            Progerin elicits disease phenotypes of progeria in mice whether or not it is farnesylated    
-            2008-10-01
-            https://doi.org/10.1172/JCI35876
-            ======================================================================================================================================================
-            
-            <h1> Source: 445 </h1>
-            Lyon, A. “Causality.” British Journal for the Philosophy of Science 18.1 (1967): 1-20. http://dx.doi...    
-            1967-01-01
-            http://dx.doi.org/10.1093/bjps/18.1.1
-            ======================================================================================================================================================
-            
-            <h1> Source: 446 </h1>
-            Viral myocarditis—diagnosis, treatment options, and current controversies    
-            2015-11-17
-            https://doi.org/10.1038%2Fnrcardio.2015.108
-            ======================================================================================================================================================
-            
-            <h1> Source: 447 </h1>
-            Reversal of the cellular phenotype in the premature aging disease Hutchinson-Gilford progeria syndrome    
-            2005-04-17
-            https://doi.org/10.1038/nm1204
-            ======================================================================================================================================================
-            
-            <h1> Source: 448 </h1>
-            Veno-arterial extracorporeal membrane oxygenation for cardiogenic shock due to myocarditis in adult patients    
-            2016-07-17
-            https://doi.org/10.21037%2Fjtd.2016.06.26
-            ======================================================================================================================================================
-            
-            <h1> Source: 449 </h1>
-            Ding, L., Cai, W., Jing J.Q., Zhang, X.X., Cai Y., Shi, J.W., Liang, Q.M., Zhang, L.F., Sun, L.Z., Q...    
-            2020-02-23
-            https://doi.org/10.1360/SSV-2020-0044
-            ======================================================================================================================================================
-            
-            <h1> Source: 450 </h1>
-            A rare variant in MYH6 is associated with high risk of sick sinus syndrome    
-            2011-04-17
-            https://doi.org/10.1038%2Fng.781
-            ======================================================================================================================================================
-            
-            <h1> Source: 451 </h1>
-            Correction of cellular phenotypes of Hutchinson-Gilford Progeria cells by RNA interference    
-            2005-12-17
-            https://doi.org/10.1007/s00439-005-0051-7
-            ======================================================================================================================================================
-            
-            <h1> Source: 452 </h1>
-            A National Survey on Myocarditis Associated With the 2009 Influenza A (H1N1) Pandemic in Japan    
-            2010-01-17
-            https://doi.org/10.1253%2Fcircj.CJ-10-0452
-            ======================================================================================================================================================
-            
-            <h1> Source: 453 </h1>
-            Zhang, Z., Li, X., Zhang, W., Shi, Z.L., Zheng, Z., and Wang, T. (2020). Clinical Features and Treat...    
-            2020-06-17
-            https://doi.org/10.1007/s12250-020-00203-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 454 </h1>
-            A farnesyltransferase inhibitor improves disease phenotypes in mice with a Hutchinson-Gilford progeria syndrome mutation    
-            2006-08-01
-            https://doi.org/10.1172/JCI28968
-            ======================================================================================================================================================
-            
-            <h1> Source: 455 </h1>
-            Yang, Y., Lu, Q., Liu, M., Wang, Y., Zhang, A., Jalali, N., Dean, N., Longini, I., Halloran, M.E., X...    
-            2020-02-21
-            https://doi.org/10.1101/2020.02.10.20021675
-            ======================================================================================================================================================
-            
-            <h1> Source: 456 </h1>
-            Repetitive Fulminant Influenza Myocarditis Requiring the Use of Circulatory Assist Devices    
-            2014-01-17
-            https://doi.org/10.2169%2Finternalmedicine.53.1117
-            ======================================================================================================================================================
-            
-            <h1> Source: 457 </h1>
-            Prelamin A and lamin A appear to be dispensable in the nuclear lamina    
-            2006-03-01
-            https://doi.org/10.1172/JCI27125
-            ======================================================================================================================================================
-            
-            <h1> Source: 458 </h1>
-            Intravenous immunoglobulin in the therapy of adult acute fulminant myocarditis: A retrospective study    
-            2014-01-01
-            https://doi.org/10.3892%2Fetm.2013.1372
-            ======================================================================================================================================================
-            
-            <h1> Source: 459 </h1>
-            Parente2: a fast and accurate method for detecting identity by descent    
-            2015-02-01
-            https://doi.org/10.1101%2Fgr.173641.114
-            ======================================================================================================================================================
-            
-            <h1> Source: 460 </h1>
-            Mouse model of X–linked chronic granulomatous disease, an inherited defect in phagocyte superoxide production    
-            1995-02-17
-            https://doi.org/10.1038%2Fng0295-202
-            ======================================================================================================================================================
-            
-            <h1> Source: 461 </h1>
-            An Effective Filter for IBD Detection in Large Data Sets    
-            2014-03-25
-            https://doi.org/10.1371%2Fjournal.pone.0092713
-            ======================================================================================================================================================
-            
-            <h1> Source: 462 </h1>
-            Thioredoxin-interacting protein links oxidative stress to inflammasome activation    
-            2010-02-17
-            https://doi.org/10.1038%2Fni.1831
-            ======================================================================================================================================================
-            
-            <h1> Source: 463 </h1>
-            Goldman, A. I. “Toward a Theory of Social Power.” Philosophical Studies 23.4 (1972a) 221-268. http:/...    
-            1972-06-17
-            http://dx.doi.org/10.1007/BF00356228
-            ======================================================================================================================================================
-            
-            <h1> Source: 464 </h1>
-            Genome-wide association analysis identifies three psoriasis susceptibility loci    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.693
-            ======================================================================================================================================================
-            
-            <h1> Source: 465 </h1>
-            Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
-            2010-12-17
-            https://doi.org/10.1038%2Fng.717
-            ======================================================================================================================================================
-            
-            <h1> Source: 466 </h1>
-            Parental origin of sequence variants associated with complex diseases    
-            2009-12-17
-            https://doi.org/10.1038%2Fnature08625
-            ======================================================================================================================================================
-            
-            <h1> Source: 467 </h1>
-            The IL23R R381Q Gene Variant Protects against Immune-Mediated Diseases by Impairing IL-23-Induced Th17 Effector Response in Humans    
-            2011-02-22
-            https://doi.org/10.1371%2Fjournal.pone.0017160
-            ======================================================================================================================================================
-            
-            <h1> Source: 468 </h1>
-            Common variants conferring risk of schizophrenia    
-            2009-08-17
-            https://doi.org/10.1038%2Fnature08186
-            ======================================================================================================================================================
-            
-            <h1> Source: 469 </h1>
-            Induction of somatic hypermutation in immunoglobulin genes is dependent on DNA polymerase iota    
-            2002-10-17
-            https://doi.org/10.1038%2Fnature01117
-            ======================================================================================================================================================
-            
-            <h1> Source: 470 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 471 </h1>
-            Ichikawa R, Sumitomo N, Komori A, et al:
+# Source: 1
+30. Koopmans , T.C. Identification problems in economic model construction . Econometrica 17 ( 1949 ...    
+1949-01-01
+https://dx.doi.org/10.2307/1905689
+==================================================
+
+# Source: 2
+Lindquist, M.A. & Sobel, M.E. (2011). Graphical models, potential outcomes and causal inference: Com...    
+2011-01-01
+http://dx.doi.org/10.1002/j.2050-0416.1922.tb02513.x
+==================================================
+
+# Source: 3
+Nonpharmaceutical Interventions for Pandemic Influenza, National and Community Measures - Volume 12, Number 1—January 2006 - Emerging Infectious Diseases journal - CDC    
+2006-01-17
+https://doi.org/10.3201%2Feid1201.051371
+==================================================
+
+# Source: 4
+Lauritzen, S.L. (1996). Graphical Models. Clarendon Press: Oxford. 10.1002/per.1863 :    
+1996-01-01
+http://dx.doi.org/10.1002/per.1863
+==================================================
+
+# Source: 5
+Ling, R.F. (1982). Review of 'Correlation and Causation [ sic ] . ' Journal of the American Statisti...    
+1982-01-01
+http://dx.doi.org/10.1093/acprof:oso/9780199574131.001.0001
+==================================================
+
+# Source: 6
+Pharma industry performance metrics: 2007–2012E - Nature Reviews Drug Discovery    
+2008-10-17
+https://doi.org/10.1038%2Fnrd2730
+==================================================
+
+# Source: 7
+25. Hendry , D.F. & Morgan , M.S. . A re-analysis of confluence analysis . Oxford Economic Papers 41...    
+1989-01-01
+https://dx.doi.org/10.1093/oxfordjournals.oep.a041900
+==================================================
+
+# Source: 8
+Lee, J.L. (2012). Correlation and causation in the study of personality. European Journal of Persona...    
+2012-01-01
+http://dx.doi.org/10.1002/9780470024737
+==================================================
+
+# Source: 9
+46. Tintner , G. Multiple regression for systems of equations . Econometrica 14 ( 1946 ): 5 – 36 . C...    
+1946-01-01
+https://dx.doi.org/10.2307/1905702
+==================================================
+
+# Source: 10
+Lee, S.-Y. (2007). Structural equation modeling: A Bayesian approach. New York: Wiley. 10.15446/idea...    
+2016-09-01
+http://dx.doi.org/10.15446/ideasyvalores.v65n162.59684
+==================================================
+
+# Source: 11
+Little, D. (2011). Causal mechanisms in the social realm. In P. Mckay Illari, F. Russo, & J. William...    
+2011-01-01
+http://dx.doi.org/10.1146/annurev.psych.51.1.201
+==================================================
+
+# Source: 12
+MacCallum, R.C., & Austin, J.T. (2000). Applications of structural equation modeling in psychologica...    
+2000-01-01
+http://dx.doi.org/10.1093/0198246420.001.0001
+==================================================
+
+# Source: 13
+Matsueda, R.L. (2012). Key advances in the history of structural equation modeling. In R. H. Hoyle (...    
+2024-08-23
+http://dx.doi.org/10.1007/978-94-007-6094-3
+==================================================
+
+# Source: 14
+The endoplasmic reticulum stress response in immunity and autoimmunity    
+2008-09-17
+https://doi.org/10.1038%2Fnri2359
+==================================================
+
+# Source: 15
+Morgan, S.L. (Ed.) (2013). Handbook of causal analysis for social research. New York: Springer. 10.1...    
+2014-11-17
+http://dx.doi.org/10.1017/CBO9781107587991
+==================================================
+
+# Source: 16
+Mouchart, M., Russo, F., & Wunsch, G. (2010). Inferring causal relations by modeling structures. Sta...    
+1986-09-17
+http://dx.doi.org/10.1086/289320
+==================================================
+
+# Source: 17
+Mulaik, S.A. (1986). Toward a synthesis of deterministic and probabilistic formulations of causal re...    
+1986-01-01
+http://dx.doi.org/10.1207/s15327906mbr2802_2
+==================================================
+
+# Source: 18
+39. Qin , D. Formalisation of identification theory . Oxford Economic Papers 41 ( 1989 ): 73 – 93 . ...    
+1989-01-01
+https://dx.doi.org/10.1093/oxfordjournals.oep.a041923
+==================================================
+
+# Source: 19
+Mulaik, S.A. (1993). Objectivity and multivariate statistics. Multivariate Behavioral Research, 28, ...    
+2009-06-16
+http://dx.doi.org/10.1201/9781439800393
+==================================================
+
+# Source: 20
+From Molds and Macrophages to Mevalonate: A Decade of Progress in Understanding the Molecular Mode of Action of Bisphosphonates    
+2004-12-17
+https://doi.org/10.1007/s00223-004-0024-1
+==================================================
+
+# Source: 21
+Planning for smallpox outbreaks    
+2003-10-17
+https://doi.org/10.1038%2Fnature02007
+==================================================
+
+# Source: 22
+Mulaik, S.A. (2009). Linear causal modeling with structural equations . Chapman & Hall/CRC. 10.2307/...    
+2009-01-01
+http://dx.doi.org/10.2307/1164895
+==================================================
+
+# Source: 23
+Muthén, B.O. (2011). Applications of causally defined direct and indirect effects in mediation analy...    
+2011-01-01
+http://dx.doi.org/10.1093/genetics/7.3.258
+==================================================
+
+# Source: 24
+Pearl, J. (1988). Probabilistic reasoning in intelligent systems. San Mateo, CA: Morgan Kaufmann. 10...    
+1988-01-01
+http://dx.doi.org/10.1080/01621459.2000.10474213
+==================================================
+
+# Source: 25
+Pearl, J. (1993). Comment: Graphical models, causality and intervention. Statistical Science, 8 , 26...    
+1993-01-01
+http://dx.doi.org/10.1093/biomet/82.4.702
+==================================================
+
+# Source: 26
+Demography and the Age of Rare Variants    
+2014-08-07
+https://doi.org/10.1371%2Fjournal.pgen.1004528
+==================================================
+
+# Source: 27
+Pearl, J. (1995). Causal diagrams for empirical research. Biometrika, 82, 669-710. 10.1177/004912419...    
+1995-01-01
+http://dx.doi.org/10.1177/0049124198027002004
+==================================================
+
+# Source: 28
+Targeted Social Distancing Designs for Pandemic Influenza - Volume 12, Number 11—November 2006 - Emerging Infectious Diseases journal - CDC    
+2006-11-17
+https://doi.org/10.3201%2Feid1211.060255
+==================================================
+
+# Source: 29
+Plasma cell differentiation and the unfolded protein response intersect at the transcription factor XBP-1    
+2003-04-17
+https://doi.org/10.1038%2Fni907
+==================================================
+
+# Source: 30
+Sudmant, P. H. et al. An integrated map of structural variation in 2,504 human genomes. Nature http:...    
+2015-10-17
+https://doi.org/10.1038/nature15394
+==================================================
+
+# Source: 31
+Pearl, J. (1998). Graphs, causality, and structural equation models. Sociological Methods & Research...    
+2009-09-17
+http://dx.doi.org/10.1017/CBO9780511803161
+==================================================
+
+# Source: 32
+Pearl, J. ([2000] 2009). Causality: Models, reasoning, and inference (2 nd ed.). Cambridge: Cambridg...    
+2000-01-01
+http://dx.doi.org/10.1111/j.1467-9531.2010.01228.x
+==================================================
+
+# Source: 33
+West Nile Virus Epizootiology, Central Red River Valley, North Dakota and Minnesota, 2002–2005 - Volume 12, Number 8—August 2006 - Emerging Infectious Diseases journal - CDC    
+2006-08-17
+https://doi.org/10.3201%2Feid1208.060129
+==================================================
+
+# Source: 34
+Dense genotyping identifies and localizes multiple common and rare variant association signals in celiac disease    
+2011-12-17
+https://doi.org/10.1038%2Fng.998
+==================================================
+
+# Source: 35
+Crump , Richard K. , Joseph Hotz , V. , Imbens , Guido W. , and Mitnik , Oscar A. 2009 . Dealing wit...    
+2009-01-01
+https://dx.doi.org/10.1093/biomet/asn055
+==================================================
+
+# Source: 36
+Human Disease from Influenza A (H5N1), Thailand, 2004 - Volume 11, Number 2—February 2005 - Emerging Infectious Diseases journal - CDC    
+2005-02-17
+https://doi.org/10.3201%2Feid1102.041061
+==================================================
+
+# Source: 37
+Strategies for mitigating an influenza pandemic    
+2006-07-17
+https://doi.org/10.1038%2Fnature04795
+==================================================
+
+# Source: 38
+The Concordance and Heritability of Type 2 Diabetes in 34,166 Twin Pairs From International Twin Registers: The Discordant Twin (DISCOTWIN) Consortium    
+2015-12-17
+https://doi.org/10.1017%2Fthg.2015.83
+==================================================
+
+# Source: 39
+Predicting Pneumonia and Influenza Mortality from Morbidity Data    
+2007-05-23
+https://doi.org/10.1371%2Fjournal.pone.0000464
+==================================================
+
+# Source: 40
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 41
+A common Greenlandic TBC1D4 variant confers muscle insulin resistance and type 2 diabetes    
+2014-08-17
+https://doi.org/10.1038%2Fnature13425
+==================================================
+
+# Source: 42
+Robins, J.M. (1986). A new approach to causal inference in mortality studies with a sustained exposu...    
+1986-01-01
+http://dx.doi.org/10.1002/0470013192
+==================================================
+
+# Source: 43
+Rosenbaum, P.R. (2002). Observational studies (2 nd edition). New York: Springer. 10.1093/oxfordjour...    
+2002-01-01
+http://dx.doi.org/10.1093/oxfordjournals.aje.a117417
+==================================================
+
+# Source: 44
+Monitoring the Impact of Influenza by Age: Emergency Department Fever and Respiratory Complaint Surveillance in New York City    
+2007-08-07
+https://doi.org/10.1371%2Fjournal.pmed.0040247
+==================================================
+
+# Source: 45
+Systematic investigation of cancer-associated somatic point mutations in SNP databases    
+2013-09-17
+https://doi.org/10.1038%2Fnbt.2681
+==================================================
+
+# Source: 46
+No evidence that selection has been less effective at removing deleterious mutations in Europeans than in Africans    
+2015-02-17
+https://doi.org/10.1038%2Fng.3186
+==================================================
+
+# Source: 47
+35. Mann , H.B. & Wald , A. . On the statistical treatment of linear stochastic difference equations...    
+1943-01-01
+https://dx.doi.org/10.2307/1905674
+==================================================
+
+# Source: 48
+Rubin, D.B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies....    
+1974-01-01
+http://dx.doi.org/10.1093/aristotelian/13.1.1
+==================================================
+
+# Source: 49
+The deleterious mutation load is insensitive to recent population history    
+2014-03-17
+https://doi.org/10.1038%2Fng.2896
+==================================================
+
+# Source: 50
+Russo, F. (2009). Causality and causal modeling in the social sciences. Measuring variations. New Yo...    
+2009-01-01
+http://dx.doi.org/10.1080/02698590701498084
+==================================================
+
+# Source: 51
+Russo, F., & Williamson, J. (2007). Interpreting causality in the health sciences. International Stu...    
+2007-01-01
+http://dx.doi.org/10.1177/0759106311408891
+==================================================
+
+# Source: 52
+Shpitser, I., VanderWeele, T.J., & Robins, J.M. (2010). On the validity of covariate adjustment for ...    
+2010-01-01
+http://dx.doi.org/10.2307/2281124
+==================================================
+
+# Source: 53
+Acute respiratory illness in the community. Frequency of illness and the agents involved    
+1993-02-17
+https://doi.org/10.1017%2FS0950268800050779
+==================================================
+
+# Source: 54
+Inference of human population history from individual whole-genome sequences    
+2011-07-17
+https://doi.org/10.1038%2Fnature10231
+==================================================
+
+# Source: 55
+Sobel, M.E. (2009). Causal inference in randomized and non-randomized studies : The definition, iden...    
+2009-01-01
+http://dx.doi.org/10.7551/mitpress/1754.001.0001
+==================================================
+
+# Source: 56
+Prospects for productivity    
+2004-05-17
+https://doi.org/10.1038%2Fnrd1384
+==================================================
+
+# Source: 57
+Suppes, P. (1970). A probabilistic theory of causality. North-Holland, Amsterdam. 10.1093/oxfordhb/9...    
+1970-01-01
+http://dx.doi.org/10.1093/oxfordhb/9780199279739.001.0001
+==================================================
+
+# Source: 58
+Williamson, J. (2009). Probabilistic theories. In H. Beebee, C. Hitchcock, & P. Menzies (Eds.), The ...    
+2009-01-01
+http://dx.doi.org/10.1093/0195155270.001.0001
+==================================================
+
+# Source: 59
+Woodward, J. (2003). Making things happen: A theory of causal explanation. New York: Oxford Universi...    
+2003-01-01
+http://dx.doi.org/10.1093/acprof:oso/9780195176803.001.0001
+==================================================
+
+# Source: 60
+Woodward, J. (2007). Interventionist theories of causation in psychological perspective. In A. Gopni...    
+2007-01-01
+http://dx.doi.org/10.1111/1468-0068.00426
+==================================================
+
+# Source: 61
+The UK10K Consortium. The UK10K project identifies rare variants in health and disease. Nature http:...    
+2015-10-17
+https://doi.org/10.1038/nature14962
+==================================================
+
+# Source: 62
+Strategies for containing an emerging influenza pandemic in Southeast Asia    
+2005-09-17
+https://doi.org/10.1038%2Fnature04017
+==================================================
+
+# Source: 63
+Wright, S. (1921). Correlation and causation. Journal of Agricultural Research, 20, 557-585. 10.1214...    
+1934-09-17
+http://dx.doi.org/10.1214/aoms/1177732676
+==================================================
+
+# Source: 64
+A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
+2014-04-17
+https://doi.org/10.1371%2Fjournal.pgen.1004234
+==================================================
+
+# Source: 65
+Sidore, C. et al. Genome sequencing elucidates Sardinian genetic architecture and augments associati...    
+2015-11-17
+https://doi.org/10.1038/ng.3368
+==================================================
+
+# Source: 66
+Integrating sequence and array data to create an improved 1000 Genomes Project haplotype reference panel    
+2014-06-13
+https://doi.org/10.1038%2Fncomms4934
+==================================================
+
+# Source: 67
+Patterns of Cis Regulatory Variation in Diverse Human Populations    
+2012-04-19
+https://doi.org/10.1371%2Fjournal.pgen.1002639
+==================================================
+
+# Source: 68
+Resolving the complexity of the human genome using single-molecule sequencing    
+2015-01-17
+https://doi.org/10.1038%2Fnature13907
+==================================================
+
+# Source: 69
+Bayesian refinement of association signals for 14 loci in 3 common diseases    
+2012-12-17
+https://doi.org/10.1038%2Fng.2435
+==================================================
+
+# Source: 70
+The druggable genome    
+2002-09-17
+https://doi.org/10.1038%2Fnrd892
+==================================================
+
+# Source: 71
+Age-related macular degeneration is associated with an unstable ARMS2 (LOC387715) mRNA    
+2008-07-17
+https://doi.org/10.1038%2Fng.170
+==================================================
+
+# Source: 72
+Large-scale whole-genome sequencing of the Icelandic population    
+2015-05-17
+https://doi.org/10.1038%2Fng.3247
+==================================================
+
+# Source: 73
+Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
+2006-04-17
+https://doi.org/10.1038%2Fng1750
+==================================================
+
+# Source: 74
+Adaptive Evolution of the FADS Gene Cluster within Africa    
+2012-09-19
+https://doi.org/10.1371%2Fjournal.pone.0044926
+==================================================
+
+# Source: 75
+1. Copas JB , Li HG . Inference for non-random samples (with discussion) . J R Stat Soc Ser B 1997 ;...    
+1997-01-01
+https://doi.org/10.1111/1467-9868.00055
+==================================================
+
+# Source: 76
+Fast model-based estimation of ancestry in unrelated individuals    
+2009-09-01
+https://doi.org/10.1101%2Fgr.094052.109
+==================================================
+
+# Source: 77
+Mutations in sodium-channel gene <i>SCN9A</i> cause a spectrum of human genetic pain disorders    
+2007-12-03
+https://doi.org/10.1172%2FJCI33297
+==================================================
+
+# Source: 78
+Statistical power and significance testing in large-scale genetic studies    
+2014-05-17
+https://doi.org/10.1038%2Fnrg3706
+==================================================
+
+# Source: 79
+Mutations in the gene encoding mevalonate kinase cause hyper-IgD and periodic fever syndrome    
+1999-06-17
+https://doi.org/10.1038%2F9696
+==================================================
+
+# Source: 80
+A Genealogical Interpretation of Principal Components Analysis    
+2009-10-16
+https://doi.org/10.1371/journal.pgen.1000686
+==================================================
+
+# Source: 81
+50. Wegge , L.L. Identifiability criteria for a system of equations as a whole . Australian Journal ...    
+1965-01-01
+https://dx.doi.org/10.1111/j.1467-842X.1965.tb00035.x
+==================================================
+
+# Source: 82
+How to improve R&D productivity: the pharmaceutical industry's grand challenge    
+2010-03-17
+https://doi.org/10.1038%2Fnrd3078
+==================================================
+
+# Source: 83
+Mutations in PCSK9 cause autosomal dominant hypercholesterolemia    
+2003-06-17
+https://doi.org/10.1038%2Fng1161
+==================================================
+
+# Source: 84
+CARD15 mutations in Blau syndrome    
+2001-09-17
+https://doi.org/10.1038%2Fng720
+==================================================
+
+# Source: 85
+Collider bias undermines our understanding of COVID-19 disease risk and severity    
+2020-11-12
+https://www.nature.com/articles/s41467-020-19478-2#Bib1
+==================================================
+
+# Source: 86
+Public Health Interventions and SARS Spread, 2003 - Volume 10, Number 11—November 2004 - Emerging Infectious Diseases journal - CDC    
+2004-11-17
+https://doi.org/10.3201%2Feid1011.040729
+==================================================
+
+# Source: 87
+The Value of Improving the Productivity of the Drug Development Process    
+2002-12-17
+https://doi.org/10.2165%2F00019053-200220003-00001
+==================================================
+
+# Source: 88
+Phase II failures: 2008–2010 - Nature Reviews Drug Discovery    
+2011-04-29
+https://doi.org/10.1038%2Fnrd3439
+==================================================
+
+# Source: 89
+Corman VM , Landt O , Kaiser M , Molenkamp R , Meijer A , Chu DK , et al. Detection of 2019 novel co...    
+2020-01-23
+https://doi.org/10.2807/1560-7917.ES.2020.25.3.2000045
+==================================================
+
+# Source: 90
+Significance of the human genome sequence to drug discovery - The Pharmacogenomics Journal    
+2001-06-21
+https://doi.org/10.1038%2Fsj.tpj.6500010
+==================================================
+
+# Source: 91
+Validating therapeutic targets through human genetics    
+2013-08-17
+https://doi.org/10.1038%2Fnrd4051
+==================================================
+
+# Source: 92
+Adaptive Seamless Phase II/III Designs—Background, Operational Aspects, and Examples    
+2006-10-17
+https://doi.org/10.1177%2F216847900604000412
+==================================================
+
+# Source: 93
+Rosenbaum , Paul R. 1986 . Dropping out of high school in the United States: An observational study ...    
+1986-01-01
+https://dx.doi.org/10.3102/10769986011003207
+==================================================
+
+# Source: 94
+Rubin , Donald B. 1973 . The use of matched sampling and regression adjustment to remove bias in obs...    
+1973-01-01
+https://dx.doi.org/10.2307/2529685
+==================================================
+
+# Source: 95
+Development and Characterization of an Antibody-Labeled Super-Paramagnetic Iron Oxide Contrast Agent Targeting Prostate Cancer Cells for Magnetic Resonance Imaging    
+2014-05-12
+https://doi.org/10.1371%2Fjournal.pone.0097220
+==================================================
+
+# Source: 96
+Dysregulation of TGF-β activation contributes to pathogenesis in Marfan syndrome    
+2003-03-17
+https://doi.org/10.1038%2Fng1116
+==================================================
+
+# Source: 97
+Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
+2015-12-17
+https://doi.org/10.1186/s12889-015-2408-8
+==================================================
+
+# Source: 98
+The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
+2014-10-27
+https://doi.org/10.15195/v1.a25
+==================================================
+
+# Source: 99
+5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
+2012-01-17
+https://doi.org/10.4000/books.pum.8791
+==================================================
+
+# Source: 100
+The application of discovery toxicology and pathology towards the design of safer pharmaceutical lead candidates    
+2007-08-17
+https://doi.org/10.1038%2Fnrd2378
+==================================================
+
+# Source: 101
+Dehejia , Rajeev H. , and Wahba , Sadek . 1999 . Causal effects in nonexperimental studies: Re-evalu...    
+1999-01-01
+https://dx.doi.org/10.1080/01621459.1999.10473858
+==================================================
+
+# Source: 102
+Benke, K. S., Y. Wu, D. M. Fallin, B. Maher and L. J. Palmer (2013) “Strategy to control type I erro...    
+2013-01-01
+https://doi.org/10.1002/gepi.21733
+==================================================
+
+# Source: 103
+Modèles structuraux et inférence causale    
+2015-01-17
+https://doi.org/10.4000/books.pur.61649
+==================================================
+
+# Source: 104
+Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls    
+2007-06-17
+https://doi.org/10.1038%2Fnature05911
+==================================================
+
+# Source: 105
+The Statistics of Causal Inference: A View from Political Methodology    
+2015-07-17
+https://doi.org/10.1093/pan/mpv007
+==================================================
+
+# Source: 106
+Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
+2015-06-17
+https://doi.org/10.1007/s12552-015-9146-5
+==================================================
+
+# Source: 107
+Potential Impact of Antiviral Drug Use during Influenza Pandemic - Volume 11, Number 9—September 2005 - Emerging Infectious Diseases journal - CDC    
+2005-09-17
+https://doi.org/10.3201%2Feid1209.041344
+==================================================
+
+# Source: 108
+Six new loci associated with blood low-density lipoprotein cholesterol, high-density lipoprotein cholesterol or triglycerides in humans    
+2008-02-17
+https://doi.org/10.1038%2Fng.75
+==================================================
+
+# Source: 109
+Monogenic hypercholesterolemia: new insights in pathogenesis and treatment    
+2003-06-15
+https://doi.org/10.1172%2FJCI200318925
+==================================================
+
+# Source: 110
+Can the pharmaceutical industry reduce attrition rates?    
+2004-08-17
+https://doi.org/10.1038%2Fnrd1470
+==================================================
+
+# Source: 111
+Lovastatin and beyond: the history of the HMG-CoA reductase inhibitors    
+2003-07-17
+https://doi.org/10.1038%2Fnrd1112
+==================================================
+
+# Source: 112
+King , Gary , Honaker , James , Joseph , Anne , and Scheve , Kenneth . 2001 . Analyzing incomplete p...    
+2001-03-17
+https://dx.doi.org/10.1017/S0003055401000235
+==================================================
+
+# Source: 113
+Assessing the translatability of drug projects: what needs to be scored to predict success?    
+2009-07-17
+https://doi.org/10.1038%2Fnrd2898
+==================================================
+
+# Source: 114
+Imai , Kosuke , and van Dyk , David A. 2004 . Causal inference with general treatment regimes: Gener...    
+2004-01-01
+https://dx.doi.org/10.1198/016214504000001187
+==================================================
+
+# Source: 115
+Pricing medicines: theory and practice, challenges and opportunities    
+2005-02-17
+https://doi.org/10.1038%2Fnrd1633
+==================================================
+
+# Source: 116
+Competitiveness in follow-on drug R&D: a race or imitation?    
+2011-01-17
+https://doi.org/10.1038%2Fnrd3296
+==================================================
+
+# Source: 117
+Drug discovery in jeopardy    
+2006-11-01
+https://doi.org/10.1172%2FJCI29999
+==================================================
+
+# Source: 118
+35. Hemani G, Zheng J, Wade K, Laurin C, Elsworth B, Burgess S, et al. MR-Base: a platform for syste...    
+2026-01-17
+https://doi.org/10.1101/0789722016
+==================================================
+
+# Source: 119
+Low LDL cholesterol in individuals of African descent resulting from frequent nonsense mutations in PCSK9    
+2005-02-17
+https://doi.org/10.1038%2Fng1509
+==================================================
+
+# Source: 120
+Robustness of the linear mixed effects model to error distribution assumptions and the consequences for genome-wide association studies    
+2014-10-01
+https://doi.org/10.1515/sagmb-2013-0066
+==================================================
+
+# Source: 121
+Interactions and collider bias in case-only gene-environment data    
+2017-09-20
+https://doi.org/10.1101/124560
+==================================================
+
+# Source: 122
+EANM/SNMMI Guideline for 18F-FDG Use in Inflammation and Infection    
+2013-04-01
+https://doi.org/10.2967%2Fjnumed.112.112524
+==================================================
+
+# Source: 123
+Nonpharmaceutical Interventions for Pandemic Influenza, International Measures - Volume 12, Number 1—January 2006 - Emerging Infectious Diseases journal - CDC    
+2006-01-17
+https://doi.org/10.3201%2Feid1201.051370
+==================================================
+
+# Source: 124
+Mutations in sodium-channel gene <i>SCN9A</i> cause a spectrum of human genetic pain disorders    
+2007-12-03
+https://doi.org/10.1172%2FJCI33297
+==================================================
+
+# Source: 125
+An SCN9A channelopathy causes congenital inability to experience pain    
+2006-12-17
+https://doi.org/10.1038%2Fnature05413
+==================================================
+
+# Source: 126
+Can the pharmaceutical industry reduce attrition rates?    
+2004-08-17
+https://doi.org/10.1038%2Fnrd1470
+==================================================
+
+# Source: 127
+Quandt , Richard . 1972 . Methods of estimating switching regressions . Journal of the American Stat...    
+1972-01-01
+https://dx.doi.org/10.1080/01621459.1972.10482378
+==================================================
+
+# Source: 128
+Inflammation, Insulin Resistance, and Diabetes—Mendelian Randomization Using CRP Haplotypes Points Upstream    
+2008-08-12
+https://doi.org/10.1371/journal.pmed.0050155
+==================================================
+
+# Source: 129
+Type II Secretory Phospholipase A2 and Prognosis in Patients with Stable Coronary Heart Disease: Mendelian Randomization Study    
+2011-07-22
+https://doi.org/10.1371/journal.pone.0022318
+==================================================
+
+# Source: 130
+Tibshirani R . Regression shrinkage and selection via the lasso. J R Stat Soc B. 1996 ; 58 ( 1 ): 26...    
+1996-01-01
+https://doi.org/10.1111/j.2517-6161.1996.tb02080.x
+==================================================
+
+# Source: 131
+Genome-wide association study identifies distinct genetic contributions to prognosis and susceptibility in Crohn's disease    
+2017-02-17
+https://doi.org/10.1038/ng.3755
+==================================================
+
+# Source: 132
+43. Spanos , A. On rereading Haavelmo: a retrospective view of econometric modelling . Econometric T...    
+1989-12-17
+https://dx.doi.org/10.1017/S0266466600012597
+==================================================
+
+# Source: 133
+38. Morgan , M.S. The History of Econometric Ideas . New York : Cambridge University Press , 1990 . ...    
+1990-04-17
+https://dx.doi.org/10.1017/CBO9780511522109
+==================================================
+
+# Source: 134
+Cochran , William G. 1968 . The effectiveness of adjustment by subclassification in removing bias in...    
+1968-01-01
+https://dx.doi.org/10.2307/2528036
+==================================================
+
+# Source: 135
+Macro trends in pharmaceutical innovation    
+2005-01-17
+https://doi.org/10.1038%2Fnrd1610
+==================================================
+
+# Source: 136
+Diagnosing the decline in pharmaceutical R&D efficiency    
+2012-03-17
+https://doi.org/10.1038%2Fnrd3681
+==================================================
+
+# Source: 137
+11. Fischer , F.M. The Identification Problem in Econometrics . Huntingdon, New York : Krieger , (Re...    
+1966-01-01
+https://dx.doi.org/10.2307/2552045
+==================================================
+
+# Source: 138
+Respiratory Infections during SARS Outbreak, Hong Kong, 2003 - Volume 11, Number 11—November 2005 - Emerging Infectious Diseases journal - CDC    
+2005-11-17
+https://doi.org/10.3201%2Feid1111.050729
+==================================================
+
+# Source: 139
+27. Johansen , S. Estimation and hypothesis testing of cointegration vectors in gaussian vector auto...    
+1991-01-01
+https://dx.doi.org/10.2307/2938278
+==================================================
+
+# Source: 140
+40. Rothenberg , T.J. Identification in parametric models . Econometrica 39 ( 1971 ): 577 – 591 . Cr...    
+1971-01-01
+https://dx.doi.org/10.2307/1913267
+==================================================
+
+# Source: 141
+6. Bowden , R. The theory of parametric identification . Econometrica 41 ( 1973 ): 1069 – 1074 . Cro...    
+1973-01-01
+https://dx.doi.org/10.2307/1914036
+==================================================
+
+# Source: 142
+23. Haavelmo , T. The probability approach in econometrics . Supplement to Econometrica 12 ( 1944 )....    
+1944-01-01
+https://dx.doi.org/10.2307/1906935
+==================================================
+
+# Source: 143
+18. Girshick , M.A. & Haavelmo , T. . Statistical analysis of the demand for food: examples of simul...    
+1947-01-01
+https://dx.doi.org/10.2307/1907066
+==================================================
+
+# Source: 144
+22. Haavelmo , T. The statistical implications of a system of simultaneous equations . Econometrica ...    
+1943-01-01
+https://dx.doi.org/10.2307/1905714
+==================================================
+
+# Source: 145
+Mutations in PCSK9 cause autosomal dominant hypercholesterolemia    
+2003-06-17
+https://doi.org/10.1038%2Fng1161
+==================================================
+
+# Source: 146
+Mixed results with modulation of TH-17 cells in human autoimmune diseases    
+2010-01-17
+https://doi.org/10.1038%2Fni.1803
+==================================================
+
+# Source: 147
+19. Haavelmo , T. The method of supplementary confluent relations, illustrated by a study of stock p...    
+1938-01-01
+https://dx.doi.org/10.2307/1907052
+==================================================
+
+# Source: 148
+Cholesterol-lowering blockbuster candidates speed into Phase III trials - Nature Reviews Drug Discovery    
+2012-11-05
+https://doi.org/10.1038%2Fnrd3879
+==================================================
+
+# Source: 149
+Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47    
+2011-03-17
+https://doi.org/10.1038%2Fng.764
+==================================================
+
+# Source: 150
+Wei WE , Li Z , Chiew CJ , Yong SE , Toh MP , Lee VJ . Presymptomatic Transmission of SARS-CoV-2 - S...    
+2020-01-17
+https://doi.org/10.15585/mmwr.mm6914e1
+==================================================
+
+# Source: 151
+Genotype/Phenotype Analyses for 53 Crohn’s Disease Associated Genetic Polymorphisms    
+2012-12-27
+https://doi.org/10.1371%2Fjournal.pone.0052223
+==================================================
+
+# Source: 152
+T-cell exhaustion, co-stimulation and clinical outcome in autoimmunity and infection    
+2015-07-17
+https://doi.org/10.1038%2Fnature14468
+==================================================
+
+# Source: 153
+Power of Selective Genotyping in Genetic Association Analyses of Quantitative Traits    
+2000-03-17
+https://doi.org/10.1023%2FA%3A1001907321955
+==================================================
+
+# Source: 154
+Ng O-T, Marimuthu K, Chia P-Y, et al. SARS-CoV-2 infection among travelers returning from Wuhan, Chi...    
+2020-01-01
+http://dx.doi.org/10.1056/NEJMc2003100
+==================================================
+
+# Source: 155
+Common disorders are quantitative traits    
+2009-12-17
+https://doi.org/10.1038%2Fnrg2670
+==================================================
+
+# Source: 156
+Do Genetic Susceptibility Variants Associate with Disease Severity in Early Active Rheumatoid Arthritis?    
+2015-07-01
+https://doi.org/10.3899%2Fjrheum.141211
+==================================================
+
+# Source: 157
+Risk Factors for Patients Developing a Fulminant Course With Acute Myocarditis    
+2004-01-17
+https://doi.org/10.1253%2Fcircj.68.734
+==================================================
+
+# Source: 158
+Genetic Risk Score Predicting Risk of Rheumatoid Arthritis Phenotypes and Age of Symptom Onset    
+2011-09-12
+https://doi.org/10.1371%2Fjournal.pone.0024380
+==================================================
+
+# Source: 159
+Multiple Sclerosis Susceptibility-Associated SNPs Do Not Influence Disease Severity Measures in a Cohort of Australian MS Patients    
+2010-04-02
+https://doi.org/10.1371%2Fjournal.pone.0010003
+==================================================
+
+# Source: 160
+Wang Y, Liu Y, Liu L, Wang X, Luo N, Ling L. Clinical outcome of 55 asymptomatic cases at the time o...    
+2020-01-01
+http://dx.doi.org/10.1093/infdis/jiaa119
+==================================================
+
+# Source: 161
+Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium., Wray, N. R. & Sulli...    
+2017-07-24
+https://doi.org/10.1101/167577
+==================================================
+
+# Source: 162
+Prevalence and Characteristics of Probable Major Depression and Bipolar Disorder within UK Biobank: Cross-Sectional Study of 172,751 Participants    
+2013-11-25
+https://doi.org/10.1371%2Fjournal.pone.0075362
+==================================================
+
+# Source: 163
+The Genotype-Tissue Expression (GTEx) project    
+2013-06-17
+https://doi.org/10.1038%2Fng.2653
+==================================================
+
+# Source: 164
+The tyrosine kinase p56lck is essential in coxsackievirus B3-mediated heart disease    
+2000-04-17
+https://doi.org/10.1038%2F74689
+==================================================
+
+# Source: 165
+Identification of 15 genetic loci associated with risk of major depression in individuals of European descent    
+2016-09-17
+https://doi.org/10.1038%2Fng.3623
+==================================================
+
+# Source: 166
+Sparse whole-genome sequencing identifies two loci for major depressive disorder    
+2015-07-17
+https://doi.org/10.1038%2Fnature14659
+==================================================
+
+# Source: 167
+Genetic variants associated with subjective well-being, depressive symptoms, and neuroticism identified through genome-wide analyses    
+2016-06-17
+https://doi.org/10.1038%2Fng.3552
+==================================================
+
+# Source: 168
+A mega-analysis of genome-wide association studies for major depressive disorder    
+2013-04-17
+https://doi.org/10.1038%2Fmp.2012.21
+==================================================
+
+# Source: 169
+Caffrey C , Smith SCR , Weston TJ . West Nile virus devastates an American crow population. Condor ....    
+2005-01-01
+https://doi.org/10.1650/7646
+==================================================
+
+# Source: 170
+LD Score regression distinguishes confounding from polygenicity in genome-wide association studies    
+2015-03-17
+https://doi.org/10.1038%2Fng.3211
+==================================================
+
+# Source: 171
+Suggested citation for this article: Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6914e1
+==================================================
+
+# Source: 172
+Enteroviral protease 2A cleaves dystrophin: Evidence of cytoskeletal disruption in an acquired cardiomyopathy    
+1999-03-17
+https://doi.org/10.1038%2F6543
+==================================================
+
+# Source: 173
+A unified mixed-model method for association mapping that accounts for multiple levels of relatedness    
+2006-02-17
+https://doi.org/10.1038%2Fng1702
+==================================================
+
+# Source: 174
+Biological insights from 108 schizophrenia-associated genetic loci    
+2014-07-17
+https://doi.org/10.1038%2Fnature13595
+==================================================
+
+# Source: 175
+Large-scale genome-wide association analysis of bipolar disorder identifies a new susceptibility locus near ODZ4    
+2011-10-17
+https://doi.org/10.1038%2Fng.943
+==================================================
+
+# Source: 176
+Chang, D., Lin, M., Wei, L., Xie, L., Zhu, G., Dela Cruz, C.S., and Sharma, L. (2020). Epidemiologic...    
+2020-01-01
+https://doi.org/10.1001/jama.2020.1623
+==================================================
+
+# Source: 177
+Du Z, Xu X, Wu Y, Wang L, Cowling BJ, Meyers LA. Serial interval of COVID-19 among publicly reported...    
+2020-06-17
+http://dx.doi.org/10.3201/eid2606.200357
+==================================================
+
+# Source: 178
+MAGMA: Generalized Gene-Set Analysis of GWAS Data    
+2015-04-17
+https://doi.org/10.1371%2Fjournal.pcbi.1004219
+==================================================
+
+# Source: 179
+Biological interpretation of genome-wide association studies using predicted gene functions    
+2015-01-19
+https://doi.org/10.1038%2Fncomms6890
+==================================================
+
+# Source: 180
+Local potentiation of excitatory synapses by serotonin and its alteration in rodent models of depression    
+2013-04-17
+https://doi.org/10.1038%2Fnn.3355
+==================================================
+
+# Source: 181
+Fabre A, Sheppard MN. Sudden adult death syndrome and other non-ischaemic causes of sudden cardiac d...    
+2006-01-01
+http://dx.doi.org/10.1136/hrt.2004.045518
+==================================================
+
+# Source: 182
+Targeting glutamate signalling in depression: progress and prospects    
+2017-07-17
+https://doi.org/10.1038%2Fnrd.2017.16
+==================================================
+
+# Source: 183
+Carpenter , Daniel P. 2002 . Groups, the media, agency waiting costs, and FDA drug approval . Americ...    
+2002-01-01
+https://dx.doi.org/10.2307/3088394
+==================================================
+
+# Source: 184
+Rosenbaum , Paul R. 1986 . Dropping out of high school in the United States: An observational study ...    
+1986-01-01
+https://dx.doi.org/10.3102/10769986011003207
+==================================================
+
+# Source: 185
+Meta-analysis of genome-wide association studies of anxiety disorders    
+2016-10-17
+https://doi.org/10.1038%2Fmp.2015.197
+==================================================
+
+# Source: 186
+Quandt , Richard . 1972 . Methods of estimating switching regressions . Journal of the American Stat...    
+1972-01-01
+https://dx.doi.org/10.1080/01621459.1972.10482378
+==================================================
+
+# Source: 187
+Cochran , William G. 1968 . The effectiveness of adjustment by subclassification in removing bias in...    
+1968-01-01
+https://dx.doi.org/10.2307/2528036
+==================================================
+
+# Source: 188
+Polygenic dissection of major depression clinical heterogeneity    
+2016-04-17
+https://doi.org/10.1038%2Fmp.2015.86
+==================================================
+
+# Source: 189
+King , Gary , Honaker , James , Joseph , Anne , and Scheve , Kenneth . 2001 . Analyzing incomplete p...    
+2001-03-17
+https://dx.doi.org/10.1017/S0003055401000235
+==================================================
+
+# Source: 190
+Howard, D. M. et al. The stratification of major depressive disorder into genetic subgroups. Preprin...    
+2019-10-15
+https://doi.org/10.1101/134601
+==================================================
+
+# Source: 191
+Dehejia , Rajeev H. , and Wahba , Sadek . 1999 . Causal effects in nonexperimental studies: Re-evalu...    
+1999-01-01
+https://dx.doi.org/10.1080/01621459.1999.10473858
+==================================================
+
+# Source: 192
+A reference panel of 64,976 haplotypes for genotype imputation    
+2016-10-17
+https://doi.org/10.1038%2Fng.3643
+==================================================
+
+# Source: 193
+Imai , Kosuke , and van Dyk , David A. 2004 . Causal inference with general treatment regimes: Gener...    
+2004-01-01
+https://dx.doi.org/10.1198/016214504000001187
+==================================================
+
+# Source: 194
+Bycroft, C. et al. Genome-wide genetic data on ~500,000 UK Biobank participants. Preprint at bioRxiv...    
+2017-07-20
+https://doi.org/10.1101/166298
+==================================================
+
+# Source: 195
+Rubin , Donald B. 1973 . The use of matched sampling and regression adjustment to remove bias in obs...    
+1973-01-01
+https://dx.doi.org/10.2307/2529685
+==================================================
+
+# Source: 196
+PARP inhibitors stumble in breast cancer - Nature Biotechnology    
+2011-05-06
+https://doi.org/10.1038%2Fnbt0511-373
+==================================================
+
+# Source: 197
+Asaumi Y, Yasuda S, Morii I, et al. Favourable clinical outcome in patients with cardiogenic shock d...    
+2005-01-01
+http://dx.doi.org/10.1093/eurheartj/ehi411
+==================================================
+
+# Source: 198
+Genome-wide association study identifies five new schizophrenia loci    
+2011-10-17
+https://doi.org/10.1038%2Fng.940
+==================================================
+
+# Source: 199
+Transient Ventricular Wall Thickening in Acute Myocarditis A Serial Echocardiographic and Histopathologic Study    
+2001-01-17
+https://doi.org/10.1253%2Fjcj.65.863
+==================================================
+
+# Source: 200
+A global reference for human genetic variation    
+2015-10-17
+https://doi.org/10.1038%2Fnature15393
+==================================================
+
+# Source: 201
+Aoyama N, Izumi T, Hiramori K, et al. National survey of fulminant myocarditis in Japan. Circ J 2002...    
+2002-01-17
+http://dx.doi.org/10.1253/circj.66.133
+==================================================
+
+# Source: 202
+Lebreton G, Pozzi M, Mastroianni C, et al. Extracorporeal life support as a bridge to bridge: a stra...    
+2015-01-01
+http://dx.doi.org/10.1093/ejcts/ezu516
+==================================================
+
+# Source: 203
+McMurray JJ, Adamopoulos S, Anker SD, et al. ESC Committee for Practice Guidelines. ESC Guidelines f...    
+2012-01-01
+http://dx.doi.org/10.1093/eurheartj/ehs104
+==================================================
+
+# Source: 204
+Mutations in PCSK9 cause autosomal dominant hypercholesterolemia    
+2003-06-17
+https://doi.org/10.1038%2Fng1161
+==================================================
+
+# Source: 205
+Maejima Y, Yasu T, Kubo N, et al. Long-term prognosis of fulminant myocarditis rescued by percutaneo...    
+2004-01-17
+http://dx.doi.org/10.1253/circj.68.829
+==================================================
+
+# Source: 206
+Identification of the transforming EML4–ALK fusion gene in non-small-cell lung cancer    
+2007-08-17
+https://doi.org/10.1038%2Fnature05945
+==================================================
+
+# Source: 207
+Beurtheret S, Mordant P, Pavie A, et al. Impella and extracorporeal membrane oxygenation: a demandin...    
+2012-01-01
+http://dx.doi.org/10.1097/MAT.0b013e31824c38ef
+==================================================
+
+# Source: 208
+Diddle JW, Almodovar MC, Rajagopal SK, et al. Extracorporeal membrane oxygenation for the support of...    
+2015-01-01
+http://dx.doi.org/10.1097/CCM.0000000000000920
+==================================================
+
+# Source: 209
+Hu Z, Song C, Xu C, et al. Clinical characteristics of 24 asymptomatic infections with COVID-19 scre...    
+2020-05-17
+http://dx.doi.org/10.1007/s11427-020-1661-4
+==================================================
+
+# Source: 210
+Impact of high-throughput screening in biomedical research    
+2011-03-17
+https://doi.org/10.1038%2Fnrd3368
+==================================================
+
+# Source: 211
+Weymann A, Schmack B, Sabashnikov A, et al. Central extracorporeal life support with left ventricula...    
+2014-12-17
+http://dx.doi.org/10.1186/1749-8090-9-60
+==================================================
+
+# Source: 212
+Li W, Shi Z, Yu M, et al. Bats are natural reservoirs of SARS-like coronaviruses. Science 2005;310:6...    
+2005-01-01
+http://dx.doi.org/10.1126/science.1118391
+==================================================
+
+# Source: 213
+A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
+2014-04-17
+https://doi.org/10.1371%2Fjournal.pgen.1004234
+==================================================
+
+# Source: 214
+Seib PM, Faulkner SC, Erickson CC, et al. Blade and balloon atrial septostomy for left heart decompr...    
+1999-01-01
+http://dx.doi.org/10.1002/(SICI)1522-726X(199902)46:2<179::AID-CCD13>3.0.CO;2-W
+==================================================
+
+# Source: 215
+McCarthy RE, Boehmer JP, Hruban RH, et al. Long-term outcome of fulminant myocarditis as compared wi...    
+2000-01-01
+http://dx.doi.org/10.1056/NEJM200003093421003
+==================================================
+
+# Source: 216
+Alkhouli M, Narins CR, Lehoux J, et al. Percutaneous Decompression of the Left Ventricle in Cardioge...    
+2016-01-01
+http://dx.doi.org/10.1111/jocs.12696
+==================================================
+
+# Source: 217
+Biventricular assist device placement and immunosuppression as therapy for necrotizing eosinophilic myocarditis    
+2005-10-17
+https://doi.org/10.1038%2Fncpcardio0322
+==================================================
+
+# Source: 218
+Mason JW, O'Connell JB, Herskowitz A, et al. A clinical trial of immunosuppressive therapy for myoca...    
+1995-01-01
+http://dx.doi.org/10.1056/NEJM199508033330501
+==================================================
+
+# Source: 219
+Improved whole-chromosome phasing for disease and population genetic studies    
+2013-01-17
+https://doi.org/10.1038%2Fnmeth.2307
+==================================================
+
+# Source: 220
+Guirgis M, Kumar K, Menkis AH, et al. Minimally invasive left-heart decompression during venoarteria...    
+2010-01-01
+http://dx.doi.org/10.1510/icvts.2009.228346
+==================================================
+
+# Source: 221
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 222
+Qian G, Yang N, Ma AHY, et al. A COVID-19 Transmission within a family cluster by presymptomatic inf...    
+2020-01-01
+http://dx.doi.org/10.1093/cid/ciaa316
+==================================================
+
+# Source: 223
+MRC IEU UK Biobank GWAS pipeline version 1 This dataset is superseded by https://doi.org/10.5523/bri...    
+2017-12-14
+https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
+==================================================
+
+# Source: 224
+D'Ambrosio A, Patti G, Manzoli A, et al. The fate of acute myocarditis between spontaneous improveme...    
+2001-01-01
+http://dx.doi.org/10.1136/heart.85.5.499
+==================================================
+
+# Source: 225
+Howard JJ , Oliver J , Grayson MA . Antibody response of wild birds to natural infection with alphav...    
+2004-01-01
+https://doi.org/10.1603/0022-2585-41.6.1090
+==================================================
+
+# Source: 226
+Asadi S, Wexler AS, Cappa CD, Barreda S, Bouvier NM, Ristenpart WD. Aerosol emission and superemissi...    
+2019-02-20
+http://dx.doi.org/10.1038/s41598-019-38808-z
+==================================================
+
+# Source: 227
+Komar N , Burns J , Dean C , Panella NA , Dusza S , Cherry B . Serological evidence for West Nile vi...    
+2000-01-01
+https://doi.org/10.1089/153036601753552558
+==================================================
+
+# Source: 228
+Genotype imputation for genome-wide association studies    
+2010-07-17
+https://doi.org/10.1038%2Fnrg2796
+==================================================
+
+# Source: 229
+Pharmacogenetics goes genomic    
+2003-12-17
+https://doi.org/10.1038%2Fnrg1229
+==================================================
+
+# Source: 230
+Disruption of the subendothelial basement membrane during neutrophil diapedesis in an in vitro construct of a blood vessel wall.    
+1989-04-01
+https://doi.org/10.1172%2FJCI113992
+==================================================
+
+# Source: 231
+Godsey MS , Blackmore MS , Panella NA , Burkhalter K , Gottfried K , Halsey LA , West Nile virus epi...    
+2001-01-01
+https://doi.org/10.1089/vbz.2005.5.82
+==================================================
+
+# Source: 232
+Mirabel M, Luyt CE, Leprince P, et al. Outcomes, long-term quality of life, and psychologic assessme...    
+2011-01-01
+http://dx.doi.org/10.1097/CCM.0b013e31820ead45
+==================================================
+
+# Source: 233
+Aiyagari RM, Rocchini AP, Remenapp R, et al. Decompression of the left atrium during extracorporeal ...    
+2006-01-01
+http://dx.doi.org/10.1097/01.CCM.0000239113.02836.F1
+==================================================
+
+# Source: 234
+Tay JY, Lim PL, Marimuthu K, et al. De-isolating COVID-19 suspect cases: a continuing challenge. Cli...    
+2020-01-01
+http://dx.doi.org/10.1093/cid/ciaa179
+==================================================
+
+# Source: 235
+Du Z, Xu X, Wu Y, Wang L, Cowling BJ, Meyers LA. Serial interval of COVID-19 among publicly reported...    
+2020-06-17
+http://dx.doi.org/10.3201/eid2606.200357
+==================================================
+
+# Source: 236
+Searching for genetic determinants in the new millennium    
+2000-06-17
+https://doi.org/10.1038%2F35015718
+==================================================
+
+# Source: 237
+Metabolism of β-sitosterol in man    
+1970-05-01
+https://doi.org/10.1172/JCI106315
+==================================================
+
+# Source: 238
+Metabolism of β-sitosterol in man    
+1970-05-01
+https://doi.org/10.1172/JCI106315
+==================================================
+
+# Source: 239
+Bignon M, Roule V, Dahdouh Z, et al. Percutaneous balloon atrioseptostomy for left heart discharge i...    
+2012-01-01
+http://dx.doi.org/10.1111/j.1540-8183.2011.00681.x
+==================================================
+
+# Source: 240
+β-Sitosterolemia and Xanthomatosis: <i>A NEWLY DESCRIBED LIPID STORAGE DISEASE IN TWO SISTERS</i>    
+1974-04-01
+https://doi.org/10.1172/JCI107640
+==================================================
+
+# Source: 241
+β-Sitosterolemia and Xanthomatosis: <i>A NEWLY DESCRIBED LIPID STORAGE DISEASE IN TWO SISTERS</i>    
+1974-04-01
+https://doi.org/10.1172/JCI107640
+==================================================
+
+# Source: 242
+A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000529
+==================================================
+
+# Source: 243
+Ong SWX, Tan YK, Chia PY, et al. Air, surface environmental, and personal protective equipment conta...    
+2020-01-01
+http://dx.doi.org/10.1001/jama.2020.3227
+==================================================
+
+# Source: 244
+Reisen WK , Fang Y , Martinez VM . Medline Effects of temperature on the transmission of West Nile v...    
+2006-01-01
+https://doi.org/10.1603/0022-2585(2006)043[0309:EOTOTT]2.0.CO;2
+==================================================
+
+# Source: 245
+Asadi S, Wexler AS, Cappa CD, Barreda S, Bouvier NM, Ristenpart WD. Aerosol emission and superemissi...    
+2019-02-20
+http://dx.doi.org/10.1038/s41598-019-38808-z
+==================================================
+
+# Source: 246
+Kimball A, Hatfield KM, Arons M, et al. Asymptomatic and presymptomatic SARS-CoV-2 infections in res...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6913e1
+==================================================
+
+# Source: 247
+Ng O-T, Marimuthu K, Chia P-Y, et al. SARS-CoV-2 infection among travelers returning from Wuhan, Chi...    
+2020-01-01
+http://dx.doi.org/10.1056/NEJMc2003100
+==================================================
+
+# Source: 248
+Ng Y, Li Z, Chua YX, et al. Evaluation of the effectiveness of surveillance and containment measures...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6911e1
+==================================================
+
+# Source: 249
+Characterization of a novel cellular defect in patients with phenotypic homozygous familial hypercholesterolemia    
+1999-09-01
+https://doi.org/10.1172/JCI6677
+==================================================
+
+# Source: 250
+Neutrophil-mediated endothelial injury in vitro mechanisms of cell detachment.    
+1981-12-01
+https://doi.org/10.1172%2FJCI110390
+==================================================
+
+# Source: 251
+Characterization of a novel cellular defect in patients with phenotypic homozygous familial hypercholesterolemia    
+1999-09-01
+https://doi.org/10.1172/JCI6677
+==================================================
+
+# Source: 252
+Hu Z, Song C, Xu C, et al. Clinical characteristics of 24 asymptomatic infections with COVID-19 scre...    
+2020-05-17
+http://dx.doi.org/10.1007/s11427-020-1661-4
+==================================================
+
+# Source: 253
+Wang Y, Liu Y, Liu L, Wang X, Luo N, Ling L. Clinical outcome of 55 asymptomatic cases at the time o...    
+2020-01-01
+http://dx.doi.org/10.1093/infdis/jiaa119
+==================================================
+
+# Source: 254
+Detection of sharing by descent, long-range phasing and haplotype imputation    
+2008-09-17
+https://doi.org/10.1038%2Fng.216
+==================================================
+
+# Source: 255
+Suggested citation for this article: Wei WE, Li Z, Chiew CJ, Yong SE, Toh MP, Lee VJ. Presymptomatic...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6914e1
+==================================================
+
+# Source: 256
+Ong SWX, Tan YK, Chia PY, et al. Air, surface environmental, and personal protective equipment conta...    
+2020-01-01
+http://dx.doi.org/10.1001/jama.2020.3227
+==================================================
+
+# Source: 257
+An integrated map of genetic variation from 1,092 human genomes    
+2012-11-17
+https://doi.org/10.1038%2Fnature11632
+==================================================
+
+# Source: 258
+A serine elastase inhibitor reduces inflammation and fibrosis and preserves cardiac function after experimentally-induced murine myocarditis    
+1998-12-17
+https://doi.org/10.1038%2F3973
+==================================================
+
+# Source: 259
+Sharp, K., Kretzschmar, W., Delaneau, O. & Marchini, J. Phasing for medical sequencing using rare va...    
+2016-01-01
+https://doi.org/10.1093/bioinformatics/btw065
+==================================================
+
+# Source: 260
+Transitions between sickness absence, work, unemployment, and disability in Denmark 2004–2008    
+2012-11-01
+https://doi.org/10.5271%2Fsjweh.3293
+==================================================
+
+# Source: 261
+A linear complexity phasing method for thousands of genomes    
+2012-02-17
+https://doi.org/10.1038%2Fnmeth.1785
+==================================================
+
+# Source: 262
+The landscape of recombination in African Americans    
+2011-08-17
+https://doi.org/10.1038%2Fnature10336
+==================================================
+
+# Source: 263
+In vivo evidence for reduced binding of low density lipoproteins to receptors as a cause of primary moderate hypercholesterolemia.    
+1986-11-01
+https://doi.org/10.1172/JCI112729
+==================================================
+
+# Source: 264
+Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease    
+2012-11-17
+https://doi.org/10.1038%2Fnature11582
+==================================================
+
+# Source: 265
+In vivo evidence for reduced binding of low density lipoproteins to receptors as a cause of primary moderate hypercholesterolemia.    
+1986-11-01
+https://doi.org/10.1172/JCI112729
+==================================================
+
+# Source: 266
+Multi-state Models in Epidemiology    
+1999-12-17
+https://doi.org/10.1023%2FA%3A1009636125294
+==================================================
+
+# Source: 267
+Disruption of LDL receptor gene in transgenic SREBP-1a mice unmasks hyperlipidemia resulting from production of lipid-rich VLDL    
+1999-04-01
+https://doi.org/10.1172/JCI6246
+==================================================
+
+# Source: 268
+Multi-state Models: A Review    
+1999-09-17
+https://doi.org/10.1023%2FA%3A1009672031531
+==================================================
+
+# Source: 269
+McCarthy, S. et al. A reference panel of 64,976 haplotypes for genotype imputation. BioRxiv http://d...    
+2016-04-05
+https://doi.org/10.1101/035170
+==================================================
+
+# Source: 270
+Genotype imputation for genome-wide association studies    
+2010-07-17
+https://doi.org/10.1038%2Fnrg2796
+==================================================
+
+# Source: 271
+Implications for familial hypercholesterolemia from the structure of the LDL receptor YWTD-EGF domain pair    
+2001-06-17
+https://doi.org/10.1038/88556
+==================================================
+
+# Source: 272
+Data quality control in genetic case-control association studies    
+2010-09-17
+https://doi.org/10.1038%2Fnprot.2010.116
+==================================================
+
+# Source: 273
+Disruption of LDL receptor gene in transgenic SREBP-1a mice unmasks hyperlipidemia resulting from production of lipid-rich VLDL    
+1999-04-01
+https://doi.org/10.1172/JCI6246
+==================================================
+
+# Source: 274
+A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000529
+==================================================
+
+# Source: 275
+Imputation of the Rare HOXB13 G84E Mutation and Cancer Risk in a Large Population-Based Cohort    
+2015-01-28
+https://doi.org/10.1371%2Fjournal.pgen.1004930
+==================================================
+
+# Source: 276
+Contribution of the innate immune system to autoimmune myocarditis: a role for complement    
+2001-08-17
+https://doi.org/10.1038%2F90686
+==================================================
+
+# Source: 277
+Partial sick leave—review of its use, effects and feasibility in the Nordic countries    
+2008-09-15
+https://doi.org/10.5271%2Fsjweh.1266
+==================================================
+
+# Source: 278
+Multicohort analysis of the maternal age effect on recombination    
+2015-08-05
+https://doi.org/10.1038%2Fncomms8846
+==================================================
+
+# Source: 279
+Return to work after early part-time sick leave due to musculoskeletal disorders: a randomized controlled trial    
+2012-03-17
+https://doi.org/10.5271%2Fsjweh.3258
+==================================================
+
+# Source: 280
+Effectiveness of an exposure-based return-to-work program for workers on sick leave due to common mental disorders: a cluster-randomized controlled trial    
+2013-03-01
+https://doi.org/10.5271%2Fsjweh.3320
+==================================================
+
+# Source: 281
+Loh, P.-R., Palamara, P.F. & Price, A.L. Fast and accurate long-range phasing and imputation in a UK...    
+2016-07-17
+https://doi.org/10.1038/ng.3571
+==================================================
+
+# Source: 282
+Prelamin A and lamin A appear to be dispensable in the nuclear lamina    
+2006-03-01
+https://doi.org/10.1172/JCI27125
+==================================================
+
+# Source: 283
+A second generation human haplotype map of over 3.1 million SNPs    
+2007-10-17
+https://doi.org/10.1038%2Fnature06258
+==================================================
+
+# Source: 284
+Causality    
+2009-09-17
+https://doi.org/10.1017%2FCBO9780511803161
+==================================================
+
+# Source: 285
+Association analyses identify 38 susceptibility loci for inflammatory bowel disease and highlight shared genetic risk across populations    
+2015-09-17
+https://doi.org/10.1038%2Fng.3359
+==================================================
+
+# Source: 286
+Counterfactuals and Causal Inference: Methods and Principles for Social Research    
+2014-11-17
+https://doi.org/10.1017%2FCBO9781107587991
+==================================================
+
+# Source: 287
+Mahase E (2020) Coronavirus: covid-19 has killed more people than SARS and MERS combined, despite lo...    
+2020-01-01
+https://doi.org/10.1136/bmj.m641
+==================================================
+
+# Source: 288
+High-density mapping of the MHC identifies a shared role for HLA-DRB1*01:03 in inflammatory bowel diseases and heterozygous advantage in ulcerative colitis    
+2015-02-17
+https://doi.org/10.1038%2Fng.3176
+==================================================
+
+# Source: 289
+Multi-State Models for Panel Data: The msm Package for R    
+2011-01-04
+https://doi.org/10.18637%2Fjss.v038.i08
+==================================================
+
+# Source: 290
+Multiple novel gene-by-environment interactions modify the effect of FTO variants on body mass index    
+2016-09-06
+https://doi.org/10.1038%2Fncomms12724
+==================================================
+
+# Source: 291
+msSurv: An R Package for Nonparametric Estimation of Multistate Models    
+2012-09-22
+https://doi.org/10.18637%2Fjss.v050.i14
+==================================================
+
+# Source: 292
+The UK Adult Twin Registry (TwinsUK Resource)    
+2013-02-17
+https://doi.org/10.1017%2Fthg.2012.89
+==================================================
+
+# Source: 293
+Multimodal population brain imaging in the UK Biobank prospective epidemiological study    
+2016-11-17
+https://doi.org/10.1038%2Fnn.4393
+==================================================
+
+# Source: 294
+Large Scale Population Assessment of Physical Activity Using Wrist Worn Accelerometers: The UK Biobank Study    
+2017-02-01
+https://doi.org/10.1371%2Fjournal.pone.0169649
+==================================================
+
+# Source: 295
+Nakamura T, Ishida K, Taniguchi Y, et al. Prognosis of patients with fulminant myocarditis managed b...    
+2015-12-17
+http://dx.doi.org/10.1186/s40560-014-0069-9
+==================================================
+
+# Source: 296
+A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000529
+==================================================
+
+# Source: 297
+UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
+2015-03-31
+https://doi.org/10.1371%2Fjournal.pmed.1001779
+==================================================
+
+# Source: 298
+Suggested citation for this article: Ng Y, Li Z, Chua YX, et al. Evaluation of the Effectiveness of ...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6911e1
+==================================================
+
+# Source: 299
+Genetic risk and a primary role for cell-mediated immune mechanisms in multiple sclerosis    
+2011-08-17
+https://doi.org/10.1038%2Fnature10251
+==================================================
+
+# Source: 300
+Gareth Griffith Tweet    
+2020-11-12
+https://x.com/Garethjgriffith/status/1326935579871817728
+==================================================
+
+# Source: 301
+Analysis of protein-coding genetic variation in 60,706 humans    
+2016-08-17
+https://doi.org/10.1038%2Fnature19057
+==================================================
+
+# Source: 302
+The UK10K project identifies rare variants in health and disease    
+2015-10-17
+https://doi.org/10.1038%2Fnature14962
+==================================================
+
+# Source: 303
+The effects of human population structure on large genetic association studies    
+2004-05-17
+https://doi.org/10.1038%2Fng1337
+==================================================
+
+# Source: 304
+Chocron S, Perrotti A, Durst C, et al. Left ventricular venting through the right subclavian artery ...    
+2013-01-01
+http://dx.doi.org/10.1093/icvts/ivt119
+==================================================
+
+# Source: 305
+Confounding from Cryptic Relatedness in Case-Control Association Studies    
+2005-09-02
+https://doi.org/10.1371%2Fjournal.pgen.0010032
+==================================================
+
+# Source: 306
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 307
+Avalli L, Maggioni E, Sangalli F, et al. Percutaneous left-heart decompression during extracorporeal...    
+2011-01-01
+http://dx.doi.org/10.1097/MAT.0b013e3181fe5d0b
+==================================================
+
+# Source: 308
+Haplotype estimation for biobank-scale data sets    
+2016-07-17
+https://doi.org/10.1038%2Fng.3583
+==================================================
+
+# Source: 309
+A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
+2014-04-17
+https://doi.org/10.1371%2Fjournal.pgen.1004234
+==================================================
+
+# Source: 310
+A global reference for human genetic variation    
+2015-10-17
+https://doi.org/10.1038%2Fnature15393
+==================================================
+
+# Source: 311
+A reference panel of 64,976 haplotypes for genotype imputation    
+2016-10-17
+https://doi.org/10.1038%2Fng.3643
+==================================================
+
+# Source: 312
+Young BE, Ong SWX, Kalimuddin S, et al.; Singapore 2019 Novel Coronavirus Outbreak Research Team. Ep...    
+2019-01-01
+http://dx.doi.org/10.1001/jama.2020.3204
+==================================================
+
+# Source: 313
+Improved imputation of low-frequency and rare variants using the UK10K haplotype reference panel    
+2015-09-14
+https://doi.org/10.1038%2Fncomms9111
+==================================================
+
+# Source: 314
+Cheng A, Swartz MF, Massey HT. Impella to unload the left ventricle during peripheral extracorporeal...    
+2013-01-01
+http://dx.doi.org/10.1097/MAT.0b013e31829f0e52
+==================================================
+
+# Source: 315
+Collective dynamics of ‘small-world’ networks    
+1998-06-17
+https://doi.org/10.1038%2F30918
+==================================================
+
+# Source: 316
+High Doses of Digitalis Increase the Myocardial Production of Proinflammatory Cytokines and Worsen Myocardial Injury in Viral Myocarditis A Possible Mechanism of Digitalis Toxicity    
+1999-01-17
+https://doi.org/10.1253%2Fjcj.63.934
+==================================================
+
+# Source: 317
+Genome-wide association study of depression phenotypes in UK Biobank identifies variants in excitatory synaptic pathways    
+2018-04-16
+https://doi.org/10.1038%2Fs41467-018-03819-3
+==================================================
+
+# Source: 318
+Carpenter , Daniel P. 2002 . Groups, the media, agency waiting costs, and FDA drug approval . Americ...    
+2002-01-01
+https://dx.doi.org/10.2307/3088394
+==================================================
+
+# Source: 319
+Multi-Population Classical HLA Type Imputation    
+2013-02-14
+https://doi.org/10.1371%2Fjournal.pcbi.1002877
+==================================================
+
+# Source: 320
+Ng Y, Li Z, Chua YX, et al. Evaluation of the effectiveness of surveillance and containment measures...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6911e1
+==================================================
+
+# Source: 321
+Probing the links between in vitro potency, ADMET and physicochemical parameters    
+2011-03-17
+https://doi.org/10.1038%2Fnrd3367
+==================================================
+
+# Source: 322
+Class II HLA interactions modulate genetic risk for multiple sclerosis    
+2015-10-17
+https://doi.org/10.1038%2Fng.3395
+==================================================
+
+# Source: 323
+Defining the role of common variation in the genomic and biological architecture of adult human height    
+2014-11-17
+https://doi.org/10.1038%2Fng.3097
+==================================================
+
+# Source: 324
+Improved whole-chromosome phasing for disease and population genetic studies    
+2013-01-17
+https://doi.org/10.1038%2Fnmeth.2307
+==================================================
+
+# Source: 325
+Bayesian refinement of association signals for 14 loci in 3 common diseases    
+2012-12-17
+https://doi.org/10.1038%2Fng.2435
+==================================================
+
+# Source: 326
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 327
+Blitvich BJ , Marlenee NL , Hall RA , Calisher CH , Bowen RA , Roehrig JT , Epitope-blocking enzyme-...    
+2003-01-01
+https://doi.org/10.1128/JCM.41.3.1041-1047.2003
+==================================================
+
+# Source: 328
+Reference-based phasing using the Haplotype Reference Consortium panel    
+2016-11-17
+https://doi.org/10.1038%2Fng.3679
+==================================================
+
+# Source: 329
+Inference of Population Structure using Dense Haplotype Data    
+2012-01-26
+https://doi.org/10.1371%2Fjournal.pgen.1002453
+==================================================
+
+# Source: 330
+Kimball A, Hatfield KM, Arons M, et al. Asymptomatic and presymptomatic SARS-CoV-2 infections in res...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6913e1
+==================================================
+
+# Source: 331
+Fast and accurate long-range phasing in a UK Biobank cohort    
+2016-07-17
+https://doi.org/10.1038%2Fng.3571
+==================================================
+
+# Source: 332
+Finding the missing heritability of complex diseases    
+2009-10-17
+https://doi.org/10.1038%2Fnature08494
+==================================================
+
+# Source: 333
+Consed: A Graphical Tool for Sequence Finishing    
+1998-03-01
+https://doi.org/10.1101%2Fgr.8.3.195
+==================================================
+
+# Source: 334
+Genome-wide association analysis identifies new susceptibility loci for Behçet's disease and epistasis between HLA-B*51 and ERAP1    
+2013-02-17
+https://doi.org/10.1038%2Fng.2520
+==================================================
+
+# Source: 335
+TXNIP Regulates Peripheral Glucose Metabolism in Humans    
+2007-05-01
+https://doi.org/10.1371%2Fjournal.pmed.0040158
+==================================================
+
+# Source: 336
+High-density mapping of the MHC identifies a shared role for HLA-DRB1*01:03 in inflammatory bowel diseases and heterozygous advantage in ulcerative colitis    
+2015-02-17
+https://doi.org/10.1038%2Fng.3176
+==================================================
+
+# Source: 337
+8. Pearl J . Causality: models, reasoning and inference , 2nd ed . Cambridge : Cambridge University ...    
+2009-09-17
+https://doi.org/10.1017/CBO9780511803161
+==================================================
+
+# Source: 338
+Comment on “The economics of follow-on drug research and development: Trends in entry rates and the timing of development”    
+2005-12-17
+https://doi.org/10.2165%2F00019053-200523120-00002
+==================================================
+
+# Source: 339
+Interaction between ERAP1 and HLA-B27 in ankylosing spondylitis implicates peptide handling in the mechanism for HLA-B27 in disease susceptibility    
+2011-08-17
+https://doi.org/10.1038%2Fng.873
+==================================================
+
+# Source: 340
+10. Shrier I . Letter to the editor . Stat Med 2008 ; 27 : 2740 – 1 . 10.1002/sim.3172 Search in Goo...    
+2008-01-01
+https://doi.org/10.1002/sim.3172
+==================================================
+
+# Source: 341
+A Polymorphism in the HLA-DPB1 Gene Is Associated with Susceptibility to Multiple Sclerosis    
+2010-10-26
+https://doi.org/10.1371%2Fjournal.pone.0013454
+==================================================
+
+# Source: 342
+Differential confounding of rare and common variants in spatially structured populations    
+2012-03-17
+https://doi.org/10.1038%2Fng.1074
+==================================================
+
+# Source: 343
+5. Rubin DB . Should observational studies be designed to allow lack of balance in covariate distrib...    
+2009-01-01
+https://doi.org/10.1002/sim.3565
+==================================================
+
+# Source: 344
+4. Rosenbaum PR . Observational studies . New York : Springer , 2002 . 10.1007/978-1-4757-3692-2 Sea...    
+2002-01-08
+https://doi.org/10.1007/978-1-4757-3692-2
+==================================================
+
+# Source: 345
+6. VanderWeele TJ , Shpitser I . A new criterion for confounder selection . Biometrics 2011 ; 67 : 1...    
+2011-01-01
+https://doi.org/10.1111/j.1541-0420.2011.01619.x
+==================================================
+
+# Source: 346
+3. Hernán MA , Hernandez-Diaz S , Robins JM . A structural approach to selection bias . Epidemiology...    
+2004-01-01
+https://doi.org/10.1097/01.ede.0000135174.63482.43
+==================================================
+
+# Source: 347
+A genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1    
+2010-11-17
+https://doi.org/10.1038%2Fng.694
+==================================================
+
+# Source: 348
+11. Shrier I . Propensity scores . Stat Med 2009 ; 28 : 1315 – 18 . 10.1002/sim.3554 Search in Googl...    
+2009-01-01
+https://doi.org/10.1002/sim.3554
+==================================================
+
+# Source: 349
+Whole population, genome-wide mapping of hidden relatedness    
+2009-02-01
+https://doi.org/10.1101%2Fgr.081398.108
+==================================================
+
+# Source: 350
+2. Heckman JJ . Sample selection bias as a specification error . Econometrica 1979 ; 47 : 153 – 61 ....    
+1979-01-01
+https://doi.org/10.2307/1912352
+==================================================
+
+# Source: 351
+12. Sjölander A . Propensity scores and M-structures . Stat Med 2009 ; 28 : 1416 – 20 . 10.1002/sim....    
+2009-01-01
+https://doi.org/10.1002/sim.3532
+==================================================
+
+# Source: 352
+7. Rosenbaum PR , Rubin DB . The central role of the propensity score in observational studies for c...    
+1983-01-01
+https://doi.org/10.1093/biomet/70.1.41
+==================================================
+
+# Source: 353
+14. Pearl J . Causal diagrams for empirical research . Biometrika 1995 ; 82 : 669 – 88 . 10.1093/bio...    
+1995-01-01
+https://doi.org/10.1093/biomet/82.4.669
+==================================================
+
+# Source: 354
+Functional epistasis on a common MHC haplotype associated with multiple sclerosis    
+2006-10-17
+https://doi.org/10.1038%2Fnature05133
+==================================================
+
+# Source: 355
+15. Greenland S . Quantifying biases in causal models: classical confounding vs collider-stratificat...    
+2002-01-01
+https://doi.org/10.1097/01.EDE.0000042804.12056.6C
+==================================================
+
+# Source: 356
+16. Berkson J . Limitations of the application of fourfold table analysis to hospital data . Biometr...    
+1946-01-01
+https://doi.org/10.2307/3002000
+==================================================
+
+# Source: 357
+17. Liu W , Brookhart MA , Schneeweiss S , Mi X , Setoguchi S . Implications of m bias in epidemiolo...    
+2012-01-01
+https://doi.org/10.1093/aje/kws165
+==================================================
+
+# Source: 358
+19. Wright S . The method of path coefficients . Ann Math Stat 1934 ; 5 : 161 – 215 . 10.1214/aoms/1...    
+None
+https://doi.org/10.1214/aoms/1177732676
+==================================================
+
+# Source: 359
+A functional and structural basis for TCR cross-reactivity in multiple sclerosis    
+2002-10-17
+https://doi.org/10.1038%2Fni835
+==================================================
+
+# Source: 360
+Fine-Mapping the Genetic Association of the Major Histocompatibility Complex in Multiple Sclerosis: HLA and Non-HLA Effects    
+2013-11-21
+https://doi.org/10.1371%2Fjournal.pgen.1003926
+==================================================
+
+# Source: 361
+O'Connell, J. et al. Haplotype estimation for biobank-scale data sets. Nat. Genet. http://dx.doi.org...    
+2016-07-17
+https://doi.org/10.1038/ng.3583
+==================================================
+
+# Source: 362
+Millard, L. A. C., Davies, N. M., Gaunt, T. R., Davey, Smith G. & Tilling, K. Software Application p...    
+2017-01-01
+https://doi.org/10.1093/ije/dyx204
+==================================================
+
+# Source: 363
+23. Rubin DB . The design versus the analysis of observational studies for causal effects: parallels...    
+2007-01-01
+https://doi.org/10.1002/sim.2739
+==================================================
+
+# Source: 364
+Meta-analysis of genome scans and replication identify CD6, IRF8 and TNFRSF1A as new multiple sclerosis susceptibility loci    
+2009-07-17
+https://doi.org/10.1038%2Fng.401
+==================================================
+
+# Source: 365
+Elsworth, B. et al. MRC IEU UK Biobank GWAS pipeline, version 2. https://doi.org/10.5523/bris.pnoat8...    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 366
+24. Neyman J . On the application of probability theory to agricultural experiments. Essay on princi...    
+None
+https://doi.org/10.1214/ss/1177012031
+==================================================
+
+# Source: 367
+Variants within the immunoregulatory CBLB gene are associated with multiple sclerosis    
+2010-06-17
+https://doi.org/10.1038%2Fng.584
+==================================================
+
+# Source: 368
+Mutations in factor H reduce binding affinity to C3b and heparin and surface attachment to endothelial cells in hemolytic uremic syndrome    
+2003-04-15
+https://doi.org/10.1172%2FJCI16651
+==================================================
+
+# Source: 369
+Identification of a novel X-linked gene responsible for Emery-Dreifuss muscular dystrophy    
+1994-12-17
+https://doi.org/10.1038/ng1294-323
+==================================================
+
+# Source: 370
+To Explain or to Predict?    
+None
+https://doi.org/10.1214%2F10-STS330
+==================================================
+
+# Source: 371
+28. Rubin DB . For objective causal inference, design trumps analysis . Ann Appl Stat 2008 ; 2 : 808...    
+None
+https://doi.org/10.1214/08-AOAS187
+==================================================
+
+# Source: 372
+Multi-Population Classical HLA Type Imputation    
+2013-02-14
+https://doi.org/10.1371%2Fjournal.pcbi.1002877
+==================================================
+
+# Source: 373
+Principal components analysis corrects for stratification in genome-wide association studies    
+2006-08-17
+https://doi.org/10.1038%2Fng1847
+==================================================
+
+# Source: 374
+Common variants near CAV1 and CAV2 are associated with primary open-angle glaucoma    
+2010-10-17
+https://doi.org/10.1038%2Fng.661
+==================================================
+
+# Source: 375
+Kuster, G. M. et al. SARS-CoV2: should inhibitors of the renin-angiotensin system be withdrawn in pa...    
+2020-01-01
+https://doi.org/10.1093/eurheartj/ehaa235
+==================================================
+
+# Source: 376
+Bean, D. et al. Treatment with ACE-inhibitors is associated with less severe disease with SARS-Covid...    
+2020-01-01
+https://doi.org/10.1101/2020.04.07.20056788v1
+==================================================
+
+# Source: 377
+The UK Biobank resource with deep phenotyping and genomic data    
+2018-10-17
+https://doi.org/10.1038%2Fs41586-018-0579-z
+==================================================
+
+# Source: 378
+Patel, A. P., Paranjpe, M. D., Kathiresan, N. P., Rivas, M. A. & Khera, A. V. Race, socioeconomic de...    
+2020-05-02
+https://doi.org/10.1101/2020.04.27.20082107
+==================================================
+
+# Source: 379
+Genetic epidemiology and Mendelian randomization for informing disease therapeutics: Conceptual and methodological challenges    
+2017-10-05
+https://doi.org/10.1371%2Fjournal.pgen.1006944
+==================================================
+
+# Source: 380
+Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
+2015-06-17
+https://doi.org/10.1007/s12552-015-9146-5
+==================================================
+
+# Source: 381
+Lacerda, G., Spirtes, P., Ramsey, J., & Hoyer, P.O. (2008). Discovering cyclic causal models by inde...    
+2008-01-01
+http://dx.doi.org/10.1093/oso/9780198522195.001.0001
+==================================================
+
+# Source: 382
+UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
+2015-03-31
+https://doi.org/10.1371%2Fjournal.pmed.1001779
+==================================================
+
+# Source: 383
+The Statistics of Causal Inference: A View from Political Methodology    
+2015-07-17
+https://doi.org/10.1093/pan/mpv007
+==================================================
+
+# Source: 384
+Mutations in the gene encoding lamin A/C cause autosomal dominant Emery-Dreifuss muscular dystrophy    
+1999-03-17
+https://doi.org/10.1038/6799
+==================================================
+
+# Source: 385
+Identification of low-frequency and rare sequence variants associated with elevated or reduced risk of type 2 diabetes    
+2014-03-17
+https://doi.org/10.1038%2Fng.2882
+==================================================
+
+# Source: 386
+Patient-specific induced pluripotent stem-cell-derived models of LEOPARD syndrome    
+2010-06-17
+https://doi.org/10.1038%2Fnature09005
+==================================================
+
+# Source: 387
+Modèles structuraux et inférence causale    
+2015-01-17
+https://doi.org/10.4000/books.pur.61649
+==================================================
+
+# Source: 388
+Two independent alleles at 6q23 associated with risk of rheumatoid arthritis    
+2007-12-17
+https://doi.org/10.1038%2Fng.2007.27
+==================================================
+
+# Source: 389
+Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
+2015-12-17
+https://doi.org/10.1186/s12889-015-2408-8
+==================================================
+
+# Source: 390
+5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
+2012-01-17
+https://doi.org/10.4000/books.pum.8791
+==================================================
+
+# Source: 391
+The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
+2014-10-27
+https://doi.org/10.15195/v1.a25
+==================================================
+
+# Source: 392
+A study based on whole-genome sequencing yields a rare variant at 8q24 associated with prostate cancer    
+2012-12-17
+https://doi.org/10.1038%2Fng.2437
+==================================================
+
+# Source: 393
+This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
+2017-12-14
+https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
+==================================================
+
+# Source: 394
+CFH haplotypes without the Y402H coding variant show strong association with susceptibility to age-related macular degeneration    
+2006-09-17
+https://doi.org/10.1038%2Fng1871
+==================================================
+
+# Source: 395
+A Proposed Classification of the Immunological Diseases    
+2006-08-29
+https://doi.org/10.1371%2Fjournal.pmed.0030297
+==================================================
+
+# Source: 396
+Loss-of-function variants in ABCA7 confer risk of Alzheimer's disease    
+2015-05-17
+https://doi.org/10.1038%2Fng.3246
+==================================================
+
+# Source: 397
+The economics of follow-on drug research and development    
+2004-10-17
+https://doi.org/10.2165%2F00019053-200422002-00002
+==================================================
+
+# Source: 398
+A rare nonsynonymous sequence variant in C3 is associated with high risk of age-related macular degeneration    
+2013-11-17
+https://doi.org/10.1038%2Fng.2740
+==================================================
+
+# Source: 399
+Emerin deficiency at the nuclear membrane in patients with Emery-Dreif uss muscular dystrophy    
+1996-03-17
+https://doi.org/10.1038/ng0396-254
+==================================================
+
+# Source: 400
+A role for mitochondria in NLRP3 inflammasome activation    
+2011-01-17
+https://doi.org/10.1038%2Fnature09663
+==================================================
+
+# Source: 401
+The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data    
+2010-09-01
+https://doi.org/10.1101%2Fgr.107524.110
+==================================================
+
+# Source: 402
+Common and low-frequency variants associated with genome-wide recombination rate    
+2014-01-17
+https://doi.org/10.1038%2Fng.2833
+==================================================
+
+# Source: 403
+Genome-wide association study identifies variants in the CFH region associated with host susceptibility to meningococcal disease    
+2010-09-17
+https://doi.org/10.1038%2Fng.640
+==================================================
+
+# Source: 404
+Automating sequence-based detection and genotyping of SNPs from diploid samples    
+2006-03-17
+https://doi.org/10.1038%2Fng1746
+==================================================
+
+# Source: 405
+LMNA, encoding lamin A/C, is mutated in partial lipodystrophy    
+2000-02-17
+https://doi.org/10.1038/72807
+==================================================
+
+# Source: 406
+Returns on Research and Development for 1990s New Drug Introductions    
+2002-12-17
+https://doi.org/10.2165%2F00019053-200220003-00002
+==================================================
+
+# Source: 407
+Associations of CFHR1–CFHR3 deletion and a CFH SNP to age-related macular degeneration are not independent    
+2010-07-17
+https://doi.org/10.1038%2Fng0710-553
+==================================================
+
+# Source: 408
+Recurrent de novo point mutations in lamin A cause Hutchinson–Gilford progeria syndrome    
+2003-05-17
+https://doi.org/10.1038/nature01629
+==================================================
+
+# Source: 409
+Base-Calling of Automated Sequencer Traces UsingPhred. I. Accuracy Assessment    
+1998-03-01
+https://doi.org/10.1101%2Fgr.8.3.175
+==================================================
+
+# Source: 410
+Activation of the NALP3 inflammasome is triggered by low intracellular potassium concentration    
+2007-09-17
+https://doi.org/10.1038%2Fsj.cdd.4402195
+==================================================
+
+# Source: 411
+Variation near complement factor I is associated with risk of advanced AMD    
+2009-01-17
+https://doi.org/10.1038%2Fejhg.2008.140
+==================================================
+
+# Source: 412
+Discovery of common variants associated with low TSH levels and thyroid cancer risk    
+2012-03-17
+https://doi.org/10.1038%2Fng.1046
+==================================================
+
+# Source: 413
+Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
+2006-04-17
+https://doi.org/10.1038%2Fng1750
+==================================================
+
+# Source: 414
+Genome-wide association of early-onset myocardial infarction with single nucleotide polymorphisms and copy number variants    
+2009-03-17
+https://doi.org/10.1038%2Fng.327
+==================================================
+
+# Source: 415
+A General Approach for Haplotype Phasing across the Full Spectrum of Relatedness    
+2014-04-17
+https://doi.org/10.1371%2Fjournal.pgen.1004234
+==================================================
+
+# Source: 416
+Lamin B1 duplications cause autosomal dominant leukodystrophy    
+2006-10-17
+https://doi.org/10.1038/ng1872
+==================================================
+
+# Source: 417
+The SPRY domain of Pyrin, mutated in familial Mediterranean fever patients, interacts with inflammasome components and inhibits proIL-1β processing    
+2007-08-17
+https://doi.org/10.1038%2Fsj.cdd.4402142
+==================================================
+
+# Source: 418
+Genetic and Functional Dissection of HTRA1 and LOC387715 in Age-Related Macular Degeneration    
+2010-02-05
+https://doi.org/10.1371%2Fjournal.pgen.1000836
+==================================================
+
+# Source: 419
+Large-scale whole-genome sequencing of the Icelandic population    
+2015-05-17
+https://doi.org/10.1038%2Fng.3247
+==================================================
+
+# Source: 420
+Loss of the autophagy protein Atg16L1 enhances endotoxin-induced IL-1β production    
+2008-11-17
+https://doi.org/10.1038%2Fnature07383
+==================================================
+
+# Source: 421
+Cryopyrin and pyrin activate caspase-1, but not NF-κB, via ASC oligomerization    
+2006-02-17
+https://doi.org/10.1038%2Fsj.cdd.4401734
+==================================================
+
+# Source: 422
+LD Score regression distinguishes confounding from polygenicity in genome-wide association studies    
+2015-03-17
+https://doi.org/10.1038%2Fng.3211
+==================================================
+
+# Source: 423
+Activation of MAPK pathways links <i>LMNA</i> mutations to cardiomyopathy in Emery-Dreifuss muscular dystrophy    
+2007-05-01
+https://doi.org/10.1172/JCI29042
+==================================================
+
+# Source: 424
+Progerin elicits disease phenotypes of progeria in mice whether or not it is farnesylated    
+2008-10-01
+https://doi.org/10.1172/JCI35876
+==================================================
+
+# Source: 425
+This dataset is superseded by https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 426
+Activation of MAPK pathways links <i>LMNA</i> mutations to cardiomyopathy in Emery-Dreifuss muscular dystrophy    
+2007-05-01
+https://doi.org/10.1172/JCI29042
+==================================================
+
+# Source: 427
+Combined treatment with statins and aminobisphosphonates extends longevity in a mouse model of human premature aging    
+2008-07-17
+https://doi.org/10.1038/nm1786
+==================================================
+
+# Source: 428
+A farnesyltransferase inhibitor improves disease phenotypes in mice with a Hutchinson-Gilford progeria syndrome mutation    
+2006-08-01
+https://doi.org/10.1172/JCI28968
+==================================================
+
+# Source: 429
+ER stress activates the NLRP3 inflammasome via an UPR-independent pathway    
+2012-01-17
+https://doi.org/10.1038%2Fcddis.2011.132
+==================================================
+
+# Source: 430
+Variation in complement factor 3 is associated with risk of age-related macular degeneration    
+2007-10-17
+https://doi.org/10.1038%2Fng2131
+==================================================
+
+# Source: 431
+Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration    
+2006-09-17
+https://doi.org/10.1038%2Fng1873
+==================================================
+
+# Source: 432
+p53 mutant mice that display early ageing-associated phenotypes    
+2002-01-17
+https://doi.org/10.1038/415045a
+==================================================
+
+# Source: 433
+Tellier, R. Review of aerosol transmission of influenza A virus. Emerg. Infect. Dis 12 , 1657–1662, ...    
+2006-11-17
+https://doi.org/10.3201/eid1211.060426
+==================================================
+
+# Source: 434
+Accelerated ageing in mice deficient in Zmpste24 protease is linked to p53 signalling activation    
+2005-09-17
+https://doi.org/10.1038/nature04019
+==================================================
+
+# Source: 435
+Lamin A-dependent misregulation of adult stem cells associated with accelerated ageing    
+2008-04-17
+https://doi.org/10.1038/ncb1708
+==================================================
+
+# Source: 436
+Guidelines for Diagnosis and Treatment of Myocarditis (JCS 2009) – Digest Version –    
+2011-01-17
+https://doi.org/10.1253%2Fcircj.CJ-88-0008
+==================================================
+
+# Source: 437
+Fulminant myocarditis    
+2008-11-17
+https://doi.org/10.1038%2Fncpcardio1331
+==================================================
+
+# Source: 438
+Mutations in BRIP1 confer high risk of ovarian cancer    
+2011-11-17
+https://doi.org/10.1038%2Fng.955
+==================================================
+
+# Source: 439
+Loss-of-function variants in ATM confer risk of gastric cancer    
+2015-08-17
+https://doi.org/10.1038%2Fng.3342
+==================================================
+
+# Source: 440
+Stalnaker, R. “A Theory of Conditionals.” Studies in Logical Theory. Ed. Nicholas Rescher. Oxford: B...    
+1968-01-17
+http://dx.doi.org/10.1007/978-94-009-9117-0_2
+==================================================
+
+# Source: 441
+Genomic instability in laminopathy-based premature aging    
+2005-07-17
+https://doi.org/10.1038/nm1266
+==================================================
+
+# Source: 442
+Long-Term Prognosis of Fulminant Myocarditis Rescued by Percutaneous Cardiopulmonary Support Device    
+2004-01-17
+https://doi.org/10.1253%2Fcircj.68.829
+==================================================
+
+# Source: 443
+Cryptic Distant Relatives Are Common in Both Isolated and Cosmopolitan Genetic Samples    
+2012-04-03
+https://doi.org/10.1371%2Fjournal.pone.0034267
+==================================================
+
+# Source: 444
+Progerin elicits disease phenotypes of progeria in mice whether or not it is farnesylated    
+2008-10-01
+https://doi.org/10.1172/JCI35876
+==================================================
+
+# Source: 445
+Lyon, A. “Causality.” British Journal for the Philosophy of Science 18.1 (1967): 1-20. http://dx.doi...    
+1967-01-01
+http://dx.doi.org/10.1093/bjps/18.1.1
+==================================================
+
+# Source: 446
+Viral myocarditis—diagnosis, treatment options, and current controversies    
+2015-11-17
+https://doi.org/10.1038%2Fnrcardio.2015.108
+==================================================
+
+# Source: 447
+Reversal of the cellular phenotype in the premature aging disease Hutchinson-Gilford progeria syndrome    
+2005-04-17
+https://doi.org/10.1038/nm1204
+==================================================
+
+# Source: 448
+Veno-arterial extracorporeal membrane oxygenation for cardiogenic shock due to myocarditis in adult patients    
+2016-07-17
+https://doi.org/10.21037%2Fjtd.2016.06.26
+==================================================
+
+# Source: 449
+Ding, L., Cai, W., Jing J.Q., Zhang, X.X., Cai Y., Shi, J.W., Liang, Q.M., Zhang, L.F., Sun, L.Z., Q...    
+2020-02-23
+https://doi.org/10.1360/SSV-2020-0044
+==================================================
+
+# Source: 450
+A rare variant in MYH6 is associated with high risk of sick sinus syndrome    
+2011-04-17
+https://doi.org/10.1038%2Fng.781
+==================================================
+
+# Source: 451
+Correction of cellular phenotypes of Hutchinson-Gilford Progeria cells by RNA interference    
+2005-12-17
+https://doi.org/10.1007/s00439-005-0051-7
+==================================================
+
+# Source: 452
+A National Survey on Myocarditis Associated With the 2009 Influenza A (H1N1) Pandemic in Japan    
+2010-01-17
+https://doi.org/10.1253%2Fcircj.CJ-10-0452
+==================================================
+
+# Source: 453
+Zhang, Z., Li, X., Zhang, W., Shi, Z.L., Zheng, Z., and Wang, T. (2020). Clinical Features and Treat...    
+2020-06-17
+https://doi.org/10.1007/s12250-020-00203-8
+==================================================
+
+# Source: 454
+A farnesyltransferase inhibitor improves disease phenotypes in mice with a Hutchinson-Gilford progeria syndrome mutation    
+2006-08-01
+https://doi.org/10.1172/JCI28968
+==================================================
+
+# Source: 455
+Yang, Y., Lu, Q., Liu, M., Wang, Y., Zhang, A., Jalali, N., Dean, N., Longini, I., Halloran, M.E., X...    
+2020-02-21
+https://doi.org/10.1101/2020.02.10.20021675
+==================================================
+
+# Source: 456
+Repetitive Fulminant Influenza Myocarditis Requiring the Use of Circulatory Assist Devices    
+2014-01-17
+https://doi.org/10.2169%2Finternalmedicine.53.1117
+==================================================
+
+# Source: 457
+Prelamin A and lamin A appear to be dispensable in the nuclear lamina    
+2006-03-01
+https://doi.org/10.1172/JCI27125
+==================================================
+
+# Source: 458
+Intravenous immunoglobulin in the therapy of adult acute fulminant myocarditis: A retrospective study    
+2014-01-01
+https://doi.org/10.3892%2Fetm.2013.1372
+==================================================
+
+# Source: 459
+Parente2: a fast and accurate method for detecting identity by descent    
+2015-02-01
+https://doi.org/10.1101%2Fgr.173641.114
+==================================================
+
+# Source: 460
+Mouse model of X–linked chronic granulomatous disease, an inherited defect in phagocyte superoxide production    
+1995-02-17
+https://doi.org/10.1038%2Fng0295-202
+==================================================
+
+# Source: 461
+An Effective Filter for IBD Detection in Large Data Sets    
+2014-03-25
+https://doi.org/10.1371%2Fjournal.pone.0092713
+==================================================
+
+# Source: 462
+Thioredoxin-interacting protein links oxidative stress to inflammasome activation    
+2010-02-17
+https://doi.org/10.1038%2Fni.1831
+==================================================
+
+# Source: 463
+Goldman, A. I. “Toward a Theory of Social Power.” Philosophical Studies 23.4 (1972a) 221-268. http:/...    
+1972-06-17
+http://dx.doi.org/10.1007/BF00356228
+==================================================
+
+# Source: 464
+Genome-wide association analysis identifies three psoriasis susceptibility loci    
+2010-11-17
+https://doi.org/10.1038%2Fng.693
+==================================================
+
+# Source: 465
+Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
+2010-12-17
+https://doi.org/10.1038%2Fng.717
+==================================================
+
+# Source: 466
+Parental origin of sequence variants associated with complex diseases    
+2009-12-17
+https://doi.org/10.1038%2Fnature08625
+==================================================
+
+# Source: 467
+The IL23R R381Q Gene Variant Protects against Immune-Mediated Diseases by Impairing IL-23-Induced Th17 Effector Response in Humans    
+2011-02-22
+https://doi.org/10.1371%2Fjournal.pone.0017160
+==================================================
+
+# Source: 468
+Common variants conferring risk of schizophrenia    
+2009-08-17
+https://doi.org/10.1038%2Fnature08186
+==================================================
+
+# Source: 469
+Induction of somatic hypermutation in immunoglobulin genes is dependent on DNA polymerase iota    
+2002-10-17
+https://doi.org/10.1038%2Fnature01117
+==================================================
+
+# Source: 470
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 471
+Ichikawa R, Sumitomo N, Komori A, et al:
 The follow-up evaluation of electrocardiogram and arrhythmi...    
-            2011-01-17
-            http://dx.doi.org/10.1253/circj.CJ-10-0918
-            ======================================================================================================================================================
-            
-            <h1> Source: 472 </h1>
-            This dataset is superseded by https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 473 </h1>
-            Deletion of the late cornified envelope LCE3B and LCE3C genes as a susceptibility factor for psoriasis    
-            2009-02-17
-            https://doi.org/10.1038%2Fng.313
-            ======================================================================================================================================================
-            
-            <h1> Source: 474 </h1>
-            Fine-scale recombination rate differences between sexes, populations and individuals    
-            2010-10-17
-            https://doi.org/10.1038%2Fnature09525
-            ======================================================================================================================================================
-            
-            <h1> Source: 475 </h1>
-            The inflammasome adaptor ASC regulates the function of adaptive immune cells by controlling Dock2-mediated Rac activation and actin polymerization    
-            2011-10-17
-            https://doi.org/10.1038%2Fni.2095
-            ======================================================================================================================================================
-            
-            <h1> Source: 476 </h1>
-            Integrating common and rare genetic variation in diverse human populations    
-            2010-09-17
-            https://doi.org/10.1038%2Fnature09298
-            ======================================================================================================================================================
-            
-            <h1> Source: 477 </h1>
-            McNamara DM, Rosenblum WD, et al:
+2011-01-17
+http://dx.doi.org/10.1253/circj.CJ-10-0918
+==================================================
+
+# Source: 472
+This dataset is superseded by https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 473
+Deletion of the late cornified envelope LCE3B and LCE3C genes as a susceptibility factor for psoriasis    
+2009-02-17
+https://doi.org/10.1038%2Fng.313
+==================================================
+
+# Source: 474
+Fine-scale recombination rate differences between sexes, populations and individuals    
+2010-10-17
+https://doi.org/10.1038%2Fnature09525
+==================================================
+
+# Source: 475
+The inflammasome adaptor ASC regulates the function of adaptive immune cells by controlling Dock2-mediated Rac activation and actin polymerization    
+2011-10-17
+https://doi.org/10.1038%2Fni.2095
+==================================================
+
+# Source: 476
+Integrating common and rare genetic variation in diverse human populations    
+2010-09-17
+https://doi.org/10.1038%2Fnature09298
+==================================================
+
+# Source: 477
+McNamara DM, Rosenblum WD, et al:
 Intravenous immune globulin in the therapy of myocarditis and acut...    
-            1997-01-01
-            http://dx.doi.org/10.1161/01.CIR.95.11.2476
-            ======================================================================================================================================================
-            
-            <h1> Source: 478 </h1>
-            Psoriasis genome-wide association study identifies susceptibility variants within LCE gene cluster at 1q21    
-            2009-02-17
-            https://doi.org/10.1038%2Fng.310
-            ======================================================================================================================================================
-            
-            <h1> Source: 479 </h1>
-            A new multipoint method for genome-wide association studies by imputation of genotypes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2088
-            ======================================================================================================================================================
-            
-            <h1> Source: 480 </h1>
-            A genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.694
-            ======================================================================================================================================================
-            
-            <h1> Source: 481 </h1>
-            Magnani JW and Dec GW: Myocarditis:
+1997-01-01
+http://dx.doi.org/10.1161/01.CIR.95.11.2476
+==================================================
+
+# Source: 478
+Psoriasis genome-wide association study identifies susceptibility variants within LCE gene cluster at 1q21    
+2009-02-17
+https://doi.org/10.1038%2Fng.310
+==================================================
+
+# Source: 479
+A new multipoint method for genome-wide association studies by imputation of genotypes    
+2007-07-17
+https://doi.org/10.1038%2Fng2088
+==================================================
+
+# Source: 480
+A genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1    
+2010-11-17
+https://doi.org/10.1038%2Fng.694
+==================================================
+
+# Source: 481
+Magnani JW and Dec GW: Myocarditis:
 current trends in diagnosis and treatment. Circulation.
 113:876–...    
-            2006-01-01
-            http://dx.doi.org/10.1161/CIRCULATIONAHA.105.584532
-            ======================================================================================================================================================
-            
-            <h1> Source: 482 </h1>
-            Mason JW, O’Connell JB, Herskowitz A, et
+2006-01-01
+http://dx.doi.org/10.1161/CIRCULATIONAHA.105.584532
+==================================================
+
+# Source: 482
+Mason JW, O’Connell JB, Herskowitz A, et
 al: A clinical trial of immunosuppressive therapy for myoca...    
-            1995-01-01
-            http://dx.doi.org/10.1056/NEJM199508033330501
-            ======================================================================================================================================================
-            
-            <h1> Source: 483 </h1>
-            Sequence variants in IL10, ARPC2 and multiple other loci contribute to ulcerative colitis susceptibility    
-            2008-11-17
-            https://doi.org/10.1038%2Fng.221
-            ======================================================================================================================================================
-            
-            <h1> Source: 484 </h1>
-            Association analyses identify six new psoriasis susceptibility loci in the Chinese population    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.690
-            ======================================================================================================================================================
-            
-            <h1> Source: 485 </h1>
-            Genetics and pathogenesis of inflammatory bowel disease    
-            2011-06-17
-            https://doi.org/10.1038%2Fnature10209
-            ======================================================================================================================================================
-            
-            <h1> Source: 486 </h1>
-            Alleweldt F , Kara S , Osinski A , Van Baal P , Kellerborg K , Aarestrup FM , et al. Developing a fr...    
-            2017-01-01
-            https://doi.org/10.20506/rst.36.1.2631
-            ======================================================================================================================================================
-            
-            <h1> Source: 487 </h1>
-            Variance component model to account for sample structure in genome-wide association studies    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.548
-            ======================================================================================================================================================
-            
-            <h1> Source: 488 </h1>
-            Balancing Selection Maintains a Form of ERAP2 that Undergoes Nonsense-Mediated Decay and Affects Antigen Presentation    
-            2010-10-14
-            https://doi.org/10.1371%2Fjournal.pgen.1001157
-            ======================================================================================================================================================
-            
-            <h1> Source: 489 </h1>
-            SLC11A1 (NRAMP1) Polymorphisms and Tuberculosis Susceptibility: Updated Systematic Review and Meta-Analysis    
-            2011-01-25
-            https://doi.org/10.1371%2Fjournal.pone.0015831
-            ======================================================================================================================================================
-            
-            <h1> Source: 490 </h1>
-            Kuk AYC , Ma S . The estimation of SARS incubation distribution from serial interval data using a co...    
-            2005-01-01
-            https://doi.org/10.1002/sim.2123
-            ======================================================================================================================================================
-            
-            <h1> Source: 491 </h1>
-            Variations in DNA elucidate molecular networks that cause disease    
-            2008-03-17
-            https://doi.org/10.1038%2Fnature06757
-            ======================================================================================================================================================
-            
-            <h1> Source: 492 </h1>
-            Cui J , Li F , Shi ZL . Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol. 2019 ; ...    
-            2019-03-17
-            https://doi.org/10.1038/s41579-018-0118-9
-            ======================================================================================================================================================
-            
-            <h1> Source: 493 </h1>
-            Transcription factors T-bet and Runx3 cooperate to activate Ifng and silence Il4 in T helper type 1 cells    
-            2007-02-17
-            https://doi.org/10.1038%2Fni1424
-            ======================================================================================================================================================
-            
-            <h1> Source: 494 </h1>
-            Liver and Adipose Expression Associated SNPs Are Enriched for Association to Type 2 Diabetes    
-            2010-05-06
-            https://doi.org/10.1371%2Fjournal.pgen.1000932
-            ======================================================================================================================================================
-            
-            <h1> Source: 495 </h1>
-            Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
-            2015-12-17
-            https://doi.org/10.1186/s12889-015-2408-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 496 </h1>
-            A survey of the genetics of stomach, liver, and adipose gene expression from a morbidly obese cohort    
-            2011-07-01
-            https://doi.org/10.1101%2Fgr.112821.110
-            ======================================================================================================================================================
-            
-            <h1> Source: 497 </h1>
-            Identification of two new loci at IL23R and RAB32 that influence susceptibility to leprosy    
-            2011-12-17
-            https://doi.org/10.1038%2Fng.973
-            ======================================================================================================================================================
-            
-            <h1> Source: 498 </h1>
-            High expression of active CDK6 in the cytoplasm of CD8 memory cells favors rapid division    
-            2004-01-17
-            https://doi.org/10.1038%2Fni1015
-            ======================================================================================================================================================
-            
-            <h1> Source: 499 </h1>
-            Dominant-negative mutations in the DNA-binding domain of STAT3 cause hyper-IgE syndrome    
-            2007-08-17
-            https://doi.org/10.1038%2Fnature06096
-            ======================================================================================================================================================
-            
-            <h1> Source: 500 </h1>
-            Mapping the Genetic Architecture of Gene Expression in Human Liver    
-            2008-05-06
-            https://doi.org/10.1371%2Fjournal.pbio.0060107
-            ======================================================================================================================================================
-            
-            <h1> Source: 501 </h1>
-            Genetics of gene expression and its effect on disease    
-            2008-03-17
-            https://doi.org/10.1038%2Fnature06758
-            ======================================================================================================================================================
-            
-            <h1> Source: 502 </h1>
-            A new multipoint method for genome-wide association studies by imputation of genotypes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2088
-            ======================================================================================================================================================
-            
-            <h1> Source: 503 </h1>
-            Amabile N, Fraisse A, Bouvenot J, et al:
+1995-01-01
+http://dx.doi.org/10.1056/NEJM199508033330501
+==================================================
+
+# Source: 483
+Sequence variants in IL10, ARPC2 and multiple other loci contribute to ulcerative colitis susceptibility    
+2008-11-17
+https://doi.org/10.1038%2Fng.221
+==================================================
+
+# Source: 484
+Association analyses identify six new psoriasis susceptibility loci in the Chinese population    
+2010-11-17
+https://doi.org/10.1038%2Fng.690
+==================================================
+
+# Source: 485
+Genetics and pathogenesis of inflammatory bowel disease    
+2011-06-17
+https://doi.org/10.1038%2Fnature10209
+==================================================
+
+# Source: 486
+Alleweldt F , Kara S , Osinski A , Van Baal P , Kellerborg K , Aarestrup FM , et al. Developing a fr...    
+2017-01-01
+https://doi.org/10.20506/rst.36.1.2631
+==================================================
+
+# Source: 487
+Variance component model to account for sample structure in genome-wide association studies    
+2010-04-17
+https://doi.org/10.1038%2Fng.548
+==================================================
+
+# Source: 488
+Balancing Selection Maintains a Form of ERAP2 that Undergoes Nonsense-Mediated Decay and Affects Antigen Presentation    
+2010-10-14
+https://doi.org/10.1371%2Fjournal.pgen.1001157
+==================================================
+
+# Source: 489
+SLC11A1 (NRAMP1) Polymorphisms and Tuberculosis Susceptibility: Updated Systematic Review and Meta-Analysis    
+2011-01-25
+https://doi.org/10.1371%2Fjournal.pone.0015831
+==================================================
+
+# Source: 490
+Kuk AYC , Ma S . The estimation of SARS incubation distribution from serial interval data using a co...    
+2005-01-01
+https://doi.org/10.1002/sim.2123
+==================================================
+
+# Source: 491
+Variations in DNA elucidate molecular networks that cause disease    
+2008-03-17
+https://doi.org/10.1038%2Fnature06757
+==================================================
+
+# Source: 492
+Cui J , Li F , Shi ZL . Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol. 2019 ; ...    
+2019-03-17
+https://doi.org/10.1038/s41579-018-0118-9
+==================================================
+
+# Source: 493
+Transcription factors T-bet and Runx3 cooperate to activate Ifng and silence Il4 in T helper type 1 cells    
+2007-02-17
+https://doi.org/10.1038%2Fni1424
+==================================================
+
+# Source: 494
+Liver and Adipose Expression Associated SNPs Are Enriched for Association to Type 2 Diabetes    
+2010-05-06
+https://doi.org/10.1371%2Fjournal.pgen.1000932
+==================================================
+
+# Source: 495
+Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
+2015-12-17
+https://doi.org/10.1186/s12889-015-2408-8
+==================================================
+
+# Source: 496
+A survey of the genetics of stomach, liver, and adipose gene expression from a morbidly obese cohort    
+2011-07-01
+https://doi.org/10.1101%2Fgr.112821.110
+==================================================
+
+# Source: 497
+Identification of two new loci at IL23R and RAB32 that influence susceptibility to leprosy    
+2011-12-17
+https://doi.org/10.1038%2Fng.973
+==================================================
+
+# Source: 498
+High expression of active CDK6 in the cytoplasm of CD8 memory cells favors rapid division    
+2004-01-17
+https://doi.org/10.1038%2Fni1015
+==================================================
+
+# Source: 499
+Dominant-negative mutations in the DNA-binding domain of STAT3 cause hyper-IgE syndrome    
+2007-08-17
+https://doi.org/10.1038%2Fnature06096
+==================================================
+
+# Source: 500
+Mapping the Genetic Architecture of Gene Expression in Human Liver    
+2008-05-06
+https://doi.org/10.1371%2Fjournal.pbio.0060107
+==================================================
+
+# Source: 501
+Genetics of gene expression and its effect on disease    
+2008-03-17
+https://doi.org/10.1038%2Fnature06758
+==================================================
+
+# Source: 502
+A new multipoint method for genome-wide association studies by imputation of genotypes    
+2007-07-17
+https://doi.org/10.1038%2Fng2088
+==================================================
+
+# Source: 503
+Amabile N, Fraisse A, Bouvenot J, et al:
 Outcome of acute fulminant myocarditis in children. Heart.
 ...    
-            2006-01-01
-            http://dx.doi.org/10.1136/hrt.2005.078402
-            ======================================================================================================================================================
-            
-            <h1> Source: 504 </h1>
-            A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000529
-            ======================================================================================================================================================
-            
-            <h1> Source: 505 </h1>
-            Increasing the Power to Detect Causal Associations by Combining Genotypic and Expression Data in Segregating Populations    
-            2007-04-13
-            https://doi.org/10.1371%2Fjournal.pcbi.0030069
-            ======================================================================================================================================================
-            
-            <h1> Source: 506 </h1>
-            The Statistics of Causal Inference: A View from Political Methodology    
-            2015-07-17
-            https://doi.org/10.1093/pan/mpv007
-            ======================================================================================================================================================
-            
-            <h1> Source: 507 </h1>
-            MRC IEU UK Biobank GWAS pipeline version 1 This dataset is superseded by https://doi.org/10.5523/bri...    
-            2017-12-14
-            https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
-            ======================================================================================================================================================
-            
-            <h1> Source: 508 </h1>
-            Diurnal patterns of objectively measured physical activity and sedentary behaviour in older men    
-            2015-12-17
-            https://doi.org/10.1186/s12889-015-1976-y
-            ======================================================================================================================================================
-            
-            <h1> Source: 509 </h1>
-            Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
-            2009-06-26
-            https://doi.org/10.1371%2Fjournal.pgen.1000534
-            ======================================================================================================================================================
-            
-            <h1> Source: 510 </h1>
-            Yu Z and Lennon VA: Mechanism of
+2006-01-01
+http://dx.doi.org/10.1136/hrt.2005.078402
+==================================================
+
+# Source: 504
+A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000529
+==================================================
+
+# Source: 505
+Increasing the Power to Detect Causal Associations by Combining Genotypic and Expression Data in Segregating Populations    
+2007-04-13
+https://doi.org/10.1371%2Fjournal.pcbi.0030069
+==================================================
+
+# Source: 506
+The Statistics of Causal Inference: A View from Political Methodology    
+2015-07-17
+https://doi.org/10.1093/pan/mpv007
+==================================================
+
+# Source: 507
+MRC IEU UK Biobank GWAS pipeline version 1 This dataset is superseded by https://doi.org/10.5523/bri...    
+2017-12-14
+https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
+==================================================
+
+# Source: 508
+Diurnal patterns of objectively measured physical activity and sedentary behaviour in older men    
+2015-12-17
+https://doi.org/10.1186/s12889-015-1976-y
+==================================================
+
+# Source: 509
+Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
+2009-06-26
+https://doi.org/10.1371%2Fjournal.pgen.1000534
+==================================================
+
+# Source: 510
+Yu Z and Lennon VA: Mechanism of
 intravenous immune globulin therapy in antibody-mediated autoimmune...    
-            1999-01-01
-            http://dx.doi.org/10.1056/NEJM199901213400311
-            ======================================================================================================================================================
-            
-            <h1> Source: 511 </h1>
-            Muth D , Corman VM , Roth H , Binger T , Dijkman R , Gottula LT , et al. Attenuation of replication ...    
-            2018-10-11
-            https://doi.org/10.1038/s41598-018-33487-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 512 </h1>
-            10.18637/jss.v050.i14    
-            2012-09-22
-            https://doi.org/10.18637/jss.v050.i14
-            ======================================================================================================================================================
-            
-            <h1> Source: 513 </h1>
-            Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
-            2010-12-17
-            https://doi.org/10.1038%2Fng.717
-            ======================================================================================================================================================
-            
-            <h1> Source: 514 </h1>
-            NF-κB signaling pathways regulated by CARMA family of scaffold proteins    
-            2011-01-17
-            https://doi.org/10.1038%2Fcr.2010.182
-            ======================================================================================================================================================
-            
-            <h1> Source: 515 </h1>
-            Multiple Loci within the Major Histocompatibility Complex Confer Risk of Psoriasis    
-            2009-08-14
-            https://doi.org/10.1371%2Fjournal.pgen.1000606
-            ======================================================================================================================================================
-            
-            <h1> Source: 516 </h1>
-            5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
-            2012-01-17
-            https://doi.org/10.4000/books.pum.8791
-            ======================================================================================================================================================
-            
-            <h1> Source: 517 </h1>
-            Modèles structuraux et inférence causale    
-            2015-01-17
-            https://doi.org/10.4000/books.pur.61649
-            ======================================================================================================================================================
-            
-            <h1> Source: 518 </h1>
-            The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
-            2014-10-27
-            https://doi.org/10.15195/v1.a25
-            ======================================================================================================================================================
-            
-            <h1> Source: 519 </h1>
-            Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
-            2015-06-17
-            https://doi.org/10.1007/s12552-015-9146-5
-            ======================================================================================================================================================
-            
-            <h1> Source: 520 </h1>
-            Domingo C , Ellerbrok H , Koopmans M , Nitsche A , Leitmeyer K , Charrel RN , et al. Need for additi...    
-            2018-07-12
-            https://doi.org/10.2807/1560-7917.ES.2018.23.28.1800341
-            ======================================================================================================================================================
-            
-            <h1> Source: 521 </h1>
-            Multiple common variants for celiac disease influencing immune gene expression    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.543
-            ======================================================================================================================================================
-            
-            <h1> Source: 522 </h1>
-            Anderson JL, Fowles RE, Unverferth DV, et
+1999-01-01
+http://dx.doi.org/10.1056/NEJM199901213400311
+==================================================
+
+# Source: 511
+Muth D , Corman VM , Roth H , Binger T , Dijkman R , Gottula LT , et al. Attenuation of replication ...    
+2018-10-11
+https://doi.org/10.1038/s41598-018-33487-8
+==================================================
+
+# Source: 512
+10.18637/jss.v050.i14    
+2012-09-22
+https://doi.org/10.18637/jss.v050.i14
+==================================================
+
+# Source: 513
+Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
+2010-12-17
+https://doi.org/10.1038%2Fng.717
+==================================================
+
+# Source: 514
+NF-κB signaling pathways regulated by CARMA family of scaffold proteins    
+2011-01-17
+https://doi.org/10.1038%2Fcr.2010.182
+==================================================
+
+# Source: 515
+Multiple Loci within the Major Histocompatibility Complex Confer Risk of Psoriasis    
+2009-08-14
+https://doi.org/10.1371%2Fjournal.pgen.1000606
+==================================================
+
+# Source: 516
+5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
+2012-01-17
+https://doi.org/10.4000/books.pum.8791
+==================================================
+
+# Source: 517
+Modèles structuraux et inférence causale    
+2015-01-17
+https://doi.org/10.4000/books.pur.61649
+==================================================
+
+# Source: 518
+The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
+2014-10-27
+https://doi.org/10.15195/v1.a25
+==================================================
+
+# Source: 519
+Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
+2015-06-17
+https://doi.org/10.1007/s12552-015-9146-5
+==================================================
+
+# Source: 520
+Domingo C , Ellerbrok H , Koopmans M , Nitsche A , Leitmeyer K , Charrel RN , et al. Need for additi...    
+2018-07-12
+https://doi.org/10.2807/1560-7917.ES.2018.23.28.1800341
+==================================================
+
+# Source: 521
+Multiple common variants for celiac disease influencing immune gene expression    
+2010-04-17
+https://doi.org/10.1038%2Fng.543
+==================================================
+
+# Source: 522
+Anderson JL, Fowles RE, Unverferth DV, et
 al: Immunosuppressive therapy of myocardial inflammatory d...    
-            1987-01-01
-            http://dx.doi.org/10.1093/eurheartj/8.suppl_J.263
-            ======================================================================================================================================================
-            
-            <h1> Source: 523 </h1>
-            Takeda Y, Yasuda S, Miyazaki S, et al:
+1987-01-01
+http://dx.doi.org/10.1093/eurheartj/8.suppl_J.263
+==================================================
+
+# Source: 523
+Takeda Y, Yasuda S, Miyazaki S, et al:
 High-dose immunoglobulin G therapy for fulminant myocarditis....    
-            1998-01-17
-            http://dx.doi.org/10.1253/jcj.62.871
-            ======================================================================================================================================================
-            
-            <h1> Source: 524 </h1>
-            Rheumatoid arthritis association at 6q23    
-            2007-12-17
-            https://doi.org/10.1038%2Fng.2007.32
-            ======================================================================================================================================================
-            
-            <h1> Source: 525 </h1>
-            Detection of sharing by descent, long-range phasing and haplotype imputation    
-            2008-09-17
-            https://doi.org/10.1038%2Fng.216
-            ======================================================================================================================================================
-            
-            <h1> Source: 526 </h1>
-            Drucker NA, Colan SD, Lewis AB, et al:
+1998-01-17
+http://dx.doi.org/10.1253/jcj.62.871
+==================================================
+
+# Source: 524
+Rheumatoid arthritis association at 6q23    
+2007-12-17
+https://doi.org/10.1038%2Fng.2007.32
+==================================================
+
+# Source: 525
+Detection of sharing by descent, long-range phasing and haplotype imputation    
+2008-09-17
+https://doi.org/10.1038%2Fng.216
+==================================================
+
+# Source: 526
+Drucker NA, Colan SD, Lewis AB, et al:
 Gamma-globulin treatment of acute myocarditis in the pediatri...    
-            1994-01-01
-            http://dx.doi.org/10.1161/01.CIR.89.1.252
-            ======================================================================================================================================================
-            
-            <h1> Source: 527 </h1>
-            MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 528 </h1>
-            Haplotype phasing: existing methods and new developments    
-            2011-10-17
-            https://doi.org/10.1038%2Fnrg3054
-            ======================================================================================================================================================
-            
-            <h1> Source: 529 </h1>
-            Genotype imputation for genome-wide association studies    
-            2010-07-17
-            https://doi.org/10.1038%2Fnrg2796
-            ======================================================================================================================================================
-            
-            <h1> Source: 530 </h1>
-            Wallinga J , Lipsitch M . How generation intervals shape the relationship between growth rates and r...    
-            2007-01-01
-            https://doi.org/10.1098/rspb.2006.3754
-            ======================================================================================================================================================
-            
-            <h1> Source: 531 </h1>
-            Assessing the impact of population stratification on genetic association studies    
-            2004-04-17
-            https://doi.org/10.1038%2Fng1333
-            ======================================================================================================================================================
-            
-            <h1> Source: 532 </h1>
-            Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
-            2009-02-17
-            https://doi.org/10.1038%2Fng.311
-            ======================================================================================================================================================
-            
-            <h1> Source: 533 </h1>
-            Park SH , Kim Y-S , Jung Y , Choi SY , Cho N-H , Jeong HW , et al. Outbreaks of Middle East respirat...    
-            2016-06-01
-            https://doi.org/10.3947/ic.2016.48.2.99
-            ======================================================================================================================================================
-            
-            <h1> Source: 534 </h1>
-            Drosten C , Günther S , Preiser W , van der Werf S , Brodt HR , Becker S , et al. Identification of ...    
-            2003-01-01
-            https://doi.org/10.1056/NEJMoa030747
-            ======================================================================================================================================================
-            
-            <h1> Source: 535 </h1>
-            Corman VM , Rasche A , Baronti C , Aldabbagh S , Cadar D , Reusken CB , et al. Assay optimization fo...    
-            2016-01-01
-            https://doi.org/10.2471/BLT.16.175950
-            ======================================================================================================================================================
-            
-            <h1> Source: 536 </h1>
-            Qian G, Yang N, Ma AHY, et al. A COVID-19 Transmission within a family cluster by presymptomatic inf...    
-            2020-01-01
-            http://dx.doi.org/10.1093/cid/ciaa316
-            ======================================================================================================================================================
-            
-            <h1> Source: 537 </h1>
-            Shioji K, Matsuura Y, Iwase T, et al:
+1994-01-01
+http://dx.doi.org/10.1161/01.CIR.89.1.252
+==================================================
+
+# Source: 527
+MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 528
+Haplotype phasing: existing methods and new developments    
+2011-10-17
+https://doi.org/10.1038%2Fnrg3054
+==================================================
+
+# Source: 529
+Genotype imputation for genome-wide association studies    
+2010-07-17
+https://doi.org/10.1038%2Fnrg2796
+==================================================
+
+# Source: 530
+Wallinga J , Lipsitch M . How generation intervals shape the relationship between growth rates and r...    
+2007-01-01
+https://doi.org/10.1098/rspb.2006.3754
+==================================================
+
+# Source: 531
+Assessing the impact of population stratification on genetic association studies    
+2004-04-17
+https://doi.org/10.1038%2Fng1333
+==================================================
+
+# Source: 532
+Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
+2009-02-17
+https://doi.org/10.1038%2Fng.311
+==================================================
+
+# Source: 533
+Park SH , Kim Y-S , Jung Y , Choi SY , Cho N-H , Jeong HW , et al. Outbreaks of Middle East respirat...    
+2016-06-01
+https://doi.org/10.3947/ic.2016.48.2.99
+==================================================
+
+# Source: 534
+Drosten C , Günther S , Preiser W , van der Werf S , Brodt HR , Becker S , et al. Identification of ...    
+2003-01-01
+https://doi.org/10.1056/NEJMoa030747
+==================================================
+
+# Source: 535
+Corman VM , Rasche A , Baronti C , Aldabbagh S , Cadar D , Reusken CB , et al. Assay optimization fo...    
+2016-01-01
+https://doi.org/10.2471/BLT.16.175950
+==================================================
+
+# Source: 536
+Qian G, Yang N, Ma AHY, et al. A COVID-19 Transmission within a family cluster by presymptomatic inf...    
+2020-01-01
+http://dx.doi.org/10.1093/cid/ciaa316
+==================================================
+
+# Source: 537
+Shioji K, Matsuura Y, Iwase T, et al:
 Successful immunoglobulin treatment for fulminant myocarditis ...    
-            2002-01-17
-            http://dx.doi.org/10.1253/circj.66.977
-            ======================================================================================================================================================
-            
-            <h1> Source: 538 </h1>
-            An Immune Response Network Associated with Blood Lipid Levels    
-            2010-09-09
-            https://doi.org/10.1371%2Fjournal.pgen.1001113
-            ======================================================================================================================================================
-            
-            <h1> Source: 539 </h1>
-            Abbott A . SARS testing: First past the post. Nature. 2003 ; 423 ( 6936 ): 114 . https://doi.org/10....    
-            2003-05-08
-            https://doi.org/10.1038/423114a
-            ======================================================================================================================================================
-            
-            <h1> Source: 540 </h1>
-            A CD40 Kozak sequence polymorphism and susceptibility to antibody-mediated autoimmune conditions: the role of CD40 tissue-specific expression    
-            2007-04-17
-            https://doi.org/10.1038%2Fsj.gene.6364375
-            ======================================================================================================================================================
-            
-            <h1> Source: 541 </h1>
-            Pervasive Sharing of Genetic Effects in Autoimmune Disease    
-            2011-08-10
-            https://doi.org/10.1371%2Fjournal.pgen.1002254
-            ======================================================================================================================================================
-            
-            <h1> Source: 542 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 543 </h1>
-            Phosphorylation of IRF4 by ROCK2 regulates IL-17 and IL-21 production and the development of autoimmunity in mice    
-            2010-09-01
-            https://doi.org/10.1172%2FJCI42856
-            ======================================================================================================================================================
-            
-            <h1> Source: 544 </h1>
-            Psoriasis: from bed to bench and back - Nature Biotechnology    
-            2011-07-11
-            https://doi.org/10.1038%2Fnbt.1906
-            ======================================================================================================================================================
-            
-            <h1> Source: 545 </h1>
-            KORA-gen - Resource for Population Genetics, Controls and a Broad Spectrum of Disease Phenotypes    
-            2005-08-17
-            https://doi.org/10.1055%2Fs-2005-858226
-            ======================================================================================================================================================
-            
-            <h1> Source: 546 </h1>
-            Causal Forecasting at Lyft (Part 1)    
-            2022-06-28
-            https://eng.lyft.com/causal-forecasting-at-lyft-part-1-14cca6ff3d6d
-            ======================================================================================================================================================
-            
-            <h1> Source: 547 </h1>
-            Glynn , Adam N. , and Quinn , Kevin M. 2010 . An introduction to the augmented inverse propensity we...    
-            2010-01-17
-            https://dx.doi.org/10.1093/pan/mpp036
-            ======================================================================================================================================================
-            
-            <h1> Source: 548 </h1>
-            Genome-wide association study identifies a psoriasis susceptibility locus at TRAF3IP2    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.689
-            ======================================================================================================================================================
-            
-            <h1> Source: 549 </h1>
-            Nigro G, Bastianon V, Colloridi V, et al:
+2002-01-17
+http://dx.doi.org/10.1253/circj.66.977
+==================================================
+
+# Source: 538
+An Immune Response Network Associated with Blood Lipid Levels    
+2010-09-09
+https://doi.org/10.1371%2Fjournal.pgen.1001113
+==================================================
+
+# Source: 539
+Abbott A . SARS testing: First past the post. Nature. 2003 ; 423 ( 6936 ): 114 . https://doi.org/10....    
+2003-05-08
+https://doi.org/10.1038/423114a
+==================================================
+
+# Source: 540
+A CD40 Kozak sequence polymorphism and susceptibility to antibody-mediated autoimmune conditions: the role of CD40 tissue-specific expression    
+2007-04-17
+https://doi.org/10.1038%2Fsj.gene.6364375
+==================================================
+
+# Source: 541
+Pervasive Sharing of Genetic Effects in Autoimmune Disease    
+2011-08-10
+https://doi.org/10.1371%2Fjournal.pgen.1002254
+==================================================
+
+# Source: 542
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 543
+Phosphorylation of IRF4 by ROCK2 regulates IL-17 and IL-21 production and the development of autoimmunity in mice    
+2010-09-01
+https://doi.org/10.1172%2FJCI42856
+==================================================
+
+# Source: 544
+Psoriasis: from bed to bench and back - Nature Biotechnology    
+2011-07-11
+https://doi.org/10.1038%2Fnbt.1906
+==================================================
+
+# Source: 545
+KORA-gen - Resource for Population Genetics, Controls and a Broad Spectrum of Disease Phenotypes    
+2005-08-17
+https://doi.org/10.1055%2Fs-2005-858226
+==================================================
+
+# Source: 546
+Causal Forecasting at Lyft (Part 1)    
+2022-06-28
+https://eng.lyft.com/causal-forecasting-at-lyft-part-1-14cca6ff3d6d
+==================================================
+
+# Source: 547
+Glynn , Adam N. , and Quinn , Kevin M. 2010 . An introduction to the augmented inverse propensity we...    
+2010-01-17
+https://dx.doi.org/10.1093/pan/mpp036
+==================================================
+
+# Source: 548
+Genome-wide association study identifies a psoriasis susceptibility locus at TRAF3IP2    
+2010-11-17
+https://doi.org/10.1038%2Fng.689
+==================================================
+
+# Source: 549
+Nigro G, Bastianon V, Colloridi V, et al:
 Human parvovirus B19 infection in infancy associated with ...    
-            2000-01-01
-            http://dx.doi.org/10.1086/313929
-            ======================================================================================================================================================
-            
-            <h1> Source: 550 </h1>
-            A linear complexity phasing method for thousands of genomes    
-            2012-02-17
-            https://doi.org/10.1038%2Fnmeth.1785
-            ======================================================================================================================================================
-            
-            <h1> Source: 551 </h1>
-            This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
-            2017-12-14
-            https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
-            ======================================================================================================================================================
-            
-            <h1> Source: 552 </h1>
-            Mig6 is a negative regulator of EGF receptor–mediated skin morphogenesis and tumor formation    
-            2006-05-17
-            https://doi.org/10.1038%2Fnm1401
-            ======================================================================================================================================================
-            
-            <h1> Source: 553 </h1>
-            Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
-            2015-06-17
-            https://doi.org/10.1007/s12552-015-9146-5
-            ======================================================================================================================================================
-            
-            <h1> Source: 554 </h1>
-            Burke, M. A., & Sass, T. R. (2013). Classroom peer effects and student achievement. Journal of Labor...    
-            2013-01-01
-            https://doi.org/10.1086/666653
-            ======================================================================================================================================================
-            
-            <h1> Source: 555 </h1>
-            The Statistics of Causal Inference: A View from Political Methodology    
-            2015-07-17
-            https://doi.org/10.1093/pan/mpv007
-            ======================================================================================================================================================
-            
-            <h1> Source: 556 </h1>
-            An, B. P. (2013a). The impact of dual enrollment on college degree attainment: Do low-SES students b...    
-            2026-01-17
-            https://doi.org/10.3102/0162373712461933
-            ======================================================================================================================================================
-            
-            <h1> Source: 557 </h1>
-            Improved whole-chromosome phasing for disease and population genetic studies    
-            2013-01-17
-            https://doi.org/10.1038%2Fnmeth.2307
-            ======================================================================================================================================================
-            
-            <h1> Source: 558 </h1>
-            Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
-            2015-12-17
-            https://doi.org/10.1186/s12889-015-2408-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 559 </h1>
-            Modèles structuraux et inférence causale    
-            2015-01-17
-            https://doi.org/10.4000/books.pur.61649
-            ======================================================================================================================================================
-            
-            <h1> Source: 560 </h1>
-            An, B. P. (2013b). The influence of dual enrollment on academic performance and college readiness: D...    
-            2013-06-17
-            https://doi.org/10.1007/s11162-012-9278-z
-            ======================================================================================================================================================
-            
-            <h1> Source: 561 </h1>
-            5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
-            2012-01-17
-            https://doi.org/10.4000/books.pum.8791
-            ======================================================================================================================================================
-            
-            <h1> Source: 562 </h1>
-            Reynolds, H. R. et al. Renin-angiotensin-aldosterone system inhibitors and risk of Covid-19. N. Engl...    
-            2020-01-01
-            https://doi.org/10.1056/NEJMoa2008975
-            ======================================================================================================================================================
-            
-            <h1> Source: 563 </h1>
-            Meta-Analysis of Genome-Wide Association Studies in Celiac Disease and Rheumatoid Arthritis Identifies Fourteen Non-HLA Shared Loci    
-            2011-02-24
-            https://doi.org/10.1371%2Fjournal.pgen.1002004
-            ======================================================================================================================================================
-            
-            <h1> Source: 564 </h1>
-            Functional haplotypes of PADI4, encoding citrullinating enzyme peptidylarginine deiminase 4, are associated with rheumatoid arthritis    
-            2003-08-17
-            https://doi.org/10.1038%2Fng1206
-            ======================================================================================================================================================
-            
-            <h1> Source: 565 </h1>
-            Zhang P., et al. Association of inpatient use of angiotensin converting enzyme inhibitors and angiot...    
-            2020-01-01
-            https://doi.org/10.1161/CIRCRESAHA.120.317134
-            ======================================================================================================================================================
-            
-            <h1> Source: 566 </h1>
-            The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
-            2014-10-27
-            https://doi.org/10.15195/v1.a25
-            ======================================================================================================================================================
-            
-            <h1> Source: 567 </h1>
-            Strong associations and moderate predictive value of early symptoms for SARS-CoV-2 test positivity among healthcare workers, the Netherlands, March 2020    
-            2020-04-23
-            https://doi.org/10.2807%2F1560-7917.ES.2020.25.16.2000508
-            ======================================================================================================================================================
-            
-            <h1> Source: 568 </h1>
-            Gullestad L, Aass H, Fjeld JG, et al:
+2000-01-01
+http://dx.doi.org/10.1086/313929
+==================================================
+
+# Source: 550
+A linear complexity phasing method for thousands of genomes    
+2012-02-17
+https://doi.org/10.1038%2Fnmeth.1785
+==================================================
+
+# Source: 551
+This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
+2017-12-14
+https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
+==================================================
+
+# Source: 552
+Mig6 is a negative regulator of EGF receptor–mediated skin morphogenesis and tumor formation    
+2006-05-17
+https://doi.org/10.1038%2Fnm1401
+==================================================
+
+# Source: 553
+Race, Friends, and College Readiness: Evidence from the High School Longitudinal Study    
+2015-06-17
+https://doi.org/10.1007/s12552-015-9146-5
+==================================================
+
+# Source: 554
+Burke, M. A., & Sass, T. R. (2013). Classroom peer effects and student achievement. Journal of Labor...    
+2013-01-01
+https://doi.org/10.1086/666653
+==================================================
+
+# Source: 555
+The Statistics of Causal Inference: A View from Political Methodology    
+2015-07-17
+https://doi.org/10.1093/pan/mpv007
+==================================================
+
+# Source: 556
+An, B. P. (2013a). The impact of dual enrollment on college degree attainment: Do low-SES students b...    
+2026-01-17
+https://doi.org/10.3102/0162373712461933
+==================================================
+
+# Source: 557
+Improved whole-chromosome phasing for disease and population genetic studies    
+2013-01-17
+https://doi.org/10.1038%2Fnmeth.2307
+==================================================
+
+# Source: 558
+Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation    
+2015-12-17
+https://doi.org/10.1186/s12889-015-2408-8
+==================================================
+
+# Source: 559
+Modèles structuraux et inférence causale    
+2015-01-17
+https://doi.org/10.4000/books.pur.61649
+==================================================
+
+# Source: 560
+An, B. P. (2013b). The influence of dual enrollment on academic performance and college readiness: D...    
+2013-06-17
+https://doi.org/10.1007/s11162-012-9278-z
+==================================================
+
+# Source: 561
+5. De la nature de la connaissance scientifique et de quelques enjeux liés à son transfert et à son utilisation    
+2012-01-17
+https://doi.org/10.4000/books.pum.8791
+==================================================
+
+# Source: 562
+Reynolds, H. R. et al. Renin-angiotensin-aldosterone system inhibitors and risk of Covid-19. N. Engl...    
+2020-01-01
+https://doi.org/10.1056/NEJMoa2008975
+==================================================
+
+# Source: 563
+Meta-Analysis of Genome-Wide Association Studies in Celiac Disease and Rheumatoid Arthritis Identifies Fourteen Non-HLA Shared Loci    
+2011-02-24
+https://doi.org/10.1371%2Fjournal.pgen.1002004
+==================================================
+
+# Source: 564
+Functional haplotypes of PADI4, encoding citrullinating enzyme peptidylarginine deiminase 4, are associated with rheumatoid arthritis    
+2003-08-17
+https://doi.org/10.1038%2Fng1206
+==================================================
+
+# Source: 565
+Zhang P., et al. Association of inpatient use of angiotensin converting enzyme inhibitors and angiot...    
+2020-01-01
+https://doi.org/10.1161/CIRCRESAHA.120.317134
+==================================================
+
+# Source: 566
+The Community College Effect Revisited: The Importance of Attending to Heterogeneity and Complex Counterfactuals    
+2014-10-27
+https://doi.org/10.15195/v1.a25
+==================================================
+
+# Source: 567
+Strong associations and moderate predictive value of early symptoms for SARS-CoV-2 test positivity among healthcare workers, the Netherlands, March 2020    
+2020-04-23
+https://doi.org/10.2807%2F1560-7917.ES.2020.25.16.2000508
+==================================================
+
+# Source: 568
+Gullestad L, Aass H, Fjeld JG, et al:
 Immunomodulating therapy with intravenous immunoglobulin in
 pa...    
-            2001-01-01
-            http://dx.doi.org/10.1161/01.CIR.103.2.220
-            ======================================================================================================================================================
-            
-            <h1> Source: 569 </h1>
-            Corman VM , Müller MA , Costabel U , Timm J , Binger T , Meyer B , et al. Assays for laboratory conf...    
-            2012-12-06
-            https://doi.org/10.2807/ese.17.49.20334-en
-            ======================================================================================================================================================
-            
-            <h1> Source: 570 </h1>
-            Ruan, Q., Yang, K., Wang, W., Jiang, L. & Song, J. Clinical predictors of mortality due to COVID-19 ...    
-            2020-05-17
-            https://doi.org/10.1007/s00134-020-05991-x
-            ======================================================================================================================================================
-            
-            <h1> Source: 571 </h1>
-            Gudbjartsson D. F., et al. Spread of SARS-CoV-2 in the Icelandic population. N. Engl. J. Med . https...    
-            2020-01-01
-            https://doi.org/10.1056/NEJMoa2006100
-            ======================================================================================================================================================
-            
-            <h1> Source: 572 </h1>
-            Crosnoe, R., & Schneider, B. (2010). Social capital, information, and socioeconomic disparities in m...    
-            2010-01-01
-            https://doi.org/10.1086/656347
-            ======================================================================================================================================================
-            
-            <h1> Source: 573 </h1>
-            Mehra, M. R., Desai, S. S., Kuy, S., Henry, T. D. & Patel, A. N. Cardiovascular disease, drug therap...    
-            2020-01-01
-            https://doi.org/10.1056/NEJMoa2007621
-            ======================================================================================================================================================
-            
-            <h1> Source: 574 </h1>
-            Dense genotyping identifies and localizes multiple common and rare variant association signals in celiac disease    
-            2011-12-17
-            https://doi.org/10.1038%2Fng.998
-            ======================================================================================================================================================
-            
-            <h1> Source: 575 </h1>
-            Peiris JS , Yuen KY , Osterhaus AD , Stöhr K . The severe acute respiratory syndrome. N Engl J Med. ...    
-            2003-01-01
-            https://doi.org/10.1056/NEJMra032498
-            ======================================================================================================================================================
-            
-            <h1> Source: 576 </h1>
-            Gobat N , Amuasi J , Yazdanpanah Y , Sigfid L , Davies H , Byrne JP , et al. Advancing preparedness ...    
-            2019-01-01
-            https://doi.org/10.1183/23120541.00227-2018
-            ======================================================================================================================================================
-            
-            <h1> Source: 577 </h1>
-            Gamoran, A. (1989). Measuring curriculum differentiation. American Journal of Education, 97 (2), 129...    
-            1989-01-01
-            https://doi.org/10.1086/443918
-            ======================================================================================================================================================
-            
-            <h1> Source: 578 </h1>
-            To Adjust or Not to Adjust? Sensitivity Analysis of M-Bias and Butterfly-Bias    
-            2015-03-01
-            https://doi.org/10.1515%2Fjci-2013-0021
-            ======================================================================================================================================================
-            
-            <h1> Source: 579 </h1>
-            Shrier I. Letter to the Editor [Internet]. in Statistics in Medicine , Vol. 27, 2740–2741 (2008) htt...    
-            2008-01-01
-            https://doi.org/10.1002/sim.3172
-            ======================================================================================================================================================
-            
-            <h1> Source: 580 </h1>
-            Giordano, P. C., Cernkovich, S. A., & Demaris, A. (1993). The family and peer relations of black ado...    
-            1993-01-01
-            https://doi.org/10.2307/352801
-            ======================================================================================================================================================
-            
-            <h1> Source: 581 </h1>
-            Stat3 links activated keratinocytes and immunocytes required for development of psoriasis in a novel transgenic mouse model    
-            2005-01-17
-            https://doi.org/10.1038%2Fnm1162
-            ======================================================================================================================================================
-            
-            <h1> Source: 582 </h1>
-            Halliday, T. J., & Kwak, S. (2012). What is a peer? The role of network definitions in estimation of...    
-            2012-01-01
-            https://doi.org/10.1080/00036846.2010.505557
-            ======================================================================================================================================================
-            
-            <h1> Source: 583 </h1>
-            Lourenco, J. et al. Fundamental principles of epidemic spread highlight the immediate need for large...    
-            2020-01-01
-            https://doi.org/10.1101/2020.03.24.20042291v1
-            ======================================================================================================================================================
-            
-            <h1> Source: 584 </h1>
-            Rere controls retinoic acid signalling and somite bilateral symmetry    
-            2010-02-17
-            https://doi.org/10.1038%2Fnature08763
-            ======================================================================================================================================================
-            
-            <h1> Source: 585 </h1>
-            Menni, C. et al. Loss of smell and taste in combination with other symptoms is a strong predictor of...    
-            2020-01-01
-            https://doi.org/10.1101/2020.04.05.20048421v1
-            ======================================================================================================================================================
-            
-            <h1> Source: 586 </h1>
-            Hallinan, M., & Sorensen, A. (1985). Ability grouping and student friendships. American Educational ...    
-            1985-01-01
-            https://doi.org/10.3102/00028312022004485
-            ======================================================================================================================================================
-            
-            <h1> Source: 587 </h1>
-            Lipsitch M , Cohen T , Cooper B , Robins JM , Ma S , James L , et al. Transmission dynamics and cont...    
-            2003-01-01
-            https://doi.org/10.1126/science.1086616
-            ======================================================================================================================================================
-            
-            <h1> Source: 588 </h1>
-            Kawai C: From myocarditis to
+2001-01-01
+http://dx.doi.org/10.1161/01.CIR.103.2.220
+==================================================
+
+# Source: 569
+Corman VM , Müller MA , Costabel U , Timm J , Binger T , Meyer B , et al. Assays for laboratory conf...    
+2012-12-06
+https://doi.org/10.2807/ese.17.49.20334-en
+==================================================
+
+# Source: 570
+Ruan, Q., Yang, K., Wang, W., Jiang, L. & Song, J. Clinical predictors of mortality due to COVID-19 ...    
+2020-05-17
+https://doi.org/10.1007/s00134-020-05991-x
+==================================================
+
+# Source: 571
+Gudbjartsson D. F., et al. Spread of SARS-CoV-2 in the Icelandic population. N. Engl. J. Med . https...    
+2020-01-01
+https://doi.org/10.1056/NEJMoa2006100
+==================================================
+
+# Source: 572
+Crosnoe, R., & Schneider, B. (2010). Social capital, information, and socioeconomic disparities in m...    
+2010-01-01
+https://doi.org/10.1086/656347
+==================================================
+
+# Source: 573
+Mehra, M. R., Desai, S. S., Kuy, S., Henry, T. D. & Patel, A. N. Cardiovascular disease, drug therap...    
+2020-01-01
+https://doi.org/10.1056/NEJMoa2007621
+==================================================
+
+# Source: 574
+Dense genotyping identifies and localizes multiple common and rare variant association signals in celiac disease    
+2011-12-17
+https://doi.org/10.1038%2Fng.998
+==================================================
+
+# Source: 575
+Peiris JS , Yuen KY , Osterhaus AD , Stöhr K . The severe acute respiratory syndrome. N Engl J Med. ...    
+2003-01-01
+https://doi.org/10.1056/NEJMra032498
+==================================================
+
+# Source: 576
+Gobat N , Amuasi J , Yazdanpanah Y , Sigfid L , Davies H , Byrne JP , et al. Advancing preparedness ...    
+2019-01-01
+https://doi.org/10.1183/23120541.00227-2018
+==================================================
+
+# Source: 577
+Gamoran, A. (1989). Measuring curriculum differentiation. American Journal of Education, 97 (2), 129...    
+1989-01-01
+https://doi.org/10.1086/443918
+==================================================
+
+# Source: 578
+To Adjust or Not to Adjust? Sensitivity Analysis of M-Bias and Butterfly-Bias    
+2015-03-01
+https://doi.org/10.1515%2Fjci-2013-0021
+==================================================
+
+# Source: 579
+Shrier I. Letter to the Editor [Internet]. in Statistics in Medicine , Vol. 27, 2740–2741 (2008) htt...    
+2008-01-01
+https://doi.org/10.1002/sim.3172
+==================================================
+
+# Source: 580
+Giordano, P. C., Cernkovich, S. A., & Demaris, A. (1993). The family and peer relations of black ado...    
+1993-01-01
+https://doi.org/10.2307/352801
+==================================================
+
+# Source: 581
+Stat3 links activated keratinocytes and immunocytes required for development of psoriasis in a novel transgenic mouse model    
+2005-01-17
+https://doi.org/10.1038%2Fnm1162
+==================================================
+
+# Source: 582
+Halliday, T. J., & Kwak, S. (2012). What is a peer? The role of network definitions in estimation of...    
+2012-01-01
+https://doi.org/10.1080/00036846.2010.505557
+==================================================
+
+# Source: 583
+Lourenco, J. et al. Fundamental principles of epidemic spread highlight the immediate need for large...    
+2020-01-01
+https://doi.org/10.1101/2020.03.24.20042291v1
+==================================================
+
+# Source: 584
+Rere controls retinoic acid signalling and somite bilateral symmetry    
+2010-02-17
+https://doi.org/10.1038%2Fnature08763
+==================================================
+
+# Source: 585
+Menni, C. et al. Loss of smell and taste in combination with other symptoms is a strong predictor of...    
+2020-01-01
+https://doi.org/10.1101/2020.04.05.20048421v1
+==================================================
+
+# Source: 586
+Hallinan, M., & Sorensen, A. (1985). Ability grouping and student friendships. American Educational ...    
+1985-01-01
+https://doi.org/10.3102/00028312022004485
+==================================================
+
+# Source: 587
+Lipsitch M , Cohen T , Cooper B , Robins JM , Ma S , James L , et al. Transmission dynamics and cont...    
+2003-01-01
+https://doi.org/10.1126/science.1086616
+==================================================
+
+# Source: 588
+Kawai C: From myocarditis to
 cardiomyopathy: mechanisms of inflammation and cell death: learning
 fro...    
-            1999-01-01
-            http://dx.doi.org/10.1161/01.CIR.99.8.1091
-            ======================================================================================================================================================
-            
-            <h1> Source: 589 </h1>
-            Hallinan, M. T., & Williams, R. A. (1987). The stability of students’ interracial friendships. Ameri...    
-            1987-01-01
-            https://doi.org/10.2307/2095601
-            ======================================================================================================================================================
-            
-            <h1> Source: 590 </h1>
-            Corman VM , Eckerle I , Bleicker T , Zaki A , Landt O , Eschbach-Bludau M , et al. Detection of a no...    
-            2012-09-27
-            https://doi.org/10.2807/ese.17.39.20285-en
-            ======================================================================================================================================================
-            
-            <h1> Source: 591 </h1>
-            Newburger JW, Sanders SP, Burns JC, et al:
+1999-01-01
+http://dx.doi.org/10.1161/01.CIR.99.8.1091
+==================================================
+
+# Source: 589
+Hallinan, M. T., & Williams, R. A. (1987). The stability of students’ interracial friendships. Ameri...    
+1987-01-01
+https://doi.org/10.2307/2095601
+==================================================
+
+# Source: 590
+Corman VM , Eckerle I , Bleicker T , Zaki A , Landt O , Eschbach-Bludau M , et al. Detection of a no...    
+2012-09-27
+https://doi.org/10.2807/ese.17.39.20285-en
+==================================================
+
+# Source: 591
+Newburger JW, Sanders SP, Burns JC, et al:
 Left ventricular contractility and function in Kawasaki s...    
-            1989-01-01
-            http://dx.doi.org/10.1161/01.CIR.79.6.1237
-            ======================================================================================================================================================
-            
-            <h1> Source: 592 </h1>
-            Hallinan, M. T., & Williams, R. A. (1989). Interracial friendship choices in secondary schools. Amer...    
-            1989-01-01
-            https://doi.org/10.2307/2095662
-            ======================================================================================================================================================
-            
-            <h1> Source: 593 </h1>
-            Tedeschi A, Airaghi L, Giannini S, et al:
+1989-01-01
+http://dx.doi.org/10.1161/01.CIR.79.6.1237
+==================================================
+
+# Source: 592
+Hallinan, M. T., & Williams, R. A. (1989). Interracial friendship choices in secondary schools. Amer...    
+1989-01-01
+https://doi.org/10.2307/2095662
+==================================================
+
+# Source: 593
+Tedeschi A, Airaghi L, Giannini S, et al:
 High-dose intravenous immunoglobulin in the treatment of a...    
-            2002-01-01
-            http://dx.doi.org/10.1046/j.1365-2796.2002.00929.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 594 </h1>
-            Panning M , Charrel RN , Donoso Mantke O , Landt O , Niedrig M , Drosten C . Coordinated implementat...    
-            2009-03-17
-            https://doi.org/10.3201/eid1503.081104
-            ======================================================================================================================================================
-            
-            <h1> Source: 595 </h1>
-            A new multipoint method for genome-wide association studies by imputation of genotypes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2088
-            ======================================================================================================================================================
-            
-            <h1> Source: 596 </h1>
-            Drexler JF , Gloza-Rausch F , Glende J , Corman VM , Muth D , Goettsche M , et al. Genomic character...    
-            2010-01-01
-            https://doi.org/10.1128/JVI.00650-10
-            ======================================================================================================================================================
-            
-            <h1> Source: 597 </h1>
-            Boëlle, P.-Y. et al. Excess cases of influenza-like illnesses synchronous with coronavirus disease (...    
-            2020-04-09
-            https://doi.org/10.2807/1560-7917.ES.2020.25.14.2000326
-            ======================================================================================================================================================
-            
-            <h1> Source: 598 </h1>
-            X-inactivation profile reveals extensive variability in X-linked gene expression in females    
-            2005-03-17
-            https://doi.org/10.1038%2Fnature03479
-            ======================================================================================================================================================
-            
-            <h1> Source: 599 </h1>
-            Re-thinking the Ethics of Intensification for Animal Agriculture: Comments on David Fraser, Animal Welfare and the Intensification of Animal Production    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_13
-            ======================================================================================================================================================
-            
-            <h1> Source: 600 </h1>
-            Dense genotyping identifies and localizes multiple common and rare variant association signals in celiac disease    
-            2011-12-17
-            https://doi.org/10.1038%2Fng.998
-            ======================================================================================================================================================
-            
-            <h1> Source: 601 </h1>
-            Haplotype Association Analysis of Discrete and Continuous Traits Using Mixture of Regression Models    
-            2004-03-17
-            https://doi.org/10.1023%2FB%3ABEGE.0000013734.39266.a3
-            ======================================================================================================================================================
-            
-            <h1> Source: 602 </h1>
-            Marfan syndrome caused by a recurrent de novo missense mutation in the fibrillin gene    
-            1991-07-17
-            https://doi.org/10.1038%2F352337a0
-            ======================================================================================================================================================
-            
-            <h1> Source: 603 </h1>
-            Common variants at 30 loci contribute to polygenic dyslipidemia    
-            2009-01-17
-            https://doi.org/10.1038%2Fng.291
-            ======================================================================================================================================================
-            
-            <h1> Source: 604 </h1>
-            Environmental Ethics and Agricultural Intensification    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_9
-            ======================================================================================================================================================
-            
-            <h1> Source: 605 </h1>
-            Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis    
-            2012-05-17
-            https://doi.org/10.1038%2Fng.2232
-            ======================================================================================================================================================
-            
-            <h1> Source: 606 </h1>
-            Genome-wide association study of ulcerative colitis identifies three new susceptibility loci, including the HNF4A region    
-            2009-12-17
-            https://doi.org/10.1038%2Fng.483
-            ======================================================================================================================================================
-            
-            <h1> Source: 607 </h1>
-            Animal Welfare and the Intensification of Animal Production    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_12
-            ======================================================================================================================================================
-            
-            <h1> Source: 608 </h1>
-            Bernard Stoecklin S , Rolland P , Silue Y , Mailles A , Campese C , Simondon A , et al. First cases ...    
-            2020-02-13
-            https://doi.org/10.2807/1560-7917.ES.2020.25.6.2000094
-            ======================================================================================================================================================
-            
-            <h1> Source: 609 </h1>
-            Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
-            2009-06-26
-            https://doi.org/10.1371%2Fjournal.pgen.1000534
-            ======================================================================================================================================================
-            
-            <h1> Source: 610 </h1>
-            Network medicine: a network-based approach to human disease    
-            2011-01-17
-            https://doi.org/10.1038%2Fnrg2918
-            ======================================================================================================================================================
-            
-            <h1> Source: 611 </h1>
-            A QTL influencing F cell production maps to a gene encoding a zinc-finger protein on chromosome 2p15    
-            2007-10-17
-            https://doi.org/10.1038%2Fng2108
-            ======================================================================================================================================================
-            
-            <h1> Source: 612 </h1>
-            Guerrisi C , Turbelin C , Blanchon T , Hanslik T , Bonmarin I , Levy-Bruhl D , et al. Participatory ...    
-            2016-01-01
-            https://doi.org/10.1093/infdis/jiw280
-            ======================================================================================================================================================
-            
-            <h1> Source: 613 </h1>
-            Cauchemez S , Valleron A-J , Boëlle P-Y , Flahault A , Ferguson NM . Estimating the impact of school...    
-            2008-04-17
-            https://doi.org/10.1038/nature06732
-            ======================================================================================================================================================
-            
-            <h1> Source: 614 </h1>
-            Costagliola D , Flahault A , Galinec D , Garnerin P , Menares J , Valleron AJ . A routine tool for d...    
-            1991-01-01
-            https://doi.org/10.2105/AJPH.81.1.97
-            ======================================================================================================================================================
-            
-            <h1> Source: 615 </h1>
-            Replication of the LINGO1 gene association with essential tremor in a North American population    
-            2010-07-17
-            https://doi.org/10.1038%2Fejhg.2010.27
-            ======================================================================================================================================================
-            
-            <h1> Source: 616 </h1>
-            Hsieh Y-H , Ma S , Velasco Hernandez JX , Lee VJ , Lim WY . Early outbreak of 2009 influenza A (H1N1...    
-            2011-08-31
-            https://doi.org/10.1371/journal.pone.0023853
-            ======================================================================================================================================================
-            
-            <h1> Source: 617 </h1>
-            Meta-analysis of genome-wide association data and large-scale replication identifies additional susceptibility loci for type 2 diabetes    
-            2008-05-17
-            https://doi.org/10.1038%2Fng.120
-            ======================================================================================================================================================
-            
-            <h1> Source: 618 </h1>
-            Six new loci associated with blood low-density lipoprotein cholesterol, high-density lipoprotein cholesterol or triglycerides in humans    
-            2008-02-17
-            https://doi.org/10.1038%2Fng.75
-            ======================================================================================================================================================
-            
-            <h1> Source: 619 </h1>
-            One Hundred Years of Agricultural Intensification: A Personal History of Unanswered Ethical Issues – 1890–2004    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_4
-            ======================================================================================================================================================
-            
-            <h1> Source: 620 </h1>
-            Trait-Associated SNPs Are More Likely to Be eQTLs: Annotation to Enhance Discovery from GWAS    
-            2010-04-01
-            https://doi.org/10.1371%2Fjournal.pgen.1000888
-            ======================================================================================================================================================
-            
-            <h1> Source: 621 </h1>
-            Proteins Encoded in Genomic Regions Associated with Immune-Mediated Disease Physically Interact and Suggest Underlying Biology    
-            2011-01-13
-            https://doi.org/10.1371%2Fjournal.pgen.1001273
-            ======================================================================================================================================================
-            
-            <h1> Source: 622 </h1>
-            Human Genetics in Rheumatoid Arthritis Guides a High-Throughput Drug Screen of the CD40 Signaling Pathway    
-            2013-05-16
-            https://doi.org/10.1371%2Fjournal.pgen.1003487
-            ======================================================================================================================================================
-            
-            <h1> Source: 623 </h1>
-            A regulatory SNP at position −899 in CDKN1A is associated with systemic lupus erythematosus and lupus nephritis    
-            2009-07-17
-            https://doi.org/10.1038%2Fgene.2009.5
-            ======================================================================================================================================================
-            
-            <h1> Source: 624 </h1>
-            Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease    
-            2012-11-17
-            https://doi.org/10.1038%2Fnature11582
-            ======================================================================================================================================================
-            
-            <h1> Source: 625 </h1>
-            The Ethics of Sustainable Agricultural Intensification    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_1
-            ======================================================================================================================================================
-            
-            <h1> Source: 626 </h1>
-            Genome-wide association studies for complex traits: consensus, uncertainty and challenges    
-            2008-05-17
-            https://doi.org/10.1038%2Fnrg2344
-            ======================================================================================================================================================
-            
-            <h1> Source: 627 </h1>
-            Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration    
-            2006-09-17
-            https://doi.org/10.1038%2Fng1873
-            ======================================================================================================================================================
-            
-            <h1> Source: 628 </h1>
-            Deep resequencing of GWAS loci identifies independent rare variants associated with inflammatory bowel disease    
-            2011-11-17
-            https://doi.org/10.1038%2Fng.952
-            ======================================================================================================================================================
-            
-            <h1> Source: 629 </h1>
-            Trans-eQTLs Reveal That Independent Genetic Variants Associated with a Complex Phenotype Converge on Intermediate Genes, with a Major Role for the HLA    
-            2011-08-04
-            https://doi.org/10.1371%2Fjournal.pgen.1002197
-            ======================================================================================================================================================
-            
-            <h1> Source: 630 </h1>
-            A network view of disease and compound screening    
-            2009-04-17
-            https://doi.org/10.1038%2Fnrd2826
-            ======================================================================================================================================================
-            
-            <h1> Source: 631 </h1>
-            Finkel MS, Oddis CV, Jacob TD, et al:
+2002-01-01
+http://dx.doi.org/10.1046/j.1365-2796.2002.00929.x
+==================================================
+
+# Source: 594
+Panning M , Charrel RN , Donoso Mantke O , Landt O , Niedrig M , Drosten C . Coordinated implementat...    
+2009-03-17
+https://doi.org/10.3201/eid1503.081104
+==================================================
+
+# Source: 595
+A new multipoint method for genome-wide association studies by imputation of genotypes    
+2007-07-17
+https://doi.org/10.1038%2Fng2088
+==================================================
+
+# Source: 596
+Drexler JF , Gloza-Rausch F , Glende J , Corman VM , Muth D , Goettsche M , et al. Genomic character...    
+2010-01-01
+https://doi.org/10.1128/JVI.00650-10
+==================================================
+
+# Source: 597
+Boëlle, P.-Y. et al. Excess cases of influenza-like illnesses synchronous with coronavirus disease (...    
+2020-04-09
+https://doi.org/10.2807/1560-7917.ES.2020.25.14.2000326
+==================================================
+
+# Source: 598
+X-inactivation profile reveals extensive variability in X-linked gene expression in females    
+2005-03-17
+https://doi.org/10.1038%2Fnature03479
+==================================================
+
+# Source: 599
+Re-thinking the Ethics of Intensification for Animal Agriculture: Comments on David Fraser, Animal Welfare and the Intensification of Animal Production    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_13
+==================================================
+
+# Source: 600
+Dense genotyping identifies and localizes multiple common and rare variant association signals in celiac disease    
+2011-12-17
+https://doi.org/10.1038%2Fng.998
+==================================================
+
+# Source: 601
+Haplotype Association Analysis of Discrete and Continuous Traits Using Mixture of Regression Models    
+2004-03-17
+https://doi.org/10.1023%2FB%3ABEGE.0000013734.39266.a3
+==================================================
+
+# Source: 602
+Marfan syndrome caused by a recurrent de novo missense mutation in the fibrillin gene    
+1991-07-17
+https://doi.org/10.1038%2F352337a0
+==================================================
+
+# Source: 603
+Common variants at 30 loci contribute to polygenic dyslipidemia    
+2009-01-17
+https://doi.org/10.1038%2Fng.291
+==================================================
+
+# Source: 604
+Environmental Ethics and Agricultural Intensification    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_9
+==================================================
+
+# Source: 605
+Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis    
+2012-05-17
+https://doi.org/10.1038%2Fng.2232
+==================================================
+
+# Source: 606
+Genome-wide association study of ulcerative colitis identifies three new susceptibility loci, including the HNF4A region    
+2009-12-17
+https://doi.org/10.1038%2Fng.483
+==================================================
+
+# Source: 607
+Animal Welfare and the Intensification of Animal Production    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_12
+==================================================
+
+# Source: 608
+Bernard Stoecklin S , Rolland P , Silue Y , Mailles A , Campese C , Simondon A , et al. First cases ...    
+2020-02-13
+https://doi.org/10.2807/1560-7917.ES.2020.25.6.2000094
+==================================================
+
+# Source: 609
+Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
+2009-06-26
+https://doi.org/10.1371%2Fjournal.pgen.1000534
+==================================================
+
+# Source: 610
+Network medicine: a network-based approach to human disease    
+2011-01-17
+https://doi.org/10.1038%2Fnrg2918
+==================================================
+
+# Source: 611
+A QTL influencing F cell production maps to a gene encoding a zinc-finger protein on chromosome 2p15    
+2007-10-17
+https://doi.org/10.1038%2Fng2108
+==================================================
+
+# Source: 612
+Guerrisi C , Turbelin C , Blanchon T , Hanslik T , Bonmarin I , Levy-Bruhl D , et al. Participatory ...    
+2016-01-01
+https://doi.org/10.1093/infdis/jiw280
+==================================================
+
+# Source: 613
+Cauchemez S , Valleron A-J , Boëlle P-Y , Flahault A , Ferguson NM . Estimating the impact of school...    
+2008-04-17
+https://doi.org/10.1038/nature06732
+==================================================
+
+# Source: 614
+Costagliola D , Flahault A , Galinec D , Garnerin P , Menares J , Valleron AJ . A routine tool for d...    
+1991-01-01
+https://doi.org/10.2105/AJPH.81.1.97
+==================================================
+
+# Source: 615
+Replication of the LINGO1 gene association with essential tremor in a North American population    
+2010-07-17
+https://doi.org/10.1038%2Fejhg.2010.27
+==================================================
+
+# Source: 616
+Hsieh Y-H , Ma S , Velasco Hernandez JX , Lee VJ , Lim WY . Early outbreak of 2009 influenza A (H1N1...    
+2011-08-31
+https://doi.org/10.1371/journal.pone.0023853
+==================================================
+
+# Source: 617
+Meta-analysis of genome-wide association data and large-scale replication identifies additional susceptibility loci for type 2 diabetes    
+2008-05-17
+https://doi.org/10.1038%2Fng.120
+==================================================
+
+# Source: 618
+Six new loci associated with blood low-density lipoprotein cholesterol, high-density lipoprotein cholesterol or triglycerides in humans    
+2008-02-17
+https://doi.org/10.1038%2Fng.75
+==================================================
+
+# Source: 619
+One Hundred Years of Agricultural Intensification: A Personal History of Unanswered Ethical Issues – 1890–2004    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_4
+==================================================
+
+# Source: 620
+Trait-Associated SNPs Are More Likely to Be eQTLs: Annotation to Enhance Discovery from GWAS    
+2010-04-01
+https://doi.org/10.1371%2Fjournal.pgen.1000888
+==================================================
+
+# Source: 621
+Proteins Encoded in Genomic Regions Associated with Immune-Mediated Disease Physically Interact and Suggest Underlying Biology    
+2011-01-13
+https://doi.org/10.1371%2Fjournal.pgen.1001273
+==================================================
+
+# Source: 622
+Human Genetics in Rheumatoid Arthritis Guides a High-Throughput Drug Screen of the CD40 Signaling Pathway    
+2013-05-16
+https://doi.org/10.1371%2Fjournal.pgen.1003487
+==================================================
+
+# Source: 623
+A regulatory SNP at position −899 in CDKN1A is associated with systemic lupus erythematosus and lupus nephritis    
+2009-07-17
+https://doi.org/10.1038%2Fgene.2009.5
+==================================================
+
+# Source: 624
+Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease    
+2012-11-17
+https://doi.org/10.1038%2Fnature11582
+==================================================
+
+# Source: 625
+The Ethics of Sustainable Agricultural Intensification    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_1
+==================================================
+
+# Source: 626
+Genome-wide association studies for complex traits: consensus, uncertainty and challenges    
+2008-05-17
+https://doi.org/10.1038%2Fnrg2344
+==================================================
+
+# Source: 627
+Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration    
+2006-09-17
+https://doi.org/10.1038%2Fng1873
+==================================================
+
+# Source: 628
+Deep resequencing of GWAS loci identifies independent rare variants associated with inflammatory bowel disease    
+2011-11-17
+https://doi.org/10.1038%2Fng.952
+==================================================
+
+# Source: 629
+Trans-eQTLs Reveal That Independent Genetic Variants Associated with a Complex Phenotype Converge on Intermediate Genes, with a Major Role for the HLA    
+2011-08-04
+https://doi.org/10.1371%2Fjournal.pgen.1002197
+==================================================
+
+# Source: 630
+A network view of disease and compound screening    
+2009-04-17
+https://doi.org/10.1038%2Fnrd2826
+==================================================
+
+# Source: 631
+Finkel MS, Oddis CV, Jacob TD, et al:
 Negative inotropic effects of cytokines on the heart mediated ...    
-            1992-01-01
-            http://dx.doi.org/10.1126/science.1631560
-            ======================================================================================================================================================
-            
-            <h1> Source: 632 </h1>
-            Interaction between ERAP1 and HLA-B27 in ankylosing spondylitis implicates peptide handling in the mechanism for HLA-B27 in disease susceptibility    
-            2011-08-17
-            https://doi.org/10.1038%2Fng.873
-            ======================================================================================================================================================
-            
-            <h1> Source: 633 </h1>
-            Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis    
-            2012-05-17
-            https://doi.org/10.1038%2Fng.2232
-            ======================================================================================================================================================
-            
-            <h1> Source: 634 </h1>
-            Uncovering the roles of rare variants in common disease through whole-genome sequencing    
-            2010-06-17
-            https://doi.org/10.1038%2Fnrg2779
-            ======================================================================================================================================================
-            
-            <h1> Source: 635 </h1>
-            Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm    
-            2009-07-17
-            https://doi.org/10.1038%2Fnprot.2009.86
-            ======================================================================================================================================================
-            
-            <h1> Source: 636 </h1>
-            Khan MA, Das B, Lohe A and Sharma J:
+1992-01-01
+http://dx.doi.org/10.1126/science.1631560
+==================================================
+
+# Source: 632
+Interaction between ERAP1 and HLA-B27 in ankylosing spondylitis implicates peptide handling in the mechanism for HLA-B27 in disease susceptibility    
+2011-08-17
+https://doi.org/10.1038%2Fng.873
+==================================================
+
+# Source: 633
+Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis    
+2012-05-17
+https://doi.org/10.1038%2Fng.2232
+==================================================
+
+# Source: 634
+Uncovering the roles of rare variants in common disease through whole-genome sequencing    
+2010-06-17
+https://doi.org/10.1038%2Fnrg2779
+==================================================
+
+# Source: 635
+Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm    
+2009-07-17
+https://doi.org/10.1038%2Fnprot.2009.86
+==================================================
+
+# Source: 636
+Khan MA, Das B, Lohe A and Sharma J:
 Neonatal myocarditis presenting as an apparent life threatening...    
-            2003-01-01
-            http://dx.doi.org/10.1177/000992280304200713
-            ======================================================================================================================================================
-            
-            <h1> Source: 637 </h1>
-            Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results    
-            1995-11-17
-            https://doi.org/10.1038%2Fng1195-241
-            ======================================================================================================================================================
-            
-            <h1> Source: 638 </h1>
-            Geographical genomics of human leukocyte gene expression variation in southern Morocco    
-            2010-01-17
-            https://doi.org/10.1038%2Fng.495
-            ======================================================================================================================================================
-            
-            <h1> Source: 639 </h1>
-            A method and server for predicting damaging missense mutations    
-            2010-04-17
-            https://doi.org/10.1038%2Fnmeth0410-248
-            ======================================================================================================================================================
-            
-            <h1> Source: 640 </h1>
-            A mutation in APP protects against Alzheimer’s disease and age-related cognitive decline    
-            2012-08-17
-            https://doi.org/10.1038%2Fnature11283
-            ======================================================================================================================================================
-            
-            <h1> Source: 641 </h1>
-            Chromatin marks identify critical cell types for fine mapping complex trait variants    
-            2013-02-17
-            https://doi.org/10.1038%2Fng.2504
-            ======================================================================================================================================================
-            
-            <h1> Source: 642 </h1>
-            Genetics of gene expression and its effect on disease    
-            2008-03-17
-            https://doi.org/10.1038%2Fnature06758
-            ======================================================================================================================================================
-            
-            <h1> Source: 643 </h1>
-            Two Battles in the History of Agriculture: Against Hunger and Against Alternatives. Comment on John Perkins' and Rachael Jamison's “History, Ethics and Intensification in Agriculture”    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_5
-            ======================================================================================================================================================
-            
-            <h1> Source: 644 </h1>
-            FilGAP, a Rho- and ROCK-regulated GAP for Rac binds filamin A to control actin remodelling    
-            2006-08-17
-            https://doi.org/10.1038%2Fncb1437
-            ======================================================================================================================================================
-            
-            <h1> Source: 645 </h1>
-            Genome-wide association analysis identifies three psoriasis susceptibility loci    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.693
-            ======================================================================================================================================================
-            
-            <h1> Source: 646 </h1>
-            Agricultural Intensification, Environmental Ethics and Sustainability: Some Ethical Observations    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_11
-            ======================================================================================================================================================
-            
-            <h1> Source: 647 </h1>
-            Balancing Selection Maintains a Form of ERAP2 that Undergoes Nonsense-Mediated Decay and Affects Antigen Presentation    
-            2010-10-14
-            https://doi.org/10.1371%2Fjournal.pgen.1001157
-            ======================================================================================================================================================
-            
-            <h1> Source: 648 </h1>
-            History, Ethics, and Intensification in Agriculture    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_3
-            ======================================================================================================================================================
-            
-            <h1> Source: 649 </h1>
-            New sequence variants associated with bone mineral density    
-            2009-01-17
-            https://doi.org/10.1038%2Fng.284
-            ======================================================================================================================================================
-            
-            <h1> Source: 650 </h1>
-            This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
-            2017-12-14
-            https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
-            ======================================================================================================================================================
-            
-            <h1> Source: 651 </h1>
-            Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
-            2006-04-17
-            https://doi.org/10.1038%2Fng1750
-            ======================================================================================================================================================
-            
-            <h1> Source: 652 </h1>
-            Laminopathies and the long strange trip from basic cell biology to therapy    
-            2009-07-01
-            https://doi.org/10.1172%2FJCI37679
-            ======================================================================================================================================================
-            
-            <h1> Source: 653 </h1>
-            Farm Animal Welfare: A Systemic Challenge    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_14
-            ======================================================================================================================================================
-            
-            <h1> Source: 654 </h1>
-            Multiple common variants for celiac disease influencing immune gene expression    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.543
-            ======================================================================================================================================================
-            
-            <h1> Source: 655 </h1>
-            Genome-wide association defines more than 30 distinct susceptibility loci for Crohn's disease    
-            2008-08-17
-            https://doi.org/10.1038%2Fng.175
-            ======================================================================================================================================================
-            
-            <h1> Source: 656 </h1>
-            Mapping complex disease traits with global gene expression    
-            2009-03-17
-            https://doi.org/10.1038%2Fnrg2537
-            ======================================================================================================================================================
-            
-            <h1> Source: 657 </h1>
-            Doing Ethics in Food and Agriculture    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_2
-            ======================================================================================================================================================
-            
-            <h1> Source: 658 </h1>
-            Filamins as integrators of cell mechanics and signalling    
-            2001-02-17
-            https://doi.org/10.1038%2F35052082
-            ======================================================================================================================================================
-            
-            <h1> Source: 659 </h1>
-            Robinson JL, Hartling L, Crumley E, et al:
+2003-01-01
+http://dx.doi.org/10.1177/000992280304200713
+==================================================
+
+# Source: 637
+Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results    
+1995-11-17
+https://doi.org/10.1038%2Fng1195-241
+==================================================
+
+# Source: 638
+Geographical genomics of human leukocyte gene expression variation in southern Morocco    
+2010-01-17
+https://doi.org/10.1038%2Fng.495
+==================================================
+
+# Source: 639
+A method and server for predicting damaging missense mutations    
+2010-04-17
+https://doi.org/10.1038%2Fnmeth0410-248
+==================================================
+
+# Source: 640
+A mutation in APP protects against Alzheimer’s disease and age-related cognitive decline    
+2012-08-17
+https://doi.org/10.1038%2Fnature11283
+==================================================
+
+# Source: 641
+Chromatin marks identify critical cell types for fine mapping complex trait variants    
+2013-02-17
+https://doi.org/10.1038%2Fng.2504
+==================================================
+
+# Source: 642
+Genetics of gene expression and its effect on disease    
+2008-03-17
+https://doi.org/10.1038%2Fnature06758
+==================================================
+
+# Source: 643
+Two Battles in the History of Agriculture: Against Hunger and Against Alternatives. Comment on John Perkins' and Rachael Jamison's “History, Ethics and Intensification in Agriculture”    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_5
+==================================================
+
+# Source: 644
+FilGAP, a Rho- and ROCK-regulated GAP for Rac binds filamin A to control actin remodelling    
+2006-08-17
+https://doi.org/10.1038%2Fncb1437
+==================================================
+
+# Source: 645
+Genome-wide association analysis identifies three psoriasis susceptibility loci    
+2010-11-17
+https://doi.org/10.1038%2Fng.693
+==================================================
+
+# Source: 646
+Agricultural Intensification, Environmental Ethics and Sustainability: Some Ethical Observations    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_11
+==================================================
+
+# Source: 647
+Balancing Selection Maintains a Form of ERAP2 that Undergoes Nonsense-Mediated Decay and Affects Antigen Presentation    
+2010-10-14
+https://doi.org/10.1371%2Fjournal.pgen.1001157
+==================================================
+
+# Source: 648
+History, Ethics, and Intensification in Agriculture    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_3
+==================================================
+
+# Source: 649
+New sequence variants associated with bone mineral density    
+2009-01-17
+https://doi.org/10.1038%2Fng.284
+==================================================
+
+# Source: 650
+This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
+2017-12-14
+https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
+==================================================
+
+# Source: 651
+Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
+2006-04-17
+https://doi.org/10.1038%2Fng1750
+==================================================
+
+# Source: 652
+Laminopathies and the long strange trip from basic cell biology to therapy    
+2009-07-01
+https://doi.org/10.1172%2FJCI37679
+==================================================
+
+# Source: 653
+Farm Animal Welfare: A Systemic Challenge    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_14
+==================================================
+
+# Source: 654
+Multiple common variants for celiac disease influencing immune gene expression    
+2010-04-17
+https://doi.org/10.1038%2Fng.543
+==================================================
+
+# Source: 655
+Genome-wide association defines more than 30 distinct susceptibility loci for Crohn's disease    
+2008-08-17
+https://doi.org/10.1038%2Fng.175
+==================================================
+
+# Source: 656
+Mapping complex disease traits with global gene expression    
+2009-03-17
+https://doi.org/10.1038%2Fnrg2537
+==================================================
+
+# Source: 657
+Doing Ethics in Food and Agriculture    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_2
+==================================================
+
+# Source: 658
+Filamins as integrators of cell mechanics and signalling    
+2001-02-17
+https://doi.org/10.1038%2F35052082
+==================================================
+
+# Source: 659
+Robinson JL, Hartling L, Crumley E, et al:
 A systematic review of intravenous gamma globulin for the...    
-            2005-12-17
-            http://dx.doi.org/10.1186/1471-2261-5-12
-            ======================================================================================================================================================
-            
-            <h1> Source: 660 </h1>
-            CFH haplotypes without the Y402H coding variant show strong association with susceptibility to age-related macular degeneration    
-            2006-09-17
-            https://doi.org/10.1038%2Fng1871
-            ======================================================================================================================================================
-            
-            <h1> Source: 661 </h1>
-            Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
-            2009-02-17
-            https://doi.org/10.1038%2Fng.311
-            ======================================================================================================================================================
-            
-            <h1> Source: 662 </h1>
-            A diverse range of gene products are effectors of the type I interferon antiviral response    
-            2011-04-17
-            https://doi.org/10.1038%2Fnature09907
-            ======================================================================================================================================================
-            
-            <h1> Source: 663 </h1>
-            Correction: Corrigendum: Identification of an imprinted master trans regulator at the KLF14 locus related to multiple metabolic phenotypes    
-            2011-10-17
-            https://doi.org/10.1038%2Fng1011-1040c
-            ======================================================================================================================================================
-            
-            <h1> Source: 664 </h1>
-            Ethics in Agricultural Change: Questions and Proposals for Development Processes    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_15
-            ======================================================================================================================================================
-            
-            <h1> Source: 665 </h1>
-            Genome-wide association study meta-analysis identifies seven new rheumatoid arthritis risk loci    
-            2010-06-17
-            https://doi.org/10.1038%2Fng.582
-            ======================================================================================================================================================
-            
-            <h1> Source: 666 </h1>
-            Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
-            2009-02-17
-            https://doi.org/10.1038%2Fng.311
-            ======================================================================================================================================================
-            
-            <h1> Source: 667 </h1>
-            Wang CY, Li Lu F, Wu MH, et al: Fatal
+2005-12-17
+http://dx.doi.org/10.1186/1471-2261-5-12
+==================================================
+
+# Source: 660
+CFH haplotypes without the Y402H coding variant show strong association with susceptibility to age-related macular degeneration    
+2006-09-17
+https://doi.org/10.1038%2Fng1871
+==================================================
+
+# Source: 661
+Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
+2009-02-17
+https://doi.org/10.1038%2Fng.311
+==================================================
+
+# Source: 662
+A diverse range of gene products are effectors of the type I interferon antiviral response    
+2011-04-17
+https://doi.org/10.1038%2Fnature09907
+==================================================
+
+# Source: 663
+Correction: Corrigendum: Identification of an imprinted master trans regulator at the KLF14 locus related to multiple metabolic phenotypes    
+2011-10-17
+https://doi.org/10.1038%2Fng1011-1040c
+==================================================
+
+# Source: 664
+Ethics in Agricultural Change: Questions and Proposals for Development Processes    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_15
+==================================================
+
+# Source: 665
+Genome-wide association study meta-analysis identifies seven new rheumatoid arthritis risk loci    
+2010-06-17
+https://doi.org/10.1038%2Fng.582
+==================================================
+
+# Source: 666
+Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
+2009-02-17
+https://doi.org/10.1038%2Fng.311
+==================================================
+
+# Source: 667
+Wang CY, Li Lu F, Wu MH, et al: Fatal
 coxsackievirus A16 infection. Pediatr Infect Dis J. 23:275–276...    
-            2004-01-01
-            http://dx.doi.org/10.1097/01.inf.0000115950.63906.78
-            ======================================================================================================================================================
-            
-            <h1> Source: 668 </h1>
-            Causal Forecasting at Lyft (Part 2)    
-            2022-08-25
-            https://eng.lyft.com/causal-forecasting-at-lyft-part-2-418f1febca5a
-            ======================================================================================================================================================
-            
-            <h1> Source: 669 </h1>
-            McNamara DM, Holubkov R, Starling RC, et
+2004-01-01
+http://dx.doi.org/10.1097/01.inf.0000115950.63906.78
+==================================================
+
+# Source: 668
+Causal Forecasting at Lyft (Part 2)    
+2022-08-25
+https://eng.lyft.com/causal-forecasting-at-lyft-part-2-418f1febca5a
+==================================================
+
+# Source: 669
+McNamara DM, Holubkov R, Starling RC, et
 al: Controlled trial of intravenous immune globulin in rece...    
-            2001-01-01
-            http://dx.doi.org/10.1161/01.CIR.103.18.2254
-            ======================================================================================================================================================
-            
-            <h1> Source: 670 </h1>
-            Meta-Analysis of Genome-Wide Association Studies in Celiac Disease and Rheumatoid Arthritis Identifies Fourteen Non-HLA Shared Loci    
-            2011-02-24
-            https://doi.org/10.1371%2Fjournal.pgen.1002004
-            ======================================================================================================================================================
-            
-            <h1> Source: 671 </h1>
-            Genetics of gene expression in primary immune cells identifies cell type–specific master regulators and roles of HLA alleles    
-            2012-05-17
-            https://doi.org/10.1038%2Fng.2205
-            ======================================================================================================================================================
-            
-            <h1> Source: 672 </h1>
-            The Book of Why    
-            2018-05-01
-            http://repo.darmajaya.ac.id/5342/1/The%20book%20of%20why_%20the%20new%20science%20of%20cause%20and%20effect%20%28%20PDFDrive%20%29.pdf
-            ======================================================================================================================================================
-            
-            <h1> Source: 673 </h1>
-            Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration    
-            2006-09-17
-            https://doi.org/10.1038%2Fng1873
-            ======================================================================================================================================================
-            
-            <h1> Source: 674 </h1>
-            Counterfactuals and Causal Inference    
-            2014-11-17
-            https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7
-            ======================================================================================================================================================
-            
-            <h1> Source: 675 </h1>
-            The common PPARγ Pro12Ala polymorphism is associated with decreased risk of type 2 diabetes    
-            2000-09-17
-            https://doi.org/10.1038%2F79216
-            ======================================================================================================================================================
-            
-            <h1> Source: 676 </h1>
-            Combinatorial chemistry in drug discovery    
-            1997-04-17
-            https://doi.org/10.1038%2Fnbt0497-328
-            ======================================================================================================================================================
-            
-            <h1> Source: 677 </h1>
-            Références 10.1017/S026646660000829X :    
-            1994-03-17
-            http://dx.doi.org/10.1017/S026646660000829X
-            ======================================================================================================================================================
-            
-            <h1> Source: 678 </h1>
-            Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project    
-            2007-06-17
-            https://doi.org/10.1038%2Fnature05874
-            ======================================================================================================================================================
-            
-            <h1> Source: 679 </h1>
-            Genome-wide meta-analysis identifies 56 bone mineral density loci and reveals 14 loci associated with risk of fracture    
-            2012-05-17
-            https://doi.org/10.1038%2Fng.2249
-            ======================================================================================================================================================
-            
-            <h1> Source: 680 </h1>
-            Agricultural Intensification: Some Human Rights Issues    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_8
-            ======================================================================================================================================================
-            
-            <h1> Source: 681 </h1>
-            A genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.694
-            ======================================================================================================================================================
-            
-            <h1> Source: 682 </h1>
-            Dretske, F., and Snyder, A. “Causal Irregularity.” Philosophy of Science 39.1 (1972) 69-71. http://d...    
-            1972-03-17
-            http://dx.doi.org/10.1086/288409
-            ======================================================================================================================================================
-            
-            <h1> Source: 683 </h1>
-            Pervasive haplotypic variation in the spliceo-transcriptome of the human major histocompatibility complex    
-            2011-07-01
-            https://doi.org/10.1101%2Fgr.116681.110
-            ======================================================================================================================================================
-            
-            <h1> Source: 684 </h1>
-            Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
-            2006-04-17
-            https://doi.org/10.1038%2Fng1750
-            ======================================================================================================================================================
-            
-            <h1> Source: 685 </h1>
-            A Genome-Wide Association Study of Psoriasis and Psoriatic Arthritis Identifies New Disease Loci    
-            2008-04-04
-            https://doi.org/10.1371%2Fjournal.pgen.1000041
-            ======================================================================================================================================================
-            
-            <h1> Source: 686 </h1>
-            Population genomics of human gene expression    
-            2007-10-17
-            https://doi.org/10.1038%2Fng2142
-            ======================================================================================================================================================
-            
-            <h1> Source: 687 </h1>
-            Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47    
-            2011-03-17
-            https://doi.org/10.1038%2Fng.764
-            ======================================================================================================================================================
-            
-            <h1> Source: 688 </h1>
-            HLA-C cell surface expression and control of HIV/AIDS correlate with a variant upstream of HLA-C    
-            2009-12-17
-            https://doi.org/10.1038%2Fng.486
-            ======================================================================================================================================================
-            
-            <h1> Source: 689 </h1>
-            Books Received    
-            2007-07-17
-            https://doi.org/10.1017/S0031819107000125
-            ======================================================================================================================================================
-            
-            <h1> Source: 690 </h1>
-            Expression Quantitative Trait Loci Are Highly Sensitive to Cellular Differentiation State    
-            2009-10-16
-            https://doi.org/10.1371%2Fjournal.pgen.1000692
-            ======================================================================================================================================================
-            
-            <h1> Source: 691 </h1>
-            Causal Instrumental Variables and Interventions    
-            2005-12-17
-            https://doi.org/10.1086/508953
-            ======================================================================================================================================================
-            
-            <h1> Source: 692 </h1>
-            A Candidate Gene Approach Identifies the TRAF1/C5 Region as a Risk Factor for Rheumatoid Arthritis    
-            2007-09-18
-            https://doi.org/10.1371%2Fjournal.pmed.0040278
-            ======================================================================================================================================================
-            
-            <h1> Source: 693 </h1>
-            Common variants at five new loci associated with early-onset inflammatory bowel disease    
-            2009-12-17
-            https://doi.org/10.1038%2Fng.489
-            ======================================================================================================================================================
-            
-            <h1> Source: 694 </h1>
-            High-density genetic mapping identifies new susceptibility loci for rheumatoid arthritis    
-            2012-12-17
-            https://doi.org/10.1038%2Fng.2462
-            ======================================================================================================================================================
-            
-            <h1> Source: 695 </h1>
-            Tissue Effect on Genetic Control of Transcript Isoform Variation    
-            2009-08-14
-            https://doi.org/10.1371%2Fjournal.pgen.1000608
-            ======================================================================================================================================================
-            
-            <h1> Source: 696 </h1>
-            Nonsyndromic hearing impairment is associated with a mutation in DFNA5    
-            1998-10-17
-            https://doi.org/10.1038%2F2503
-            ======================================================================================================================================================
-            
-            <h1> Source: 697 </h1>
-            Variant in the sequence of the LINGO1 gene confers risk of essential tremor    
-            2009-03-17
-            https://doi.org/10.1038%2Fng.299
-            ======================================================================================================================================================
-            
-            <h1> Source: 698 </h1>
-            Common variants at CD40 and other loci confer risk of rheumatoid arthritis    
-            2008-10-17
-            https://doi.org/10.1038%2Fng.233
-            ======================================================================================================================================================
-            
-            <h1> Source: 699 </h1>
-            Candidate Causal Regulatory Effects by Integration of Expression QTLs with Complex Trait Genetic Associations    
-            2010-04-01
-            https://doi.org/10.1371%2Fjournal.pgen.1000895
-            ======================================================================================================================================================
-            
-            <h1> Source: 700 </h1>
-            Five amino acids in three HLA proteins explain most of the association between MHC and seropositive rheumatoid arthritis    
-            2012-03-17
-            https://doi.org/10.1038%2Fng.1076
-            ======================================================================================================================================================
-            
-            <h1> Source: 701 </h1>
-            Analysis of 6,515 exomes reveals the recent origin of most human protein-coding variants    
-            2013-01-17
-            https://doi.org/10.1038%2Fnature11690
-            ======================================================================================================================================================
-            
-            <h1> Source: 702 </h1>
-            Recurrent de novo point mutations in lamin A cause Hutchinson–Gilford progeria syndrome    
-            2003-05-17
-            https://doi.org/10.1038%2Fnature01629
-            ======================================================================================================================================================
-            
-            <h1> Source: 703 </h1>
-            Mapping the Genetic Architecture of Gene Expression in Human Liver    
-            2008-05-06
-            https://doi.org/10.1371%2Fjournal.pbio.0060107
-            ======================================================================================================================================================
-            
-            <h1> Source: 704 </h1>
-            A genome-wide association study of global gene expression    
-            2007-10-17
-            https://doi.org/10.1038%2Fng2109
-            ======================================================================================================================================================
-            
-            <h1> Source: 705 </h1>
-            Deletion of steroid 5α-reductase 2 gene in male pseudohermaphroditism    
-            1991-11-17
-            https://doi.org/10.1038%2F354159a0
-            ======================================================================================================================================================
-            
-            <h1> Source: 706 </h1>
-            Functional haplotypes of PADI4, encoding citrullinating enzyme peptidylarginine deiminase 4, are associated with rheumatoid arthritis    
-            2003-08-17
-            https://doi.org/10.1038%2Fng1206
-            ======================================================================================================================================================
-            
-            <h1> Source: 707 </h1>
-            Genetics and Beyond – The Transcriptome of Human Monocytes and Disease Susceptibility    
-            2010-05-18
-            https://doi.org/10.1371%2Fjournal.pone.0010693
-            ======================================================================================================================================================
-            
-            <h1> Source: 708 </h1>
-            Identification of 15 new psoriasis susceptibility loci highlights the role of innate immunity    
-            2012-12-17
-            https://doi.org/10.1038%2Fng.2467
-            ======================================================================================================================================================
-            
-            <h1> Source: 709 </h1>
-            Comments on Luis Camacho, “Agriculture Intensification from the Perspective of Development Ethics”    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_7
-            ======================================================================================================================================================
-            
-            <h1> Source: 710 </h1>
-            English RF, Janosly JE, Ettedgui JA and
+2001-01-01
+http://dx.doi.org/10.1161/01.CIR.103.18.2254
+==================================================
+
+# Source: 670
+Meta-Analysis of Genome-Wide Association Studies in Celiac Disease and Rheumatoid Arthritis Identifies Fourteen Non-HLA Shared Loci    
+2011-02-24
+https://doi.org/10.1371%2Fjournal.pgen.1002004
+==================================================
+
+# Source: 671
+Genetics of gene expression in primary immune cells identifies cell type–specific master regulators and roles of HLA alleles    
+2012-05-17
+https://doi.org/10.1038%2Fng.2205
+==================================================
+
+# Source: 672
+The Book of Why    
+2018-05-01
+http://repo.darmajaya.ac.id/5342/1/The%20book%20of%20why_%20the%20new%20science%20of%20cause%20and%20effect%20%28%20PDFDrive%20%29.pdf
+==================================================
+
+# Source: 673
+Common variation in three genes, including a noncoding variant in CFH, strongly influences risk of age-related macular degeneration    
+2006-09-17
+https://doi.org/10.1038%2Fng1873
+==================================================
+
+# Source: 674
+Counterfactuals and Causal Inference    
+2014-11-17
+https://www.cambridge.org/core/books/counterfactuals-and-causal-inference/5CC81E6DF63C5E5A8B88F79D45E1D1B7
+==================================================
+
+# Source: 675
+The common PPARγ Pro12Ala polymorphism is associated with decreased risk of type 2 diabetes    
+2000-09-17
+https://doi.org/10.1038%2F79216
+==================================================
+
+# Source: 676
+Combinatorial chemistry in drug discovery    
+1997-04-17
+https://doi.org/10.1038%2Fnbt0497-328
+==================================================
+
+# Source: 677
+Références 10.1017/S026646660000829X :    
+1994-03-17
+http://dx.doi.org/10.1017/S026646660000829X
+==================================================
+
+# Source: 678
+Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project    
+2007-06-17
+https://doi.org/10.1038%2Fnature05874
+==================================================
+
+# Source: 679
+Genome-wide meta-analysis identifies 56 bone mineral density loci and reveals 14 loci associated with risk of fracture    
+2012-05-17
+https://doi.org/10.1038%2Fng.2249
+==================================================
+
+# Source: 680
+Agricultural Intensification: Some Human Rights Issues    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_8
+==================================================
+
+# Source: 681
+A genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1    
+2010-11-17
+https://doi.org/10.1038%2Fng.694
+==================================================
+
+# Source: 682
+Dretske, F., and Snyder, A. “Causal Irregularity.” Philosophy of Science 39.1 (1972) 69-71. http://d...    
+1972-03-17
+http://dx.doi.org/10.1086/288409
+==================================================
+
+# Source: 683
+Pervasive haplotypic variation in the spliceo-transcriptome of the human major histocompatibility complex    
+2011-07-01
+https://doi.org/10.1101%2Fgr.116681.110
+==================================================
+
+# Source: 684
+Variation in factor B (BF) and complement component 2 (C2) genes is associated with age-related macular degeneration    
+2006-04-17
+https://doi.org/10.1038%2Fng1750
+==================================================
+
+# Source: 685
+A Genome-Wide Association Study of Psoriasis and Psoriatic Arthritis Identifies New Disease Loci    
+2008-04-04
+https://doi.org/10.1371%2Fjournal.pgen.1000041
+==================================================
+
+# Source: 686
+Population genomics of human gene expression    
+2007-10-17
+https://doi.org/10.1038%2Fng2142
+==================================================
+
+# Source: 687
+Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47    
+2011-03-17
+https://doi.org/10.1038%2Fng.764
+==================================================
+
+# Source: 688
+HLA-C cell surface expression and control of HIV/AIDS correlate with a variant upstream of HLA-C    
+2009-12-17
+https://doi.org/10.1038%2Fng.486
+==================================================
+
+# Source: 689
+Books Received    
+2007-07-17
+https://doi.org/10.1017/S0031819107000125
+==================================================
+
+# Source: 690
+Expression Quantitative Trait Loci Are Highly Sensitive to Cellular Differentiation State    
+2009-10-16
+https://doi.org/10.1371%2Fjournal.pgen.1000692
+==================================================
+
+# Source: 691
+Causal Instrumental Variables and Interventions    
+2005-12-17
+https://doi.org/10.1086/508953
+==================================================
+
+# Source: 692
+A Candidate Gene Approach Identifies the TRAF1/C5 Region as a Risk Factor for Rheumatoid Arthritis    
+2007-09-18
+https://doi.org/10.1371%2Fjournal.pmed.0040278
+==================================================
+
+# Source: 693
+Common variants at five new loci associated with early-onset inflammatory bowel disease    
+2009-12-17
+https://doi.org/10.1038%2Fng.489
+==================================================
+
+# Source: 694
+High-density genetic mapping identifies new susceptibility loci for rheumatoid arthritis    
+2012-12-17
+https://doi.org/10.1038%2Fng.2462
+==================================================
+
+# Source: 695
+Tissue Effect on Genetic Control of Transcript Isoform Variation    
+2009-08-14
+https://doi.org/10.1371%2Fjournal.pgen.1000608
+==================================================
+
+# Source: 696
+Nonsyndromic hearing impairment is associated with a mutation in DFNA5    
+1998-10-17
+https://doi.org/10.1038%2F2503
+==================================================
+
+# Source: 697
+Variant in the sequence of the LINGO1 gene confers risk of essential tremor    
+2009-03-17
+https://doi.org/10.1038%2Fng.299
+==================================================
+
+# Source: 698
+Common variants at CD40 and other loci confer risk of rheumatoid arthritis    
+2008-10-17
+https://doi.org/10.1038%2Fng.233
+==================================================
+
+# Source: 699
+Candidate Causal Regulatory Effects by Integration of Expression QTLs with Complex Trait Genetic Associations    
+2010-04-01
+https://doi.org/10.1371%2Fjournal.pgen.1000895
+==================================================
+
+# Source: 700
+Five amino acids in three HLA proteins explain most of the association between MHC and seropositive rheumatoid arthritis    
+2012-03-17
+https://doi.org/10.1038%2Fng.1076
+==================================================
+
+# Source: 701
+Analysis of 6,515 exomes reveals the recent origin of most human protein-coding variants    
+2013-01-17
+https://doi.org/10.1038%2Fnature11690
+==================================================
+
+# Source: 702
+Recurrent de novo point mutations in lamin A cause Hutchinson–Gilford progeria syndrome    
+2003-05-17
+https://doi.org/10.1038%2Fnature01629
+==================================================
+
+# Source: 703
+Mapping the Genetic Architecture of Gene Expression in Human Liver    
+2008-05-06
+https://doi.org/10.1371%2Fjournal.pbio.0060107
+==================================================
+
+# Source: 704
+A genome-wide association study of global gene expression    
+2007-10-17
+https://doi.org/10.1038%2Fng2109
+==================================================
+
+# Source: 705
+Deletion of steroid 5α-reductase 2 gene in male pseudohermaphroditism    
+1991-11-17
+https://doi.org/10.1038%2F354159a0
+==================================================
+
+# Source: 706
+Functional haplotypes of PADI4, encoding citrullinating enzyme peptidylarginine deiminase 4, are associated with rheumatoid arthritis    
+2003-08-17
+https://doi.org/10.1038%2Fng1206
+==================================================
+
+# Source: 707
+Genetics and Beyond – The Transcriptome of Human Monocytes and Disease Susceptibility    
+2010-05-18
+https://doi.org/10.1371%2Fjournal.pone.0010693
+==================================================
+
+# Source: 708
+Identification of 15 new psoriasis susceptibility loci highlights the role of innate immunity    
+2012-12-17
+https://doi.org/10.1038%2Fng.2467
+==================================================
+
+# Source: 709
+Comments on Luis Camacho, “Agriculture Intensification from the Perspective of Development Ethics”    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_7
+==================================================
+
+# Source: 710
+English RF, Janosly JE, Ettedgui JA and
 Webber SA: Outcomes for children with acute myocarditis. Car...    
-            2004-10-17
-            http://dx.doi.org/10.1017/S1047951104005049
-            ======================================================================================================================================================
-            
-            <h1> Source: 711 </h1>
-            A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000529
-            ======================================================================================================================================================
-            
-            <h1> Source: 712 </h1>
-            Genome-wide association studies for common diseases and complex traits    
-            2005-02-17
-            https://doi.org/10.1038%2Fnrg1521
-            ======================================================================================================================================================
-            
-            <h1> Source: 713 </h1>
-            A rare penetrant mutation in CFH confers high risk of age-related macular degeneration    
-            2011-12-17
-            https://doi.org/10.1038%2Fng.976
-            ======================================================================================================================================================
-            
-            <h1> Source: 714 </h1>
-            Agricultural Intensification and the Environment    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_10
-            ======================================================================================================================================================
-            
-            <h1> Source: 715 </h1>
-            XV.—The Correlation between Relatives on the Supposition of Mendelian Inheritance.    
-            1919-01-17
-            https://doi.org/10.1017%2FS0080456800012163
-            ======================================================================================================================================================
-            
-            <h1> Source: 716 </h1>
-            Robust associations of four new chromosome regions from genome-wide analyses of type 1 diabetes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2068
-            ======================================================================================================================================================
-            
-            <h1> Source: 717 </h1>
-            Lighting the fires within: the cell biology of autoinflammatory diseases    
-            2012-08-17
-            https://doi.org/10.1038%2Fnri3261
-            ======================================================================================================================================================
-            
-            <h1> Source: 718 </h1>
-            The Architecture of Gene Regulatory Variation across Multiple Human Tissues: The MuTHER Study    
-            2011-02-03
-            https://doi.org/10.1371%2Fjournal.pgen.1002003
-            ======================================================================================================================================================
-            
-            <h1> Source: 719 </h1>
-            Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
-            2010-12-17
-            https://doi.org/10.1038%2Fng.717
-            ======================================================================================================================================================
-            
-            <h1> Source: 720 </h1>
-            Agriculture Intensification from the Perspective of Development Ethics    
-            2008-01-17
-            https://doi.org/10.1007/978-1-4020-8722-6_6
-            ======================================================================================================================================================
-            
-            <h1> Source: 721 </h1>
-            Abe S, Okura Y, Hoyano M, et al: Plasma
+2004-10-17
+http://dx.doi.org/10.1017/S1047951104005049
+==================================================
+
+# Source: 711
+A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000529
+==================================================
+
+# Source: 712
+Genome-wide association studies for common diseases and complex traits    
+2005-02-17
+https://doi.org/10.1038%2Fnrg1521
+==================================================
+
+# Source: 713
+A rare penetrant mutation in CFH confers high risk of age-related macular degeneration    
+2011-12-17
+https://doi.org/10.1038%2Fng.976
+==================================================
+
+# Source: 714
+Agricultural Intensification and the Environment    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_10
+==================================================
+
+# Source: 715
+XV.—The Correlation between Relatives on the Supposition of Mendelian Inheritance.    
+1919-01-17
+https://doi.org/10.1017%2FS0080456800012163
+==================================================
+
+# Source: 716
+Robust associations of four new chromosome regions from genome-wide analyses of type 1 diabetes    
+2007-07-17
+https://doi.org/10.1038%2Fng2068
+==================================================
+
+# Source: 717
+Lighting the fires within: the cell biology of autoinflammatory diseases    
+2012-08-17
+https://doi.org/10.1038%2Fnri3261
+==================================================
+
+# Source: 718
+The Architecture of Gene Regulatory Variation across Multiple Human Tissues: The MuTHER Study    
+2011-02-03
+https://doi.org/10.1371%2Fjournal.pgen.1002003
+==================================================
+
+# Source: 719
+Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
+2010-12-17
+https://doi.org/10.1038%2Fng.717
+==================================================
+
+# Source: 720
+Agriculture Intensification from the Perspective of Development Ethics    
+2008-01-17
+https://doi.org/10.1007/978-1-4020-8722-6_6
+==================================================
+
+# Source: 721
+Abe S, Okura Y, Hoyano M, et al: Plasma
 concentrations of cytokines and neurohumoral factors in a ca...    
-            2004-01-17
-            http://dx.doi.org/10.1253/circj.68.1223
-            ======================================================================================================================================================
-            
-            <h1> Source: 722 </h1>
-            Leung DY, Burns JC, Newburger JW and Geha
+2004-01-17
+http://dx.doi.org/10.1253/circj.68.1223
+==================================================
+
+# Source: 722
+Leung DY, Burns JC, Newburger JW and Geha
 RS: Reversal of lymphocyte activation in vivo in Kawasaki ...    
-            1987-02-01
-            http://dx.doi.org/10.1172/JCI112835
-            ======================================================================================================================================================
-            
-            <h1> Source: 723 </h1>
-            2003 approvals: a year of innovation and upward trends - Nature Reviews Drug Discovery    
-            2004-02-01
-            https://doi.org/10.1038%2Fnrd1327
-            ======================================================================================================================================================
-            
-            <h1> Source: 724 </h1>
-            Variation in complement factor 3 is associated with risk of age-related macular degeneration    
-            2007-10-17
-            https://doi.org/10.1038%2Fng2131
-            ======================================================================================================================================================
-            
-            <h1> Source: 725 </h1>
-            Use of genome-wide association studies for drug repositioning    
-            2012-04-17
-            https://doi.org/10.1038%2Fnbt.2151
-            ======================================================================================================================================================
-            
-            <h1> Source: 726 </h1>
-            Mapping determinants of human gene expression by regional and genome-wide association    
-            2005-10-17
-            https://doi.org/10.1038%2Fnature04244
-            ======================================================================================================================================================
-            
-            <h1> Source: 727 </h1>
-            Bragg, D. D., Kim, E., & Barnett, E. A. (2006). Creating access and success: Academic pathways reach...    
-            2006-01-01
-            https://doi.org/10.1002/cc.243
-            ======================================================================================================================================================
-            
-            <h1> Source: 728 </h1>
-            Matching as Nonparametric Preprocessing for Reducing Model Dependence in Parametric Causal Inference    
-            2007-07-17
-            https://doi.org/10.1093%2Fpan%2Fmpl013
-            ======================================================================================================================================================
-            
-            <h1> Source: 729 </h1>
-            MRC IEU UK Biobank GWAS pipeline version 1 This dataset is superseded by https://doi.org/10.5523/bri...    
-            2017-12-14
-            https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
-            ======================================================================================================================================================
-            
-            <h1> Source: 730 </h1>
-            Differences in College Access and Choice Among Racial/Ethnic Groups: Identifying Continuing Barriers    
-            1997-02-17
-            https://doi.org/10.1023%2FA%3A1024948728792
-            ======================================================================================================================================================
-            
-            <h1> Source: 731 </h1>
-            Breen, R., & Goldthorpe, J. H. (1997). Explaining educational differentials: Towards a formal ration...    
-            1997-01-01
-            https://doi.org/10.1177/104346397009003002
-            ======================================================================================================================================================
-            
-            <h1> Source: 732 </h1>
-            HLA-A Confers an HLA-DRB1 Independent Influence on the Risk of Multiple Sclerosis    
-            2007-07-25
-            https://doi.org/10.1371%2Fjournal.pone.0000664
-            ======================================================================================================================================================
-            
-            <h1> Source: 733 </h1>
-            Ho, D. E., Imai, K., King, G., & Stuart, E. A. (2007). Matching as nonparametric preprocessing for r...    
-            2007-07-17
-            https://doi.org/10.1093/pan/mpl013
-            ======================================================================================================================================================
-            
-            <h1> Source: 734 </h1>
-            Lansbury LE, Brown CS, Nguyen-Van-Tam JS. Influenza in long-term care facilities. Influenza Other Re...    
-            2017-01-01
-            http://dx.doi.org/10.1111/irv.12464
-            ======================================================================================================================================================
-            
-            <h1> Source: 735 </h1>
-            Gene Ontology: tool for the unification of biology    
-            2000-05-17
-            https://doi.org/10.1038%2F75556
-            ======================================================================================================================================================
-            
-            <h1> Source: 736 </h1>
-            Cabrera, A. F., & La Nasa, S. M. (2001). On the path to college: Three critical tasks facing America...    
-            2001-01-01
-            https://doi.org/10.1023/A:1026520002362
-            ======================================================================================================================================================
-            
-            <h1> Source: 737 </h1>
-            Becker , Sascha O. , and Ichino , Andrea . 2002 . Estimation of average treatment effects based on p...    
-            2002-01-01
-            https://dx.doi.org/10.1177/1536867X0200200403
-            ======================================================================================================================================================
-            
-            <h1> Source: 738 </h1>
-            A variant of the gene encoding leukotriene A4 hydrolase confers ethnicity-specific risk of myocardial infarction    
-            2006-01-17
-            https://doi.org/10.1038%2Fng1692
-            ======================================================================================================================================================
-            
-            <h1> Source: 739 </h1>
-            Jackson, G. A. (1990). Financial-aid, college entry, and affirmative action. American Journal of Edu...    
-            1990-01-01
-            https://doi.org/10.1086/443975
-            ======================================================================================================================================================
-            
-            <h1> Source: 740 </h1>
-            Yang, Y., Lu, Q., Liu, M., Wang, Y., Zhang, A., Jalali, N., Dean, N., Longini, I., Halloran, M.E., X...    
-            2020-02-21
-            https://doi.org/10.1101/2020.02.10.20021675
-            ======================================================================================================================================================
-            
-            <h1> Source: 741 </h1>
-            Engberg, M. E., & Allen, D. J. (2011). Uncontrolled destinies: Improving opportunity for low-income ...    
-            2011-01-01
-            https://doi.org/10.1007/s11162-011-9222-7
-            ======================================================================================================================================================
-            
-            <h1> Source: 742 </h1>
-            Breen, R., & Jonsson, J. O. (2000). Analyzing educational careers: A multinomial transition model. A...    
-            2000-01-01
-            https://doi.org/10.2307/2657545
-            ======================================================================================================================================================
-            
-            <h1> Source: 743 </h1>
-            Charles, C. Z., Roscigno, V. J., & Torres, K. C. (2007). Racial inequality and college attendance: T...    
-            2007-01-01
-            https://doi.org/10.1016/j.ssresearch.2006.02.004
-            ======================================================================================================================================================
-            
-            <h1> Source: 744 </h1>
-            Coleman, J. S. (1988). Social capital in the creation of human capital. American Journal of Sociolog...    
-            1988-01-01
-            https://doi.org/10.1086/228943
-            ======================================================================================================================================================
-            
-            <h1> Source: 745 </h1>
-            Sayers G, Igoe D, Carr M, et al. High morbidity and mortality associated with an outbreak of influen...    
-            2013-02-17
-            http://dx.doi.org/10.1017/S0950268812000659
-            ======================================================================================================================================================
-            
-            <h1> Source: 746 </h1>
-            Suggested citation for this article: Kimball A, Hatfield KM, Arons M, et al. Asymptomatic and Presym...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6913e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 747 </h1>
-            Doyle, W. R. (2009). The effect of community college enrollment on bachelor’s degree completion. Eco...    
-            2009-01-01
-            https://doi.org/10.1016/j.econedurev.2008.01.006
-            ======================================================================================================================================================
-            
-            <h1> Source: 748 </h1>
-            Differences in College Access and Choice Among Racial/Ethnic Groups: Identifying Continuing Barriers    
-            1997-02-17
-            https://doi.org/10.1023%2FA%3A1024948728792
-            ======================================================================================================================================================
-            
-            <h1> Source: 749 </h1>
-            Kubitschek, W. N., & Hallinan, M. T. (1998). Tracking and students’ friendships. Social Psychology Q...    
-            1998-01-01
-            https://doi.org/10.2307/2787054
-            ======================================================================================================================================================
-            
-            <h1> Source: 750 </h1>
-            Gamoran, A. (1992). The variable effects of high school tracking. American Sociological Review, 57 (...    
-            1992-01-01
-            https://doi.org/10.2307/2096125
-            ======================================================================================================================================================
-            
-            <h1> Source: 751 </h1>
-            Meta-analysis of genome scans and replication identify CD6, IRF8 and TNFRSF1A as new multiple sclerosis susceptibility loci    
-            2009-07-17
-            https://doi.org/10.1038%2Fng.401
-            ======================================================================================================================================================
-            
-            <h1> Source: 752 </h1>
-            Larson, R. W., Richards, M. H., Sims, B., & Dworkin, J. (2001). How urban african american young ado...    
-            2001-01-01
-            https://doi.org/10.1023/a:1010422017731
-            ======================================================================================================================================================
-            
-            <h1> Source: 753 </h1>
-            Zou L, Ruan F, Huang M, et al. SARS-CoV-2 viral load in upper respiratory specimens of infected pati...    
-            2020-01-01
-            http://dx.doi.org/10.1056/NEJMc2001737
-            ======================================================================================================================================================
-            
-            <h1> Source: 754 </h1>
-            Fryer, R. G., & Levitt, S. D. (2004). Understanding the black-white test score gap in the first two ...    
-            2004-01-01
-            https://doi.org/10.1162/003465304323031049
-            ======================================================================================================================================================
-            
-            <h1> Source: 755 </h1>
-            Speliotes, E. K., C. J. Willer, S. I. Berndt, K. L. Monda, G. Thorleifsson, A. U. Jackson, H. L. All...    
-            2010-11-17
-            https://doi.org/10.1038/ng.686
-            ======================================================================================================================================================
-            
-            <h1> Source: 756 </h1>
-            New models of collaboration in genome-wide association studies: the Genetic Association Information Network    
-            2007-09-17
-            https://doi.org/10.1038%2Fng2127
-            ======================================================================================================================================================
-            
-            <h1> Source: 757 </h1>
-            Harding, D. J. (2003). Counterfactual models of neighborhood effects: The effect of neighborhood pov...    
-            2003-01-01
-            https://doi.org/10.1086/379217
-            ======================================================================================================================================================
-            
-            <h1> Source: 758 </h1>
-            Cauchemez S , Carrat F , Viboud C , Valleron AJ , Boelle PY . Bayesian MCMC approach to study transm...    
-            2004-01-01
-            https://doi.org/10.1002/sim.1912
-            ======================================================================================================================================================
-            
-            <h1> Source: 759 </h1>
-            Gamoran, A., & Mare, R. D. (1989). Secondary school tracking and educational inequality: Compensatio...    
-            1989-01-01
-            https://doi.org/10.1086/229114
-            ======================================================================================================================================================
-            
-            <h1> Source: 760 </h1>
-            Goldthorpe, J. H. (1996). Class analysis and the reorientation of class theory: The case of persisti...    
-            1996-01-01
-            https://doi.org/10.2307/591365
-            ======================================================================================================================================================
-            
-            <h1> Source: 761 </h1>
-            Chang, D., Lin, M., Wei, L., Xie, L., Zhu, G., Dela Cruz, C.S., and Sharma, L. (2020). Epidemiologic...    
-            2020-01-01
-            https://doi.org/10.1001/jama.2020.1623
-            ======================================================================================================================================================
-            
-            <h1> Source: 762 </h1>
-            Counterfactuals and Causal Inference: Methods and Principles for Social Research    
-            2014-11-17
-            https://doi.org/10.1017%2FCBO9781107587991
-            ======================================================================================================================================================
-            
-            <h1> Source: 763 </h1>
-            White, I. (2010): “simsum: Analysis of simulation studies including Monte Carlo error,” The Stata Jo...    
-            2010-01-01
-            https://doi.org/10.1177/1536867X1001000305
-            ======================================================================================================================================================
-            
-            <h1> Source: 764 </h1>
-            Graham, J. W., Olchowski, A. E., & Gilreath, T. D. (2007). How many imputations are really needed? S...    
-            2007-01-01
-            https://doi.org/10.1007/s11121-007-0070-9
-            ======================================================================================================================================================
-            
-            <h1> Source: 765 </h1>
-            Andrews, H. A. (2004). Dual credit research outcomes for students. Community College Journal of Rese...    
-            2004-01-01
-            https://doi.org/10.1080/1066892049044445
-            ======================================================================================================================================================
-            
-            <h1> Source: 766 </h1>
-            Riegle-Crumb, C., & Grodsky, E. (2010). Racial-ethnic differences at the intersection of math course...    
-            2010-01-01
-            https://doi.org/10.1177/0038040710375689
-            ======================================================================================================================================================
-            
-            <h1> Source: 767 </h1>
-            Wang D, Li S, Jiang J, Yan J, Zhao C, Wang Y, Ma Y, Zeng H, Guo X, Wang H, Tang J, Zuo H, Lin L, Cui...    
-            2019-02-17
-            https://doi.org/10.1007/s11427-018-9385-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 768 </h1>
-            Hauser, R. M. (1972). Disaggregating a social-psychological model of educational attainment. Social ...    
-            1972-01-01
-            https://doi.org/10.1016/0049-089x(72)90092-0
-            ======================================================================================================================================================
-            
-            <h1> Source: 769 </h1>
-            Hauser, R. M., Tsai, S. L., & Sewell, W. H. (1983). A model of stratification with response error in...    
-            1983-01-01
-            https://doi.org/10.2307/2112301
-            ======================================================================================================================================================
-            
-            <h1> Source: 770 </h1>
-            Lucas, S. R. (2001). Effectively maintained inequality: Education transitions, track mobility, and s...    
-            2001-01-01
-            https://doi.org/10.1086/321300
-            ======================================================================================================================================================
-            
-            <h1> Source: 771 </h1>
-            Zhang, Z., Li, X., Zhang, W., Shi, Z.L., Zheng, Z., and Wang, T. (2020). Clinical Features and Treat...    
-            2020-06-17
-            https://doi.org/10.1007/s12250-020-00203-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 772 </h1>
-            Ding, L., Cai, W., Jing J.Q., Zhang, X.X., Cai Y., Shi, J.W., Liang, Q.M., Zhang, L.F., Sun, L.Z., Q...    
-            2020-02-23
-            https://doi.org/10.1360/SSV-2020-0044
-            ======================================================================================================================================================
-            
-            <h1> Source: 773 </h1>
-            Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
-            2009-02-17
-            https://doi.org/10.1038%2Fng.311
-            ======================================================================================================================================================
-            
-            <h1> Source: 774 </h1>
-            Haveman, R., & Smeeding, T. (2006). The role of higher education in social mobility. Future of Child...    
-            2006-01-01
-            https://doi.org/10.1353/foc.2006.0015
-            ======================================================================================================================================================
-            
-            <h1> Source: 775 </h1>
-            Translational Science in Medicine    
-            2006-10-17
-            https://doi.org/10.2165%2F00124363-200620050-00004
-            ======================================================================================================================================================
-            
-            <h1> Source: 776 </h1>
-            Rubin, D. (1978). Bayesian inference for causal effects: The role of randomization. Annals of Statis...    
-            1978-01-17
-            https://doi.org/10.1214/aos/1176344064
-            ======================================================================================================================================================
-            
-            <h1> Source: 777 </h1>
-            Bayesian Inference for Causal Effects: The Role of Randomization    
-            1978-01-17
-            https://doi.org/10.1214%2Faos%2F1176344064
-            ======================================================================================================================================================
-            
-            <h1> Source: 778 </h1>
-            Iatarola, P., Conger, D., & Long, M. C. (2011). Determinants of high schools’ advanced course offeri...    
-            2011-01-01
-            https://doi.org/10.3102/0162373711398124
-            ======================================================================================================================================================
-            
-            <h1> Source: 779 </h1>
-            Variance component model to account for sample structure in genome-wide association studies    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.548
-            ======================================================================================================================================================
-            
-            <h1> Source: 780 </h1>
-            Huntley, H. J., & Schuh, J. H. (2002–2003). Post-secondary enrollment: A new frontier in recruitment...    
-            2002-01-01
-            https://doi.org/10.2190/4XQF-P3CB-LQM8-BQQL
-            ======================================================================================================================================================
-            
-            <h1> Source: 781 </h1>
-            Longini IM , Nizam A , Xu SF , Ungchusak K , Hanshaoworakul W , Cummings DA , Containing pandemic in...    
-            2005-01-01
-            https://doi.org/10.1126/science.1115717
-            ======================================================================================================================================================
-            
-            <h1> Source: 782 </h1>
-            Sacerdote, B. (2011). Peer effects in education: How might they work, how big are they and how much ...    
-            2011-01-01
-            https://doi.org/10.1016/S0169-7218(11)03004-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 783 </h1>
-            Hout, M., & DiPrete, T. A. (2006). What we have learned: RC28’s contributions to knowledge about soc...    
-            2006-01-01
-            https://doi.org/10.1016/j.rssm.2005.10.001
-            ======================================================================================================================================================
-            
-            <h1> Source: 784 </h1>
-            Stearns, E., Potochnick, S., Moller, S., & Southworth, S. (2010). High school course-taking and post...    
-            2010-06-17
-            https://doi.org/10.1007/s11162-009-9161-8
-            ======================================================================================================================================================
-            
-            <h1> Source: 785 </h1>
-            Ichino, A., Mealli, F., & Nannicini, T. (2008). From temporary help jobs to permanent employment: Wh...    
-            2008-01-01
-            https://doi.org/10.1002/jae.998
-            ======================================================================================================================================================
-            
-            <h1> Source: 786 </h1>
-            Best Practices in Quasi&amp;#8211;Experimental Designs: Matching Methods for Causal Inference    
-            2008-01-17
-            https://doi.org/10.4135%2F9781412995627.d14
-            ======================================================================================================================================================
-            
-            <h1> Source: 787 </h1>
-            Haworth, C. M., S. Carnell, E. L. Meaburn, O. S. Davis, R. Plomin and J. Wardle (2008): “Increasing ...    
-            2008-01-01
-            https://doi.org/10.1038/oby.2008.434
-            ======================================================================================================================================================
-            
-            <h1> Source: 788 </h1>
-            Ashenfelter, O., & Rouse, C. (1998). Income, schooling, and ability: Evidence from a new sample of i...    
-            1998-01-01
-            https://doi.org/10.1162/003355398555577
-            ======================================================================================================================================================
-            
-            <h1> Source: 789 </h1>
-            Lucas, S. R., & Berends, M. (2002). Sociodemographic diversity, correlated achievement, and de facto...    
-            2002-01-01
-            https://doi.org/10.2307/3090282
-            ======================================================================================================================================================
-            
-            <h1> Source: 790 </h1>
-            Review of Aerosol Transmission of Influenza A Virus - Volume 12, Number 11—November 2006 - Emerging Infectious Diseases journal - CDC    
-            2006-11-17
-            https://doi.org/10.3201%2Feid1211.060426
-            ======================================================================================================================================================
-            
-            <h1> Source: 791 </h1>
-            This dataset is superseded by https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 792 </h1>
-            Frayling, T. M., N. J. Timpson, M. N. Weedon, E. Zeggini, R. M. Freathy, C. M. Lindgren, J. R. Perry...    
-            2007-01-01
-            https://doi.org/10.1126/science.1141634
-            ======================================================================================================================================================
-            
-            <h1> Source: 793 </h1>
-            Kim, J., & Bragg, D. D. (2008). The impact of dual and articulated credit on college readiness and r...    
-            2008-01-01
-            https://doi.org/10.5328/CTER33.2.133
-            ======================================================================================================================================================
-            
-            <h1> Source: 794 </h1>
-            Kerckhoff, A. C. (1995). Institutional arrangements and stratification processes in industrial socie...    
-            1995-01-01
-            https://doi.org/10.1146/annurev.so.21.080195.001543
-            ======================================================================================================================================================
-            
-            <h1> Source: 795 </h1>
-            Lucas, S. R., & Good, A. D. (2001). Race, class, and tournament track mobility. Sociology of Educati...    
-            2001-01-01
-            https://doi.org/10.2307/2673167
-            ======================================================================================================================================================
-            
-            <h1> Source: 796 </h1>
-            Tellier, R. Aerosol transmission of influenza A virus: a review of new studies. Journal of the Royal...    
-            2009-01-01
-            https://doi.org/10.1098/rsif.2009.0302.focus
-            ======================================================================================================================================================
-            
-            <h1> Source: 797 </h1>
-            Tang, J. W. Investigating the airborne transmission pathway - different approaches with the same obj...    
-            2015-01-01
-            https://doi.org/10.1111/ina.12175
-            ======================================================================================================================================================
-            
-            <h1> Source: 798 </h1>
-            Aulchenko, Y. S., S. Ripke, A. Isaacs, and C. M. van Duijn (2007): “GenABEL: an R library for genome...    
-            2007-01-01
-            https://doi.org/10.1093/bioinformatics/btm108
-            ======================================================================================================================================================
-            
-            <h1> Source: 799 </h1>
-            Morgan, S. L. (2002). Modeling preparatory commitment and non-repeatable decisions: Information-proc...    
-            2002-01-01
-            https://doi.org/10.1177/1043463102014004001
-            ======================================================================================================================================================
-            
-            <h1> Source: 800 </h1>
-            Rosenbaum, P. R. (1987). Sensitivity analysis for certain permutation inferences in matched observat...    
-            1987-01-01
-            https://doi.org/10.1093/biomet/74.1.13
-            ======================================================================================================================================================
-            
-            <h1> Source: 801 </h1>
-            Yang, S. H., Lee, G. W. M., Chen, C. M., Wu, C. C. & Yu, K. P. The size and concentration of droplet...    
-            2007-01-01
-            https://doi.org/10.1089/jam.2007.0610
-            ======================================================================================================================================================
-            
-            <h1> Source: 802 </h1>
-            Variants within the immunoregulatory CBLB gene are associated with multiple sclerosis    
-            2010-06-17
-            https://doi.org/10.1038%2Fng.584
-            ======================================================================================================================================================
-            
-            <h1> Source: 803 </h1>
-            Padgett, R. D., Salisbury, M. H., An, B. P., & Pascarella, E. T. (2010). Required, practical, or unn...    
-            2010-01-01
-            https://doi.org/10.1002/ir.370
-            ======================================================================================================================================================
-            
-            <h1> Source: 804 </h1>
-            Lindsley, W. G. et al . Quantity and size distribution of cough-generated aerosol particles produced...    
-            2012-01-01
-            https://doi.org/10.1080/15459624.2012.684582
-            ======================================================================================================================================================
-            
-            <h1> Source: 805 </h1>
-            Ferguson NM , Cummings DA , Fraser C , Cajka JC , Cooley PC , Burke DS . Strategies for mitigating a...    
-            2006-07-17
-            https://doi.org/10.1038/nature04795
-            ======================================================================================================================================================
-            
-            <h1> Source: 806 </h1>
-            Schneider, B., Swanson, C. B., & Riegle-Crumb, C. (1998). Opportunities for learning: Course sequenc...    
-            1998-01-01
-            https://doi.org/10.1023/a:1009601517753
-            ======================================================================================================================================================
-            
-            <h1> Source: 807 </h1>
-            Lindsley, W. G., Reynolds, J. S., Szalajda, J. V., Noti, J. D. & Beezhold, D. H. A cough aerosol sim...    
-            2013-01-01
-            https://doi.org/10.1080/02786826.2013.803019
-            ======================================================================================================================================================
-            
-            <h1> Source: 808 </h1>
-            Kim, D. H., & Schneider, B. (2005). Social capital in action: Alignment of parental support in adole...    
-            2005-01-01
-            https://doi.org/10.1353/sof.2006.0012
-            ======================================================================================================================================================
-            
-            <h1> Source: 809 </h1>
-            Lindsley, W. G. et al . Viable influenza A virus in airborne particles expelled during coughs versus...    
-            2016-01-01
-            https://doi.org/10.1111/irv.12390
-            ======================================================================================================================================================
-            
-            <h1> Source: 810 </h1>
-            Bourouiba, L., Dehandschoewercker, E. & Bush, J. W. M. Violent expiratory events: on coughing and sn...    
-            2014-04-17
-            https://doi.org/10.1017/jfm.2014.88
-            ======================================================================================================================================================
-            
-            <h1> Source: 811 </h1>
-            A molecular trio in relapse and remission in multiple sclerosis    
-            2009-06-17
-            https://doi.org/10.1038%2Fnri2548
-            ======================================================================================================================================================
-            
-            <h1> Source: 812 </h1>
-            Violent expiratory events: on coughing and sneezing    
-            2014-04-17
-            https://doi.org/10.1017%2Fjfm.2014.88
-            ======================================================================================================================================================
-            
-            <h1> Source: 813 </h1>
-            This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
-            2017-12-14
-            https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
-            ======================================================================================================================================================
-            
-            <h1> Source: 814 </h1>
-            Zayas, G. et al . Cough aerosol in healthy participants: fundamental knowledge to optimize droplet-s...    
-            2012-12-17
-            https://doi.org/10.1186/1471-2466-12-11
-            ======================================================================================================================================================
-            
-            <h1> Source: 815 </h1>
-            Warrington, N. M., Y. Y. Wu, C. E. Pennell, J. A. Marsh, L. J. Beilin, L. J. Palmer, S. J. Lye and L...    
-            2013-01-17
-            https://doi.org/10.1371/journal.pone.0053897
-            ======================================================================================================================================================
-            
-            <h1> Source: 816 </h1>
-            Scharfman, B. E., Techet, A. H., Bush, J. W. M. & Bourouiba, L. Visualization of sneeze ejecta: step...    
-            2016-02-17
-            https://doi.org/10.1007/s00348-015-2078-4
-            ======================================================================================================================================================
-            
-            <h1> Source: 817 </h1>
-            Bidwell, C. E., & Quiroz, P. A. (1991). Organizational control in the high school workplace: A theor...    
-            1991-01-01
-            https://doi.org/10.1207/s15327795jra0103_2
-            ======================================================================================================================================================
-            
-            <h1> Source: 818 </h1>
-            Wolniak, G. C., & Engberg, M. E. (2010). Academic achievement in the first year of college: Evidence...    
-            2010-08-17
-            https://doi.org/10.1007/s11162-010-9165-4
-            ======================================================================================================================================================
-            
-            <h1> Source: 819 </h1>
-            Han, Z. Y., Weng, W. G. & Huang, Q. Y. Characterizations of particle size distribution of the drople...    
-            2013-01-01
-            https://doi.org/10.1098/rsif.2013.0560
-            ======================================================================================================================================================
-            
-            <h1> Source: 820 </h1>
-            Edwards, D. A. et al . Inhaling to mitigate exhaled bioaerosols. Proceedings of the National Academy...    
-            2004-01-01
-            https://doi.org/10.1073/pnas.0408159101
-            ======================================================================================================================================================
-            
-            <h1> Source: 821 </h1>
-            Can the pharmaceutical industry reduce attrition rates?    
-            2004-08-17
-            https://doi.org/10.1038%2Fnrd1470
-            ======================================================================================================================================================
-            
-            <h1> Source: 822 </h1>
-            Papineni, R. S. & Rosenthal, F. S. The size distribution of droplets in the exhaled breath of health...    
-            1997-01-01
-            https://doi.org/10.1089/jam.1997.10.105
-            ======================================================================================================================================================
-            
-            <h1> Source: 823 </h1>
-            Devlin, B. and K. Roeder (1999): “Genomic control for association studies,” Biometrics, 55, 997–1004...    
-            1999-01-01
-            https://doi.org/10.1111/j.0006-341X.1999.00997.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 824 </h1>
-            Fabian, P. et al . Influenza virus in human exhaled breath: an observational study. Plos One 3 , htt...    
-            2008-07-16
-            https://doi.org/10.1371/journal.pone.0002691
-            ======================================================================================================================================================
-            
-            <h1> Source: 825 </h1>
-            The size and the duration of air-carriage of respiratory droplets and droplet-nuclei    
-            1946-09-17
-            https://doi.org/10.1017%2FS0022172400019288
-            ======================================================================================================================================================
-            
-            <h1> Source: 826 </h1>
-            Useem, E. L. (1992). Middle schools and math groups: Parents’ involvement in children’s placement. S...    
-            1992-01-01
-            https://doi.org/10.2307/2112770
-            ======================================================================================================================================================
-            
-            <h1> Source: 827 </h1>
-            Loudon, R. G. & Roberts, R. M. Droplet expulsion from the respiratory tract. American Review of Resp...    
-            1967-01-01
-            https://doi.org/10.1164/arrd.1967.95.3.435
-            ======================================================================================================================================================
-            
-            <h1> Source: 828 </h1>
-            MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 829 </h1>
-            Johnson, G. R. & Morawska, L. The mechanism of breath aerosol formation. Journal of Aerosol Medicine...    
-            2008-01-01
-            https://doi.org/10.1089/jamp.2008.0720
-            ======================================================================================================================================================
-            
-            <h1> Source: 830 </h1>
-            Sirin, S. R. (2005). Socioeconomic status and academic achievement: A meta-analytic review of resear...    
-            2005-01-01
-            https://doi.org/10.3102/00346543075003417
-            ======================================================================================================================================================
-            
-            <h1> Source: 831 </h1>
-            Germann TC , Kadau K , Longini IM , Macken CA . Mitigation strategies for pandemic influenza in the ...    
-            2006-01-01
-            https://doi.org/10.1073/pnas.0601266103
-            ======================================================================================================================================================
-            
-            <h1> Source: 832 </h1>
-            Liljeroos, L., Huiskonen, J. T., Ora, A., Susi, P. & Butcher, S. J. Electron cryotomography of measl...    
-            2011-01-01
-            https://doi.org/10.1073/pnas.1105770108
-            ======================================================================================================================================================
-            
-            <h1> Source: 833 </h1>
-            Hayden FG , Fritz R , Lobo MC , Alvord W , Strober W , Straus SE . Local and systemic cytokine respo...    
-            1998-02-01
-            https://doi.org/10.1172/JCI1355
-            ======================================================================================================================================================
-            
-            <h1> Source: 834 </h1>
-            Palla G , Deranyi I , Farkas I , Vicsek T . Uncovering the overlapping community structure of comple...    
-            2005-06-17
-            https://doi.org/10.1038/nature03607
-            ======================================================================================================================================================
-            
-            <h1> Source: 835 </h1>
-            Fennelly, K. P. et al . Variability of infectious aerosols produced during coughing by patients with...    
-            2012-01-01
-            https://doi.org/10.1164/rccm.201203-0444OC
-            ======================================================================================================================================================
-            
-            <h1> Source: 836 </h1>
-            Winship, C., & Morgan, S. L. (1999). The estimation of causal effects from observational data. Annua...    
-            1999-01-01
-            https://doi.org/10.1146/annurev.soc.25.1.659
-            ======================================================================================================================================================
-            
-            <h1> Source: 837 </h1>
-            Yan, J. et al . Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a co...    
-            2018-01-01
-            https://doi.org/10.1073/pnas.1716561115
-            ======================================================================================================================================================
-            
-            <h1> Source: 838 </h1>
-            Allen, D., & Dadgar, M. (2012). Does dual enrollment increase students’ success in college? Evidence...    
-            2012-01-01
-            https://doi.org/10.1002/he.20010
-            ======================================================================================================================================================
-            
-            <h1> Source: 839 </h1>
-            Shaman, J. & Kohn, M. Absolute humidity modulates influenza survival, transmission, and seasonality....    
-            2009-01-01
-            https://doi.org/10.1073/pnas.0806852106
-            ======================================================================================================================================================
-            
-            <h1> Source: 840 </h1>
-            Lam PP, Coleman BL, Green K, et al. Predictors of influenza among older adults in the emergency depa...    
-            2016-12-17
-            http://dx.doi.org/10.1186/s12879-016-1966-4
-            ======================================================================================================================================================
-            
-            <h1> Source: 841 </h1>
-            Turley, R. N. L., & Wodtke, G. (2010). College residence and academic performance: Who benefits from...    
-            2010-01-01
-            https://doi.org/10.1177/0042085910372351
-            ======================================================================================================================================================
-            
-            <h1> Source: 842 </h1>
-            Stevenson, D. L., Schiller, K. S., & Schneider, B. (1994). Sequences of opportunities for learning. ...    
-            1994-01-01
-            https://doi.org/10.2307/2112790
-            ======================================================================================================================================================
-            
-            <h1> Source: 843 </h1>
-            von Hippel, P. T. (2007). Regression with missing Ys: An improved strategy for analyzing multiply im...    
-            2007-01-01
-            https://doi.org/10.1111/j.1467-9531.2007.00180.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 844 </h1>
-            Xie, X. J., Li, Y. G., Sun, H. Q. & Liu, L. Exhaled droplets due to talking and coughing. Journal of...    
-            2009-01-01
-            https://doi.org/10.1098/rsif.2009.0388.focus
-            ======================================================================================================================================================
-            
-            <h1> Source: 845 </h1>
-            Lloyd-Smith, J. O., Schreiber, S. J., Kopp, P. E. & Getz, W. M. Superspreading and the effect of ind...    
-            2005-11-17
-            https://doi.org/10.1038/nature04153
-            ======================================================================================================================================================
-            
-            <h1> Source: 846 </h1>
-            Superspreading and the effect of individual variation on disease emergence    
-            2005-11-17
-            https://doi.org/10.1038%2Fnature04153
-            ======================================================================================================================================================
-            
-            <h1> Source: 847 </h1>
-            Pinheiro, J. and D. Bates (2000): Mixed effects models in S and S-Plus. Springer: New York, NY, USA....    
-            2000-01-01
-            https://doi.org/10.1007/978-1-4419-0318-1
-            ======================================================================================================================================================
-            
-            <h1> Source: 848 </h1>
-            Verbeke, G. and G. Molenberghs (2000): Linear mixed models for longitudinal data: Springer Series in...    
-            2025-09-30
-            https://doi.org/10.1007/978-1-4419-0300-6
-            ======================================================================================================================================================
-            
-            <h1> Source: 849 </h1>
-            Titze, I. R. Phonation threshold pressure: A missing link in glottal aerodynamics. J. Acoust. Soc. A...    
-            1992-01-01
-            https://doi.org/10.1121/1.402928
-            ======================================================================================================================================================
-            
-            <h1> Source: 850 </h1>
-            Titze, I. R. & Sundberg, J. Vocal intensity in speakers and singers. J. Acoust. Soc. Am. 91 , 2936–2...    
-            1992-01-01
-            https://doi.org/10.1121/1.402929
-            ======================================================================================================================================================
-            
-            <h1> Source: 851 </h1>
-            Association scan of 14,500 nonsynonymous SNPs in four diseases identifies autoimmunity variants    
-            2007-11-17
-            https://doi.org/10.1038%2Fng.2007.17
-            ======================================================================================================================================================
-            
-            <h1> Source: 852 </h1>
-            Use of population isolates for mapping complex traits    
-            2000-12-17
-            https://doi.org/10.1038%2F35042049
-            ======================================================================================================================================================
-            
-            <h1> Source: 853 </h1>
-            Gupta, J. K., Lin, C. H. & Chen, Q. Y. Characterizing exhaled airflow from breathing and talking. In...    
-            2009-01-01
-            https://doi.org/10.1111/j.1600-0668.2009.00623.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 854 </h1>
-            Xi, J. X. & Longest, P. W. Characterization of submicrometer aerosol deposition in extrathoracic air...    
-            2009-01-01
-            https://doi.org/10.1080/02786820902950887
-            ======================================================================================================================================================
-            
-            <h1> Source: 855 </h1>
-            Eggers, J. Nonlinear dynamics and breakup of free-surface flows. Reviews of Modern Physics 69 , 865–...    
-            1997-01-01
-            https://doi.org/10.1103/RevModPhys.69.865
-            ======================================================================================================================================================
-            
-            <h1> Source: 856 </h1>
-            Lau, M. S. Y. et al . Spatial and temporal dynamics of superspreading events in the 2014–2015 West A...    
-            2014-01-01
-            https://doi.org/10.1073/pnas.1614595114
-            ======================================================================================================================================================
-            
-            <h1> Source: 857 </h1>
-            Newman ME , Park J . Why social networks are different from other types of networks. Phys Rev E Stat...    
-            2003-01-01
-            https://doi.org/10.1103/PhysRevE.68.036122
-            ======================================================================================================================================================
-            
-            <h1> Source: 858 </h1>
-            Chun, B. C. Understanding and modeling the super-spreading events of the Middle East respiratory syn...    
-            2016-06-01
-            https://doi.org/10.3947/ic.2016.48.2.147
-            ======================================================================================================================================================
-            
-            <h1> Source: 859 </h1>
-            Understanding and Modeling the Super-spreading Events of the Middle East Respiratory Syndrome Outbreak in Korea    
-            2016-06-01
-            https://doi.org/10.3947%2Fic.2016.48.2.147
-            ======================================================================================================================================================
-            
-            <h1> Source: 860 </h1>
-            Ferguson NM , Cummings DA , Cauchemez S , Fraser C , Riley S , Meeyai A , Strategies for containing ...    
-            2005-09-17
-            https://doi.org/10.1038/nature04017
-            ======================================================================================================================================================
-            
-            <h1> Source: 861 </h1>
-            A Polymorphism in the HLA-DPB1 Gene Is Associated with Susceptibility to Multiple Sclerosis    
-            2010-10-26
-            https://doi.org/10.1371%2Fjournal.pone.0013454
-            ======================================================================================================================================================
-            
-            <h1> Source: 862 </h1>
-            Kerckhoff, A. C. (2001). Education and social stratification processes in comparative perspective. S...    
-            2001-01-01
-            https://doi.org/10.2307/2673250
-            ======================================================================================================================================================
-            
-            <h1> Source: 863 </h1>
-            Liang, K. Y. and S. L. Zeger (1986): “Longitudinal data analysis using generalized linear models,” B...    
-            1986-01-01
-            https://doi.org/10.1093/biomet/73.1.13
-            ======================================================================================================================================================
-            
-            <h1> Source: 864 </h1>
-            Caforio AL, Pankuweit S, Arbustini E, et al. Current state of knowledge on aetiology, diagnosis, man...    
-            2013-01-01
-            http://dx.doi.org/10.1093/eurheartj/eht210
-            ======================================================================================================================================================
-            
-            <h1> Source: 865 </h1>
-            Shinya, K. et al . Influenza virus receptors in the human airway. Nature 440 , 435, https://doi.org/...    
-            2006-03-17
-            https://doi.org/10.1038/440435a
-            ======================================================================================================================================================
-            
-            <h1> Source: 866 </h1>
-            Influenza virus receptors in the human airway    
-            2006-03-17
-            https://doi.org/10.1038%2F440435a
-            ======================================================================================================================================================
-            
-            <h1> Source: 867 </h1>
-            Longini IM , Halloran ME , Nizam A , Yang Y . Containing pandemic influenza with antiviral agents. A...    
-            2004-01-01
-            https://doi.org/10.1093/aje/kwh092
-            ======================================================================================================================================================
-            
-            <h1> Source: 868 </h1>
-            Cole, T. J., M. C. Bellizzi, K. M. Flegal and W. H. Dietz (2000) “Establishing a standard definition...    
-            2000-01-01
-            https://doi.org/10.1136/bmj.320.7244.1240
-            ======================================================================================================================================================
-            
-            <h1> Source: 869 </h1>
-            Alvarado, S. E., & Turley, R. N. L. (2012). College-bound friends and college application choices: H...    
-            2012-01-01
-            https://doi.org/10.1016/j.ssresearch.2012.05.017
-            ======================================================================================================================================================
-            
-            <h1> Source: 870 </h1>
-            Sepkowitz, K. A. How contagious is tuberculosis? Clinical Infectious Diseases 23 , 954–962, https://...    
-            1996-01-01
-            https://doi.org/10.1093/clinids/23.5.954
-            ======================================================================================================================================================
-            
-            <h1> Source: 871 </h1>
-            Kindblom, J. M., M. Lorentzon, A. Hellqvist, L. Lonn, J. Brandberg, S. Nilsson, E. Norjavaara and C....    
-            2009-01-01
-            https://doi.org/10.2337/db08-0606
-            ======================================================================================================================================================
-            
-            <h1> Source: 872 </h1>
-            Genome-wide association study identifies new multiple sclerosis susceptibility loci on chromosomes 12 and 20    
-            2009-07-17
-            https://doi.org/10.1038%2Fng.396
-            ======================================================================================================================================================
-            
-            <h1> Source: 873 </h1>
-            10.18637/jss.v038.i08    
-            2011-01-04
-            https://doi.org/10.18637/jss.v038.i08
-            ======================================================================================================================================================
-            
-            <h1> Source: 874 </h1>
-            Nicas, M., Nazaroff, W. W. & Hubbard, A. Toward understanding the risk of secondary airborne infecti...    
-            2005-01-01
-            https://doi.org/10.1080/15459620590918466
-            ======================================================================================================================================================
-            
-            <h1> Source: 875 </h1>
-            Zhang, D. and M. Davidian (2001): “Linear mixed models with flexible distributions of random effects...    
-            2001-01-01
-            https://doi.org/10.1111/j.0006-341X.2001.00795.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 876 </h1>
-            Laird, N. M. and J. H. Ware (1982): “Random-effects models for longitudinal data,” Biometrics, 38, 9...    
-            1982-01-01
-            https://doi.org/10.2307/2529876
-            ======================================================================================================================================================
-            
-            <h1> Source: 877 </h1>
-            White, I. R., Royston, P., & Wood, A. M. (2011). Multiple imputation using chained equations: Issues...    
-            2011-01-01
-            https://doi.org/10.1002/sim.4067
-            ======================================================================================================================================================
-            
-            <h1> Source: 878 </h1>
-            Xie, X., Li, Y., Chwang, A. T. Y., Ho, P. L. & Seto, W. H. How far droplets can move in indoor envir...    
-            2006-01-01
-            https://doi.org/10.1111/j.1600-0668.2006.00469.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 879 </h1>
-            Bradfield, J. P., H. R. Taal, N. J. Timpson, A. Scherag, C. Lecoeur, N. M. Warrington, E. Hypponen, ...    
-            2012-05-17
-            https://doi.org/10.1038/ng.2247
-            ======================================================================================================================================================
-            
-            <h1> Source: 880 </h1>
-            Liu, L., Wei, J., Li, Y. & Ooi, A. Evaporation and dispersion of respiratory droplets from coughing....    
-            2017-01-01
-            https://doi.org/10.1111/ina.12297
-            ======================================================================================================================================================
-            
-            <h1> Source: 881 </h1>
-            Duggal, P., E. M. Gillanders, T. N. Holmes and J. E. Bailey-Wilson (2008): “Establishing an adjusted...    
-            2008-12-17
-            https://doi.org/10.1186/1471-2164-9-516
-            ======================================================================================================================================================
-            
-            <h1> Source: 882 </h1>
-            Integrating common and rare genetic variation in diverse human populations    
-            2010-09-17
-            https://doi.org/10.1038%2Fnature09298
-            ======================================================================================================================================================
-            
-            <h1> Source: 883 </h1>
-            MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 884 </h1>
-            Inference of human population history from individual whole-genome sequences    
-            2011-07-17
-            https://doi.org/10.1038%2Fnature10231
-            ======================================================================================================================================================
-            
-            <h1> Source: 885 </h1>
-            Howe, L. D., K. Tilling, L. Benfield, J. Logue, N. Sattar, A. R. Ness, G. D. Smith and D. A. Lawlor ...    
-            2010-12-08
-            https://doi.org/10.1371/journal.pone.0015186
-            ======================================================================================================================================================
-            
-            <h1> Source: 886 </h1>
-            A framework for the interpretation of de novo mutation in human disease    
-            2014-09-17
-            https://doi.org/10.1038%2Fng.3050
-            ======================================================================================================================================================
-            
-            <h1> Source: 887 </h1>
-            Dadd, T., M. E. Weale and C. M. Lewis (2009) “A critical evaluation of genomic control methods for g...    
-            2009-01-01
-            https://doi.org/10.1002/gepi.20379
-            ======================================================================================================================================================
-            
-            <h1> Source: 888 </h1>
-            Genotype imputation for genome-wide association studies    
-            2010-07-17
-            https://doi.org/10.1038%2Fnrg2796
-            ======================================================================================================================================================
-            
-            <h1> Source: 889 </h1>
-            De novo mutations in schizophrenia implicate synaptic networks    
-            2014-02-17
-            https://doi.org/10.1038%2Fnature12929
-            ======================================================================================================================================================
-            
-            <h1> Source: 890 </h1>
-            Learning about human population history from ancient and modern genomes    
-            2011-09-17
-            https://doi.org/10.1038%2Fnrg3029
-            ======================================================================================================================================================
-            
-            <h1> Source: 891 </h1>
-            Guidelines for investigating causality of sequence variants in human disease    
-            2014-04-17
-            https://doi.org/10.1038%2Fnature13127
-            ======================================================================================================================================================
-            
-            <h1> Source: 892 </h1>
-            Watts DJ , Strogatz SH . Collective dynamics of 'small-world' networks. Nature . 1998 ; 393 : 440 – ...    
-            1998-06-17
-            https://doi.org/10.1038/30918
-            ======================================================================================================================================================
-            
-            <h1> Source: 893 </h1>
-            A new multipoint method for genome-wide association studies by imputation of genotypes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2088
-            ======================================================================================================================================================
-            
-            <h1> Source: 894 </h1>
-            Exome sequencing as a tool for Mendelian disease gene discovery    
-            2011-11-17
-            https://doi.org/10.1038%2Fnrg3031
-            ======================================================================================================================================================
-            
-            <h1> Source: 895 </h1>
-            Boyd, A., J. Golding, J. Macleod, D. A. Lawlor, A. Fraser, J. Henderson, L. Molloy, A. Ness, S. Ring...    
-            2013-01-01
-            https://doi.org/10.1093/ije/dys064
-            ======================================================================================================================================================
-            
-            <h1> Source: 896 </h1>
-            Large-scale whole-genome sequencing of the Icelandic population    
-            2015-05-17
-            https://doi.org/10.1038%2Fng.3247
-            ======================================================================================================================================================
-            
-            <h1> Source: 897 </h1>
-            Genic Intolerance to Functional Variation and the Interpretation of Personal Genomes    
-            2013-08-22
-            https://doi.org/10.1371%2Fjournal.pgen.1003709
-            ======================================================================================================================================================
-            
-            <h1> Source: 898 </h1>
-            A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000529
-            ======================================================================================================================================================
-            
-            <h1> Source: 899 </h1>
-            Evolution on the X chromosome: unusual patterns and processes    
-            2006-08-17
-            https://doi.org/10.1038%2Fnrg1914
-            ======================================================================================================================================================
-            
-            <h1> Source: 900 </h1>
-            Patterns of Cis Regulatory Variation in Diverse Human Populations    
-            2012-04-19
-            https://doi.org/10.1371%2Fjournal.pgen.1002639
-            ======================================================================================================================================================
-            
-            <h1> Source: 901 </h1>
-            Lethality and centrality in protein networks    
-            2001-05-17
-            https://doi.org/10.1038%2F35075138
-            ======================================================================================================================================================
-            
-            <h1> Source: 902 </h1>
-            Berends, M. (1995). Educational stratification and students’ social bonding to school. British Journ...    
-            1995-01-01
-            https://doi.org/10.1080/0142569950160304
-            ======================================================================================================================================================
-            
-            <h1> Source: 903 </h1>
-            Risch, N. and K. Merikangas (1996): “The future of genetic studies of complex human diseases,” Scien...    
-            1996-01-01
-            https://doi.org/10.1126/science.273.5281.1516
-            ======================================================================================================================================================
-            
-            <h1> Source: 904 </h1>
-            Cell-specific protein phenotypes for the autoimmune locus IL2RA using a genotype-selectable human bioresource    
-            2009-09-17
-            https://doi.org/10.1038%2Fng.434
-            ======================================================================================================================================================
-            
-            <h1> Source: 905 </h1>
-            Bound, J., Lovenheim, M. F., & Turner, S. (2010). Why have college completion rates declined? An ana...    
-            2010-01-01
-            https://doi.org/10.1257/app.2.3.129
-            ======================================================================================================================================================
-            
-            <h1> Source: 906 </h1>
-            Association scan of 14,500 nonsynonymous SNPs in four diseases identifies autoimmunity variants    
-            2007-11-17
-            https://doi.org/10.1038%2Fng.2007.17
-            ======================================================================================================================================================
-            
-            <h1> Source: 907 </h1>
-            Attewell, P., Lavin, D., Domina, T., & Levey, T. (2006). New evidence on college remediation. Journa...    
-            2006-01-01
-            https://doi.org/10.1353/jhe.2006.0037
-            ======================================================================================================================================================
-            
-            <h1> Source: 908 </h1>
-            A linear complexity phasing method for thousands of genomes    
-            2012-02-17
-            https://doi.org/10.1038%2Fnmeth.1785
-            ======================================================================================================================================================
-            
-            <h1> Source: 909 </h1>
-            Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes    
-            2012-09-17
-            https://doi.org/10.1038%2Fng.2383
-            ======================================================================================================================================================
-            
-            <h1> Source: 910 </h1>
-            In silico method for inferring genotypes in pedigrees    
-            2006-09-17
-            https://doi.org/10.1038%2Fng1863
-            ======================================================================================================================================================
-            
-            <h1> Source: 911 </h1>
-            Sequence to Medical Phenotypes: A Framework for Interpretation of Human Whole Genome DNA Sequence Data    
-            2015-10-08
-            https://doi.org/10.1371%2Fjournal.pgen.1005496
-            ======================================================================================================================================================
-            
-            <h1> Source: 912 </h1>
-            Detection of sharing by descent, long-range phasing and haplotype imputation    
-            2008-09-17
-            https://doi.org/10.1038%2Fng.216
-            ======================================================================================================================================================
-            
-            <h1> Source: 913 </h1>
-            An, B. P. (2010). The relations between race, family characteristics, and where students apply to co...    
-            2010-01-01
-            https://doi.org/10.1016/j.ssresearch.2009.08.003
-            ======================================================================================================================================================
-            
-            <h1> Source: 914 </h1>
-            Allen, J., Robbins, S. B., Casillas, A., & Oh, I. S. (2008). Third-year college retention and transf...    
-            2008-01-01
-            https://doi.org/10.1007/s11162-008-9098-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 915 </h1>
-            Drug innovation—what's slowing it down?    
-            1980-03-17
-            https://doi.org/10.1038%2F284118a0
-            ======================================================================================================================================================
-            
-            <h1> Source: 916 </h1>
-            Gout-associated uric acid crystals activate the NALP3 inflammasome    
-            2006-03-17
-            https://doi.org/10.1038%2Fnature04516
-            ======================================================================================================================================================
-            
-            <h1> Source: 917 </h1>
-            A haplotype map of the human genome    
-            2005-10-17
-            https://doi.org/10.1038%2Fnature04226
-            ======================================================================================================================================================
-            
-            <h1> Source: 918 </h1>
-            Targeted disruption of the <i>Chop</i> gene delays endoplasmic reticulum stress–mediated diabetes    
-            2002-02-15
-            https://doi.org/10.1172%2FJCI0214550
-            ======================================================================================================================================================
-            
-            <h1> Source: 919 </h1>
-            The acceptability of repeat Internet-based hybrid diet assessment of previous 24-h dietary intake: administration of the Oxford WebQ in UK Biobank    
-            2016-02-17
-            https://doi.org/10.1017%2FS0007114515004821
-            ======================================================================================================================================================
-            
-            <h1> Source: 920 </h1>
-            The role of the medicinal chemist in drug discovery — then and now    
-            2004-10-17
-            https://doi.org/10.1038%2Fnrd1523
-            ======================================================================================================================================================
-            
-            <h1> Source: 921 </h1>
-            A mutation in the insulin 2 gene induces diabetes with severe pancreatic β-cell dysfunction in the <i>Mody</i> mouse    
-            1999-01-01
-            https://doi.org/10.1172%2FJCI4431
-            ======================================================================================================================================================
-            
-            <h1> Source: 922 </h1>
-            Merlin—rapid analysis of dense genetic maps using sparse gene flow trees    
-            2002-01-17
-            https://doi.org/10.1038%2Fng786
-            ======================================================================================================================================================
-            
-            <h1> Source: 923 </h1>
-            Protein Architecture: Designing from the Ground Up    
-            1986-04-17
-            https://doi.org/10.1038%2Fnbt0486-277
-            ======================================================================================================================================================
-            
-            <h1> Source: 924 </h1>
-            The genetic architecture of type 2 diabetes    
-            2016-08-17
-            https://doi.org/10.1038%2Fnature18642
-            ======================================================================================================================================================
-            
-            <h1> Source: 925 </h1>
-            TLR activation of the transcription factor XBP1 regulates innate immune responses in macrophages    
-            2010-05-17
-            https://doi.org/10.1038%2Fni.1857
-            ======================================================================================================================================================
-            
-            <h1> Source: 926 </h1>
-            Efficient Bayesian mixed-model analysis increases association power in large cohorts    
-            2015-03-17
-            https://doi.org/10.1038%2Fng.3190
-            ======================================================================================================================================================
-            
-            <h1> Source: 927 </h1>
-            Multicomponent therapeutics for networked systems    
-            2005-01-17
-            https://doi.org/10.1038%2Fnrd1609
-            ======================================================================================================================================================
-            
-            <h1> Source: 928 </h1>
-            Early nonsense: mRNA decay solves a translational problem    
-            2006-06-17
-            https://doi.org/10.1038%2Fnrm1942
-            ======================================================================================================================================================
-            
-            <h1> Source: 929 </h1>
-            Activation of the NLRP3 inflammasome by islet amyloid polypeptide provides a mechanism for enhanced IL-1β in type 2 diabetes    
-            2010-10-17
-            https://doi.org/10.1038%2Fni.1935
-            ======================================================================================================================================================
-            
-            <h1> Source: 930 </h1>
-            Population genomics in a disease targeted primary cell model    
-            2009-11-01
-            https://doi.org/10.1101%2Fgr.095224.109
-            ======================================================================================================================================================
-            
-            <h1> Source: 931 </h1>
-            The NALP3 inflammasome is involved in the innate immune response to amyloid-β    
-            2008-08-17
-            https://doi.org/10.1038%2Fni.1636
-            ======================================================================================================================================================
-            
-            <h1> Source: 932 </h1>
-            Loss-of-function mutations in SLC30A8 protect against type 2 diabetes    
-            2014-04-17
-            https://doi.org/10.1038%2Fng.2915
-            ======================================================================================================================================================
-            
-            <h1> Source: 933 </h1>
-            UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
-            2015-03-31
-            https://doi.org/10.1371/journal.pmed.1001779
-            ======================================================================================================================================================
-            
-            <h1> Source: 934 </h1>
-            The slowing of treatment discovery, 1965–1995    
-            1995-11-17
-            https://doi.org/10.1038%2Fnm1195-1122
-            ======================================================================================================================================================
-            
-            <h1> Source: 935 </h1>
-            The descriptive epidemiology of accelerometer-measured physical activity in older adults    
-            2016-12-17
-            https://doi.org/10.1186/s12966-015-0316-z
-            ======================================================================================================================================================
-            
-            <h1> Source: 936 </h1>
-            14. Monto , AS , Bryan , ER , Ohmit , S . Rhinovirus infections in Tecumseh. Michigan: Illness frequ...    
-            1987-01-01
-            https://dx.doi.org/10.1093/infdis/156.1.43
-            ======================================================================================================================================================
-            
-            <h1> Source: 937 </h1>
-            A mutation in the immunoproteasome subunit <i>PSMB8</i> causes autoinflammation and lipodystrophy in humans    
-            2011-10-03
-            https://doi.org/10.1172%2FJCI58414
-            ======================================================================================================================================================
-            
-            <h1> Source: 938 </h1>
-            GENCODE: The reference human genome annotation for The ENCODE Project    
-            2012-09-01
-            https://doi.org/10.1101%2Fgr.135350.111
-            ======================================================================================================================================================
-            
-            <h1> Source: 939 </h1>
-            Inflammasomes in health and disease    
-            2012-01-17
-            https://doi.org/10.1038%2Fnature10759
-            ======================================================================================================================================================
-            
-            <h1> Source: 940 </h1>
-            New approaches to disease mapping in admixed populations    
-            2011-08-17
-            https://doi.org/10.1038%2Fnrg3002
-            ======================================================================================================================================================
-            
-            <h1> Source: 941 </h1>
-            Inflammasome-mediated dysbiosis regulates progression of NAFLD and obesity    
-            2012-02-17
-            https://doi.org/10.1038%2Fnature10809
-            ======================================================================================================================================================
-            
-            <h1> Source: 942 </h1>
-            An integrated map of genetic variation from 1,092 human genomes    
-            2012-11-17
-            https://doi.org/10.1038%2Fnature11632
-            ======================================================================================================================================================
-            
-            <h1> Source: 943 </h1>
-            Estimation of Daily Energy Expenditure in Pregnant and Non-Pregnant Women Using a Wrist-Worn Tri-Axial Accelerometer    
-            2011-07-29
-            https://doi.org/10.1371/journal.pone.0022922
-            ======================================================================================================================================================
-            
-            <h1> Source: 944 </h1>
-            Sensitive Detection of Chromosomal Segments of Distinct Ancestry in Admixed Populations    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000519
-            ======================================================================================================================================================
-            
-            <h1> Source: 945 </h1>
-            A missense mutation in the glucagon receptor gene is associated with non–insulin–dependent diabetes mellitus    
-            1995-03-17
-            https://doi.org/10.1038%2Fng0395-299
-            ======================================================================================================================================================
-            
-            <h1> Source: 946 </h1>
-            Opportunities For Learning: Course Sequences and Positional Advantages    
-            1997-03-17
-            https://doi.org/10.1023%2FA%3A1009601517753
-            ======================================================================================================================================================
-            
-            <h1> Source: 947 </h1>
-            Identifying R&D outliers - Nature Reviews Drug Discovery    
-            2011-08-31
-            https://doi.org/10.1038%2Fnrd3555
-            ======================================================================================================================================================
-            
-            <h1> Source: 948 </h1>
-            Innate instruction of adaptive immunity revisited: the inflammasome    
-            2009-05-17
-            https://doi.org/10.1002%2Femmm.200900014
-            ======================================================================================================================================================
-            
-            <h1> Source: 949 </h1>
-            Principi N , Esposito S , Gasparini R , Marchisio P , Crovari P ; Flu-Flu Study Group . Burden of in...    
-            2004-01-01
-            https://doi.org/10.1136/adc.2003.045401
-            ======================================================================================================================================================
-            
-            <h1> Source: 950 </h1>
-            Global patterns of cis variation in human cells revealed by high-density allelic expression analysis    
-            2009-11-17
-            https://doi.org/10.1038%2Fng.473
-            ======================================================================================================================================================
-            
-            <h1> Source: 951 </h1>
-            Common SNPs explain a large proportion of the heritability for human height    
-            2010-07-17
-            https://doi.org/10.1038%2Fng.608
-            ======================================================================================================================================================
-            
-            <h1> Source: 952 </h1>
-            Networking for new drugs - Nature Medicine    
-            2011-10-11
-            https://doi.org/10.1038%2Fnm1011-1166
-            ======================================================================================================================================================
-            
-            <h1> Source: 953 </h1>
-            Combinatorial compound libraries for drug discovery: an ongoing challenge    
-            2003-03-17
-            https://doi.org/10.1038%2Fnrd1035
-            ======================================================================================================================================================
-            
-            <h1> Source: 954 </h1>
-            A human phenome-interactome network of protein complexes implicated in genetic disorders    
-            2007-03-17
-            https://doi.org/10.1038%2Fnbt1295
-            ======================================================================================================================================================
-            
-            <h1> Source: 955 </h1>
-            Targetting of the gene encoding fibrillin–1 recapitulates the vascular aspect of Marfan syndrome    
-            1997-10-17
-            https://doi.org/10.1038%2Fng1097-218
-            ======================================================================================================================================================
-            
-            <h1> Source: 956 </h1>
-            Pannexin‐1 mediates large pore formation and interleukin‐1β release by the ATP‐gated P2X7 receptor    
-            2006-11-17
-            https://doi.org/10.1038%2Fsj.emboj.7601378
-            ======================================================================================================================================================
-            
-            <h1> Source: 957 </h1>
-            Mission possible: managing innovation in drug discovery    
-            2007-08-17
-            https://doi.org/10.1038%2Fnbt0807-945
-            ======================================================================================================================================================
-            
-            <h1> Source: 958 </h1>
-            Structure and functional expression of a new member of the tetrodotoxin‐sensitive voltage‐activated sodium channel family from human neuroendocrine cells.    
-            1995-03-17
-            https://doi.org/10.1002%2Fj.1460-2075.1995.tb07091.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 959 </h1>
-            A framework for variation discovery and genotyping using next-generation DNA sequencing data    
-            2011-05-17
-            https://doi.org/10.1038%2Fng.806
-            ======================================================================================================================================================
-            
-            <h1> Source: 960 </h1>
-            Twenty bone-mineral-density loci identified by large-scale meta-analysis of genome-wide association studies    
-            2009-11-17
-            https://doi.org/10.1038%2Fng.446
-            ======================================================================================================================================================
-            
-            <h1> Source: 961 </h1>
-            Detecting overlapping protein complexes in protein-protein interaction networks    
-            2012-05-17
-            https://doi.org/10.1038%2Fnmeth.1938
-            ======================================================================================================================================================
-            
-            <h1> Source: 962 </h1>
-            Silica crystals and aluminum salts activate the NALP3 inflammasome through phagosomal destabilization    
-            2008-08-17
-            https://doi.org/10.1038%2Fni.1631
-            ======================================================================================================================================================
-            
-            <h1> Source: 963 </h1>
-            Magic shotguns versus magic bullets: selectively non-selective drugs for mood disorders and schizophrenia    
-            2004-04-17
-            https://doi.org/10.1038%2Fnrd1346
-            ======================================================================================================================================================
-            
-            <h1> Source: 964 </h1>
-            Principal components analysis corrects for stratification in genome-wide association studies    
-            2006-08-17
-            https://doi.org/10.1038%2Fng1847
-            ======================================================================================================================================================
-            
-            <h1> Source: 965 </h1>
-            An end to the search for new drugs?    
-            1982-04-17
-            https://doi.org/10.1038%2F296387a0
-            ======================================================================================================================================================
-            
-            <h1> Source: 966 </h1>
-            How to improve R&D productivity: the pharmaceutical industry's grand challenge    
-            2010-03-17
-            https://doi.org/10.1038%2Fnrd3078
-            ======================================================================================================================================================
-            
-            <h1> Source: 967 </h1>
-            An amino acid substitution in the human intestinal fatty acid binding protein is associated with increased fatty acid binding, increased fat oxidation, and insulin resistance.    
-            1995-03-01
-            https://doi.org/10.1172%2FJCI117778
-            ======================================================================================================================================================
-            
-            <h1> Source: 968 </h1>
-            MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
-            2019-02-20
-            https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
-            ======================================================================================================================================================
-            
-            <h1> Source: 969 </h1>
-            Population genomics of human gene expression    
-            2007-10-17
-            https://doi.org/10.1038%2Fng2142
-            ======================================================================================================================================================
-            
-            <h1> Source: 970 </h1>
-            Conditional and joint multiple-SNP analysis of GWAS summary statistics identifies additional variants influencing complex traits    
-            2012-04-17
-            https://doi.org/10.1038%2Fng.2213
-            ======================================================================================================================================================
-            
-            <h1> Source: 971 </h1>
-            What went right: Why is HIV a treatable infection?    
-            1997-07-17
-            https://doi.org/10.1038%2Fnm0797-714
-            ======================================================================================================================================================
-            
-            <h1> Source: 972 </h1>
-            Deubiquitinating enzyme CYLD negatively regulates RANK signaling and osteoclastogenesis in mice    
-            2008-05-01
-            https://doi.org/10.1172%2FJCI34257
-            ======================================================================================================================================================
-            
-            <h1> Source: 973 </h1>
-            Discovery and genotyping of genome structural polymorphism by sequencing on a population scale    
-            2011-03-17
-            https://doi.org/10.1038%2Fng.768
-            ======================================================================================================================================================
-            
-            <h1> Source: 974 </h1>
-            17. Kendal , AP , Joseph , JM , Kobayashi , G .  et al. Laboratory-based surveillance of influenza v...    
-            1977-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.aje.a112826
-            ======================================================================================================================================================
-            
-            <h1> Source: 975 </h1>
-            19. Monto , AS . The Tecumseh study of respiratory illness. V. Patterns of infection with the parain...    
-            1973-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.aje.a121514
-            ======================================================================================================================================================
-            
-            <h1> Source: 976 </h1>
-            Improved whole-chromosome phasing for disease and population genetic studies    
-            2013-01-17
-            https://doi.org/10.1038%2Fnmeth.2307
-            ======================================================================================================================================================
-            
-            <h1> Source: 977 </h1>
-            25. Larson , HE , Reed , SE , Tyrrell , DAJ . Isolation of rhinoviruses and coronaviruses from 38 co...    
-            1980-01-01
-            https://dx.doi.org/10.1002/jmv.1890050306
-            ======================================================================================================================================================
-            
-            <h1> Source: 978 </h1>
-            The productivity crisis in pharmaceutical R&D    
-            2011-06-17
-            https://doi.org/10.1038%2Fnrd3405
-            ======================================================================================================================================================
-            
-            <h1> Source: 979 </h1>
-            How many drug targets are there?    
-            2006-12-17
-            https://doi.org/10.1038%2Fnrd2199
-            ======================================================================================================================================================
-            
-            <h1> Source: 980 </h1>
-            15. Monto , AS , Lim , SK . The Tecumseh study of respiratory illness. VI. Frequency and relationshi...    
-            1974-01-01
-            https://dx.doi.org/10.1093/infdis/129.3.271
-            ======================================================================================================================================================
-            
-            <h1> Source: 981 </h1>
-            30. Brimblecombe , FSW , Cruickshank , R , Masters , P ,  et al. Family studies of respiratory infec...    
-            1958-01-01
-            https://dx.doi.org/10.1136/bmj.1.5063.119
-            ======================================================================================================================================================
-            
-            <h1> Source: 982 </h1>
-            Variance component model to account for sample structure in genome-wide association studies    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.548
-            ======================================================================================================================================================
-            
-            <h1> Source: 983 </h1>
-            Transcriptome genetics using second generation sequencing in a Caucasian population    
-            2010-04-17
-            https://doi.org/10.1038%2Fnature08903
-            ======================================================================================================================================================
-            
-            <h1> Source: 984 </h1>
-            FaST linear mixed models for genome-wide association studies    
-            2011-10-17
-            https://doi.org/10.1038%2Fnmeth.1681
-            ======================================================================================================================================================
-            
-            <h1> Source: 985 </h1>
-            An Integration of Genome-Wide Association Study and Gene Expression Profiling to Prioritize the Discovery of Novel Susceptibility Loci for Osteoporosis-Related Traits    
-            2010-06-10
-            https://doi.org/10.1371%2Fjournal.pgen.1000977
-            ======================================================================================================================================================
-            
-            <h1> Source: 986 </h1>
-            10. Monto , AS , Napier , JA , Metzner , HL . The Tecumseh Study of respiratory illness: I. Plan of ...    
-            1971-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.aje.a121320
-            ======================================================================================================================================================
-            
-            <h1> Source: 987 </h1>
-            Discovery and characterization of chromatin states for systematic annotation of the human genome    
-            2010-08-17
-            https://doi.org/10.1038%2Fnbt.1662
-            ======================================================================================================================================================
-            
-            <h1> Source: 988 </h1>
-            Identification of expressed and conserved human noncoding RNAs    
-            2014-02-01
-            https://doi.org/10.1261%2Frna.038927.113
-            ======================================================================================================================================================
-            
-            <h1> Source: 989 </h1>
-            2. Monto , AS . Acute respiratory infection in children of developing countries: challenge of the 19...    
-            1989-01-01
-            https://dx.doi.org/10.1093/clinids/11.3.498
-            ======================================================================================================================================================
-            
-            <h1> Source: 990 </h1>
-            Zheng, J. et al. LD Hub: a centralized database and web interface to perform LD score regression tha...    
-            2016-01-01
-            https://doi.org/10.1093/bioinformatics/btw613
-            ======================================================================================================================================================
-            
-            <h1> Source: 991 </h1>
-            Validating, augmenting and refining genome-wide association signals    
-            2009-05-17
-            https://doi.org/10.1038%2Fnrg2544
-            ======================================================================================================================================================
-            
-            <h1> Source: 992 </h1>
-            Direct binding of Smad3 and Smad4 to critical TGFβ‐inducible elements in the promoter of human plasminogen activator inhibitor‐type 1 gene    
-            1998-06-17
-            https://doi.org/10.1093%2Femboj%2F17.11.3091
-            ======================================================================================================================================================
-            
-            <h1> Source: 993 </h1>
-            27. McIntosh , K , Dees , JH , Becker , WB ,  et al. Recovery in tracheal organ cultures of novel vi...    
-            1967-01-01
-            https://dx.doi.org/10.1073/pnas.57.4.933
-            ======================================================================================================================================================
-            
-            <h1> Source: 994 </h1>
-            Deferred Costs and Economic Returns to College Major, Quality, and Performance    
-            2000-06-17
-            https://doi.org/10.1023%2FA%3A1007003510102
-            ======================================================================================================================================================
-            
-            <h1> Source: 995 </h1>
-            Impact of the Peroxisome Proliferator Activated Receptor γ2 Pro12Ala polymorphism on adiposity, lipids and non-insulin-dependent diabetes mellitus    
-            2000-02-17
-            https://doi.org/10.1038%2Fsj.ijo.0801112
-            ======================================================================================================================================================
-            
-            <h1> Source: 996 </h1>
-            Dominant negative mutations in human PPARγ associated with severe insulin resistance, diabetes mellitus and hypertension    
-            1999-12-17
-            https://doi.org/10.1038%2F47254
-            ======================================================================================================================================================
-            
-            <h1> Source: 997 </h1>
-            Lessons from 60 years of pharmaceutical innovation    
-            2009-12-17
-            https://doi.org/10.1038%2Fnrd2961
-            ======================================================================================================================================================
-            
-            <h1> Source: 998 </h1>
-            Integrated genotype calling and association analysis of SNPs, common copy number polymorphisms and rare CNVs    
-            2008-10-17
-            https://doi.org/10.1038%2Fng.237
-            ======================================================================================================================================================
-            
-            <h1> Source: 999 </h1>
-            Anderson , T. W. ( 1954 ), “ On estimation of parameters in latent structure analysis ,” Psychometri...    
-            1954-03-17
-            https://dx.doi.org/10.1007/BF02288989
-            ======================================================================================================================================================
-            
-            <h1> Source: 1000 </h1>
-            24. Grayston , JT , Kuo , CC , Wang , SP ,  et al. A new Chamydia psittaci strain. TWAR. isolated in...    
-            1986-01-01
-            https://dx.doi.org/10.1056/NEJM198607173150305
-            ======================================================================================================================================================
-            
-            <h1> Source: 1001 </h1>
-            Imputation-Based Analysis of Association Studies: Candidate Regions and Quantitative Traits    
-            2007-07-27
-            https://doi.org/10.1371%2Fjournal.pgen.0030114
-            ======================================================================================================================================================
-            
-            <h1> Source: 1002 </h1>
-            How were new medicines discovered?    
-            2011-07-17
-            https://doi.org/10.1038%2Fnrd3480
-            ======================================================================================================================================================
-            
-            <h1> Source: 1003 </h1>
-            Genetics and Beyond – The Transcriptome of Human Monocytes and Disease Susceptibility    
-            2010-05-18
-            https://doi.org/10.1371%2Fjournal.pone.0010693
-            ======================================================================================================================================================
-            
-            <h1> Source: 1004 </h1>
-            Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation    
-            2010-05-17
-            https://doi.org/10.1038%2Fnbt.1621
-            ======================================================================================================================================================
-            
-            <h1> Source: 1005 </h1>
-            Multi-Population Classical HLA Type Imputation    
-            2013-02-14
-            https://doi.org/10.1371%2Fjournal.pcbi.1002877
-            ======================================================================================================================================================
-            
-            <h1> Source: 1006 </h1>
-            Genome sequencing elucidates Sardinian genetic architecture and augments association analyses for lipid and blood inflammatory markers    
-            2015-11-17
-            https://doi.org/10.1038%2Fng.3368
-            ======================================================================================================================================================
-            
-            <h1> Source: 1007 </h1>
-            An atlas of genetic correlations across human diseases and traits    
-            2015-11-17
-            https://doi.org/10.1038%2Fng.3406
-            ======================================================================================================================================================
-            
-            <h1> Source: 1008 </h1>
-            Improved whole-chromosome phasing for disease and population genetic studies    
-            2013-01-17
-            https://doi.org/10.1038%2Fnmeth.2307
-            ======================================================================================================================================================
-            
-            <h1> Source: 1009 </h1>
-            A new multipoint method for genome-wide association studies by imputation of genotypes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2088
-            ======================================================================================================================================================
-            
-            <h1> Source: 1010 </h1>
-            Low-coverage sequencing: Implications for design of complex trait association studies    
-            2011-06-01
-            https://doi.org/10.1101%2Fgr.117259.110
-            ======================================================================================================================================================
-            
-            <h1> Source: 1011 </h1>
-            A polygenic burden of rare disruptive mutations in schizophrenia    
-            2014-02-17
-            https://doi.org/10.1038%2Fnature12975
-            ======================================================================================================================================================
-            
-            <h1> Source: 1012 </h1>
-            A mixed-model approach for genome-wide association studies of correlated traits in structured populations    
-            2012-09-17
-            https://doi.org/10.1038%2Fng.2376
-            ======================================================================================================================================================
-            
-            <h1> Source: 1013 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 1014 </h1>
-            Can we conquer pain?    
-            2002-11-17
-            https://doi.org/10.1038%2Fnn942
-            ======================================================================================================================================================
-            
-            <h1> Source: 1015 </h1>
-            A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
-            2009-06-19
-            https://doi.org/10.1371%2Fjournal.pgen.1000529
-            ======================================================================================================================================================
-            
-            <h1> Source: 1016 </h1>
-            A new multipoint method for genome-wide association studies by imputation of genotypes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2088
-            ======================================================================================================================================================
-            
-            <h1> Source: 1017 </h1>
-            Genome-wide efficient mixed-model analysis for association studies    
-            2012-07-17
-            https://doi.org/10.1038%2Fng.2310
-            ======================================================================================================================================================
-            
-            <h1> Source: 1018 </h1>
-            A Pro12Ala substitution in PPARγ2 associated with decreased receptor activity, lower body mass index and improved insulin sensitivity    
-            1998-11-17
-            https://doi.org/10.1038%2F3099
-            ======================================================================================================================================================
-            
-            <h1> Source: 1019 </h1>
-            A new multipoint method for genome-wide association studies by imputation of genotypes    
-            2007-07-17
-            https://doi.org/10.1038%2Fng2088
-            ======================================================================================================================================================
-            
-            <h1> Source: 1020 </h1>
-            Haplotype estimation for biobank-scale data sets    
-            2016-07-17
-            https://doi.org/10.1038%2Fng.3583
-            ======================================================================================================================================================
-            
-            <h1> Source: 1021 </h1>
-            An efficient multi-locus mixed-model approach for genome-wide association studies in structured populations    
-            2012-07-17
-            https://doi.org/10.1038%2Fng.2314
-            ======================================================================================================================================================
-            
-            <h1> Source: 1022 </h1>
-            A Genome-Wide Association Study Identifies Protein Quantitative Trait Loci (pQTLs)    
-            2008-05-09
-            https://doi.org/10.1371%2Fjournal.pgen.1000072
-            ======================================================================================================================================================
-            
-            <h1> Source: 1023 </h1>
-            Rare MTNR1B variants impairing melatonin receptor 1B function contribute to type 2 diabetes    
-            2012-03-17
-            https://doi.org/10.1038%2Fng.1053
-            ======================================================================================================================================================
-            
-            <h1> Source: 1024 </h1>
-            Advantages and pitfalls in the application of mixed-model association methods    
-            2014-02-17
-            https://doi.org/10.1038%2Fng.2876
-            ======================================================================================================================================================
-            
-            <h1> Source: 1025 </h1>
-            Imputation of Variants from the 1000 Genomes Project Modestly Improves Known Associations and Can Identify Low-frequency Variant - Phenotype Associations Undetected by HapMap Based Imputation    
-            2013-05-16
-            https://doi.org/10.1371%2Fjournal.pone.0064343
-            ======================================================================================================================================================
-            
-            <h1> Source: 1026 </h1>
-            9. Monto , AS , Schwartz , SA , Albrecht , JK . Ineffectiveness of post exposure prophylaxis of rhin...    
-            1983-01-01
-            https://dx.doi.org/10.1128/AAC.33.3.387
-            ======================================================================================================================================================
-            
-            <h1> Source: 1027 </h1>
-            A second generation human haplotype map of over 3.1 million SNPs    
-            2007-10-17
-            https://doi.org/10.1038%2Fnature06258
-            ======================================================================================================================================================
-            
-            <h1> Source: 1028 </h1>
-            Ferrarotti, I. et al. Serum levels and genotype distribution of α1-antitrypsin in the general popula...    
-            2011-01-01
-            https://doi.org/10.1136/thoraxjnl-2011-201321
-            ======================================================================================================================================================
-            
-            <h1> Source: 1029 </h1>
-            Global Analysis of the Impact of Environmental Perturbation on cis-Regulation of Gene Expression    
-            2011-01-20
-            https://doi.org/10.1371%2Fjournal.pgen.1001279
-            ======================================================================================================================================================
-            
-            <h1> Source: 1030 </h1>
-            Mixed linear model approach adapted for genome-wide association studies    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.546
-            ======================================================================================================================================================
-            
-            <h1> Source: 1031 </h1>
-            The African Genome Variation Project shapes medical genetics in Africa    
-            2015-01-17
-            https://doi.org/10.1038%2Fnature13997
-            ======================================================================================================================================================
-            
-            <h1> Source: 1032 </h1>
-            Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis    
-            2012-05-17
-            https://doi.org/10.1038%2Fng.2232
-            ======================================================================================================================================================
-            
-            <h1> Source: 1033 </h1>
-            An integrative variant analysis pipeline for accurate genotype/haplotype inference in population NGS data    
-            2013-05-01
-            https://doi.org/10.1101%2Fgr.146084.112
-            ======================================================================================================================================================
-            
-            <h1> Source: 1034 </h1>
-            Employing a Monte Carlo Algorithm in Newton-Type Methods for Restricted Maximum Likelihood Estimation of Genetic Parameters    
-            2013-12-10
-            https://doi.org/10.1371%2Fjournal.pone.0080821
-            ======================================================================================================================================================
-            
-            <h1> Source: 1035 </h1>
-            Genotype imputation for genome-wide association studies    
-            2010-07-17
-            https://doi.org/10.1038%2Fnrg2796
-            ======================================================================================================================================================
-            
-            <h1> Source: 1036 </h1>
-            Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early transmission dynamics in Wuhan, China...    
-            2020-01-01
-            https://doi.org/10.1056/NEJMoa2001316
-            ======================================================================================================================================================
-            
-            <h1> Source: 1037 </h1>
-            FaST-LMM-Select for addressing confounding from spatial structure and rare variants    
-            2013-05-17
-            https://doi.org/10.1038%2Fng.2620
-            ======================================================================================================================================================
-            
-            <h1> Source: 1038 </h1>
-            Genomic inflation factors under polygenic inheritance    
-            2011-07-17
-            https://doi.org/10.1038%2Fejhg.2011.39
-            ======================================================================================================================================================
-            
-            <h1> Source: 1039 </h1>
-            Genomic inflation factors under polygenic inheritance    
-            2011-07-17
-            https://doi.org/10.1038%2Fejhg.2011.39
-            ======================================================================================================================================================
-            
-            <h1> Source: 1040 </h1>
-            Improved linear mixed models for genome-wide association studies    
-            2012-06-17
-            https://doi.org/10.1038%2Fnmeth.2037
-            ======================================================================================================================================================
-            
-            <h1> Source: 1041 </h1>
-            Rapid variance components–based method for whole-genome association analysis    
-            2012-10-17
-            https://doi.org/10.1038%2Fng.2410
-            ======================================================================================================================================================
-            
-            <h1> Source: 1042 </h1>
-            New sequence variants associated with bone mineral density    
-            2009-01-17
-            https://doi.org/10.1038%2Fng.284
-            ======================================================================================================================================================
-            
-            <h1> Source: 1043 </h1>
-            The benefits of selecting phenotype-specific variants for applications of mixed models in genomics    
-            2013-05-09
-            https://doi.org/10.1038%2Fsrep01815
-            ======================================================================================================================================================
-            
-            <h1> Source: 1044 </h1>
-            8. Hall , CB , McBride , JT , Walsh , EE .  et al. Aerosolized ribavirin treatment of infants with r...    
-            1983-01-01
-            https://dx.doi.org/10.1056/NEJM198306163082403
-            ======================================================================================================================================================
-            
-            <h1> Source: 1045 </h1>
-            Pitfalls of predicting complex traits from SNPs    
-            2013-07-17
-            https://doi.org/10.1038%2Fnrg3457
-            ======================================================================================================================================================
-            
-            <h1> Source: 1046 </h1>
-            13. Monto , AS , Ohmit , S . Respiratory syncytial virus in a community population: Persistence of s...    
-            1966-01-01
-            https://dx.doi.org/10.1093/infdis/161.4.781
-            ======================================================================================================================================================
-            
-            <h1> Source: 1047 </h1>
-            Principal components analysis corrects for stratification in genome-wide association studies    
-            2006-08-17
-            https://doi.org/10.1038%2Fng1847
-            ======================================================================================================================================================
-            
-            <h1> Source: 1048 </h1>
-            Genetic Determinants of Serum Testosterone Concentrations in Men    
-            2011-10-06
-            https://doi.org/10.1371%2Fjournal.pgen.1002313
-            ======================================================================================================================================================
-            
-            <h1> Source: 1049 </h1>
-            Genetic risk and a primary role for cell-mediated immune mechanisms in multiple sclerosis    
-            2011-08-17
-            https://doi.org/10.1038%2Fnature10251
-            ======================================================================================================================================================
-            
-            <h1> Source: 1050 </h1>
-            Bayesian statistical methods for genetic association studies    
-            2009-10-17
-            https://doi.org/10.1038%2Fnrg2615
-            ======================================================================================================================================================
-            
-            <h1> Source: 1051 </h1>
-            23. Monto , AS , Ullman , BM . Acute respiratory illness in an American community: The Tecumseh stud...    
-            1974-01-01
-            https://dx.doi.org/10.1001/jama.1974.03230150016004
-            ======================================================================================================================================================
-            
-            <h1> Source: 1052 </h1>
-            The Pro115Gln and Pro12Ala PPAR gamma gene mutations in obesity and type 2 diabetes    
-            2000-03-17
-            https://doi.org/10.1038%2Fsj.ijo.0801191
-            ======================================================================================================================================================
-            
-            <h1> Source: 1053 </h1>
-            Hundreds of variants clustered in genomic loci and biological pathways affect human height    
-            2010-10-17
-            https://doi.org/10.1038%2Fnature09410
-            ======================================================================================================================================================
-            
-            <h1> Source: 1054 </h1>
-            22. Hall , CB , Douglas , RG Jr . Clinically useful method for the isolation of respiratory syncytia...    
-            1975-01-01
-            https://dx.doi.org/10.1093/infdis/131.1.1
-            ======================================================================================================================================================
-            
-            <h1> Source: 1055 </h1>
-            Check E . Avian flu special: is this our best shot? Nature . 2005 ; 435 : 404 – 6 . DOI PubMed Googl...    
-            2005-05-25
-            https://doi.org/10.1038/435404a
-            ======================================================================================================================================================
-            
-            <h1> Source: 1056 </h1>
-            Chin TD , Foley JF , Doto IL , Gravelle CR , Weston J . Morbidity and mortality characteristics of A...    
-            1960-01-01
-            https://doi.org/10.2307/4590751
-            ======================================================================================================================================================
-            
-            <h1> Source: 1057 </h1>
-            Nonsense mutation in the LGR4 gene is associated with several human diseases and other traits    
-            2013-05-17
-            https://doi.org/10.1038%2Fnature12124
-            ======================================================================================================================================================
-            
-            <h1> Source: 1058 </h1>
-            MultiBLUP: improved SNP-based prediction for complex traits    
-            2014-09-01
-            https://doi.org/10.1101%2Fgr.169375.113
-            ======================================================================================================================================================
-            
-            <h1> Source: 1059 </h1>
-            Web-Based Genome-Wide Association Study Identifies Two Novel Loci and a Substantial Genetic Component for Parkinson's Disease    
-            2011-06-23
-            https://doi.org/10.1371%2Fjournal.pgen.1002141
-            ======================================================================================================================================================
-            
-            <h1> Source: 1060 </h1>
-            Polygenic Modeling with Bayesian Sparse Linear Mixed Models    
-            2013-02-07
-            https://doi.org/10.1371%2Fjournal.pgen.1003264
-            ======================================================================================================================================================
-            
-            <h1> Source: 1061 </h1>
-            Demonstrating stratification in a European American population    
-            2005-08-17
-            https://doi.org/10.1038%2Fng1607
-            ======================================================================================================================================================
-            
-            <h1> Source: 1062 </h1>
-            Common SNPs explain a large proportion of the heritability for human height    
-            2010-07-17
-            https://doi.org/10.1038%2Fng.608
-            ======================================================================================================================================================
-            
-            <h1> Source: 1063 </h1>
-            Genome partitioning of genetic variation for complex traits using common SNPs    
-            2011-06-17
-            https://doi.org/10.1038%2Fng.823
-            ======================================================================================================================================================
-            
-            <h1> Source: 1064 </h1>
-            Meta-analysis and imputation refines the association of 15q25 with smoking quantity    
-            2010-05-17
-            https://doi.org/10.1038%2Fng.572
-            ======================================================================================================================================================
-            
-            <h1> Source: 1065 </h1>
-            A common Greenlandic TBC1D4 variant confers muscle insulin resistance and type 2 diabetes    
-            2014-08-17
-            https://doi.org/10.1038%2Fnature13425
-            ======================================================================================================================================================
-            
-            <h1> Source: 1066 </h1>
-            European Bone Mineral Density Loci Are Also Associated with BMD in East-Asian Populations    
-            2010-10-07
-            https://doi.org/10.1371%2Fjournal.pone.0013217
-            ======================================================================================================================================================
-            
-            <h1> Source: 1067 </h1>
-            11. Monto , AS , Koopman , JS , Longini , IM Jr . Tecumseh study of illness: XIII. Influenza infecti...    
-            1976-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.aje.a114052
-            ======================================================================================================================================================
-            
-            <h1> Source: 1068 </h1>
-            Genetics of gene expression and its effect on disease    
-            2008-03-17
-            https://doi.org/10.1038%2Fnature06758
-            ======================================================================================================================================================
-            
-            <h1> Source: 1069 </h1>
-            Modern biomedical research: an internally self-consistent universe with little contact with medical reality?    
-            2003-02-17
-            https://doi.org/10.1038%2Fnrd1012
-            ======================================================================================================================================================
-            
-            <h1> Source: 1070 </h1>
-            Genome-Wide Association Study Using Extreme Truncate Selection Identifies Novel Genes Affecting Bone Mineral Density and Fracture Risk    
-            2011-04-21
-            https://doi.org/10.1371%2Fjournal.pgen.1001372
-            ======================================================================================================================================================
-            
-            <h1> Source: 1071 </h1>
-            16. Monto , AS , Maassab , HF . Ether treatment of type B influenza virus antigen for the hemaggluti...    
-            1981-01-01
-            https://dx.doi.org/10.1128/jcm.13.1.54-57.1981
-            ======================================================================================================================================================
-            
-            <h1> Source: 1072 </h1>
-            Can the pharmaceutical industry reduce attrition rates?    
-            2004-08-17
-            https://doi.org/10.1038%2Fnrd1470
-            ======================================================================================================================================================
-            
-            <h1> Source: 1073 </h1>
-            Nucleotide sequence of bacteriophage φX174 DNA    
-            1977-02-17
-            https://doi.org/10.1038%2F265687a0
-            ======================================================================================================================================================
-            
-            <h1> Source: 1074 </h1>
-            Realism in drug discovery—could Cassandra be right?    
-            2001-12-17
-            https://doi.org/10.1038%2Fnbt1201-1099
-            ======================================================================================================================================================
-            
-            <h1> Source: 1075 </h1>
-            Fibulin-5/DANCE is essential for elastogenesis in vivo    
-            2002-01-17
-            https://doi.org/10.1038%2F415171a
-            ======================================================================================================================================================
-            
-            <h1> Source: 1076 </h1>
-            12. Monto , AS , Cavallaro , JJ . The Tecumseh study of respiratory illness. II. Patterns of occurre...    
-            1965-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.aje.a121321
-            ======================================================================================================================================================
-            
-            <h1> Source: 1077 </h1>
-            Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
-            2009-06-26
-            https://doi.org/10.1371%2Fjournal.pgen.1000534
-            ======================================================================================================================================================
-            
-            <h1> Source: 1078 </h1>
-            The case for entrepreneurship in R&D in the pharmaceutical industry    
-            2010-09-17
-            https://doi.org/10.1038%2Fnrd3230
-            ======================================================================================================================================================
-            
-            <h1> Source: 1079 </h1>
-            Pharmaceutical R&D: the road to positive returns - Nature Reviews Drug Discovery    
-            2009-08-17
-            https://doi.org/10.1038%2Fnrd2948
-            ======================================================================================================================================================
-            
-            <h1> Source: 1080 </h1>
-            Proteins Encoded in Genomic Regions Associated with Immune-Mediated Disease Physically Interact and Suggest Underlying Biology    
-            2011-01-13
-            https://doi.org/10.1371%2Fjournal.pgen.1001273
-            ======================================================================================================================================================
-            
-            <h1> Source: 1081 </h1>
-            20. Fox , JP , Cooney , MK , Hall , CE ,  et al. Influenza virus infections in Seattle families, 197...    
-            1975-01-01
-            https://dx.doi.org/10.1093/oxfordjournals.aje.a113408
-            ======================================================================================================================================================
-            
-            <h1> Source: 1082 </h1>
-            The complete nucleotide sequence of the tobacco chloroplast genome: its gene organization and expression    
-            1986-09-17
-            https://doi.org/10.1002%2Fj.1460-2075.1986.tb04464.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 1083 </h1>
-            Hu Z , Song C , Xu C , Jin G , Chen Y , Xu X , et al. Clinical characteristics of 24 asymptomatic in...    
-            2020-05-17
-            https://doi.org/10.1007/s11427-020-1661-4
-            ======================================================================================================================================================
-            
-            <h1> Source: 1084 </h1>
-            Distribution and Medical Impact of Loss-of-Function Variants in the Finnish Founder Population    
-            2014-07-31
-            https://doi.org/10.1371%2Fjournal.pgen.1004494
-            ======================================================================================================================================================
-            
-            <h1> Source: 1085 </h1>
-            Ruderfer, D. M. et al. Patterns of genic intolerance of rare copy number variation in 59,898 human e...    
-            2016-10-17
-            https://doi.org/10.1038/ng.3638
-            ======================================================================================================================================================
-            
-            <h1> Source: 1086 </h1>
-            Integrating common and rare genetic variation in diverse human populations    
-            2010-09-17
-            https://doi.org/10.1038%2Fnature09298
-            ======================================================================================================================================================
-            
-            <h1> Source: 1087 </h1>
-            Identification of a large set of rare complete human knockouts    
-            2015-05-17
-            https://doi.org/10.1038%2Fng.3243
-            ======================================================================================================================================================
-            
-            <h1> Source: 1088 </h1>
-            Narasimhan, V. M. et al. Health and population effects of rare gene knockouts in adult humans with r...    
-            2016-01-01
-            https://doi.org/10.1126/science.aac8624
-            ======================================================================================================================================================
-            
-            <h1> Source: 1089 </h1>
-            Saleheen, D. et al. Human knockouts in a cohort with a high rate of consanguinity. Preprint at bioRx...    
-            2015-11-12
-            https://doi.org/10.1101/031518
-            ======================================================================================================================================================
-            
-            <h1> Source: 1090 </h1>
-            Sizing up human height variation    
-            2008-05-17
-            https://doi.org/10.1038%2Fng0508-489
-            ======================================================================================================================================================
-            
-            <h1> Source: 1091 </h1>
-            Haploinsufficiency of TBK1 causes familial ALS and fronto-temporal dementia    
-            2015-05-17
-            https://doi.org/10.1038%2Fnn.4000
-            ======================================================================================================================================================
-            
-            <h1> Source: 1092 </h1>
-            A framework for variation discovery and genotyping using next-generation DNA sequencing data    
-            2011-05-17
-            https://doi.org/10.1038%2Fng.806
-            ======================================================================================================================================================
-            
-            <h1> Source: 1093 </h1>
-            Variance component model to account for sample structure in genome-wide association studies    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.548
-            ======================================================================================================================================================
-            
-            <h1> Source: 1094 </h1>
-            The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic, Cardiovascular, and Anthropometric Traits    
-            2012-08-02
-            https://doi.org/10.1371%2Fjournal.pgen.1002793
-            ======================================================================================================================================================
-            
-            <h1> Source: 1095 </h1>
-            Integrating human sequence data sets provides a resource of benchmark SNP and indel genotype calls    
-            2014-03-17
-            https://doi.org/10.1038%2Fnbt.2835
-            ======================================================================================================================================================
-            
-            <h1> Source: 1096 </h1>
-            Idiopathic Cardiomyopathy A Study on the Infectious-Immune Theory as a Cause of the Disease    
-            1971-01-17
-            https://doi.org/10.1253%2Fjcj.35.765
-            ======================================================================================================================================================
-            
-            <h1> Source: 1097 </h1>
-            Hundreds of variants clustered in genomic loci and biological pathways affect human height    
-            2010-10-17
-            https://doi.org/10.1038%2Fnature09410
-            ======================================================================================================================================================
-            
-            <h1> Source: 1098 </h1>
-            Multiple intercellular signalling systems control the development of the Caenorhabditis elegans vulva    
-            1991-06-17
-            https://doi.org/10.1038%2F351535a0
-            ======================================================================================================================================================
-            
-            <h1> Source: 1099 </h1>
-            Enteroviral protease 2A cleaves dystrophin: Evidence of cytoskeletal disruption in an acquired cardiomyopathy    
-            1999-03-17
-            https://doi.org/10.1038%2F6543
-            ======================================================================================================================================================
-            
-            <h1> Source: 1100 </h1>
-            A regulatory hierarchy for cell specialization in yeast    
-            1989-12-17
-            https://doi.org/10.1038%2F342749a0
-            ======================================================================================================================================================
-            
-            <h1> Source: 1101 </h1>
-            SMIM1 underlies the Vel blood group and influences red blood cell traits    
-            2013-05-17
-            https://doi.org/10.1038%2Fng.2603
-            ======================================================================================================================================================
-            
-            <h1> Source: 1102 </h1>
-            A spliced Epstein‐Barr virus gene expressed in immortalized lymphocytes is created by circularization of the linear viral genome.    
-            1988-03-17
-            https://doi.org/10.1002%2Fj.1460-2075.1988.tb02874.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 1103 </h1>
-            Bayesian refinement of association signals for 14 loci in 3 common diseases    
-            2012-12-17
-            https://doi.org/10.1038%2Fng.2435
-            ======================================================================================================================================================
-            
-            <h1> Source: 1104 </h1>
-            CDC COVID-19 Response Team. Severe outcomes among patients with coronavirus disease 2019 (COVID-19)—...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6912e2
-            ======================================================================================================================================================
-            
-            <h1> Source: 1105 </h1>
-            Cochran , William G. 1968 . The effectiveness of adjustment by subclassification in removing bias in...    
-            1968-01-01
-            https://dx.doi.org/10.2307/2528036
-            ======================================================================================================================================================
-            
-            <h1> Source: 1106 </h1>
-            Morgan , Stephen L. , and Winship , Christopher . 2007 . Counterfactuals and causal inference: Metho...    
-            2007-01-01
-            https://dx.doi.org/10.1017/CBO9780511804564
-            ======================================================================================================================================================
-            
-            <h1> Source: 1107 </h1>
-            Busso , Matias , DiNardo , John , and McCrary , Justin . 2009b . New evidence on the finite sample p...    
-            2026-01-17
-            https://dx.doi.org/10.2139/ssrn.1351162
-            ======================================================================================================================================================
-            
-            <h1> Source: 1108 </h1>
-            King , Gary , and Zeng , Langche . 2006 . The dangers of extreme counterfactuals . Political Analysi...    
-            2006-01-01
-            https://dx.doi.org/10.1093/pan/mpj004
-            ======================================================================================================================================================
-            
-            <h1> Source: 1109 </h1>
-            Pancreatic islet enhancer clusters enriched in type 2 diabetes risk-associated variants    
-            2014-02-17
-            https://doi.org/10.1038%2Fng.2870
-            ======================================================================================================================================================
-            
-            <h1> Source: 1110 </h1>
-            Lunceford , Jared K. , and Davidian , Marie . 2004 . Stratification and weighting via the propensity...    
-            2004-01-01
-            https://dx.doi.org/10.1002/sim.1903
-            ======================================================================================================================================================
-            
-            <h1> Source: 1111 </h1>
-            Ho , D. E. , Imai , K. , King , G. , and Stuart , E. A. 2007 . Matching as nonparametric preprocessi...    
-            2007-01-01
-            https://dx.doi.org/10.1093/pan/mpl013
-            ======================================================================================================================================================
-            
-            <h1> Source: 1112 </h1>
-            Imbens , Guido W. 2004 . Nonparametric estimation of average treatment effects under exogeneity: A r...    
-            2004-01-01
-            https://dx.doi.org/10.1162/003465304323023651
-            ======================================================================================================================================================
-            
-            <h1> Source: 1113 </h1>
-            Sensitive Detection of Chromosomal Segments of Distinct Ancestry in Admixed Populations    
-            2009-06-19
-            https://doi.org/10.1371/journal.pgen.1000519
-            ======================================================================================================================================================
-            
-            <h1> Source: 1114 </h1>
-            Analysis of Population Structure: A Unifying Framework and Novel Methods Based on Sparse Factor Analysis    
-            2010-09-16
-            https://doi.org/10.1371/journal.pgen.1001117
-            ======================================================================================================================================================
-            
-            <h1> Source: 1115 </h1>
-            Ridgeway , Greg , and McCaffrey , Daniel F. 2007 . Comment: Demystifying double robustness: A compar...    
-            2007-01-01
-            https://dx.doi.org/10.1214/07-STS227C
-            ======================================================================================================================================================
-            
-            <h1> Source: 1116 </h1>
-            Robins , J. M. 1986 . A new approach to causal inference in mortality studies with a sustained expos...    
-            1986-01-01
-            https://dx.doi.org/10.1016/0270-0255(86)90088-6
-            ======================================================================================================================================================
-            
-            <h1> Source: 1117 </h1>
-            Population Structure and Eigenanalysis    
-            2006-12-22
-            https://doi.org/10.1371/journal.pgen.0020190
-            ======================================================================================================================================================
-            
-            <h1> Source: 1118 </h1>
-            A human phenome-interactome network of protein complexes implicated in genetic disorders    
-            2007-03-17
-            https://doi.org/10.1038%2Fnbt1295
-            ======================================================================================================================================================
-            
-            <h1> Source: 1119 </h1>
-            Robins , James M. , Rotnitzky , Andrea , and Zhao , Lue Ping . 1994 . Estimation of regression coeff...    
-            1994-01-01
-            https://dx.doi.org/10.1080/01621459.1994.10476818
-            ======================================================================================================================================================
-            
-            <h1> Source: 1120 </h1>
-            Robins , James , Sued , Mariela , Lei-Gomez , Quanhong , and Rotnitzky , Andrea . 2007 . Comment: pe...    
-            2007-01-01
-            https://dx.doi.org/10.1214/07-STS227D
-            ======================================================================================================================================================
-            
-            <h1> Source: 1121 </h1>
-            Transmission intensity and impact of control policies on the foot and mouth epidemic in Great Britain    
-            2001-10-17
-            https://doi.org/10.1038%2F35097116
-            ======================================================================================================================================================
-            
-            <h1> Source: 1122 </h1>
-            Robins , J. M. , and Wang , N. 2000 . Inference for imputation estimators . Biometrika 87 ( 1 ): 113...    
-            2000-01-01
-            https://dx.doi.org/10.1093/biomet/87.1.113
-            ======================================================================================================================================================
-            
-            <h1> Source: 1123 </h1>
-            The importance of phase information for human genomics    
-            2011-03-17
-            https://doi.org/10.1038%2Fnrg2950
-            ======================================================================================================================================================
-            
-            <h1> Source: 1124 </h1>
-            Rosenbaum , Paul R. , and Rubin , Donald B. 1983 . The central role of the propensity score in obser...    
-            1983-01-01
-            https://dx.doi.org/10.1093/biomet/70.1.41
-            ======================================================================================================================================================
-            
-            <h1> Source: 1125 </h1>
-            Rubin , D. B. 2006 . Matched sampling for causal effects . New York : Cambridge University Press . C...    
-            2006-01-01
-            https://dx.doi.org/10.1017/CBO9780511810725
-            ======================================================================================================================================================
-            
-            <h1> Source: 1126 </h1>
-            Tan , Zhiqiang . 2007 . Comment: Understanding OR, PS, and DR . Statistical Science 22 ( 4 ): 560–68...    
-            2007-01-01
-            https://dx.doi.org/10.1214/07-STS227A
-            ======================================================================================================================================================
-            
-            <h1> Source: 1127 </h1>
-            Tsiatis , Anastasios A. , and Davidian , Marie . 2007 . Comment: Demystifying double robustness: A c...    
-            2007-01-01
-            https://dx.doi.org/10.1214/07-STS227B
-            ======================================================================================================================================================
-            
-            <h1> Source: 1128 </h1>
-            Haplotype phasing: existing methods and new developments    
-            2011-10-17
-            https://doi.org/10.1038%2Fnrg3054
-            ======================================================================================================================================================
-            
-            <h1> Source: 1129 </h1>
-            Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
-            2009-06-26
-            https://doi.org/10.1371%2Fjournal.pgen.1000534
-            ======================================================================================================================================================
-            
-            <h1> Source: 1130 </h1>
-            Value of novelty? - Nature Reviews Drug Discovery    
-            2002-08-01
-            https://doi.org/10.1038%2Fnrd884
-            ======================================================================================================================================================
-            
-            <h1> Source: 1131 </h1>
-            Souty C , Amoros P , Falchi A , Capai L , Bonmarin I , van der Werf S , et al. Influenza epidemics o...    
-            1984-01-01
-            https://doi.org/10.1111/irv.12620
-            ======================================================================================================================================================
-            
-            <h1> Source: 1132 </h1>
-            Global obesity: trends, risk factors and policy implications    
-            2013-01-17
-            https://doi.org/10.1038%2Fnrendo.2012.199
-            ======================================================================================================================================================
-            
-            <h1> Source: 1133 </h1>
-            Production of phosphatidylinositol 5‐phosphate via PIKfyve and MTMR3 regulates cell migration    
-            2013-01-17
-            https://doi.org/10.1038%2Fembor.2012.183
-            ======================================================================================================================================================
-            
-            <h1> Source: 1134 </h1>
-            McMichael TM, Clark S, Pogosjans S, et al. COVID-19 in a long-term care facility—King County, Washin...    
-            2020-01-17
-            http://dx.doi.org/10.15585/mmwr.mm6912e1
-            ======================================================================================================================================================
-            
-            <h1> Source: 1135 </h1>
-            Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47    
-            2011-03-17
-            https://doi.org/10.1038%2Fng.764
-            ======================================================================================================================================================
-            
-            <h1> Source: 1136 </h1>
-            Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes    
-            2012-09-17
-            https://doi.org/10.1038%2Fng.2383
-            ======================================================================================================================================================
-            
-            <h1> Source: 1137 </h1>
-            Population Structure and Eigenanalysis    
-            2006-12-22
-            https://doi.org/10.1371/journal.pgen.0020190
-            ======================================================================================================================================================
-            
-            <h1> Source: 1138 </h1>
-            Transferability of Type 2 Diabetes Implicated Loci in Multi-Ethnic Cohorts from Southeast Asia    
-            2011-04-07
-            https://doi.org/10.1371%2Fjournal.pgen.1001363
-            ======================================================================================================================================================
-            
-            <h1> Source: 1139 </h1>
-            Becker , Sascha O. , and Ichino , Andrea . 2002 . Estimation of average treatment effects based on p...    
-            2002-01-01
-            https://dx.doi.org/10.1177/1536867X0200200403
-            ======================================================================================================================================================
-            
-            <h1> Source: 1140 </h1>
-            CARD15 mutations in Blau syndrome    
-            2001-09-17
-            https://doi.org/10.1038%2Fng720
-            ======================================================================================================================================================
-            
-            <h1> Source: 1141 </h1>
-            Genome-wide association defines more than 30 distinct susceptibility loci for Crohn's disease    
-            2008-08-17
-            https://doi.org/10.1038%2Fng.175
-            ======================================================================================================================================================
-            
-            <h1> Source: 1142 </h1>
-            Genome-wide association study identifies new susceptibility loci for Crohn disease and implicates autophagy in disease pathogenesis    
-            2007-05-17
-            https://doi.org/10.1038%2Fng2032
-            ======================================================================================================================================================
-            
-            <h1> Source: 1143 </h1>
-            Rare Variants Create Synthetic Genome-Wide Associations    
-            2010-01-26
-            https://doi.org/10.1371%2Fjournal.pbio.1000294
-            ======================================================================================================================================================
-            
-            <h1> Source: 1144 </h1>
-            Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
-            2010-12-17
-            https://doi.org/10.1038%2Fng.717
-            ======================================================================================================================================================
-            
-            <h1> Source: 1145 </h1>
-            Tackling complexity    
-            2002-12-17
-            https://doi.org/10.1038%2F420517a
-            ======================================================================================================================================================
-            
-            <h1> Source: 1146 </h1>
-            Solution hybrid selection with ultra-long oligonucleotides for massively parallel targeted sequencing    
-            2009-02-17
-            https://doi.org/10.1038%2Fnbt.1523
-            ======================================================================================================================================================
-            
-            <h1> Source: 1147 </h1>
-            Genome-wide association study meta-analysis identifies seven new rheumatoid arthritis risk loci    
-            2010-06-17
-            https://doi.org/10.1038%2Fng.582
-            ======================================================================================================================================================
-            
-            <h1> Source: 1148 </h1>
-            Regulatory regions and critical residues of NOD2 involved in muramyl dipeptide recognition    
-            2004-04-17
-            https://doi.org/10.1038%2Fsj.emboj.7600175
-            ======================================================================================================================================================
-            
-            <h1> Source: 1149 </h1>
-            Opposing actions of Arx and Pax4 in endocrine pancreas development    
-            2003-10-15
-            https://doi.org/10.1101%2Fgad.269003
-            ======================================================================================================================================================
-            
-            <h1> Source: 1150 </h1>
-            Clinical implications of a molecular genetic classification of monogenic β-cell diabetes    
-            2008-04-17
-            https://doi.org/10.1038%2Fncpendmet0778
-            ======================================================================================================================================================
-            
-            <h1> Source: 1151 </h1>
-            Genome-wide association identifies multiple ulcerative colitis susceptibility loci    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.549
-            ======================================================================================================================================================
-            
-            <h1> Source: 1152 </h1>
-            Variance component model to account for sample structure in genome-wide association studies    
-            2010-04-17
-            https://doi.org/10.1038%2Fng.548
-            ======================================================================================================================================================
-            
-            <h1> Source: 1153 </h1>
-            XV.—The Correlation between Relatives on the Supposition of Mendelian Inheritance.    
-            1919-01-17
-            https://doi.org/10.1017%2FS0080456800012163
-            ======================================================================================================================================================
-            
-            <h1> Source: 1154 </h1>
-            Mapping short DNA sequencing reads and calling variants using mapping quality scores    
-            2008-11-01
-            https://doi.org/10.1101%2Fgr.078212.108
-            ======================================================================================================================================================
-            
-            <h1> Source: 1155 </h1>
-            Causal Forecacsting    
-            2022-12-09
-            https://www.youtube.com/watch?v=JGkfbRKuZkI
-            ======================================================================================================================================================
-            
-            <h1> Source: 1156 </h1>
-            Identification of low-frequency and rare sequence variants associated with elevated or reduced risk of type 2 diabetes    
-            2014-03-17
-            https://doi.org/10.1038%2Fng.2882
-            ======================================================================================================================================================
-            
-            <h1> Source: 1157 </h1>
-            Resequencing of positional candidates identifies low frequency IL23R coding variants protecting against inflammatory bowel disease    
-            2011-01-17
-            https://doi.org/10.1038%2Fng.733
-            ======================================================================================================================================================
-            
-            <h1> Source: 1158 </h1>
-            Synthetic Associations Created by Rare Variants Do Not Explain Most GWAS Results    
-            2011-01-18
-            https://doi.org/10.1371%2Fjournal.pbio.1000579
-            ======================================================================================================================================================
-            
-            <h1> Source: 1159 </h1>
-            Exome array analysis identifies new loci and low-frequency variants influencing insulin processing and secretion    
-            2013-02-17
-            https://doi.org/10.1038%2Fng.2507
-            ======================================================================================================================================================
-            
-            <h1> Source: 1160 </h1>
-            Genetic fine mapping and genomic annotation defines causal mechanisms at type 2 diabetes susceptibility loci    
-            2015-12-17
-            https://doi.org/10.1038%2Fng.3437
-            ======================================================================================================================================================
-            
-            <h1> Source: 1161 </h1>
-            Genome-wide trans-ancestry meta-analysis provides insight into the genetic architecture of type 2 diabetes susceptibility    
-            2014-03-17
-            https://doi.org/10.1038%2Fng.2897
-            ======================================================================================================================================================
-            
-            <h1> Source: 1162 </h1>
-            Meta-analysis of genome-wide association studies identifies eight new loci for type 2 diabetes in east Asians    
-            2012-01-17
-            https://doi.org/10.1038%2Fng.1019
-            ======================================================================================================================================================
-            
-            <h1> Source: 1163 </h1>
-            Generation of pathogenic TH17 cells in the absence of TGF-β signalling    
-            2010-10-17
-            https://doi.org/10.1038%2Fnature09447
-            ======================================================================================================================================================
-            
-            <h1> Source: 1164 </h1>
-            Genome-wide association study and meta-analysis find that over 40 loci affect risk of type 1 diabetes    
-            2009-06-17
-            https://doi.org/10.1038%2Fng.381
-            ======================================================================================================================================================
-            
-            <h1> Source: 1165 </h1>
-            Genome-wide association study in individuals of South Asian ancestry identifies six new type 2 diabetes susceptibility loci    
-            2011-10-17
-            https://doi.org/10.1038%2Fng.921
-            ======================================================================================================================================================
-            
-            <h1> Source: 1166 </h1>
-            Finding the missing heritability of complex diseases    
-            2009-10-17
-            https://doi.org/10.1038%2Fnature08494
-            ======================================================================================================================================================
-            
-            <h1> Source: 1167 </h1>
-            Haplotype-resolved genome sequencing: experimental methods and applications    
-            2015-06-17
-            https://doi.org/10.1038%2Fnrg3903
-            ======================================================================================================================================================
-            
-            <h1> Source: 1168 </h1>
-            Twelve type 2 diabetes susceptibility loci identified through large-scale association analysis    
-            2010-07-17
-            https://doi.org/10.1038%2Fng.609
-            ======================================================================================================================================================
-            
-            <h1> Source: 1169 </h1>
-            The Importance of Synthetic Associations Will Only Be Resolved Empirically    
-            2011-01-18
-            https://doi.org/10.1371%2Fjournal.pbio.1001008
-            ======================================================================================================================================================
-            
-            <h1> Source: 1170 </h1>
-            Haplotype estimation for biobank-scale data sets    
-            2016-07-17
-            https://doi.org/10.1038%2Fng.3583
-            ======================================================================================================================================================
-            
-            <h1> Source: 1171 </h1>
-            Synthetic Associations Are Unlikely to Account for Many Common Disease Genome-Wide Association Signals    
-            2011-01-18
-            https://doi.org/10.1371%2Fjournal.pbio.1000580
-            ======================================================================================================================================================
-            
-            <h1> Source: 1172 </h1>
-            A Meta-Analysis of Genome-Wide Association Scans Identifies IL18RAP, PTPN2, TAGAP, and PUS10 As Shared Risk Loci for Crohn's Disease and Celiac Disease    
-            2011-01-27
-            https://doi.org/10.1371%2Fjournal.pgen.1001283
-            ======================================================================================================================================================
-            
-            <h1> Source: 1173 </h1>
-            Assumption-Free Estimation of Heritability from Genome-Wide Identity-by-Descent Sharing between Full Siblings    
-            2006-03-24
-            https://doi.org/10.1371%2Fjournal.pgen.0020041
-            ======================================================================================================================================================
-            
-            <h1> Source: 1174 </h1>
-            Quantifying Missing Heritability at Known GWAS Loci    
-            2013-12-26
-            https://doi.org/10.1371%2Fjournal.pgen.1003993
-            ======================================================================================================================================================
-            
-            <h1> Source: 1175 </h1>
-            McCarthy, S. et al. A reference panel of 64,976 haplotypes for genotype imputation. Nat. Genet. http...    
-            2016-10-17
-            https://doi.org/10.1038/ng.3643
-            ======================================================================================================================================================
-            
-            <h1> Source: 1176 </h1>
-            The IL23R R381Q Gene Variant Protects against Immune-Mediated Diseases by Impairing IL-23-Induced Th17 Effector Response in Humans    
-            2011-02-22
-            https://doi.org/10.1371%2Fjournal.pone.0017160
-            ======================================================================================================================================================
-            
-            <h1> Source: 1177 </h1>
-            Genome partitioning of genetic variation for complex traits using common SNPs    
-            2011-06-17
-            https://doi.org/10.1038%2Fng.823
-            ======================================================================================================================================================
-            
-            <h1> Source: 1178 </h1>
-            Integrated Genetic and Epigenetic Analysis Identifies Haplotype-Specific Methylation in the FTO Type 2 Diabetes and Obesity Susceptibility Locus    
-            2010-11-18
-            https://doi.org/10.1371%2Fjournal.pone.0014040
-            ======================================================================================================================================================
-            
-            <h1> Source: 1179 </h1>
-            Germline deletion of the miR-17∼92 cluster causes skeletal and growth defects in humans    
-            2011-10-17
-            https://doi.org/10.1038%2Fng.915
-            ======================================================================================================================================================
-            
-            <h1> Source: 1180 </h1>
-            Conditional and joint multiple-SNP analysis of GWAS summary statistics identifies additional variants influencing complex traits    
-            2012-04-17
-            https://doi.org/10.1038%2Fng.2213
-            ======================================================================================================================================================
-            
-            <h1> Source: 1181 </h1>
-            Fine-mapping cellular QTLs with RASQUAL and ATAC-seq    
-            2016-02-17
-            https://doi.org/10.1038%2Fng.3467
-            ======================================================================================================================================================
-            
-            <h1> Source: 1182 </h1>
-            Association analyses of 249,796 individuals reveal 18 new loci associated with body mass index    
-            2010-11-17
-            https://doi.org/10.1038%2Fng.686
-            ======================================================================================================================================================
-            
-            <h1> Source: 1183 </h1>
-            Variability in the Heritability of Body Mass Index: A Systematic Review and Meta-Regression    
-            2012-02-28
-            https://doi.org/10.3389%2Ffendo.2012.00029
-            ======================================================================================================================================================
-            
-            <h1> Source: 1184 </h1>
-            Cartwright , N. ( 1979 ), “ Causal Laws and Effective Strategies ”, Noûs 13 : 419–37. (Also in How t...    
-            1979-01-01
-            https://dx.doi.org/10.2307/2215337
-            ======================================================================================================================================================
-            
-            <h1> Source: 1185 </h1>
-            The bigger picture of FTO—the first GWAS-identified obesity gene    
-            2014-01-17
-            https://doi.org/10.1038%2Fnrendo.2013.227
-            ======================================================================================================================================================
-            
-            <h1> Source: 1186 </h1>
-            Paths to understanding the genetic basis of autoimmune disease    
-            2005-06-17
-            https://doi.org/10.1038%2Fnature03723
-            ======================================================================================================================================================
-            
-            <h1> Source: 1187 </h1>
-            Causality and Determinism    
-            1981-12-17
-            https://dx.doi.org/10.1086/289023
-            ======================================================================================================================================================
-            
-            <h1> Source: 1188 </h1>
-            Physical Activity Attenuates the Influence of FTO Variants on Obesity Risk: A Meta-Analysis of 218,166 Adults and 19,268 Children    
-            2011-11-01
-            https://doi.org/10.1371%2Fjournal.pmed.1001116
-            ======================================================================================================================================================
-            
-            <h1> Source: 1189 </h1>
-            Feyerabend , P. K. ( 1981 ), Realism, Rationalism, and Scientific Method . Vol. 1 . Cambridge : Camb...    
-            1981-10-17
-            https://dx.doi.org/10.1017/CBO9781139171526
-            ======================================================================================================================================================
-            
-            <h1> Source: 1190 </h1>
-            Gene × Physical Activity Interactions in Obesity: Combined Analysis of 111,421 Individuals of European Ancestry    
-            2013-07-25
-            https://doi.org/10.1371%2Fjournal.pgen.1003607
-            ======================================================================================================================================================
-            
-            <h1> Source: 1191 </h1>
-            Physical Activity Attenuates the Genetic Predisposition to Obesity in 20,000 Men and Women from EPIC-Norfolk Prospective Population Study    
-            2010-08-31
-            https://doi.org/10.1371%2Fjournal.pmed.1000332
-            ======================================================================================================================================================
-            
-            <h1> Source: 1192 </h1>
-            Ehring , D. ( 1984 ), “ Probabilistic Causality and Preemption ”, British Journal of the Philosophy ...    
-            1984-01-01
-            https://dx.doi.org/10.1093/bjps/35.1.55
-            ======================================================================================================================================================
-            
-            <h1> Source: 1193 </h1>
-            Principal components analysis corrects for stratification in genome-wide association studies    
-            2006-08-17
-            https://doi.org/10.1038%2Fng1847
-            ======================================================================================================================================================
-            
-            <h1> Source: 1194 </h1>
-            Duhem , P. ( 1954 ), The Aim and Structure of Physical Theory . Trans. P. P. Wiener. Princeton : Pri...    
-            1954-12-31
-            https://dx.doi.org/10.1515/9780691233857
-            ======================================================================================================================================================
-            
-            <h1> Source: 1195 </h1>
-            Population-based resequencing of ANGPTL4 uncovers variations that reduce triglycerides and increase HDL    
-            2007-04-17
-            https://doi.org/10.1038%2Fng1984
-            ======================================================================================================================================================
-            
-            <h1> Source: 1196 </h1>
-            Dietary fatty acid distribution modifies obesity risk linked to the rs9939609 polymorphism of the fat mass and obesity-associated gene in a Spanish case–control study of children    
-            2012-02-17
-            https://doi.org/10.1017%2FS0007114511003424
-            ======================================================================================================================================================
-            
-            <h1> Source: 1197 </h1>
-            Eells , E. , and Sober , E. ( 1983 ) “ Probabilistic causality and the question of transitivity ”, P...    
-            1983-03-17
-            https://dx.doi.org/10.1086/289089
-            ======================================================================================================================================================
-            
-            <h1> Source: 1198 </h1>
-            Network organization of the human autophagy system    
-            2010-07-17
-            https://doi.org/10.1038%2Fnature09204
-            ======================================================================================================================================================
-            
-            <h1> Source: 1199 </h1>
-            Genome-wide association analyses identify variants in developmental genes associated with hypospadias    
-            2014-09-17
-            https://doi.org/10.1038%2Fng.3063
-            ======================================================================================================================================================
-            
-            <h1> Source: 1200 </h1>
-            Mulaik , S. A. ( 1985 ), “ Exploratory Statistics and Empiricism ”, Philosophy of Science 52 : 410–4...    
-            1985-09-17
-            https://dx.doi.org/10.1086/289258
-            ======================================================================================================================================================
-            
-            <h1> Source: 1201 </h1>
-            Otte , R. ( 1981 ), “ A Critique of Suppes' Theory of Probabilistic Causality ”, Synthese 48 : 167–8...    
-            1981-08-17
-            https://dx.doi.org/10.1007/BF01063885
-            ======================================================================================================================================================
-            
-            <h1> Source: 1202 </h1>
-            Rosen , D. A. ( 1978 ) “ Discussion: In Defense of a Probabilistic Theory of Causality ”, Philosophy...    
-            1978-12-17
-            https://dx.doi.org/10.1086/288838
-            ======================================================================================================================================================
-            
-            <h1> Source: 1203 </h1>
-            Simon , H. A. , and Rescher , N. ( 1966 ), “ Cause and Counterfactual ”, Philosophy of Science 33 : ...    
-            1966-01-01
-            https://dx.doi.org/10.1086/288105
-            ======================================================================================================================================================
-            
-            <h1> Source: 1204 </h1>
-            Newly identified loci that influence lipid concentrations and risk of coronary artery disease    
-            2008-02-17
-            https://doi.org/10.1038%2Fng.76
-            ======================================================================================================================================================
-            
-            <h1> Source: 1205 </h1>
-            UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
-            2015-03-31
-            https://doi.org/10.1371%2Fjournal.pmed.1001779
-            ======================================================================================================================================================
-            
-            <h1> Source: 1206 </h1>
-            Spohn , W. ( 1980 ), “ Stochastic Independence, Causal Independence, and Shieldability ”, Journal of...    
-            1980-01-01
-            https://dx.doi.org/10.1007/BF00258078
-            ======================================================================================================================================================
-            
-            <h1> Source: 1207 </h1>
-            Suppes , P. ( 1975 ), “ A Probabilistic Analysis of Causality ”, in Quantitative Sociology , Blalock...    
-            1975-01-01
-            https://dx.doi.org/10.1016/B978-0-12-103950-9.50008-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 1208 </h1>
-            Advantages and pitfalls in the application of mixed-model association methods    
-            2014-02-17
-            https://doi.org/10.1038%2Fng.2876
-            ======================================================================================================================================================
-            
-            <h1> Source: 1209 </h1>
-            Principal components analysis corrects for stratification in genome-wide association studies    
-            2006-08-17
-            https://doi.org/10.1038%2Fng1847
-            ======================================================================================================================================================
-            
-            <h1> Source: 1210 </h1>
-            A frameshift mutation in NOD2 associated with susceptibility to Crohn's disease    
-            2001-05-17
-            https://doi.org/10.1038%2F35079114
-            ======================================================================================================================================================
-            
-            <h1> Source: 1211 </h1>
-            Evaluating empirical bounds on complex disease genetic architecture    
-            2013-12-17
-            https://doi.org/10.1038%2Fng.2804
-            ======================================================================================================================================================
-            
-            <h1> Source: 1212 </h1>
-            Genetic variation in <i>ABC</i> transporter <i>A1</i> contributes to HDL cholesterol in the general population    
-            2004-11-01
-            https://doi.org/10.1172%2FJCI200420361
-            ======================================================================================================================================================
-            
-            <h1> Source: 1213 </h1>
-            Angptl3 regulates lipid metabolism in mice    
-            2002-02-17
-            https://doi.org/10.1038%2Fng814
-            ======================================================================================================================================================
-            
-            <h1> Source: 1214 </h1>
-            Exome-wide association study identifies a TM6SF2 variant that confers susceptibility to nonalcoholic fatty liver disease    
-            2014-04-17
-            https://doi.org/10.1038%2Fng.2901
-            ======================================================================================================================================================
-            
-            <h1> Source: 1215 </h1>
-            FTO genotype and adiposity in children: physical activity levels influence the effect of the risk genotype in adolescent males    
-            2010-12-17
-            https://doi.org/10.1038%2Fejhg.2010.131
-            ======================================================================================================================================================
-            
-            <h1> Source: 1216 </h1>
-            Improved imputation of low-frequency and rare variants using the UK10K haplotype reference panel    
-            2015-09-14
-            https://doi.org/10.1038%2Fncomms9111
-            ======================================================================================================================================================
-            
-            <h1> Source: 1217 </h1>
-            Inferring Human Colonization History Using a Copying Model    
-            2008-05-23
-            https://doi.org/10.1371/journal.pgen.1000078
-            ======================================================================================================================================================
-            
-            <h1> Source: 1218 </h1>
-            The relation between drinking pattern and body mass index and waist and hip circumference    
-            2005-05-17
-            https://doi.org/10.1038%2Fsj.ijo.0802874
-            ======================================================================================================================================================
-            
-            <h1> Source: 1219 </h1>
-            Short Sleep Duration Is Associated with Reduced Leptin, Elevated Ghrelin, and Increased Body Mass Index    
-            2004-12-07
-            https://doi.org/10.1371%2Fjournal.pmed.0010062
-            ======================================================================================================================================================
-            
-            <h1> Source: 1220 </h1>
-            A map of open chromatin in human pancreatic islets    
-            2010-03-17
-            https://doi.org/10.1038%2Fng.530
-            ======================================================================================================================================================
-            
-            <h1> Source: 1221 </h1>
-            Deprivation*    
-            1987-04-17
-            https://doi.org/10.1017%2FS0047279400020341
-            ======================================================================================================================================================
-            
-            <h1> Source: 1222 </h1>
-            Bell JA , Mickelson NJ , Vaughan JA . West Nile virus in host-seeking mosquitoes within a residentia...    
-            2005-01-01
-            https://doi.org/10.1089/vbz.2005.5.373
-            ======================================================================================================================================================
-            
-            <h1> Source: 1223 </h1>
-            A linear complexity phasing method for thousands of genomes    
-            2012-02-17
-            https://doi.org/10.1038%2Fnmeth.1785
-            ======================================================================================================================================================
-            
-            <h1> Source: 1224 </h1>
-            Sensory and hedonic associations with macronutrient and energy intakes of lean and obese consumers    
-            1999-04-17
-            https://doi.org/10.1038%2Fsj.ijo.0800836
-            ======================================================================================================================================================
-            
-            <h1> Source: 1225 </h1>
-            Common Inherited Variation in Mitochondrial Genes Is Not Enriched for Associations with Type 2 Diabetes or Related Glycemic Traits    
-            2010-08-12
-            https://doi.org/10.1371%2Fjournal.pgen.1001058
-            ======================================================================================================================================================
-            
-            <h1> Source: 1226 </h1>
-            The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic, Cardiovascular, and Anthropometric Traits    
-            2012-08-02
-            https://doi.org/10.1371%2Fjournal.pgen.1002793
-            ======================================================================================================================================================
-            
-            <h1> Source: 1227 </h1>
-            Genomic inflation factors under polygenic inheritance    
-            2011-07-17
-            https://doi.org/10.1038%2Fejhg.2011.39
-            ======================================================================================================================================================
-            
-            <h1> Source: 1228 </h1>
-            Improved whole-chromosome phasing for disease and population genetic studies    
-            2013-01-17
-            https://doi.org/10.1038%2Fnmeth.2307
-            ======================================================================================================================================================
-            
-            <h1> Source: 1229 </h1>
-            The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic, Cardiovascular, and Anthropometric Traits    
-            2012-08-02
-            https://doi.org/10.1371%2Fjournal.pgen.1002793
-            ======================================================================================================================================================
-            
-            <h1> Source: 1230 </h1>
-            Baumrind, D. (1983). Specious causal attributions in the social sciences: The reformulated stepping-...    
-            1983-01-01
-            http://dx.doi.org/10.1146/annurev.ps.31.020180.002223
-            ======================================================================================================================================================
-            
-            <h1> Source: 1231 </h1>
-            Aligica, P.D., & Evans, A.J. (2008). Expérimentations par la pensée, analyses contrefactuelles et co...    
-            2008-01-01
-            http://dx.doi.org/10.1257/jep.24.2.3
-            ======================================================================================================================================================
-            
-            <h1> Source: 1232 </h1>
-            Heritability of Adult Body Height: A Comparative Study of Twin Cohorts in Eight Countries    
-            2003-10-17
-            https://doi.org/10.1375%2F136905203770326402
-            ======================================================================================================================================================
-            
-            <h1> Source: 1233 </h1>
-            Blalock, H. (1964). Causal inferences in nonexperimental research. University of North Carolina Pres...    
-            1964-01-01
-            http://dx.doi.org/10.1002/9781118619179
-            ======================================================================================================================================================
-            
-            <h1> Source: 1234 </h1>
-            Bollen, K.A. (1989). Structural equations with latent variables. New York: Wiley. 10.1007/978-94-007...    
-            2024-08-23
-            http://dx.doi.org/10.1007/978-94-007-6094-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 1235 </h1>
-            Oncology's trials - Nature Reviews Drug Discovery    
-            2003-08-01
-            https://doi.org/10.1038%2Fnrd1158
-            ======================================================================================================================================================
-            
-            <h1> Source: 1236 </h1>
-            Borsboom, D., van der Sluis, S., Noordhof, A. et al. (2012). What kind of causal modelling does pers...    
-            1967-01-17
-            http://dx.doi.org/10.1007/BF00736610
-            ======================================================================================================================================================
-            
-            <h1> Source: 1237 </h1>
-            Quality control and conduct of genome-wide association meta-analyses    
-            2014-05-17
-            https://doi.org/10.1038%2Fnprot.2014.071
-            ======================================================================================================================================================
-            
-            <h1> Source: 1238 </h1>
-            Boudon, R. (1965). Méthodes d’analyse causale. Revue Française de Sociologie, 6 , 24-43. 10.1080/107...    
-            1965-01-01
-            http://dx.doi.org/10.1080/10705519409539977
-            ======================================================================================================================================================
-            
-            <h1> Source: 1239 </h1>
-            Bullock, H.E., Harlow, L. L., & Mulaik, S. A. (1994). Causation issues in structural equation modeli...    
-            2007-05-17
-            http://dx.doi.org/10.1017/CBO9780511618758
-            ======================================================================================================================================================
-            
-            <h1> Source: 1240 </h1>
-            Courgeau, D. (2012). Peut-on parler de causalité en sciences sociales ? Les approches contrefactuell...    
-            2012-01-01
-            http://dx.doi.org/10.1080/01621459.2000.10474210
-            ======================================================================================================================================================
-            
-            <h1> Source: 1241 </h1>
-            Drouet, I. (2012). Causes, probabilités, inférences. Paris : Vuibert. 10.1086/224256 :    
-            2012-01-01
-            http://dx.doi.org/10.1086/224256
-            ======================================================================================================================================================
-            
-            <h1> Source: 1242 </h1>
-            Duncan, O.D. (1966). Path analysis: Sociological examples. American Journal of Sociology, 72, 1-16. ...    
-            2024-08-23
-            http://dx.doi.org/10.1007/978-94-007-6094-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 1243 </h1>
-            Fennell, D. (2007). Causality, mechanisms and modularity : structural models in econometrics ? In F....    
-            2007-01-01
-            http://dx.doi.org/10.2307/2981200
-            ======================================================================================================================================================
-            
-            <h1> Source: 1244 </h1>
-            Association of NOD2 leucine-rich repeat variants with susceptibility to Crohn's disease    
-            2001-05-17
-            https://doi.org/10.1038%2F35079107
-            ======================================================================================================================================================
-            
-            <h1> Source: 1245 </h1>
-            Foster, E.M. (2010). Causal inference and developmental psychology. Developmental Psychology, 46, 14...    
-            2010-01-01
-            http://dx.doi.org/10.2307/1164888
-            ======================================================================================================================================================
-            
-            <h1> Source: 1246 </h1>
-            High-throughput, pooled sequencing identifies mutations in NUBPL and FOXRED1 in human complex I deficiency    
-            2010-10-17
-            https://doi.org/10.1038%2Fng.659
-            ======================================================================================================================================================
-            
-            <h1> Source: 1247 </h1>
-            Freedman, D.A. (1987). As others see us: A case study in path analysis. Journal of Educational Stati...    
-            1987-01-01
-            http://dx.doi.org/10.1093/oxfordhb/9780199279739.001.0001
-            ======================================================================================================================================================
-            
-            <h1> Source: 1248 </h1>
-            Godfrey-Smith, P. (2009). Causal pluralism. In H. Beebee, C. Hitchcock, & P. Menzies (Eds.), The Oxf...    
-            2009-01-01
-            http://dx.doi.org/10.1890/ES12-00048.1
-            ======================================================================================================================================================
-            
-            <h1> Source: 1249 </h1>
-            Detection of sharing by descent, long-range phasing and haplotype imputation    
-            2008-09-17
-            https://doi.org/10.1038%2Fng.216
-            ======================================================================================================================================================
-            
-            <h1> Source: 1250 </h1>
-            Grace, J.B., Schoolmaster, D.R., Gutenspergen, G. R., Little, A.M., Mitchell, B.R., Miller, K.M., & ...    
-            None
-            http://dx.doi.org/10.1214/ss/1009211805
-            ======================================================================================================================================================
-            
-            <h1> Source: 1251 </h1>
-            Glymour, M., & Greenland, S. (2008). Causal diagrams. In K. Rothman, S. Greenland & T. Lash (Eds.). ...    
-            2008-01-01
-            http://dx.doi.org/10.2307/1905714
-            ======================================================================================================================================================
-            
-            <h1> Source: 1252 </h1>
-            Haavelmo, T. (1943). The statistical implications of a system of simultaneous equations. Econometric...    
-            1943-01-01
-            http://dx.doi.org/10.2307/1906935
-            ======================================================================================================================================================
-            
-            <h1> Source: 1253 </h1>
-            Haavelmo, T. (1944). The probability approach in econometrics. Econometrica, 12 (Supplement), 1-115....    
-            1944-01-01
-            http://dx.doi.org/10.1111/j.0081-1750.2006.00164.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 1254 </h1>
-            Das, S. et al. Next-generation genotype imputation service and methods. Nat. Genet. http://dx.doi.or...    
-            2016-10-17
-            https://doi.org/10.1038/ng.3656
-            ======================================================================================================================================================
-            
-            <h1> Source: 1255 </h1>
-            Hespel, B. 1994. Revue sommaire des principales théories contemporaines de la causation. In R. Franc...    
-            1994-01-01
-            http://dx.doi.org/10.2307/2678432
-            ======================================================================================================================================================
-            
-            <h1> Source: 1256 </h1>
-            Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
-            2012-08-17
-            https://doi.org/10.1038%2Fng.2354
-            ======================================================================================================================================================
-            
-            <h1> Source: 1257 </h1>
-            Hitchcock, C. (2001). The intransitivity of causation revealed in equations and graphs. Journal of P...    
-            2001-01-01
-            http://dx.doi.org/10.1002/j.2330-8516.1985.tb00125.x
-            ======================================================================================================================================================
-            
-            <h1> Source: 1258 </h1>
-            WASP: allele-specific software for robust molecular quantitative trait locus discovery    
-            2015-11-17
-            https://doi.org/10.1038%2Fnmeth.3582
-            ======================================================================================================================================================
-            
-            <h1> Source: 1259 </h1>
-            Holland, P.W. (1986). Statistics and causal inference. Journal of the American Statistical Associati...    
-            1986-01-01
-            http://dx.doi.org/10.2307/271055
-            ======================================================================================================================================================
-            
-            <h1> Source: 1260 </h1>
-            Fast and accurate long-range phasing in a UK Biobank cohort    
-            2016-07-17
-            https://doi.org/10.1038%2Fng.3571
-            ======================================================================================================================================================
-            
-            <h1> Source: 1261 </h1>
-            Hoyle, R.H. (Ed.) (2012). Handbook of structural equation modeling. New York: The Guilford Press. 10...    
-            2012-01-01
-            http://dx.doi.org/10.2307/2334833
-            ======================================================================================================================================================
-            
-            <h1> Source: 1262 </h1>
-            Kline, R.B. (2012). Assumptions in structural equation modeling. In R.H. Hoyle (Ed.), Handbook of st...    
-            2024-08-23
-            http://dx.doi.org/10.1007/978-94-007-6094-3
-            ======================================================================================================================================================
-            
-            <h1> Source: 1263 </h1>
-            Jöreskog, K.G. (1970). A general method for analysis of covariance structures. Biometrika , 57, 239-...    
-            2009-01-17
-            http://dx.doi.org/10.4135/9781452226576
-            ======================================================================================================================================================
-            
-            <h1> Source: 1264 </h1>
-            Guilt beyond a reasonable doubt    
-            2007-07-17
-            https://doi.org/10.1038%2Fng0707-813
-            ======================================================================================================================================================
-            
-            <h1> Source: 1265 </h1>
-            Common SNPs explain a large proportion of the heritability for human height    
-            2010-07-17
-            https://doi.org/10.1038%2Fng.608
-            ======================================================================================================================================================
-            
+1987-02-01
+http://dx.doi.org/10.1172/JCI112835
+==================================================
+
+# Source: 723
+2003 approvals: a year of innovation and upward trends - Nature Reviews Drug Discovery    
+2004-02-01
+https://doi.org/10.1038%2Fnrd1327
+==================================================
+
+# Source: 724
+Variation in complement factor 3 is associated with risk of age-related macular degeneration    
+2007-10-17
+https://doi.org/10.1038%2Fng2131
+==================================================
+
+# Source: 725
+Use of genome-wide association studies for drug repositioning    
+2012-04-17
+https://doi.org/10.1038%2Fnbt.2151
+==================================================
+
+# Source: 726
+Mapping determinants of human gene expression by regional and genome-wide association    
+2005-10-17
+https://doi.org/10.1038%2Fnature04244
+==================================================
+
+# Source: 727
+Bragg, D. D., Kim, E., & Barnett, E. A. (2006). Creating access and success: Academic pathways reach...    
+2006-01-01
+https://doi.org/10.1002/cc.243
+==================================================
+
+# Source: 728
+Matching as Nonparametric Preprocessing for Reducing Model Dependence in Parametric Causal Inference    
+2007-07-17
+https://doi.org/10.1093%2Fpan%2Fmpl013
+==================================================
+
+# Source: 729
+MRC IEU UK Biobank GWAS pipeline version 1 This dataset is superseded by https://doi.org/10.5523/bri...    
+2017-12-14
+https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
+==================================================
+
+# Source: 730
+Differences in College Access and Choice Among Racial/Ethnic Groups: Identifying Continuing Barriers    
+1997-02-17
+https://doi.org/10.1023%2FA%3A1024948728792
+==================================================
+
+# Source: 731
+Breen, R., & Goldthorpe, J. H. (1997). Explaining educational differentials: Towards a formal ration...    
+1997-01-01
+https://doi.org/10.1177/104346397009003002
+==================================================
+
+# Source: 732
+HLA-A Confers an HLA-DRB1 Independent Influence on the Risk of Multiple Sclerosis    
+2007-07-25
+https://doi.org/10.1371%2Fjournal.pone.0000664
+==================================================
+
+# Source: 733
+Ho, D. E., Imai, K., King, G., & Stuart, E. A. (2007). Matching as nonparametric preprocessing for r...    
+2007-07-17
+https://doi.org/10.1093/pan/mpl013
+==================================================
+
+# Source: 734
+Lansbury LE, Brown CS, Nguyen-Van-Tam JS. Influenza in long-term care facilities. Influenza Other Re...    
+2017-01-01
+http://dx.doi.org/10.1111/irv.12464
+==================================================
+
+# Source: 735
+Gene Ontology: tool for the unification of biology    
+2000-05-17
+https://doi.org/10.1038%2F75556
+==================================================
+
+# Source: 736
+Cabrera, A. F., & La Nasa, S. M. (2001). On the path to college: Three critical tasks facing America...    
+2001-01-01
+https://doi.org/10.1023/A:1026520002362
+==================================================
+
+# Source: 737
+Becker , Sascha O. , and Ichino , Andrea . 2002 . Estimation of average treatment effects based on p...    
+2002-01-01
+https://dx.doi.org/10.1177/1536867X0200200403
+==================================================
+
+# Source: 738
+A variant of the gene encoding leukotriene A4 hydrolase confers ethnicity-specific risk of myocardial infarction    
+2006-01-17
+https://doi.org/10.1038%2Fng1692
+==================================================
+
+# Source: 739
+Jackson, G. A. (1990). Financial-aid, college entry, and affirmative action. American Journal of Edu...    
+1990-01-01
+https://doi.org/10.1086/443975
+==================================================
+
+# Source: 740
+Yang, Y., Lu, Q., Liu, M., Wang, Y., Zhang, A., Jalali, N., Dean, N., Longini, I., Halloran, M.E., X...    
+2020-02-21
+https://doi.org/10.1101/2020.02.10.20021675
+==================================================
+
+# Source: 741
+Engberg, M. E., & Allen, D. J. (2011). Uncontrolled destinies: Improving opportunity for low-income ...    
+2011-01-01
+https://doi.org/10.1007/s11162-011-9222-7
+==================================================
+
+# Source: 742
+Breen, R., & Jonsson, J. O. (2000). Analyzing educational careers: A multinomial transition model. A...    
+2000-01-01
+https://doi.org/10.2307/2657545
+==================================================
+
+# Source: 743
+Charles, C. Z., Roscigno, V. J., & Torres, K. C. (2007). Racial inequality and college attendance: T...    
+2007-01-01
+https://doi.org/10.1016/j.ssresearch.2006.02.004
+==================================================
+
+# Source: 744
+Coleman, J. S. (1988). Social capital in the creation of human capital. American Journal of Sociolog...    
+1988-01-01
+https://doi.org/10.1086/228943
+==================================================
+
+# Source: 745
+Sayers G, Igoe D, Carr M, et al. High morbidity and mortality associated with an outbreak of influen...    
+2013-02-17
+http://dx.doi.org/10.1017/S0950268812000659
+==================================================
+
+# Source: 746
+Suggested citation for this article: Kimball A, Hatfield KM, Arons M, et al. Asymptomatic and Presym...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6913e1
+==================================================
+
+# Source: 747
+Doyle, W. R. (2009). The effect of community college enrollment on bachelor’s degree completion. Eco...    
+2009-01-01
+https://doi.org/10.1016/j.econedurev.2008.01.006
+==================================================
+
+# Source: 748
+Differences in College Access and Choice Among Racial/Ethnic Groups: Identifying Continuing Barriers    
+1997-02-17
+https://doi.org/10.1023%2FA%3A1024948728792
+==================================================
+
+# Source: 749
+Kubitschek, W. N., & Hallinan, M. T. (1998). Tracking and students’ friendships. Social Psychology Q...    
+1998-01-01
+https://doi.org/10.2307/2787054
+==================================================
+
+# Source: 750
+Gamoran, A. (1992). The variable effects of high school tracking. American Sociological Review, 57 (...    
+1992-01-01
+https://doi.org/10.2307/2096125
+==================================================
+
+# Source: 751
+Meta-analysis of genome scans and replication identify CD6, IRF8 and TNFRSF1A as new multiple sclerosis susceptibility loci    
+2009-07-17
+https://doi.org/10.1038%2Fng.401
+==================================================
+
+# Source: 752
+Larson, R. W., Richards, M. H., Sims, B., & Dworkin, J. (2001). How urban african american young ado...    
+2001-01-01
+https://doi.org/10.1023/a:1010422017731
+==================================================
+
+# Source: 753
+Zou L, Ruan F, Huang M, et al. SARS-CoV-2 viral load in upper respiratory specimens of infected pati...    
+2020-01-01
+http://dx.doi.org/10.1056/NEJMc2001737
+==================================================
+
+# Source: 754
+Fryer, R. G., & Levitt, S. D. (2004). Understanding the black-white test score gap in the first two ...    
+2004-01-01
+https://doi.org/10.1162/003465304323031049
+==================================================
+
+# Source: 755
+Speliotes, E. K., C. J. Willer, S. I. Berndt, K. L. Monda, G. Thorleifsson, A. U. Jackson, H. L. All...    
+2010-11-17
+https://doi.org/10.1038/ng.686
+==================================================
+
+# Source: 756
+New models of collaboration in genome-wide association studies: the Genetic Association Information Network    
+2007-09-17
+https://doi.org/10.1038%2Fng2127
+==================================================
+
+# Source: 757
+Harding, D. J. (2003). Counterfactual models of neighborhood effects: The effect of neighborhood pov...    
+2003-01-01
+https://doi.org/10.1086/379217
+==================================================
+
+# Source: 758
+Cauchemez S , Carrat F , Viboud C , Valleron AJ , Boelle PY . Bayesian MCMC approach to study transm...    
+2004-01-01
+https://doi.org/10.1002/sim.1912
+==================================================
+
+# Source: 759
+Gamoran, A., & Mare, R. D. (1989). Secondary school tracking and educational inequality: Compensatio...    
+1989-01-01
+https://doi.org/10.1086/229114
+==================================================
+
+# Source: 760
+Goldthorpe, J. H. (1996). Class analysis and the reorientation of class theory: The case of persisti...    
+1996-01-01
+https://doi.org/10.2307/591365
+==================================================
+
+# Source: 761
+Chang, D., Lin, M., Wei, L., Xie, L., Zhu, G., Dela Cruz, C.S., and Sharma, L. (2020). Epidemiologic...    
+2020-01-01
+https://doi.org/10.1001/jama.2020.1623
+==================================================
+
+# Source: 762
+Counterfactuals and Causal Inference: Methods and Principles for Social Research    
+2014-11-17
+https://doi.org/10.1017%2FCBO9781107587991
+==================================================
+
+# Source: 763
+White, I. (2010): “simsum: Analysis of simulation studies including Monte Carlo error,” The Stata Jo...    
+2010-01-01
+https://doi.org/10.1177/1536867X1001000305
+==================================================
+
+# Source: 764
+Graham, J. W., Olchowski, A. E., & Gilreath, T. D. (2007). How many imputations are really needed? S...    
+2007-01-01
+https://doi.org/10.1007/s11121-007-0070-9
+==================================================
+
+# Source: 765
+Andrews, H. A. (2004). Dual credit research outcomes for students. Community College Journal of Rese...    
+2004-01-01
+https://doi.org/10.1080/1066892049044445
+==================================================
+
+# Source: 766
+Riegle-Crumb, C., & Grodsky, E. (2010). Racial-ethnic differences at the intersection of math course...    
+2010-01-01
+https://doi.org/10.1177/0038040710375689
+==================================================
+
+# Source: 767
+Wang D, Li S, Jiang J, Yan J, Zhao C, Wang Y, Ma Y, Zeng H, Guo X, Wang H, Tang J, Zuo H, Lin L, Cui...    
+2019-02-17
+https://doi.org/10.1007/s11427-018-9385-3
+==================================================
+
+# Source: 768
+Hauser, R. M. (1972). Disaggregating a social-psychological model of educational attainment. Social ...    
+1972-01-01
+https://doi.org/10.1016/0049-089x(72)90092-0
+==================================================
+
+# Source: 769
+Hauser, R. M., Tsai, S. L., & Sewell, W. H. (1983). A model of stratification with response error in...    
+1983-01-01
+https://doi.org/10.2307/2112301
+==================================================
+
+# Source: 770
+Lucas, S. R. (2001). Effectively maintained inequality: Education transitions, track mobility, and s...    
+2001-01-01
+https://doi.org/10.1086/321300
+==================================================
+
+# Source: 771
+Zhang, Z., Li, X., Zhang, W., Shi, Z.L., Zheng, Z., and Wang, T. (2020). Clinical Features and Treat...    
+2020-06-17
+https://doi.org/10.1007/s12250-020-00203-8
+==================================================
+
+# Source: 772
+Ding, L., Cai, W., Jing J.Q., Zhang, X.X., Cai Y., Shi, J.W., Liang, Q.M., Zhang, L.F., Sun, L.Z., Q...    
+2020-02-23
+https://doi.org/10.1360/SSV-2020-0044
+==================================================
+
+# Source: 773
+Genome-wide scan reveals association of psoriasis with IL-23 and NF-κB pathways    
+2009-02-17
+https://doi.org/10.1038%2Fng.311
+==================================================
+
+# Source: 774
+Haveman, R., & Smeeding, T. (2006). The role of higher education in social mobility. Future of Child...    
+2006-01-01
+https://doi.org/10.1353/foc.2006.0015
+==================================================
+
+# Source: 775
+Translational Science in Medicine    
+2006-10-17
+https://doi.org/10.2165%2F00124363-200620050-00004
+==================================================
+
+# Source: 776
+Rubin, D. (1978). Bayesian inference for causal effects: The role of randomization. Annals of Statis...    
+1978-01-17
+https://doi.org/10.1214/aos/1176344064
+==================================================
+
+# Source: 777
+Bayesian Inference for Causal Effects: The Role of Randomization    
+1978-01-17
+https://doi.org/10.1214%2Faos%2F1176344064
+==================================================
+
+# Source: 778
+Iatarola, P., Conger, D., & Long, M. C. (2011). Determinants of high schools’ advanced course offeri...    
+2011-01-01
+https://doi.org/10.3102/0162373711398124
+==================================================
+
+# Source: 779
+Variance component model to account for sample structure in genome-wide association studies    
+2010-04-17
+https://doi.org/10.1038%2Fng.548
+==================================================
+
+# Source: 780
+Huntley, H. J., & Schuh, J. H. (2002–2003). Post-secondary enrollment: A new frontier in recruitment...    
+2002-01-01
+https://doi.org/10.2190/4XQF-P3CB-LQM8-BQQL
+==================================================
+
+# Source: 781
+Longini IM , Nizam A , Xu SF , Ungchusak K , Hanshaoworakul W , Cummings DA , Containing pandemic in...    
+2005-01-01
+https://doi.org/10.1126/science.1115717
+==================================================
+
+# Source: 782
+Sacerdote, B. (2011). Peer effects in education: How might they work, how big are they and how much ...    
+2011-01-01
+https://doi.org/10.1016/S0169-7218(11)03004-8
+==================================================
+
+# Source: 783
+Hout, M., & DiPrete, T. A. (2006). What we have learned: RC28’s contributions to knowledge about soc...    
+2006-01-01
+https://doi.org/10.1016/j.rssm.2005.10.001
+==================================================
+
+# Source: 784
+Stearns, E., Potochnick, S., Moller, S., & Southworth, S. (2010). High school course-taking and post...    
+2010-06-17
+https://doi.org/10.1007/s11162-009-9161-8
+==================================================
+
+# Source: 785
+Ichino, A., Mealli, F., & Nannicini, T. (2008). From temporary help jobs to permanent employment: Wh...    
+2008-01-01
+https://doi.org/10.1002/jae.998
+==================================================
+
+# Source: 786
+Best Practices in Quasi&amp;#8211;Experimental Designs: Matching Methods for Causal Inference    
+2008-01-17
+https://doi.org/10.4135%2F9781412995627.d14
+==================================================
+
+# Source: 787
+Haworth, C. M., S. Carnell, E. L. Meaburn, O. S. Davis, R. Plomin and J. Wardle (2008): “Increasing ...    
+2008-01-01
+https://doi.org/10.1038/oby.2008.434
+==================================================
+
+# Source: 788
+Ashenfelter, O., & Rouse, C. (1998). Income, schooling, and ability: Evidence from a new sample of i...    
+1998-01-01
+https://doi.org/10.1162/003355398555577
+==================================================
+
+# Source: 789
+Lucas, S. R., & Berends, M. (2002). Sociodemographic diversity, correlated achievement, and de facto...    
+2002-01-01
+https://doi.org/10.2307/3090282
+==================================================
+
+# Source: 790
+Review of Aerosol Transmission of Influenza A Virus - Volume 12, Number 11—November 2006 - Emerging Infectious Diseases journal - CDC    
+2006-11-17
+https://doi.org/10.3201%2Feid1211.060426
+==================================================
+
+# Source: 791
+This dataset is superseded by https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 792
+Frayling, T. M., N. J. Timpson, M. N. Weedon, E. Zeggini, R. M. Freathy, C. M. Lindgren, J. R. Perry...    
+2007-01-01
+https://doi.org/10.1126/science.1141634
+==================================================
+
+# Source: 793
+Kim, J., & Bragg, D. D. (2008). The impact of dual and articulated credit on college readiness and r...    
+2008-01-01
+https://doi.org/10.5328/CTER33.2.133
+==================================================
+
+# Source: 794
+Kerckhoff, A. C. (1995). Institutional arrangements and stratification processes in industrial socie...    
+1995-01-01
+https://doi.org/10.1146/annurev.so.21.080195.001543
+==================================================
+
+# Source: 795
+Lucas, S. R., & Good, A. D. (2001). Race, class, and tournament track mobility. Sociology of Educati...    
+2001-01-01
+https://doi.org/10.2307/2673167
+==================================================
+
+# Source: 796
+Tellier, R. Aerosol transmission of influenza A virus: a review of new studies. Journal of the Royal...    
+2009-01-01
+https://doi.org/10.1098/rsif.2009.0302.focus
+==================================================
+
+# Source: 797
+Tang, J. W. Investigating the airborne transmission pathway - different approaches with the same obj...    
+2015-01-01
+https://doi.org/10.1111/ina.12175
+==================================================
+
+# Source: 798
+Aulchenko, Y. S., S. Ripke, A. Isaacs, and C. M. van Duijn (2007): “GenABEL: an R library for genome...    
+2007-01-01
+https://doi.org/10.1093/bioinformatics/btm108
+==================================================
+
+# Source: 799
+Morgan, S. L. (2002). Modeling preparatory commitment and non-repeatable decisions: Information-proc...    
+2002-01-01
+https://doi.org/10.1177/1043463102014004001
+==================================================
+
+# Source: 800
+Rosenbaum, P. R. (1987). Sensitivity analysis for certain permutation inferences in matched observat...    
+1987-01-01
+https://doi.org/10.1093/biomet/74.1.13
+==================================================
+
+# Source: 801
+Yang, S. H., Lee, G. W. M., Chen, C. M., Wu, C. C. & Yu, K. P. The size and concentration of droplet...    
+2007-01-01
+https://doi.org/10.1089/jam.2007.0610
+==================================================
+
+# Source: 802
+Variants within the immunoregulatory CBLB gene are associated with multiple sclerosis    
+2010-06-17
+https://doi.org/10.1038%2Fng.584
+==================================================
+
+# Source: 803
+Padgett, R. D., Salisbury, M. H., An, B. P., & Pascarella, E. T. (2010). Required, practical, or unn...    
+2010-01-01
+https://doi.org/10.1002/ir.370
+==================================================
+
+# Source: 804
+Lindsley, W. G. et al . Quantity and size distribution of cough-generated aerosol particles produced...    
+2012-01-01
+https://doi.org/10.1080/15459624.2012.684582
+==================================================
+
+# Source: 805
+Ferguson NM , Cummings DA , Fraser C , Cajka JC , Cooley PC , Burke DS . Strategies for mitigating a...    
+2006-07-17
+https://doi.org/10.1038/nature04795
+==================================================
+
+# Source: 806
+Schneider, B., Swanson, C. B., & Riegle-Crumb, C. (1998). Opportunities for learning: Course sequenc...    
+1998-01-01
+https://doi.org/10.1023/a:1009601517753
+==================================================
+
+# Source: 807
+Lindsley, W. G., Reynolds, J. S., Szalajda, J. V., Noti, J. D. & Beezhold, D. H. A cough aerosol sim...    
+2013-01-01
+https://doi.org/10.1080/02786826.2013.803019
+==================================================
+
+# Source: 808
+Kim, D. H., & Schneider, B. (2005). Social capital in action: Alignment of parental support in adole...    
+2005-01-01
+https://doi.org/10.1353/sof.2006.0012
+==================================================
+
+# Source: 809
+Lindsley, W. G. et al . Viable influenza A virus in airborne particles expelled during coughs versus...    
+2016-01-01
+https://doi.org/10.1111/irv.12390
+==================================================
+
+# Source: 810
+Bourouiba, L., Dehandschoewercker, E. & Bush, J. W. M. Violent expiratory events: on coughing and sn...    
+2014-04-17
+https://doi.org/10.1017/jfm.2014.88
+==================================================
+
+# Source: 811
+A molecular trio in relapse and remission in multiple sclerosis    
+2009-06-17
+https://doi.org/10.1038%2Fnri2548
+==================================================
+
+# Source: 812
+Violent expiratory events: on coughing and sneezing    
+2014-04-17
+https://doi.org/10.1017%2Fjfm.2014.88
+==================================================
+
+# Source: 813
+This dataset supersedes the earlier version at https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8...    
+2017-12-14
+https://doi.org/10.5523/bris.2fahpksont1zi26xosyamqo8rr
+==================================================
+
+# Source: 814
+Zayas, G. et al . Cough aerosol in healthy participants: fundamental knowledge to optimize droplet-s...    
+2012-12-17
+https://doi.org/10.1186/1471-2466-12-11
+==================================================
+
+# Source: 815
+Warrington, N. M., Y. Y. Wu, C. E. Pennell, J. A. Marsh, L. J. Beilin, L. J. Palmer, S. J. Lye and L...    
+2013-01-17
+https://doi.org/10.1371/journal.pone.0053897
+==================================================
+
+# Source: 816
+Scharfman, B. E., Techet, A. H., Bush, J. W. M. & Bourouiba, L. Visualization of sneeze ejecta: step...    
+2016-02-17
+https://doi.org/10.1007/s00348-015-2078-4
+==================================================
+
+# Source: 817
+Bidwell, C. E., & Quiroz, P. A. (1991). Organizational control in the high school workplace: A theor...    
+1991-01-01
+https://doi.org/10.1207/s15327795jra0103_2
+==================================================
+
+# Source: 818
+Wolniak, G. C., & Engberg, M. E. (2010). Academic achievement in the first year of college: Evidence...    
+2010-08-17
+https://doi.org/10.1007/s11162-010-9165-4
+==================================================
+
+# Source: 819
+Han, Z. Y., Weng, W. G. & Huang, Q. Y. Characterizations of particle size distribution of the drople...    
+2013-01-01
+https://doi.org/10.1098/rsif.2013.0560
+==================================================
+
+# Source: 820
+Edwards, D. A. et al . Inhaling to mitigate exhaled bioaerosols. Proceedings of the National Academy...    
+2004-01-01
+https://doi.org/10.1073/pnas.0408159101
+==================================================
+
+# Source: 821
+Can the pharmaceutical industry reduce attrition rates?    
+2004-08-17
+https://doi.org/10.1038%2Fnrd1470
+==================================================
+
+# Source: 822
+Papineni, R. S. & Rosenthal, F. S. The size distribution of droplets in the exhaled breath of health...    
+1997-01-01
+https://doi.org/10.1089/jam.1997.10.105
+==================================================
+
+# Source: 823
+Devlin, B. and K. Roeder (1999): “Genomic control for association studies,” Biometrics, 55, 997–1004...    
+1999-01-01
+https://doi.org/10.1111/j.0006-341X.1999.00997.x
+==================================================
+
+# Source: 824
+Fabian, P. et al . Influenza virus in human exhaled breath: an observational study. Plos One 3 , htt...    
+2008-07-16
+https://doi.org/10.1371/journal.pone.0002691
+==================================================
+
+# Source: 825
+The size and the duration of air-carriage of respiratory droplets and droplet-nuclei    
+1946-09-17
+https://doi.org/10.1017%2FS0022172400019288
+==================================================
+
+# Source: 826
+Useem, E. L. (1992). Middle schools and math groups: Parents’ involvement in children’s placement. S...    
+1992-01-01
+https://doi.org/10.2307/2112770
+==================================================
+
+# Source: 827
+Loudon, R. G. & Roberts, R. M. Droplet expulsion from the respiratory tract. American Review of Resp...    
+1967-01-01
+https://doi.org/10.1164/arrd.1967.95.3.435
+==================================================
+
+# Source: 828
+MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 829
+Johnson, G. R. & Morawska, L. The mechanism of breath aerosol formation. Journal of Aerosol Medicine...    
+2008-01-01
+https://doi.org/10.1089/jamp.2008.0720
+==================================================
+
+# Source: 830
+Sirin, S. R. (2005). Socioeconomic status and academic achievement: A meta-analytic review of resear...    
+2005-01-01
+https://doi.org/10.3102/00346543075003417
+==================================================
+
+# Source: 831
+Germann TC , Kadau K , Longini IM , Macken CA . Mitigation strategies for pandemic influenza in the ...    
+2006-01-01
+https://doi.org/10.1073/pnas.0601266103
+==================================================
+
+# Source: 832
+Liljeroos, L., Huiskonen, J. T., Ora, A., Susi, P. & Butcher, S. J. Electron cryotomography of measl...    
+2011-01-01
+https://doi.org/10.1073/pnas.1105770108
+==================================================
+
+# Source: 833
+Hayden FG , Fritz R , Lobo MC , Alvord W , Strober W , Straus SE . Local and systemic cytokine respo...    
+1998-02-01
+https://doi.org/10.1172/JCI1355
+==================================================
+
+# Source: 834
+Palla G , Deranyi I , Farkas I , Vicsek T . Uncovering the overlapping community structure of comple...    
+2005-06-17
+https://doi.org/10.1038/nature03607
+==================================================
+
+# Source: 835
+Fennelly, K. P. et al . Variability of infectious aerosols produced during coughing by patients with...    
+2012-01-01
+https://doi.org/10.1164/rccm.201203-0444OC
+==================================================
+
+# Source: 836
+Winship, C., & Morgan, S. L. (1999). The estimation of causal effects from observational data. Annua...    
+1999-01-01
+https://doi.org/10.1146/annurev.soc.25.1.659
+==================================================
+
+# Source: 837
+Yan, J. et al . Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a co...    
+2018-01-01
+https://doi.org/10.1073/pnas.1716561115
+==================================================
+
+# Source: 838
+Allen, D., & Dadgar, M. (2012). Does dual enrollment increase students’ success in college? Evidence...    
+2012-01-01
+https://doi.org/10.1002/he.20010
+==================================================
+
+# Source: 839
+Shaman, J. & Kohn, M. Absolute humidity modulates influenza survival, transmission, and seasonality....    
+2009-01-01
+https://doi.org/10.1073/pnas.0806852106
+==================================================
+
+# Source: 840
+Lam PP, Coleman BL, Green K, et al. Predictors of influenza among older adults in the emergency depa...    
+2016-12-17
+http://dx.doi.org/10.1186/s12879-016-1966-4
+==================================================
+
+# Source: 841
+Turley, R. N. L., & Wodtke, G. (2010). College residence and academic performance: Who benefits from...    
+2010-01-01
+https://doi.org/10.1177/0042085910372351
+==================================================
+
+# Source: 842
+Stevenson, D. L., Schiller, K. S., & Schneider, B. (1994). Sequences of opportunities for learning. ...    
+1994-01-01
+https://doi.org/10.2307/2112790
+==================================================
+
+# Source: 843
+von Hippel, P. T. (2007). Regression with missing Ys: An improved strategy for analyzing multiply im...    
+2007-01-01
+https://doi.org/10.1111/j.1467-9531.2007.00180.x
+==================================================
+
+# Source: 844
+Xie, X. J., Li, Y. G., Sun, H. Q. & Liu, L. Exhaled droplets due to talking and coughing. Journal of...    
+2009-01-01
+https://doi.org/10.1098/rsif.2009.0388.focus
+==================================================
+
+# Source: 845
+Lloyd-Smith, J. O., Schreiber, S. J., Kopp, P. E. & Getz, W. M. Superspreading and the effect of ind...    
+2005-11-17
+https://doi.org/10.1038/nature04153
+==================================================
+
+# Source: 846
+Superspreading and the effect of individual variation on disease emergence    
+2005-11-17
+https://doi.org/10.1038%2Fnature04153
+==================================================
+
+# Source: 847
+Pinheiro, J. and D. Bates (2000): Mixed effects models in S and S-Plus. Springer: New York, NY, USA....    
+2000-01-01
+https://doi.org/10.1007/978-1-4419-0318-1
+==================================================
+
+# Source: 848
+Verbeke, G. and G. Molenberghs (2000): Linear mixed models for longitudinal data: Springer Series in...    
+2025-09-30
+https://doi.org/10.1007/978-1-4419-0300-6
+==================================================
+
+# Source: 849
+Titze, I. R. Phonation threshold pressure: A missing link in glottal aerodynamics. J. Acoust. Soc. A...    
+1992-01-01
+https://doi.org/10.1121/1.402928
+==================================================
+
+# Source: 850
+Titze, I. R. & Sundberg, J. Vocal intensity in speakers and singers. J. Acoust. Soc. Am. 91 , 2936–2...    
+1992-01-01
+https://doi.org/10.1121/1.402929
+==================================================
+
+# Source: 851
+Association scan of 14,500 nonsynonymous SNPs in four diseases identifies autoimmunity variants    
+2007-11-17
+https://doi.org/10.1038%2Fng.2007.17
+==================================================
+
+# Source: 852
+Use of population isolates for mapping complex traits    
+2000-12-17
+https://doi.org/10.1038%2F35042049
+==================================================
+
+# Source: 853
+Gupta, J. K., Lin, C. H. & Chen, Q. Y. Characterizing exhaled airflow from breathing and talking. In...    
+2009-01-01
+https://doi.org/10.1111/j.1600-0668.2009.00623.x
+==================================================
+
+# Source: 854
+Xi, J. X. & Longest, P. W. Characterization of submicrometer aerosol deposition in extrathoracic air...    
+2009-01-01
+https://doi.org/10.1080/02786820902950887
+==================================================
+
+# Source: 855
+Eggers, J. Nonlinear dynamics and breakup of free-surface flows. Reviews of Modern Physics 69 , 865–...    
+1997-01-01
+https://doi.org/10.1103/RevModPhys.69.865
+==================================================
+
+# Source: 856
+Lau, M. S. Y. et al . Spatial and temporal dynamics of superspreading events in the 2014–2015 West A...    
+2014-01-01
+https://doi.org/10.1073/pnas.1614595114
+==================================================
+
+# Source: 857
+Newman ME , Park J . Why social networks are different from other types of networks. Phys Rev E Stat...    
+2003-01-01
+https://doi.org/10.1103/PhysRevE.68.036122
+==================================================
+
+# Source: 858
+Chun, B. C. Understanding and modeling the super-spreading events of the Middle East respiratory syn...    
+2016-06-01
+https://doi.org/10.3947/ic.2016.48.2.147
+==================================================
+
+# Source: 859
+Understanding and Modeling the Super-spreading Events of the Middle East Respiratory Syndrome Outbreak in Korea    
+2016-06-01
+https://doi.org/10.3947%2Fic.2016.48.2.147
+==================================================
+
+# Source: 860
+Ferguson NM , Cummings DA , Cauchemez S , Fraser C , Riley S , Meeyai A , Strategies for containing ...    
+2005-09-17
+https://doi.org/10.1038/nature04017
+==================================================
+
+# Source: 861
+A Polymorphism in the HLA-DPB1 Gene Is Associated with Susceptibility to Multiple Sclerosis    
+2010-10-26
+https://doi.org/10.1371%2Fjournal.pone.0013454
+==================================================
+
+# Source: 862
+Kerckhoff, A. C. (2001). Education and social stratification processes in comparative perspective. S...    
+2001-01-01
+https://doi.org/10.2307/2673250
+==================================================
+
+# Source: 863
+Liang, K. Y. and S. L. Zeger (1986): “Longitudinal data analysis using generalized linear models,” B...    
+1986-01-01
+https://doi.org/10.1093/biomet/73.1.13
+==================================================
+
+# Source: 864
+Caforio AL, Pankuweit S, Arbustini E, et al. Current state of knowledge on aetiology, diagnosis, man...    
+2013-01-01
+http://dx.doi.org/10.1093/eurheartj/eht210
+==================================================
+
+# Source: 865
+Shinya, K. et al . Influenza virus receptors in the human airway. Nature 440 , 435, https://doi.org/...    
+2006-03-17
+https://doi.org/10.1038/440435a
+==================================================
+
+# Source: 866
+Influenza virus receptors in the human airway    
+2006-03-17
+https://doi.org/10.1038%2F440435a
+==================================================
+
+# Source: 867
+Longini IM , Halloran ME , Nizam A , Yang Y . Containing pandemic influenza with antiviral agents. A...    
+2004-01-01
+https://doi.org/10.1093/aje/kwh092
+==================================================
+
+# Source: 868
+Cole, T. J., M. C. Bellizzi, K. M. Flegal and W. H. Dietz (2000) “Establishing a standard definition...    
+2000-01-01
+https://doi.org/10.1136/bmj.320.7244.1240
+==================================================
+
+# Source: 869
+Alvarado, S. E., & Turley, R. N. L. (2012). College-bound friends and college application choices: H...    
+2012-01-01
+https://doi.org/10.1016/j.ssresearch.2012.05.017
+==================================================
+
+# Source: 870
+Sepkowitz, K. A. How contagious is tuberculosis? Clinical Infectious Diseases 23 , 954–962, https://...    
+1996-01-01
+https://doi.org/10.1093/clinids/23.5.954
+==================================================
+
+# Source: 871
+Kindblom, J. M., M. Lorentzon, A. Hellqvist, L. Lonn, J. Brandberg, S. Nilsson, E. Norjavaara and C....    
+2009-01-01
+https://doi.org/10.2337/db08-0606
+==================================================
+
+# Source: 872
+Genome-wide association study identifies new multiple sclerosis susceptibility loci on chromosomes 12 and 20    
+2009-07-17
+https://doi.org/10.1038%2Fng.396
+==================================================
+
+# Source: 873
+10.18637/jss.v038.i08    
+2011-01-04
+https://doi.org/10.18637/jss.v038.i08
+==================================================
+
+# Source: 874
+Nicas, M., Nazaroff, W. W. & Hubbard, A. Toward understanding the risk of secondary airborne infecti...    
+2005-01-01
+https://doi.org/10.1080/15459620590918466
+==================================================
+
+# Source: 875
+Zhang, D. and M. Davidian (2001): “Linear mixed models with flexible distributions of random effects...    
+2001-01-01
+https://doi.org/10.1111/j.0006-341X.2001.00795.x
+==================================================
+
+# Source: 876
+Laird, N. M. and J. H. Ware (1982): “Random-effects models for longitudinal data,” Biometrics, 38, 9...    
+1982-01-01
+https://doi.org/10.2307/2529876
+==================================================
+
+# Source: 877
+White, I. R., Royston, P., & Wood, A. M. (2011). Multiple imputation using chained equations: Issues...    
+2011-01-01
+https://doi.org/10.1002/sim.4067
+==================================================
+
+# Source: 878
+Xie, X., Li, Y., Chwang, A. T. Y., Ho, P. L. & Seto, W. H. How far droplets can move in indoor envir...    
+2006-01-01
+https://doi.org/10.1111/j.1600-0668.2006.00469.x
+==================================================
+
+# Source: 879
+Bradfield, J. P., H. R. Taal, N. J. Timpson, A. Scherag, C. Lecoeur, N. M. Warrington, E. Hypponen, ...    
+2012-05-17
+https://doi.org/10.1038/ng.2247
+==================================================
+
+# Source: 880
+Liu, L., Wei, J., Li, Y. & Ooi, A. Evaporation and dispersion of respiratory droplets from coughing....    
+2017-01-01
+https://doi.org/10.1111/ina.12297
+==================================================
+
+# Source: 881
+Duggal, P., E. M. Gillanders, T. N. Holmes and J. E. Bailey-Wilson (2008): “Establishing an adjusted...    
+2008-12-17
+https://doi.org/10.1186/1471-2164-9-516
+==================================================
+
+# Source: 882
+Integrating common and rare genetic variation in diverse human populations    
+2010-09-17
+https://doi.org/10.1038%2Fnature09298
+==================================================
+
+# Source: 883
+MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 884
+Inference of human population history from individual whole-genome sequences    
+2011-07-17
+https://doi.org/10.1038%2Fnature10231
+==================================================
+
+# Source: 885
+Howe, L. D., K. Tilling, L. Benfield, J. Logue, N. Sattar, A. R. Ness, G. D. Smith and D. A. Lawlor ...    
+2010-12-08
+https://doi.org/10.1371/journal.pone.0015186
+==================================================
+
+# Source: 886
+A framework for the interpretation of de novo mutation in human disease    
+2014-09-17
+https://doi.org/10.1038%2Fng.3050
+==================================================
+
+# Source: 887
+Dadd, T., M. E. Weale and C. M. Lewis (2009) “A critical evaluation of genomic control methods for g...    
+2009-01-01
+https://doi.org/10.1002/gepi.20379
+==================================================
+
+# Source: 888
+Genotype imputation for genome-wide association studies    
+2010-07-17
+https://doi.org/10.1038%2Fnrg2796
+==================================================
+
+# Source: 889
+De novo mutations in schizophrenia implicate synaptic networks    
+2014-02-17
+https://doi.org/10.1038%2Fnature12929
+==================================================
+
+# Source: 890
+Learning about human population history from ancient and modern genomes    
+2011-09-17
+https://doi.org/10.1038%2Fnrg3029
+==================================================
+
+# Source: 891
+Guidelines for investigating causality of sequence variants in human disease    
+2014-04-17
+https://doi.org/10.1038%2Fnature13127
+==================================================
+
+# Source: 892
+Watts DJ , Strogatz SH . Collective dynamics of 'small-world' networks. Nature . 1998 ; 393 : 440 – ...    
+1998-06-17
+https://doi.org/10.1038/30918
+==================================================
+
+# Source: 893
+A new multipoint method for genome-wide association studies by imputation of genotypes    
+2007-07-17
+https://doi.org/10.1038%2Fng2088
+==================================================
+
+# Source: 894
+Exome sequencing as a tool for Mendelian disease gene discovery    
+2011-11-17
+https://doi.org/10.1038%2Fnrg3031
+==================================================
+
+# Source: 895
+Boyd, A., J. Golding, J. Macleod, D. A. Lawlor, A. Fraser, J. Henderson, L. Molloy, A. Ness, S. Ring...    
+2013-01-01
+https://doi.org/10.1093/ije/dys064
+==================================================
+
+# Source: 896
+Large-scale whole-genome sequencing of the Icelandic population    
+2015-05-17
+https://doi.org/10.1038%2Fng.3247
+==================================================
+
+# Source: 897
+Genic Intolerance to Functional Variation and the Interpretation of Personal Genomes    
+2013-08-22
+https://doi.org/10.1371%2Fjournal.pgen.1003709
+==================================================
+
+# Source: 898
+A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000529
+==================================================
+
+# Source: 899
+Evolution on the X chromosome: unusual patterns and processes    
+2006-08-17
+https://doi.org/10.1038%2Fnrg1914
+==================================================
+
+# Source: 900
+Patterns of Cis Regulatory Variation in Diverse Human Populations    
+2012-04-19
+https://doi.org/10.1371%2Fjournal.pgen.1002639
+==================================================
+
+# Source: 901
+Lethality and centrality in protein networks    
+2001-05-17
+https://doi.org/10.1038%2F35075138
+==================================================
+
+# Source: 902
+Berends, M. (1995). Educational stratification and students’ social bonding to school. British Journ...    
+1995-01-01
+https://doi.org/10.1080/0142569950160304
+==================================================
+
+# Source: 903
+Risch, N. and K. Merikangas (1996): “The future of genetic studies of complex human diseases,” Scien...    
+1996-01-01
+https://doi.org/10.1126/science.273.5281.1516
+==================================================
+
+# Source: 904
+Cell-specific protein phenotypes for the autoimmune locus IL2RA using a genotype-selectable human bioresource    
+2009-09-17
+https://doi.org/10.1038%2Fng.434
+==================================================
+
+# Source: 905
+Bound, J., Lovenheim, M. F., & Turner, S. (2010). Why have college completion rates declined? An ana...    
+2010-01-01
+https://doi.org/10.1257/app.2.3.129
+==================================================
+
+# Source: 906
+Association scan of 14,500 nonsynonymous SNPs in four diseases identifies autoimmunity variants    
+2007-11-17
+https://doi.org/10.1038%2Fng.2007.17
+==================================================
+
+# Source: 907
+Attewell, P., Lavin, D., Domina, T., & Levey, T. (2006). New evidence on college remediation. Journa...    
+2006-01-01
+https://doi.org/10.1353/jhe.2006.0037
+==================================================
+
+# Source: 908
+A linear complexity phasing method for thousands of genomes    
+2012-02-17
+https://doi.org/10.1038%2Fnmeth.1785
+==================================================
+
+# Source: 909
+Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes    
+2012-09-17
+https://doi.org/10.1038%2Fng.2383
+==================================================
+
+# Source: 910
+In silico method for inferring genotypes in pedigrees    
+2006-09-17
+https://doi.org/10.1038%2Fng1863
+==================================================
+
+# Source: 911
+Sequence to Medical Phenotypes: A Framework for Interpretation of Human Whole Genome DNA Sequence Data    
+2015-10-08
+https://doi.org/10.1371%2Fjournal.pgen.1005496
+==================================================
+
+# Source: 912
+Detection of sharing by descent, long-range phasing and haplotype imputation    
+2008-09-17
+https://doi.org/10.1038%2Fng.216
+==================================================
+
+# Source: 913
+An, B. P. (2010). The relations between race, family characteristics, and where students apply to co...    
+2010-01-01
+https://doi.org/10.1016/j.ssresearch.2009.08.003
+==================================================
+
+# Source: 914
+Allen, J., Robbins, S. B., Casillas, A., & Oh, I. S. (2008). Third-year college retention and transf...    
+2008-01-01
+https://doi.org/10.1007/s11162-008-9098-3
+==================================================
+
+# Source: 915
+Drug innovation—what's slowing it down?    
+1980-03-17
+https://doi.org/10.1038%2F284118a0
+==================================================
+
+# Source: 916
+Gout-associated uric acid crystals activate the NALP3 inflammasome    
+2006-03-17
+https://doi.org/10.1038%2Fnature04516
+==================================================
+
+# Source: 917
+A haplotype map of the human genome    
+2005-10-17
+https://doi.org/10.1038%2Fnature04226
+==================================================
+
+# Source: 918
+Targeted disruption of the <i>Chop</i> gene delays endoplasmic reticulum stress–mediated diabetes    
+2002-02-15
+https://doi.org/10.1172%2FJCI0214550
+==================================================
+
+# Source: 919
+The acceptability of repeat Internet-based hybrid diet assessment of previous 24-h dietary intake: administration of the Oxford WebQ in UK Biobank    
+2016-02-17
+https://doi.org/10.1017%2FS0007114515004821
+==================================================
+
+# Source: 920
+The role of the medicinal chemist in drug discovery — then and now    
+2004-10-17
+https://doi.org/10.1038%2Fnrd1523
+==================================================
+
+# Source: 921
+A mutation in the insulin 2 gene induces diabetes with severe pancreatic β-cell dysfunction in the <i>Mody</i> mouse    
+1999-01-01
+https://doi.org/10.1172%2FJCI4431
+==================================================
+
+# Source: 922
+Merlin—rapid analysis of dense genetic maps using sparse gene flow trees    
+2002-01-17
+https://doi.org/10.1038%2Fng786
+==================================================
+
+# Source: 923
+Protein Architecture: Designing from the Ground Up    
+1986-04-17
+https://doi.org/10.1038%2Fnbt0486-277
+==================================================
+
+# Source: 924
+The genetic architecture of type 2 diabetes    
+2016-08-17
+https://doi.org/10.1038%2Fnature18642
+==================================================
+
+# Source: 925
+TLR activation of the transcription factor XBP1 regulates innate immune responses in macrophages    
+2010-05-17
+https://doi.org/10.1038%2Fni.1857
+==================================================
+
+# Source: 926
+Efficient Bayesian mixed-model analysis increases association power in large cohorts    
+2015-03-17
+https://doi.org/10.1038%2Fng.3190
+==================================================
+
+# Source: 927
+Multicomponent therapeutics for networked systems    
+2005-01-17
+https://doi.org/10.1038%2Fnrd1609
+==================================================
+
+# Source: 928
+Early nonsense: mRNA decay solves a translational problem    
+2006-06-17
+https://doi.org/10.1038%2Fnrm1942
+==================================================
+
+# Source: 929
+Activation of the NLRP3 inflammasome by islet amyloid polypeptide provides a mechanism for enhanced IL-1β in type 2 diabetes    
+2010-10-17
+https://doi.org/10.1038%2Fni.1935
+==================================================
+
+# Source: 930
+Population genomics in a disease targeted primary cell model    
+2009-11-01
+https://doi.org/10.1101%2Fgr.095224.109
+==================================================
+
+# Source: 931
+The NALP3 inflammasome is involved in the innate immune response to amyloid-β    
+2008-08-17
+https://doi.org/10.1038%2Fni.1636
+==================================================
+
+# Source: 932
+Loss-of-function mutations in SLC30A8 protect against type 2 diabetes    
+2014-04-17
+https://doi.org/10.1038%2Fng.2915
+==================================================
+
+# Source: 933
+UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
+2015-03-31
+https://doi.org/10.1371/journal.pmed.1001779
+==================================================
+
+# Source: 934
+The slowing of treatment discovery, 1965–1995    
+1995-11-17
+https://doi.org/10.1038%2Fnm1195-1122
+==================================================
+
+# Source: 935
+The descriptive epidemiology of accelerometer-measured physical activity in older adults    
+2016-12-17
+https://doi.org/10.1186/s12966-015-0316-z
+==================================================
+
+# Source: 936
+14. Monto , AS , Bryan , ER , Ohmit , S . Rhinovirus infections in Tecumseh. Michigan: Illness frequ...    
+1987-01-01
+https://dx.doi.org/10.1093/infdis/156.1.43
+==================================================
+
+# Source: 937
+A mutation in the immunoproteasome subunit <i>PSMB8</i> causes autoinflammation and lipodystrophy in humans    
+2011-10-03
+https://doi.org/10.1172%2FJCI58414
+==================================================
+
+# Source: 938
+GENCODE: The reference human genome annotation for The ENCODE Project    
+2012-09-01
+https://doi.org/10.1101%2Fgr.135350.111
+==================================================
+
+# Source: 939
+Inflammasomes in health and disease    
+2012-01-17
+https://doi.org/10.1038%2Fnature10759
+==================================================
+
+# Source: 940
+New approaches to disease mapping in admixed populations    
+2011-08-17
+https://doi.org/10.1038%2Fnrg3002
+==================================================
+
+# Source: 941
+Inflammasome-mediated dysbiosis regulates progression of NAFLD and obesity    
+2012-02-17
+https://doi.org/10.1038%2Fnature10809
+==================================================
+
+# Source: 942
+An integrated map of genetic variation from 1,092 human genomes    
+2012-11-17
+https://doi.org/10.1038%2Fnature11632
+==================================================
+
+# Source: 943
+Estimation of Daily Energy Expenditure in Pregnant and Non-Pregnant Women Using a Wrist-Worn Tri-Axial Accelerometer    
+2011-07-29
+https://doi.org/10.1371/journal.pone.0022922
+==================================================
+
+# Source: 944
+Sensitive Detection of Chromosomal Segments of Distinct Ancestry in Admixed Populations    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000519
+==================================================
+
+# Source: 945
+A missense mutation in the glucagon receptor gene is associated with non–insulin–dependent diabetes mellitus    
+1995-03-17
+https://doi.org/10.1038%2Fng0395-299
+==================================================
+
+# Source: 946
+Opportunities For Learning: Course Sequences and Positional Advantages    
+1997-03-17
+https://doi.org/10.1023%2FA%3A1009601517753
+==================================================
+
+# Source: 947
+Identifying R&D outliers - Nature Reviews Drug Discovery    
+2011-08-31
+https://doi.org/10.1038%2Fnrd3555
+==================================================
+
+# Source: 948
+Innate instruction of adaptive immunity revisited: the inflammasome    
+2009-05-17
+https://doi.org/10.1002%2Femmm.200900014
+==================================================
+
+# Source: 949
+Principi N , Esposito S , Gasparini R , Marchisio P , Crovari P ; Flu-Flu Study Group . Burden of in...    
+2004-01-01
+https://doi.org/10.1136/adc.2003.045401
+==================================================
+
+# Source: 950
+Global patterns of cis variation in human cells revealed by high-density allelic expression analysis    
+2009-11-17
+https://doi.org/10.1038%2Fng.473
+==================================================
+
+# Source: 951
+Common SNPs explain a large proportion of the heritability for human height    
+2010-07-17
+https://doi.org/10.1038%2Fng.608
+==================================================
+
+# Source: 952
+Networking for new drugs - Nature Medicine    
+2011-10-11
+https://doi.org/10.1038%2Fnm1011-1166
+==================================================
+
+# Source: 953
+Combinatorial compound libraries for drug discovery: an ongoing challenge    
+2003-03-17
+https://doi.org/10.1038%2Fnrd1035
+==================================================
+
+# Source: 954
+A human phenome-interactome network of protein complexes implicated in genetic disorders    
+2007-03-17
+https://doi.org/10.1038%2Fnbt1295
+==================================================
+
+# Source: 955
+Targetting of the gene encoding fibrillin–1 recapitulates the vascular aspect of Marfan syndrome    
+1997-10-17
+https://doi.org/10.1038%2Fng1097-218
+==================================================
+
+# Source: 956
+Pannexin‐1 mediates large pore formation and interleukin‐1β release by the ATP‐gated P2X7 receptor    
+2006-11-17
+https://doi.org/10.1038%2Fsj.emboj.7601378
+==================================================
+
+# Source: 957
+Mission possible: managing innovation in drug discovery    
+2007-08-17
+https://doi.org/10.1038%2Fnbt0807-945
+==================================================
+
+# Source: 958
+Structure and functional expression of a new member of the tetrodotoxin‐sensitive voltage‐activated sodium channel family from human neuroendocrine cells.    
+1995-03-17
+https://doi.org/10.1002%2Fj.1460-2075.1995.tb07091.x
+==================================================
+
+# Source: 959
+A framework for variation discovery and genotyping using next-generation DNA sequencing data    
+2011-05-17
+https://doi.org/10.1038%2Fng.806
+==================================================
+
+# Source: 960
+Twenty bone-mineral-density loci identified by large-scale meta-analysis of genome-wide association studies    
+2009-11-17
+https://doi.org/10.1038%2Fng.446
+==================================================
+
+# Source: 961
+Detecting overlapping protein complexes in protein-protein interaction networks    
+2012-05-17
+https://doi.org/10.1038%2Fnmeth.1938
+==================================================
+
+# Source: 962
+Silica crystals and aluminum salts activate the NALP3 inflammasome through phagosomal destabilization    
+2008-08-17
+https://doi.org/10.1038%2Fni.1631
+==================================================
+
+# Source: 963
+Magic shotguns versus magic bullets: selectively non-selective drugs for mood disorders and schizophrenia    
+2004-04-17
+https://doi.org/10.1038%2Fnrd1346
+==================================================
+
+# Source: 964
+Principal components analysis corrects for stratification in genome-wide association studies    
+2006-08-17
+https://doi.org/10.1038%2Fng1847
+==================================================
+
+# Source: 965
+An end to the search for new drugs?    
+1982-04-17
+https://doi.org/10.1038%2F296387a0
+==================================================
+
+# Source: 966
+How to improve R&D productivity: the pharmaceutical industry's grand challenge    
+2010-03-17
+https://doi.org/10.1038%2Fnrd3078
+==================================================
+
+# Source: 967
+An amino acid substitution in the human intestinal fatty acid binding protein is associated with increased fatty acid binding, increased fat oxidation, and insulin resistance.    
+1995-03-01
+https://doi.org/10.1172%2FJCI117778
+==================================================
+
+# Source: 968
+MRC IEU UK Biobank GWAS pipeline version 2 This deposit provides full details of the genome wide ass...    
+2019-02-20
+https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi
+==================================================
+
+# Source: 969
+Population genomics of human gene expression    
+2007-10-17
+https://doi.org/10.1038%2Fng2142
+==================================================
+
+# Source: 970
+Conditional and joint multiple-SNP analysis of GWAS summary statistics identifies additional variants influencing complex traits    
+2012-04-17
+https://doi.org/10.1038%2Fng.2213
+==================================================
+
+# Source: 971
+What went right: Why is HIV a treatable infection?    
+1997-07-17
+https://doi.org/10.1038%2Fnm0797-714
+==================================================
+
+# Source: 972
+Deubiquitinating enzyme CYLD negatively regulates RANK signaling and osteoclastogenesis in mice    
+2008-05-01
+https://doi.org/10.1172%2FJCI34257
+==================================================
+
+# Source: 973
+Discovery and genotyping of genome structural polymorphism by sequencing on a population scale    
+2011-03-17
+https://doi.org/10.1038%2Fng.768
+==================================================
+
+# Source: 974
+17. Kendal , AP , Joseph , JM , Kobayashi , G .  et al. Laboratory-based surveillance of influenza v...    
+1977-01-01
+https://dx.doi.org/10.1093/oxfordjournals.aje.a112826
+==================================================
+
+# Source: 975
+19. Monto , AS . The Tecumseh study of respiratory illness. V. Patterns of infection with the parain...    
+1973-01-01
+https://dx.doi.org/10.1093/oxfordjournals.aje.a121514
+==================================================
+
+# Source: 976
+Improved whole-chromosome phasing for disease and population genetic studies    
+2013-01-17
+https://doi.org/10.1038%2Fnmeth.2307
+==================================================
+
+# Source: 977
+25. Larson , HE , Reed , SE , Tyrrell , DAJ . Isolation of rhinoviruses and coronaviruses from 38 co...    
+1980-01-01
+https://dx.doi.org/10.1002/jmv.1890050306
+==================================================
+
+# Source: 978
+The productivity crisis in pharmaceutical R&D    
+2011-06-17
+https://doi.org/10.1038%2Fnrd3405
+==================================================
+
+# Source: 979
+How many drug targets are there?    
+2006-12-17
+https://doi.org/10.1038%2Fnrd2199
+==================================================
+
+# Source: 980
+15. Monto , AS , Lim , SK . The Tecumseh study of respiratory illness. VI. Frequency and relationshi...    
+1974-01-01
+https://dx.doi.org/10.1093/infdis/129.3.271
+==================================================
+
+# Source: 981
+30. Brimblecombe , FSW , Cruickshank , R , Masters , P ,  et al. Family studies of respiratory infec...    
+1958-01-01
+https://dx.doi.org/10.1136/bmj.1.5063.119
+==================================================
+
+# Source: 982
+Variance component model to account for sample structure in genome-wide association studies    
+2010-04-17
+https://doi.org/10.1038%2Fng.548
+==================================================
+
+# Source: 983
+Transcriptome genetics using second generation sequencing in a Caucasian population    
+2010-04-17
+https://doi.org/10.1038%2Fnature08903
+==================================================
+
+# Source: 984
+FaST linear mixed models for genome-wide association studies    
+2011-10-17
+https://doi.org/10.1038%2Fnmeth.1681
+==================================================
+
+# Source: 985
+An Integration of Genome-Wide Association Study and Gene Expression Profiling to Prioritize the Discovery of Novel Susceptibility Loci for Osteoporosis-Related Traits    
+2010-06-10
+https://doi.org/10.1371%2Fjournal.pgen.1000977
+==================================================
+
+# Source: 986
+10. Monto , AS , Napier , JA , Metzner , HL . The Tecumseh Study of respiratory illness: I. Plan of ...    
+1971-01-01
+https://dx.doi.org/10.1093/oxfordjournals.aje.a121320
+==================================================
+
+# Source: 987
+Discovery and characterization of chromatin states for systematic annotation of the human genome    
+2010-08-17
+https://doi.org/10.1038%2Fnbt.1662
+==================================================
+
+# Source: 988
+Identification of expressed and conserved human noncoding RNAs    
+2014-02-01
+https://doi.org/10.1261%2Frna.038927.113
+==================================================
+
+# Source: 989
+2. Monto , AS . Acute respiratory infection in children of developing countries: challenge of the 19...    
+1989-01-01
+https://dx.doi.org/10.1093/clinids/11.3.498
+==================================================
+
+# Source: 990
+Zheng, J. et al. LD Hub: a centralized database and web interface to perform LD score regression tha...    
+2016-01-01
+https://doi.org/10.1093/bioinformatics/btw613
+==================================================
+
+# Source: 991
+Validating, augmenting and refining genome-wide association signals    
+2009-05-17
+https://doi.org/10.1038%2Fnrg2544
+==================================================
+
+# Source: 992
+Direct binding of Smad3 and Smad4 to critical TGFβ‐inducible elements in the promoter of human plasminogen activator inhibitor‐type 1 gene    
+1998-06-17
+https://doi.org/10.1093%2Femboj%2F17.11.3091
+==================================================
+
+# Source: 993
+27. McIntosh , K , Dees , JH , Becker , WB ,  et al. Recovery in tracheal organ cultures of novel vi...    
+1967-01-01
+https://dx.doi.org/10.1073/pnas.57.4.933
+==================================================
+
+# Source: 994
+Deferred Costs and Economic Returns to College Major, Quality, and Performance    
+2000-06-17
+https://doi.org/10.1023%2FA%3A1007003510102
+==================================================
+
+# Source: 995
+Impact of the Peroxisome Proliferator Activated Receptor γ2 Pro12Ala polymorphism on adiposity, lipids and non-insulin-dependent diabetes mellitus    
+2000-02-17
+https://doi.org/10.1038%2Fsj.ijo.0801112
+==================================================
+
+# Source: 996
+Dominant negative mutations in human PPARγ associated with severe insulin resistance, diabetes mellitus and hypertension    
+1999-12-17
+https://doi.org/10.1038%2F47254
+==================================================
+
+# Source: 997
+Lessons from 60 years of pharmaceutical innovation    
+2009-12-17
+https://doi.org/10.1038%2Fnrd2961
+==================================================
+
+# Source: 998
+Integrated genotype calling and association analysis of SNPs, common copy number polymorphisms and rare CNVs    
+2008-10-17
+https://doi.org/10.1038%2Fng.237
+==================================================
+
+# Source: 999
+Anderson , T. W. ( 1954 ), “ On estimation of parameters in latent structure analysis ,” Psychometri...    
+1954-03-17
+https://dx.doi.org/10.1007/BF02288989
+==================================================
+
+# Source: 1000
+24. Grayston , JT , Kuo , CC , Wang , SP ,  et al. A new Chamydia psittaci strain. TWAR. isolated in...    
+1986-01-01
+https://dx.doi.org/10.1056/NEJM198607173150305
+==================================================
+
+# Source: 1001
+Imputation-Based Analysis of Association Studies: Candidate Regions and Quantitative Traits    
+2007-07-27
+https://doi.org/10.1371%2Fjournal.pgen.0030114
+==================================================
+
+# Source: 1002
+How were new medicines discovered?    
+2011-07-17
+https://doi.org/10.1038%2Fnrd3480
+==================================================
+
+# Source: 1003
+Genetics and Beyond – The Transcriptome of Human Monocytes and Disease Susceptibility    
+2010-05-18
+https://doi.org/10.1371%2Fjournal.pone.0010693
+==================================================
+
+# Source: 1004
+Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation    
+2010-05-17
+https://doi.org/10.1038%2Fnbt.1621
+==================================================
+
+# Source: 1005
+Multi-Population Classical HLA Type Imputation    
+2013-02-14
+https://doi.org/10.1371%2Fjournal.pcbi.1002877
+==================================================
+
+# Source: 1006
+Genome sequencing elucidates Sardinian genetic architecture and augments association analyses for lipid and blood inflammatory markers    
+2015-11-17
+https://doi.org/10.1038%2Fng.3368
+==================================================
+
+# Source: 1007
+An atlas of genetic correlations across human diseases and traits    
+2015-11-17
+https://doi.org/10.1038%2Fng.3406
+==================================================
+
+# Source: 1008
+Improved whole-chromosome phasing for disease and population genetic studies    
+2013-01-17
+https://doi.org/10.1038%2Fnmeth.2307
+==================================================
+
+# Source: 1009
+A new multipoint method for genome-wide association studies by imputation of genotypes    
+2007-07-17
+https://doi.org/10.1038%2Fng2088
+==================================================
+
+# Source: 1010
+Low-coverage sequencing: Implications for design of complex trait association studies    
+2011-06-01
+https://doi.org/10.1101%2Fgr.117259.110
+==================================================
+
+# Source: 1011
+A polygenic burden of rare disruptive mutations in schizophrenia    
+2014-02-17
+https://doi.org/10.1038%2Fnature12975
+==================================================
+
+# Source: 1012
+A mixed-model approach for genome-wide association studies of correlated traits in structured populations    
+2012-09-17
+https://doi.org/10.1038%2Fng.2376
+==================================================
+
+# Source: 1013
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 1014
+Can we conquer pain?    
+2002-11-17
+https://doi.org/10.1038%2Fnn942
+==================================================
+
+# Source: 1015
+A Flexible and Accurate Genotype Imputation Method for the Next Generation of Genome-Wide Association Studies    
+2009-06-19
+https://doi.org/10.1371%2Fjournal.pgen.1000529
+==================================================
+
+# Source: 1016
+A new multipoint method for genome-wide association studies by imputation of genotypes    
+2007-07-17
+https://doi.org/10.1038%2Fng2088
+==================================================
+
+# Source: 1017
+Genome-wide efficient mixed-model analysis for association studies    
+2012-07-17
+https://doi.org/10.1038%2Fng.2310
+==================================================
+
+# Source: 1018
+A Pro12Ala substitution in PPARγ2 associated with decreased receptor activity, lower body mass index and improved insulin sensitivity    
+1998-11-17
+https://doi.org/10.1038%2F3099
+==================================================
+
+# Source: 1019
+A new multipoint method for genome-wide association studies by imputation of genotypes    
+2007-07-17
+https://doi.org/10.1038%2Fng2088
+==================================================
+
+# Source: 1020
+Haplotype estimation for biobank-scale data sets    
+2016-07-17
+https://doi.org/10.1038%2Fng.3583
+==================================================
+
+# Source: 1021
+An efficient multi-locus mixed-model approach for genome-wide association studies in structured populations    
+2012-07-17
+https://doi.org/10.1038%2Fng.2314
+==================================================
+
+# Source: 1022
+A Genome-Wide Association Study Identifies Protein Quantitative Trait Loci (pQTLs)    
+2008-05-09
+https://doi.org/10.1371%2Fjournal.pgen.1000072
+==================================================
+
+# Source: 1023
+Rare MTNR1B variants impairing melatonin receptor 1B function contribute to type 2 diabetes    
+2012-03-17
+https://doi.org/10.1038%2Fng.1053
+==================================================
+
+# Source: 1024
+Advantages and pitfalls in the application of mixed-model association methods    
+2014-02-17
+https://doi.org/10.1038%2Fng.2876
+==================================================
+
+# Source: 1025
+Imputation of Variants from the 1000 Genomes Project Modestly Improves Known Associations and Can Identify Low-frequency Variant - Phenotype Associations Undetected by HapMap Based Imputation    
+2013-05-16
+https://doi.org/10.1371%2Fjournal.pone.0064343
+==================================================
+
+# Source: 1026
+9. Monto , AS , Schwartz , SA , Albrecht , JK . Ineffectiveness of post exposure prophylaxis of rhin...    
+1983-01-01
+https://dx.doi.org/10.1128/AAC.33.3.387
+==================================================
+
+# Source: 1027
+A second generation human haplotype map of over 3.1 million SNPs    
+2007-10-17
+https://doi.org/10.1038%2Fnature06258
+==================================================
+
+# Source: 1028
+Ferrarotti, I. et al. Serum levels and genotype distribution of α1-antitrypsin in the general popula...    
+2011-01-01
+https://doi.org/10.1136/thoraxjnl-2011-201321
+==================================================
+
+# Source: 1029
+Global Analysis of the Impact of Environmental Perturbation on cis-Regulation of Gene Expression    
+2011-01-20
+https://doi.org/10.1371%2Fjournal.pgen.1001279
+==================================================
+
+# Source: 1030
+Mixed linear model approach adapted for genome-wide association studies    
+2010-04-17
+https://doi.org/10.1038%2Fng.546
+==================================================
+
+# Source: 1031
+The African Genome Variation Project shapes medical genetics in Africa    
+2015-01-17
+https://doi.org/10.1038%2Fnature13997
+==================================================
+
+# Source: 1032
+Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis    
+2012-05-17
+https://doi.org/10.1038%2Fng.2232
+==================================================
+
+# Source: 1033
+An integrative variant analysis pipeline for accurate genotype/haplotype inference in population NGS data    
+2013-05-01
+https://doi.org/10.1101%2Fgr.146084.112
+==================================================
+
+# Source: 1034
+Employing a Monte Carlo Algorithm in Newton-Type Methods for Restricted Maximum Likelihood Estimation of Genetic Parameters    
+2013-12-10
+https://doi.org/10.1371%2Fjournal.pone.0080821
+==================================================
+
+# Source: 1035
+Genotype imputation for genome-wide association studies    
+2010-07-17
+https://doi.org/10.1038%2Fnrg2796
+==================================================
+
+# Source: 1036
+Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early transmission dynamics in Wuhan, China...    
+2020-01-01
+https://doi.org/10.1056/NEJMoa2001316
+==================================================
+
+# Source: 1037
+FaST-LMM-Select for addressing confounding from spatial structure and rare variants    
+2013-05-17
+https://doi.org/10.1038%2Fng.2620
+==================================================
+
+# Source: 1038
+Genomic inflation factors under polygenic inheritance    
+2011-07-17
+https://doi.org/10.1038%2Fejhg.2011.39
+==================================================
+
+# Source: 1039
+Genomic inflation factors under polygenic inheritance    
+2011-07-17
+https://doi.org/10.1038%2Fejhg.2011.39
+==================================================
+
+# Source: 1040
+Improved linear mixed models for genome-wide association studies    
+2012-06-17
+https://doi.org/10.1038%2Fnmeth.2037
+==================================================
+
+# Source: 1041
+Rapid variance components–based method for whole-genome association analysis    
+2012-10-17
+https://doi.org/10.1038%2Fng.2410
+==================================================
+
+# Source: 1042
+New sequence variants associated with bone mineral density    
+2009-01-17
+https://doi.org/10.1038%2Fng.284
+==================================================
+
+# Source: 1043
+The benefits of selecting phenotype-specific variants for applications of mixed models in genomics    
+2013-05-09
+https://doi.org/10.1038%2Fsrep01815
+==================================================
+
+# Source: 1044
+8. Hall , CB , McBride , JT , Walsh , EE .  et al. Aerosolized ribavirin treatment of infants with r...    
+1983-01-01
+https://dx.doi.org/10.1056/NEJM198306163082403
+==================================================
+
+# Source: 1045
+Pitfalls of predicting complex traits from SNPs    
+2013-07-17
+https://doi.org/10.1038%2Fnrg3457
+==================================================
+
+# Source: 1046
+13. Monto , AS , Ohmit , S . Respiratory syncytial virus in a community population: Persistence of s...    
+1966-01-01
+https://dx.doi.org/10.1093/infdis/161.4.781
+==================================================
+
+# Source: 1047
+Principal components analysis corrects for stratification in genome-wide association studies    
+2006-08-17
+https://doi.org/10.1038%2Fng1847
+==================================================
+
+# Source: 1048
+Genetic Determinants of Serum Testosterone Concentrations in Men    
+2011-10-06
+https://doi.org/10.1371%2Fjournal.pgen.1002313
+==================================================
+
+# Source: 1049
+Genetic risk and a primary role for cell-mediated immune mechanisms in multiple sclerosis    
+2011-08-17
+https://doi.org/10.1038%2Fnature10251
+==================================================
+
+# Source: 1050
+Bayesian statistical methods for genetic association studies    
+2009-10-17
+https://doi.org/10.1038%2Fnrg2615
+==================================================
+
+# Source: 1051
+23. Monto , AS , Ullman , BM . Acute respiratory illness in an American community: The Tecumseh stud...    
+1974-01-01
+https://dx.doi.org/10.1001/jama.1974.03230150016004
+==================================================
+
+# Source: 1052
+The Pro115Gln and Pro12Ala PPAR gamma gene mutations in obesity and type 2 diabetes    
+2000-03-17
+https://doi.org/10.1038%2Fsj.ijo.0801191
+==================================================
+
+# Source: 1053
+Hundreds of variants clustered in genomic loci and biological pathways affect human height    
+2010-10-17
+https://doi.org/10.1038%2Fnature09410
+==================================================
+
+# Source: 1054
+22. Hall , CB , Douglas , RG Jr . Clinically useful method for the isolation of respiratory syncytia...    
+1975-01-01
+https://dx.doi.org/10.1093/infdis/131.1.1
+==================================================
+
+# Source: 1055
+Check E . Avian flu special: is this our best shot? Nature . 2005 ; 435 : 404 – 6 . DOI PubMed Googl...    
+2005-05-25
+https://doi.org/10.1038/435404a
+==================================================
+
+# Source: 1056
+Chin TD , Foley JF , Doto IL , Gravelle CR , Weston J . Morbidity and mortality characteristics of A...    
+1960-01-01
+https://doi.org/10.2307/4590751
+==================================================
+
+# Source: 1057
+Nonsense mutation in the LGR4 gene is associated with several human diseases and other traits    
+2013-05-17
+https://doi.org/10.1038%2Fnature12124
+==================================================
+
+# Source: 1058
+MultiBLUP: improved SNP-based prediction for complex traits    
+2014-09-01
+https://doi.org/10.1101%2Fgr.169375.113
+==================================================
+
+# Source: 1059
+Web-Based Genome-Wide Association Study Identifies Two Novel Loci and a Substantial Genetic Component for Parkinson's Disease    
+2011-06-23
+https://doi.org/10.1371%2Fjournal.pgen.1002141
+==================================================
+
+# Source: 1060
+Polygenic Modeling with Bayesian Sparse Linear Mixed Models    
+2013-02-07
+https://doi.org/10.1371%2Fjournal.pgen.1003264
+==================================================
+
+# Source: 1061
+Demonstrating stratification in a European American population    
+2005-08-17
+https://doi.org/10.1038%2Fng1607
+==================================================
+
+# Source: 1062
+Common SNPs explain a large proportion of the heritability for human height    
+2010-07-17
+https://doi.org/10.1038%2Fng.608
+==================================================
+
+# Source: 1063
+Genome partitioning of genetic variation for complex traits using common SNPs    
+2011-06-17
+https://doi.org/10.1038%2Fng.823
+==================================================
+
+# Source: 1064
+Meta-analysis and imputation refines the association of 15q25 with smoking quantity    
+2010-05-17
+https://doi.org/10.1038%2Fng.572
+==================================================
+
+# Source: 1065
+A common Greenlandic TBC1D4 variant confers muscle insulin resistance and type 2 diabetes    
+2014-08-17
+https://doi.org/10.1038%2Fnature13425
+==================================================
+
+# Source: 1066
+European Bone Mineral Density Loci Are Also Associated with BMD in East-Asian Populations    
+2010-10-07
+https://doi.org/10.1371%2Fjournal.pone.0013217
+==================================================
+
+# Source: 1067
+11. Monto , AS , Koopman , JS , Longini , IM Jr . Tecumseh study of illness: XIII. Influenza infecti...    
+1976-01-01
+https://dx.doi.org/10.1093/oxfordjournals.aje.a114052
+==================================================
+
+# Source: 1068
+Genetics of gene expression and its effect on disease    
+2008-03-17
+https://doi.org/10.1038%2Fnature06758
+==================================================
+
+# Source: 1069
+Modern biomedical research: an internally self-consistent universe with little contact with medical reality?    
+2003-02-17
+https://doi.org/10.1038%2Fnrd1012
+==================================================
+
+# Source: 1070
+Genome-Wide Association Study Using Extreme Truncate Selection Identifies Novel Genes Affecting Bone Mineral Density and Fracture Risk    
+2011-04-21
+https://doi.org/10.1371%2Fjournal.pgen.1001372
+==================================================
+
+# Source: 1071
+16. Monto , AS , Maassab , HF . Ether treatment of type B influenza virus antigen for the hemaggluti...    
+1981-01-01
+https://dx.doi.org/10.1128/jcm.13.1.54-57.1981
+==================================================
+
+# Source: 1072
+Can the pharmaceutical industry reduce attrition rates?    
+2004-08-17
+https://doi.org/10.1038%2Fnrd1470
+==================================================
+
+# Source: 1073
+Nucleotide sequence of bacteriophage φX174 DNA    
+1977-02-17
+https://doi.org/10.1038%2F265687a0
+==================================================
+
+# Source: 1074
+Realism in drug discovery—could Cassandra be right?    
+2001-12-17
+https://doi.org/10.1038%2Fnbt1201-1099
+==================================================
+
+# Source: 1075
+Fibulin-5/DANCE is essential for elastogenesis in vivo    
+2002-01-17
+https://doi.org/10.1038%2F415171a
+==================================================
+
+# Source: 1076
+12. Monto , AS , Cavallaro , JJ . The Tecumseh study of respiratory illness. II. Patterns of occurre...    
+1965-01-01
+https://dx.doi.org/10.1093/oxfordjournals.aje.a121321
+==================================================
+
+# Source: 1077
+Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
+2009-06-26
+https://doi.org/10.1371%2Fjournal.pgen.1000534
+==================================================
+
+# Source: 1078
+The case for entrepreneurship in R&D in the pharmaceutical industry    
+2010-09-17
+https://doi.org/10.1038%2Fnrd3230
+==================================================
+
+# Source: 1079
+Pharmaceutical R&D: the road to positive returns - Nature Reviews Drug Discovery    
+2009-08-17
+https://doi.org/10.1038%2Fnrd2948
+==================================================
+
+# Source: 1080
+Proteins Encoded in Genomic Regions Associated with Immune-Mediated Disease Physically Interact and Suggest Underlying Biology    
+2011-01-13
+https://doi.org/10.1371%2Fjournal.pgen.1001273
+==================================================
+
+# Source: 1081
+20. Fox , JP , Cooney , MK , Hall , CE ,  et al. Influenza virus infections in Seattle families, 197...    
+1975-01-01
+https://dx.doi.org/10.1093/oxfordjournals.aje.a113408
+==================================================
+
+# Source: 1082
+The complete nucleotide sequence of the tobacco chloroplast genome: its gene organization and expression    
+1986-09-17
+https://doi.org/10.1002%2Fj.1460-2075.1986.tb04464.x
+==================================================
+
+# Source: 1083
+Hu Z , Song C , Xu C , Jin G , Chen Y , Xu X , et al. Clinical characteristics of 24 asymptomatic in...    
+2020-05-17
+https://doi.org/10.1007/s11427-020-1661-4
+==================================================
+
+# Source: 1084
+Distribution and Medical Impact of Loss-of-Function Variants in the Finnish Founder Population    
+2014-07-31
+https://doi.org/10.1371%2Fjournal.pgen.1004494
+==================================================
+
+# Source: 1085
+Ruderfer, D. M. et al. Patterns of genic intolerance of rare copy number variation in 59,898 human e...    
+2016-10-17
+https://doi.org/10.1038/ng.3638
+==================================================
+
+# Source: 1086
+Integrating common and rare genetic variation in diverse human populations    
+2010-09-17
+https://doi.org/10.1038%2Fnature09298
+==================================================
+
+# Source: 1087
+Identification of a large set of rare complete human knockouts    
+2015-05-17
+https://doi.org/10.1038%2Fng.3243
+==================================================
+
+# Source: 1088
+Narasimhan, V. M. et al. Health and population effects of rare gene knockouts in adult humans with r...    
+2016-01-01
+https://doi.org/10.1126/science.aac8624
+==================================================
+
+# Source: 1089
+Saleheen, D. et al. Human knockouts in a cohort with a high rate of consanguinity. Preprint at bioRx...    
+2015-11-12
+https://doi.org/10.1101/031518
+==================================================
+
+# Source: 1090
+Sizing up human height variation    
+2008-05-17
+https://doi.org/10.1038%2Fng0508-489
+==================================================
+
+# Source: 1091
+Haploinsufficiency of TBK1 causes familial ALS and fronto-temporal dementia    
+2015-05-17
+https://doi.org/10.1038%2Fnn.4000
+==================================================
+
+# Source: 1092
+A framework for variation discovery and genotyping using next-generation DNA sequencing data    
+2011-05-17
+https://doi.org/10.1038%2Fng.806
+==================================================
+
+# Source: 1093
+Variance component model to account for sample structure in genome-wide association studies    
+2010-04-17
+https://doi.org/10.1038%2Fng.548
+==================================================
+
+# Source: 1094
+The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic, Cardiovascular, and Anthropometric Traits    
+2012-08-02
+https://doi.org/10.1371%2Fjournal.pgen.1002793
+==================================================
+
+# Source: 1095
+Integrating human sequence data sets provides a resource of benchmark SNP and indel genotype calls    
+2014-03-17
+https://doi.org/10.1038%2Fnbt.2835
+==================================================
+
+# Source: 1096
+Idiopathic Cardiomyopathy A Study on the Infectious-Immune Theory as a Cause of the Disease    
+1971-01-17
+https://doi.org/10.1253%2Fjcj.35.765
+==================================================
+
+# Source: 1097
+Hundreds of variants clustered in genomic loci and biological pathways affect human height    
+2010-10-17
+https://doi.org/10.1038%2Fnature09410
+==================================================
+
+# Source: 1098
+Multiple intercellular signalling systems control the development of the Caenorhabditis elegans vulva    
+1991-06-17
+https://doi.org/10.1038%2F351535a0
+==================================================
+
+# Source: 1099
+Enteroviral protease 2A cleaves dystrophin: Evidence of cytoskeletal disruption in an acquired cardiomyopathy    
+1999-03-17
+https://doi.org/10.1038%2F6543
+==================================================
+
+# Source: 1100
+A regulatory hierarchy for cell specialization in yeast    
+1989-12-17
+https://doi.org/10.1038%2F342749a0
+==================================================
+
+# Source: 1101
+SMIM1 underlies the Vel blood group and influences red blood cell traits    
+2013-05-17
+https://doi.org/10.1038%2Fng.2603
+==================================================
+
+# Source: 1102
+A spliced Epstein‐Barr virus gene expressed in immortalized lymphocytes is created by circularization of the linear viral genome.    
+1988-03-17
+https://doi.org/10.1002%2Fj.1460-2075.1988.tb02874.x
+==================================================
+
+# Source: 1103
+Bayesian refinement of association signals for 14 loci in 3 common diseases    
+2012-12-17
+https://doi.org/10.1038%2Fng.2435
+==================================================
+
+# Source: 1104
+CDC COVID-19 Response Team. Severe outcomes among patients with coronavirus disease 2019 (COVID-19)—...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6912e2
+==================================================
+
+# Source: 1105
+Cochran , William G. 1968 . The effectiveness of adjustment by subclassification in removing bias in...    
+1968-01-01
+https://dx.doi.org/10.2307/2528036
+==================================================
+
+# Source: 1106
+Morgan , Stephen L. , and Winship , Christopher . 2007 . Counterfactuals and causal inference: Metho...    
+2007-01-01
+https://dx.doi.org/10.1017/CBO9780511804564
+==================================================
+
+# Source: 1107
+Busso , Matias , DiNardo , John , and McCrary , Justin . 2009b . New evidence on the finite sample p...    
+2026-01-17
+https://dx.doi.org/10.2139/ssrn.1351162
+==================================================
+
+# Source: 1108
+King , Gary , and Zeng , Langche . 2006 . The dangers of extreme counterfactuals . Political Analysi...    
+2006-01-01
+https://dx.doi.org/10.1093/pan/mpj004
+==================================================
+
+# Source: 1109
+Pancreatic islet enhancer clusters enriched in type 2 diabetes risk-associated variants    
+2014-02-17
+https://doi.org/10.1038%2Fng.2870
+==================================================
+
+# Source: 1110
+Lunceford , Jared K. , and Davidian , Marie . 2004 . Stratification and weighting via the propensity...    
+2004-01-01
+https://dx.doi.org/10.1002/sim.1903
+==================================================
+
+# Source: 1111
+Ho , D. E. , Imai , K. , King , G. , and Stuart , E. A. 2007 . Matching as nonparametric preprocessi...    
+2007-01-01
+https://dx.doi.org/10.1093/pan/mpl013
+==================================================
+
+# Source: 1112
+Imbens , Guido W. 2004 . Nonparametric estimation of average treatment effects under exogeneity: A r...    
+2004-01-01
+https://dx.doi.org/10.1162/003465304323023651
+==================================================
+
+# Source: 1113
+Sensitive Detection of Chromosomal Segments of Distinct Ancestry in Admixed Populations    
+2009-06-19
+https://doi.org/10.1371/journal.pgen.1000519
+==================================================
+
+# Source: 1114
+Analysis of Population Structure: A Unifying Framework and Novel Methods Based on Sparse Factor Analysis    
+2010-09-16
+https://doi.org/10.1371/journal.pgen.1001117
+==================================================
+
+# Source: 1115
+Ridgeway , Greg , and McCaffrey , Daniel F. 2007 . Comment: Demystifying double robustness: A compar...    
+2007-01-01
+https://dx.doi.org/10.1214/07-STS227C
+==================================================
+
+# Source: 1116
+Robins , J. M. 1986 . A new approach to causal inference in mortality studies with a sustained expos...    
+1986-01-01
+https://dx.doi.org/10.1016/0270-0255(86)90088-6
+==================================================
+
+# Source: 1117
+Population Structure and Eigenanalysis    
+2006-12-22
+https://doi.org/10.1371/journal.pgen.0020190
+==================================================
+
+# Source: 1118
+A human phenome-interactome network of protein complexes implicated in genetic disorders    
+2007-03-17
+https://doi.org/10.1038%2Fnbt1295
+==================================================
+
+# Source: 1119
+Robins , James M. , Rotnitzky , Andrea , and Zhao , Lue Ping . 1994 . Estimation of regression coeff...    
+1994-01-01
+https://dx.doi.org/10.1080/01621459.1994.10476818
+==================================================
+
+# Source: 1120
+Robins , James , Sued , Mariela , Lei-Gomez , Quanhong , and Rotnitzky , Andrea . 2007 . Comment: pe...    
+2007-01-01
+https://dx.doi.org/10.1214/07-STS227D
+==================================================
+
+# Source: 1121
+Transmission intensity and impact of control policies on the foot and mouth epidemic in Great Britain    
+2001-10-17
+https://doi.org/10.1038%2F35097116
+==================================================
+
+# Source: 1122
+Robins , J. M. , and Wang , N. 2000 . Inference for imputation estimators . Biometrika 87 ( 1 ): 113...    
+2000-01-01
+https://dx.doi.org/10.1093/biomet/87.1.113
+==================================================
+
+# Source: 1123
+The importance of phase information for human genomics    
+2011-03-17
+https://doi.org/10.1038%2Fnrg2950
+==================================================
+
+# Source: 1124
+Rosenbaum , Paul R. , and Rubin , Donald B. 1983 . The central role of the propensity score in obser...    
+1983-01-01
+https://dx.doi.org/10.1093/biomet/70.1.41
+==================================================
+
+# Source: 1125
+Rubin , D. B. 2006 . Matched sampling for causal effects . New York : Cambridge University Press . C...    
+2006-01-01
+https://dx.doi.org/10.1017/CBO9780511810725
+==================================================
+
+# Source: 1126
+Tan , Zhiqiang . 2007 . Comment: Understanding OR, PS, and DR . Statistical Science 22 ( 4 ): 560–68...    
+2007-01-01
+https://dx.doi.org/10.1214/07-STS227A
+==================================================
+
+# Source: 1127
+Tsiatis , Anastasios A. , and Davidian , Marie . 2007 . Comment: Demystifying double robustness: A c...    
+2007-01-01
+https://dx.doi.org/10.1214/07-STS227B
+==================================================
+
+# Source: 1128
+Haplotype phasing: existing methods and new developments    
+2011-10-17
+https://doi.org/10.1038%2Fnrg3054
+==================================================
+
+# Source: 1129
+Identifying Relationships among Genomic Disease Regions: Predicting Genes at Pathogenic SNP Associations and Rare Deletions    
+2009-06-26
+https://doi.org/10.1371%2Fjournal.pgen.1000534
+==================================================
+
+# Source: 1130
+Value of novelty? - Nature Reviews Drug Discovery    
+2002-08-01
+https://doi.org/10.1038%2Fnrd884
+==================================================
+
+# Source: 1131
+Souty C , Amoros P , Falchi A , Capai L , Bonmarin I , van der Werf S , et al. Influenza epidemics o...    
+1984-01-01
+https://doi.org/10.1111/irv.12620
+==================================================
+
+# Source: 1132
+Global obesity: trends, risk factors and policy implications    
+2013-01-17
+https://doi.org/10.1038%2Fnrendo.2012.199
+==================================================
+
+# Source: 1133
+Production of phosphatidylinositol 5‐phosphate via PIKfyve and MTMR3 regulates cell migration    
+2013-01-17
+https://doi.org/10.1038%2Fembor.2012.183
+==================================================
+
+# Source: 1134
+McMichael TM, Clark S, Pogosjans S, et al. COVID-19 in a long-term care facility—King County, Washin...    
+2020-01-17
+http://dx.doi.org/10.15585/mmwr.mm6912e1
+==================================================
+
+# Source: 1135
+Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47    
+2011-03-17
+https://doi.org/10.1038%2Fng.764
+==================================================
+
+# Source: 1136
+Large-scale association analysis provides insights into the genetic architecture and pathophysiology of type 2 diabetes    
+2012-09-17
+https://doi.org/10.1038%2Fng.2383
+==================================================
+
+# Source: 1137
+Population Structure and Eigenanalysis    
+2006-12-22
+https://doi.org/10.1371/journal.pgen.0020190
+==================================================
+
+# Source: 1138
+Transferability of Type 2 Diabetes Implicated Loci in Multi-Ethnic Cohorts from Southeast Asia    
+2011-04-07
+https://doi.org/10.1371%2Fjournal.pgen.1001363
+==================================================
+
+# Source: 1139
+Becker , Sascha O. , and Ichino , Andrea . 2002 . Estimation of average treatment effects based on p...    
+2002-01-01
+https://dx.doi.org/10.1177/1536867X0200200403
+==================================================
+
+# Source: 1140
+CARD15 mutations in Blau syndrome    
+2001-09-17
+https://doi.org/10.1038%2Fng720
+==================================================
+
+# Source: 1141
+Genome-wide association defines more than 30 distinct susceptibility loci for Crohn's disease    
+2008-08-17
+https://doi.org/10.1038%2Fng.175
+==================================================
+
+# Source: 1142
+Genome-wide association study identifies new susceptibility loci for Crohn disease and implicates autophagy in disease pathogenesis    
+2007-05-17
+https://doi.org/10.1038%2Fng2032
+==================================================
+
+# Source: 1143
+Rare Variants Create Synthetic Genome-Wide Associations    
+2010-01-26
+https://doi.org/10.1371%2Fjournal.pbio.1000294
+==================================================
+
+# Source: 1144
+Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease susceptibility loci    
+2010-12-17
+https://doi.org/10.1038%2Fng.717
+==================================================
+
+# Source: 1145
+Tackling complexity    
+2002-12-17
+https://doi.org/10.1038%2F420517a
+==================================================
+
+# Source: 1146
+Solution hybrid selection with ultra-long oligonucleotides for massively parallel targeted sequencing    
+2009-02-17
+https://doi.org/10.1038%2Fnbt.1523
+==================================================
+
+# Source: 1147
+Genome-wide association study meta-analysis identifies seven new rheumatoid arthritis risk loci    
+2010-06-17
+https://doi.org/10.1038%2Fng.582
+==================================================
+
+# Source: 1148
+Regulatory regions and critical residues of NOD2 involved in muramyl dipeptide recognition    
+2004-04-17
+https://doi.org/10.1038%2Fsj.emboj.7600175
+==================================================
+
+# Source: 1149
+Opposing actions of Arx and Pax4 in endocrine pancreas development    
+2003-10-15
+https://doi.org/10.1101%2Fgad.269003
+==================================================
+
+# Source: 1150
+Clinical implications of a molecular genetic classification of monogenic β-cell diabetes    
+2008-04-17
+https://doi.org/10.1038%2Fncpendmet0778
+==================================================
+
+# Source: 1151
+Genome-wide association identifies multiple ulcerative colitis susceptibility loci    
+2010-04-17
+https://doi.org/10.1038%2Fng.549
+==================================================
+
+# Source: 1152
+Variance component model to account for sample structure in genome-wide association studies    
+2010-04-17
+https://doi.org/10.1038%2Fng.548
+==================================================
+
+# Source: 1153
+XV.—The Correlation between Relatives on the Supposition of Mendelian Inheritance.    
+1919-01-17
+https://doi.org/10.1017%2FS0080456800012163
+==================================================
+
+# Source: 1154
+Mapping short DNA sequencing reads and calling variants using mapping quality scores    
+2008-11-01
+https://doi.org/10.1101%2Fgr.078212.108
+==================================================
+
+# Source: 1155
+Causal Forecacsting    
+2022-12-09
+https://www.youtube.com/watch?v=JGkfbRKuZkI
+==================================================
+
+# Source: 1156
+Identification of low-frequency and rare sequence variants associated with elevated or reduced risk of type 2 diabetes    
+2014-03-17
+https://doi.org/10.1038%2Fng.2882
+==================================================
+
+# Source: 1157
+Resequencing of positional candidates identifies low frequency IL23R coding variants protecting against inflammatory bowel disease    
+2011-01-17
+https://doi.org/10.1038%2Fng.733
+==================================================
+
+# Source: 1158
+Synthetic Associations Created by Rare Variants Do Not Explain Most GWAS Results    
+2011-01-18
+https://doi.org/10.1371%2Fjournal.pbio.1000579
+==================================================
+
+# Source: 1159
+Exome array analysis identifies new loci and low-frequency variants influencing insulin processing and secretion    
+2013-02-17
+https://doi.org/10.1038%2Fng.2507
+==================================================
+
+# Source: 1160
+Genetic fine mapping and genomic annotation defines causal mechanisms at type 2 diabetes susceptibility loci    
+2015-12-17
+https://doi.org/10.1038%2Fng.3437
+==================================================
+
+# Source: 1161
+Genome-wide trans-ancestry meta-analysis provides insight into the genetic architecture of type 2 diabetes susceptibility    
+2014-03-17
+https://doi.org/10.1038%2Fng.2897
+==================================================
+
+# Source: 1162
+Meta-analysis of genome-wide association studies identifies eight new loci for type 2 diabetes in east Asians    
+2012-01-17
+https://doi.org/10.1038%2Fng.1019
+==================================================
+
+# Source: 1163
+Generation of pathogenic TH17 cells in the absence of TGF-β signalling    
+2010-10-17
+https://doi.org/10.1038%2Fnature09447
+==================================================
+
+# Source: 1164
+Genome-wide association study and meta-analysis find that over 40 loci affect risk of type 1 diabetes    
+2009-06-17
+https://doi.org/10.1038%2Fng.381
+==================================================
+
+# Source: 1165
+Genome-wide association study in individuals of South Asian ancestry identifies six new type 2 diabetes susceptibility loci    
+2011-10-17
+https://doi.org/10.1038%2Fng.921
+==================================================
+
+# Source: 1166
+Finding the missing heritability of complex diseases    
+2009-10-17
+https://doi.org/10.1038%2Fnature08494
+==================================================
+
+# Source: 1167
+Haplotype-resolved genome sequencing: experimental methods and applications    
+2015-06-17
+https://doi.org/10.1038%2Fnrg3903
+==================================================
+
+# Source: 1168
+Twelve type 2 diabetes susceptibility loci identified through large-scale association analysis    
+2010-07-17
+https://doi.org/10.1038%2Fng.609
+==================================================
+
+# Source: 1169
+The Importance of Synthetic Associations Will Only Be Resolved Empirically    
+2011-01-18
+https://doi.org/10.1371%2Fjournal.pbio.1001008
+==================================================
+
+# Source: 1170
+Haplotype estimation for biobank-scale data sets    
+2016-07-17
+https://doi.org/10.1038%2Fng.3583
+==================================================
+
+# Source: 1171
+Synthetic Associations Are Unlikely to Account for Many Common Disease Genome-Wide Association Signals    
+2011-01-18
+https://doi.org/10.1371%2Fjournal.pbio.1000580
+==================================================
+
+# Source: 1172
+A Meta-Analysis of Genome-Wide Association Scans Identifies IL18RAP, PTPN2, TAGAP, and PUS10 As Shared Risk Loci for Crohn's Disease and Celiac Disease    
+2011-01-27
+https://doi.org/10.1371%2Fjournal.pgen.1001283
+==================================================
+
+# Source: 1173
+Assumption-Free Estimation of Heritability from Genome-Wide Identity-by-Descent Sharing between Full Siblings    
+2006-03-24
+https://doi.org/10.1371%2Fjournal.pgen.0020041
+==================================================
+
+# Source: 1174
+Quantifying Missing Heritability at Known GWAS Loci    
+2013-12-26
+https://doi.org/10.1371%2Fjournal.pgen.1003993
+==================================================
+
+# Source: 1175
+McCarthy, S. et al. A reference panel of 64,976 haplotypes for genotype imputation. Nat. Genet. http...    
+2016-10-17
+https://doi.org/10.1038/ng.3643
+==================================================
+
+# Source: 1176
+The IL23R R381Q Gene Variant Protects against Immune-Mediated Diseases by Impairing IL-23-Induced Th17 Effector Response in Humans    
+2011-02-22
+https://doi.org/10.1371%2Fjournal.pone.0017160
+==================================================
+
+# Source: 1177
+Genome partitioning of genetic variation for complex traits using common SNPs    
+2011-06-17
+https://doi.org/10.1038%2Fng.823
+==================================================
+
+# Source: 1178
+Integrated Genetic and Epigenetic Analysis Identifies Haplotype-Specific Methylation in the FTO Type 2 Diabetes and Obesity Susceptibility Locus    
+2010-11-18
+https://doi.org/10.1371%2Fjournal.pone.0014040
+==================================================
+
+# Source: 1179
+Germline deletion of the miR-17∼92 cluster causes skeletal and growth defects in humans    
+2011-10-17
+https://doi.org/10.1038%2Fng.915
+==================================================
+
+# Source: 1180
+Conditional and joint multiple-SNP analysis of GWAS summary statistics identifies additional variants influencing complex traits    
+2012-04-17
+https://doi.org/10.1038%2Fng.2213
+==================================================
+
+# Source: 1181
+Fine-mapping cellular QTLs with RASQUAL and ATAC-seq    
+2016-02-17
+https://doi.org/10.1038%2Fng.3467
+==================================================
+
+# Source: 1182
+Association analyses of 249,796 individuals reveal 18 new loci associated with body mass index    
+2010-11-17
+https://doi.org/10.1038%2Fng.686
+==================================================
+
+# Source: 1183
+Variability in the Heritability of Body Mass Index: A Systematic Review and Meta-Regression    
+2012-02-28
+https://doi.org/10.3389%2Ffendo.2012.00029
+==================================================
+
+# Source: 1184
+Cartwright , N. ( 1979 ), “ Causal Laws and Effective Strategies ”, Noûs 13 : 419–37. (Also in How t...    
+1979-01-01
+https://dx.doi.org/10.2307/2215337
+==================================================
+
+# Source: 1185
+The bigger picture of FTO—the first GWAS-identified obesity gene    
+2014-01-17
+https://doi.org/10.1038%2Fnrendo.2013.227
+==================================================
+
+# Source: 1186
+Paths to understanding the genetic basis of autoimmune disease    
+2005-06-17
+https://doi.org/10.1038%2Fnature03723
+==================================================
+
+# Source: 1187
+Causality and Determinism    
+1981-12-17
+https://dx.doi.org/10.1086/289023
+==================================================
+
+# Source: 1188
+Physical Activity Attenuates the Influence of FTO Variants on Obesity Risk: A Meta-Analysis of 218,166 Adults and 19,268 Children    
+2011-11-01
+https://doi.org/10.1371%2Fjournal.pmed.1001116
+==================================================
+
+# Source: 1189
+Feyerabend , P. K. ( 1981 ), Realism, Rationalism, and Scientific Method . Vol. 1 . Cambridge : Camb...    
+1981-10-17
+https://dx.doi.org/10.1017/CBO9781139171526
+==================================================
+
+# Source: 1190
+Gene × Physical Activity Interactions in Obesity: Combined Analysis of 111,421 Individuals of European Ancestry    
+2013-07-25
+https://doi.org/10.1371%2Fjournal.pgen.1003607
+==================================================
+
+# Source: 1191
+Physical Activity Attenuates the Genetic Predisposition to Obesity in 20,000 Men and Women from EPIC-Norfolk Prospective Population Study    
+2010-08-31
+https://doi.org/10.1371%2Fjournal.pmed.1000332
+==================================================
+
+# Source: 1192
+Ehring , D. ( 1984 ), “ Probabilistic Causality and Preemption ”, British Journal of the Philosophy ...    
+1984-01-01
+https://dx.doi.org/10.1093/bjps/35.1.55
+==================================================
+
+# Source: 1193
+Principal components analysis corrects for stratification in genome-wide association studies    
+2006-08-17
+https://doi.org/10.1038%2Fng1847
+==================================================
+
+# Source: 1194
+Duhem , P. ( 1954 ), The Aim and Structure of Physical Theory . Trans. P. P. Wiener. Princeton : Pri...    
+1954-12-31
+https://dx.doi.org/10.1515/9780691233857
+==================================================
+
+# Source: 1195
+Population-based resequencing of ANGPTL4 uncovers variations that reduce triglycerides and increase HDL    
+2007-04-17
+https://doi.org/10.1038%2Fng1984
+==================================================
+
+# Source: 1196
+Dietary fatty acid distribution modifies obesity risk linked to the rs9939609 polymorphism of the fat mass and obesity-associated gene in a Spanish case–control study of children    
+2012-02-17
+https://doi.org/10.1017%2FS0007114511003424
+==================================================
+
+# Source: 1197
+Eells , E. , and Sober , E. ( 1983 ) “ Probabilistic causality and the question of transitivity ”, P...    
+1983-03-17
+https://dx.doi.org/10.1086/289089
+==================================================
+
+# Source: 1198
+Network organization of the human autophagy system    
+2010-07-17
+https://doi.org/10.1038%2Fnature09204
+==================================================
+
+# Source: 1199
+Genome-wide association analyses identify variants in developmental genes associated with hypospadias    
+2014-09-17
+https://doi.org/10.1038%2Fng.3063
+==================================================
+
+# Source: 1200
+Mulaik , S. A. ( 1985 ), “ Exploratory Statistics and Empiricism ”, Philosophy of Science 52 : 410–4...    
+1985-09-17
+https://dx.doi.org/10.1086/289258
+==================================================
+
+# Source: 1201
+Otte , R. ( 1981 ), “ A Critique of Suppes' Theory of Probabilistic Causality ”, Synthese 48 : 167–8...    
+1981-08-17
+https://dx.doi.org/10.1007/BF01063885
+==================================================
+
+# Source: 1202
+Rosen , D. A. ( 1978 ) “ Discussion: In Defense of a Probabilistic Theory of Causality ”, Philosophy...    
+1978-12-17
+https://dx.doi.org/10.1086/288838
+==================================================
+
+# Source: 1203
+Simon , H. A. , and Rescher , N. ( 1966 ), “ Cause and Counterfactual ”, Philosophy of Science 33 : ...    
+1966-01-01
+https://dx.doi.org/10.1086/288105
+==================================================
+
+# Source: 1204
+Newly identified loci that influence lipid concentrations and risk of coronary artery disease    
+2008-02-17
+https://doi.org/10.1038%2Fng.76
+==================================================
+
+# Source: 1205
+UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age    
+2015-03-31
+https://doi.org/10.1371%2Fjournal.pmed.1001779
+==================================================
+
+# Source: 1206
+Spohn , W. ( 1980 ), “ Stochastic Independence, Causal Independence, and Shieldability ”, Journal of...    
+1980-01-01
+https://dx.doi.org/10.1007/BF00258078
+==================================================
+
+# Source: 1207
+Suppes , P. ( 1975 ), “ A Probabilistic Analysis of Causality ”, in Quantitative Sociology , Blalock...    
+1975-01-01
+https://dx.doi.org/10.1016/B978-0-12-103950-9.50008-3
+==================================================
+
+# Source: 1208
+Advantages and pitfalls in the application of mixed-model association methods    
+2014-02-17
+https://doi.org/10.1038%2Fng.2876
+==================================================
+
+# Source: 1209
+Principal components analysis corrects for stratification in genome-wide association studies    
+2006-08-17
+https://doi.org/10.1038%2Fng1847
+==================================================
+
+# Source: 1210
+A frameshift mutation in NOD2 associated with susceptibility to Crohn's disease    
+2001-05-17
+https://doi.org/10.1038%2F35079114
+==================================================
+
+# Source: 1211
+Evaluating empirical bounds on complex disease genetic architecture    
+2013-12-17
+https://doi.org/10.1038%2Fng.2804
+==================================================
+
+# Source: 1212
+Genetic variation in <i>ABC</i> transporter <i>A1</i> contributes to HDL cholesterol in the general population    
+2004-11-01
+https://doi.org/10.1172%2FJCI200420361
+==================================================
+
+# Source: 1213
+Angptl3 regulates lipid metabolism in mice    
+2002-02-17
+https://doi.org/10.1038%2Fng814
+==================================================
+
+# Source: 1214
+Exome-wide association study identifies a TM6SF2 variant that confers susceptibility to nonalcoholic fatty liver disease    
+2014-04-17
+https://doi.org/10.1038%2Fng.2901
+==================================================
+
+# Source: 1215
+FTO genotype and adiposity in children: physical activity levels influence the effect of the risk genotype in adolescent males    
+2010-12-17
+https://doi.org/10.1038%2Fejhg.2010.131
+==================================================
+
+# Source: 1216
+Improved imputation of low-frequency and rare variants using the UK10K haplotype reference panel    
+2015-09-14
+https://doi.org/10.1038%2Fncomms9111
+==================================================
+
+# Source: 1217
+Inferring Human Colonization History Using a Copying Model    
+2008-05-23
+https://doi.org/10.1371/journal.pgen.1000078
+==================================================
+
+# Source: 1218
+The relation between drinking pattern and body mass index and waist and hip circumference    
+2005-05-17
+https://doi.org/10.1038%2Fsj.ijo.0802874
+==================================================
+
+# Source: 1219
+Short Sleep Duration Is Associated with Reduced Leptin, Elevated Ghrelin, and Increased Body Mass Index    
+2004-12-07
+https://doi.org/10.1371%2Fjournal.pmed.0010062
+==================================================
+
+# Source: 1220
+A map of open chromatin in human pancreatic islets    
+2010-03-17
+https://doi.org/10.1038%2Fng.530
+==================================================
+
+# Source: 1221
+Deprivation*    
+1987-04-17
+https://doi.org/10.1017%2FS0047279400020341
+==================================================
+
+# Source: 1222
+Bell JA , Mickelson NJ , Vaughan JA . West Nile virus in host-seeking mosquitoes within a residentia...    
+2005-01-01
+https://doi.org/10.1089/vbz.2005.5.373
+==================================================
+
+# Source: 1223
+A linear complexity phasing method for thousands of genomes    
+2012-02-17
+https://doi.org/10.1038%2Fnmeth.1785
+==================================================
+
+# Source: 1224
+Sensory and hedonic associations with macronutrient and energy intakes of lean and obese consumers    
+1999-04-17
+https://doi.org/10.1038%2Fsj.ijo.0800836
+==================================================
+
+# Source: 1225
+Common Inherited Variation in Mitochondrial Genes Is Not Enriched for Associations with Type 2 Diabetes or Related Glycemic Traits    
+2010-08-12
+https://doi.org/10.1371%2Fjournal.pgen.1001058
+==================================================
+
+# Source: 1226
+The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic, Cardiovascular, and Anthropometric Traits    
+2012-08-02
+https://doi.org/10.1371%2Fjournal.pgen.1002793
+==================================================
+
+# Source: 1227
+Genomic inflation factors under polygenic inheritance    
+2011-07-17
+https://doi.org/10.1038%2Fejhg.2011.39
+==================================================
+
+# Source: 1228
+Improved whole-chromosome phasing for disease and population genetic studies    
+2013-01-17
+https://doi.org/10.1038%2Fnmeth.2307
+==================================================
+
+# Source: 1229
+The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic, Cardiovascular, and Anthropometric Traits    
+2012-08-02
+https://doi.org/10.1371%2Fjournal.pgen.1002793
+==================================================
+
+# Source: 1230
+Baumrind, D. (1983). Specious causal attributions in the social sciences: The reformulated stepping-...    
+1983-01-01
+http://dx.doi.org/10.1146/annurev.ps.31.020180.002223
+==================================================
+
+# Source: 1231
+Aligica, P.D., & Evans, A.J. (2008). Expérimentations par la pensée, analyses contrefactuelles et co...    
+2008-01-01
+http://dx.doi.org/10.1257/jep.24.2.3
+==================================================
+
+# Source: 1232
+Heritability of Adult Body Height: A Comparative Study of Twin Cohorts in Eight Countries    
+2003-10-17
+https://doi.org/10.1375%2F136905203770326402
+==================================================
+
+# Source: 1233
+Blalock, H. (1964). Causal inferences in nonexperimental research. University of North Carolina Pres...    
+1964-01-01
+http://dx.doi.org/10.1002/9781118619179
+==================================================
+
+# Source: 1234
+Bollen, K.A. (1989). Structural equations with latent variables. New York: Wiley. 10.1007/978-94-007...    
+2024-08-23
+http://dx.doi.org/10.1007/978-94-007-6094-3
+==================================================
+
+# Source: 1235
+Oncology's trials - Nature Reviews Drug Discovery    
+2003-08-01
+https://doi.org/10.1038%2Fnrd1158
+==================================================
+
+# Source: 1236
+Borsboom, D., van der Sluis, S., Noordhof, A. et al. (2012). What kind of causal modelling does pers...    
+1967-01-17
+http://dx.doi.org/10.1007/BF00736610
+==================================================
+
+# Source: 1237
+Quality control and conduct of genome-wide association meta-analyses    
+2014-05-17
+https://doi.org/10.1038%2Fnprot.2014.071
+==================================================
+
+# Source: 1238
+Boudon, R. (1965). Méthodes d’analyse causale. Revue Française de Sociologie, 6 , 24-43. 10.1080/107...    
+1965-01-01
+http://dx.doi.org/10.1080/10705519409539977
+==================================================
+
+# Source: 1239
+Bullock, H.E., Harlow, L. L., & Mulaik, S. A. (1994). Causation issues in structural equation modeli...    
+2007-05-17
+http://dx.doi.org/10.1017/CBO9780511618758
+==================================================
+
+# Source: 1240
+Courgeau, D. (2012). Peut-on parler de causalité en sciences sociales ? Les approches contrefactuell...    
+2012-01-01
+http://dx.doi.org/10.1080/01621459.2000.10474210
+==================================================
+
+# Source: 1241
+Drouet, I. (2012). Causes, probabilités, inférences. Paris : Vuibert. 10.1086/224256 :    
+2012-01-01
+http://dx.doi.org/10.1086/224256
+==================================================
+
+# Source: 1242
+Duncan, O.D. (1966). Path analysis: Sociological examples. American Journal of Sociology, 72, 1-16. ...    
+2024-08-23
+http://dx.doi.org/10.1007/978-94-007-6094-3
+==================================================
+
+# Source: 1243
+Fennell, D. (2007). Causality, mechanisms and modularity : structural models in econometrics ? In F....    
+2007-01-01
+http://dx.doi.org/10.2307/2981200
+==================================================
+
+# Source: 1244
+Association of NOD2 leucine-rich repeat variants with susceptibility to Crohn's disease    
+2001-05-17
+https://doi.org/10.1038%2F35079107
+==================================================
+
+# Source: 1245
+Foster, E.M. (2010). Causal inference and developmental psychology. Developmental Psychology, 46, 14...    
+2010-01-01
+http://dx.doi.org/10.2307/1164888
+==================================================
+
+# Source: 1246
+High-throughput, pooled sequencing identifies mutations in NUBPL and FOXRED1 in human complex I deficiency    
+2010-10-17
+https://doi.org/10.1038%2Fng.659
+==================================================
+
+# Source: 1247
+Freedman, D.A. (1987). As others see us: A case study in path analysis. Journal of Educational Stati...    
+1987-01-01
+http://dx.doi.org/10.1093/oxfordhb/9780199279739.001.0001
+==================================================
+
+# Source: 1248
+Godfrey-Smith, P. (2009). Causal pluralism. In H. Beebee, C. Hitchcock, & P. Menzies (Eds.), The Oxf...    
+2009-01-01
+http://dx.doi.org/10.1890/ES12-00048.1
+==================================================
+
+# Source: 1249
+Detection of sharing by descent, long-range phasing and haplotype imputation    
+2008-09-17
+https://doi.org/10.1038%2Fng.216
+==================================================
+
+# Source: 1250
+Grace, J.B., Schoolmaster, D.R., Gutenspergen, G. R., Little, A.M., Mitchell, B.R., Miller, K.M., & ...    
+None
+http://dx.doi.org/10.1214/ss/1009211805
+==================================================
+
+# Source: 1251
+Glymour, M., & Greenland, S. (2008). Causal diagrams. In K. Rothman, S. Greenland & T. Lash (Eds.). ...    
+2008-01-01
+http://dx.doi.org/10.2307/1905714
+==================================================
+
+# Source: 1252
+Haavelmo, T. (1943). The statistical implications of a system of simultaneous equations. Econometric...    
+1943-01-01
+http://dx.doi.org/10.2307/1906935
+==================================================
+
+# Source: 1253
+Haavelmo, T. (1944). The probability approach in econometrics. Econometrica, 12 (Supplement), 1-115....    
+1944-01-01
+http://dx.doi.org/10.1111/j.0081-1750.2006.00164.x
+==================================================
+
+# Source: 1254
+Das, S. et al. Next-generation genotype imputation service and methods. Nat. Genet. http://dx.doi.or...    
+2016-10-17
+https://doi.org/10.1038/ng.3656
+==================================================
+
+# Source: 1255
+Hespel, B. 1994. Revue sommaire des principales théories contemporaines de la causation. In R. Franc...    
+1994-01-01
+http://dx.doi.org/10.2307/2678432
+==================================================
+
+# Source: 1256
+Fast and accurate genotype imputation in genome-wide association studies through pre-phasing    
+2012-08-17
+https://doi.org/10.1038%2Fng.2354
+==================================================
+
+# Source: 1257
+Hitchcock, C. (2001). The intransitivity of causation revealed in equations and graphs. Journal of P...    
+2001-01-01
+http://dx.doi.org/10.1002/j.2330-8516.1985.tb00125.x
+==================================================
+
+# Source: 1258
+WASP: allele-specific software for robust molecular quantitative trait locus discovery    
+2015-11-17
+https://doi.org/10.1038%2Fnmeth.3582
+==================================================
+
+# Source: 1259
+Holland, P.W. (1986). Statistics and causal inference. Journal of the American Statistical Associati...    
+1986-01-01
+http://dx.doi.org/10.2307/271055
+==================================================
+
+# Source: 1260
+Fast and accurate long-range phasing in a UK Biobank cohort    
+2016-07-17
+https://doi.org/10.1038%2Fng.3571
+==================================================
+
+# Source: 1261
+Hoyle, R.H. (Ed.) (2012). Handbook of structural equation modeling. New York: The Guilford Press. 10...    
+2012-01-01
+http://dx.doi.org/10.2307/2334833
+==================================================
+
+# Source: 1262
+Kline, R.B. (2012). Assumptions in structural equation modeling. In R.H. Hoyle (Ed.), Handbook of st...    
+2024-08-23
+http://dx.doi.org/10.1007/978-94-007-6094-3
+==================================================
+
+# Source: 1263
+Jöreskog, K.G. (1970). A general method for analysis of covariance structures. Biometrika , 57, 239-...    
+2009-01-17
+http://dx.doi.org/10.4135/9781452226576
+==================================================
+
+# Source: 1264
+Guilt beyond a reasonable doubt    
+2007-07-17
+https://doi.org/10.1038%2Fng0707-813
+==================================================
+
+# Source: 1265
+Common SNPs explain a large proportion of the heritability for human height    
+2010-07-17
+https://doi.org/10.1038%2Fng.608
+==================================================
